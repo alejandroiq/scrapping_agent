@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-13 15:47 UTC
+Generated: 2026-07-13 15:52 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -89,11 +89,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Hormuz oil tanker traffic persists along Oman route as conflict escalates
 - ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Marubeni acquires Barnett shale operator EagleRidge Energy
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Assala achieves first oil at Grand N’Gongui field onshore Gabon
 - Chevron licenses advanced surfactant technology for shale oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -102,18 +102,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- DNV verifies Carbon Ridge onboard carbon capture system in tanker pilot
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Congo advances LNG, deepwater projects to attract upstream investment
 - TechnipFMC to supply flexible flowlines, risers for Angola deepwater project
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- XRG expands Rio Grande LNG stake, now invested across all five trains
-- Fluor JV receives notice to begin work on LNG Canada Phase 2
+- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
+- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
+- U.S. cancels more wind leases as investment shifts to oil, gas and LNG
 
 ### Oil & Gas Journal
 
