@@ -1,0 +1,50 @@
+name: Market Watch Source Probe
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Market Watch source probe
+        run: python market_watch_source_probe.py
+
+      - name: Upload probe artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: market-watch-source-probe-results
+          path: |
+            market_watch_source_probe_report.md
+            market_watch_source_probe_results.csv
+            market_watch_source_probe_summary_log.csv
+          retention-days: 14
+
+      - name: Commit updated probe outputs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add market_watch_source_probe_report.md
+          git add market_watch_source_probe_results.csv
+          git add market_watch_source_probe_summary_log.csv
+          git diff --cached --quiet || git commit -m "Update Market Watch source probe outputs"
+          git push
