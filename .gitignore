@@ -1,0 +1,19 @@
+# Local secrets
+.env
+keys.env
+env_ariaxone.txt
+
+# Local/generated report outputs
+daily_output/
+x_user_cache.json
+oil_market_dashboard_daily.html
+oil_market_dashboard.html
+price_chart.png
+spread_chart.png
+returns_chart.png
+volatility_chart.png
+
+# Local caches
+__pycache__/
+*.pyc
+.yfinance_cache/
