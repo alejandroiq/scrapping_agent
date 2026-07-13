@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-13 15:52 UTC
+Generated: 2026-07-13 20:58 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 17 | OK. |
+| Oil & Gas Journal | active | 200 | 16 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -55,18 +55,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 14
 - Scraping note: OK.
 
-- Russia’s Refining Woes Worsen as Supply Slides Below Demand
-- More Russian-Flagged Tankers Appear as EU Seizures Continue
-- Caracas Liberalizes Oil Sector, Sidelines PDVSA
 - China's Refinery Runs Will Take Time to Recover
+- Russia Signs Up for Indian Gasoline Cargo as Ukraine Strikes Exact a Toll
+- Asian Buyers Weigh Supply Risks as Hormuz Tensions Slow Flows
 - Stronger Oil Recovery at Risk if Hormuz Deal Crumbles: IEA
 - Oil Prices Dip as Market Tracks Mideast Drama
-- South Korean Refining Runs Recover as Japan Lags
-- Will North America's Pacific Coast See an LNG Supply Wave?
-- Indian Flight Cutbacks Shrink Jet Demand Amid Mideast Turmoil
+- European Imports of US Jet Fuel Upend Decades of Segregation
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - China: Key Energy Policy Moves and Weak Economy Overcome Oil Shock
 - Weekly Monitor: Oil Prices Normalizing Likely Means Limited US Supply Upside Response
@@ -86,14 +83,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - IEA chief urges EU to revisit Arctic oil and gas drilling ban
 - Vedanta targets 500,000 boed as it pushes for more India oil and gas exploration
-- Hormuz oil tanker traffic persists along Oman route as conflict escalates
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
-- Shale boom, electrification will drive natural gas past oil by 2030
 - Assala achieves first oil at Grand N’Gongui field onshore Gabon
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
+- Shale boom, electrification will drive natural gas past oil by 2030
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -102,44 +97,45 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Energy NL conference underscores Newfoundland's energy development potential
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Congo advances LNG, deepwater projects to attract upstream investment
-- TechnipFMC to supply flexible flowlines, risers for Angola deepwater project
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
-- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
+- Fluor JV receives notice to begin work on LNG Canada Phase 2
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
+- DNV verifies Carbon Ridge onboard carbon capture system in tanker pilot
 - U.S. cancels more wind leases as investment shifts to oil, gas and LNG
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 16
 - Scraping note: OK.
 
 - Russia imposes full ban on diesel exports as fuel crisis deepens
 - Trump declares Iran ceasefire over; oil surges on renewed supply risk
 - Commonwealth LNG taps Yokogawa for Louisiana export project
+- TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
-- IEA: Oil market recovery clouded as Hormuz ceasefire collapses
-- Cheniere, Bechtel let equipment and services contracts for Sabine Pass LNG expansion
 - Hormuz closure emphasizes Iraq’s need for a second oil export route
+- IEA: Oil market recovery clouded as Hormuz ceasefire collapses
 - EIA: US petroleum exports set monthly record in April on stronger global demand
 - EIA: US crude inventories up 3.0 million bbl
 - US EIA forecasts declining oil prices as supply disruptions ease
-- Marubeni closes deal to acquire Barnett-focused EagleRidge Energy
 - India’s first by-design grassroots integrated refining complex reaches startup
 - Strategic Biofuels gains key permitting for Louisiana clean energy project
 - Bharat Petroleum awards contract for Bina refinery expansion
 - Neste plans 9-week turnaround at Porvoo refinery
+- Cheniere, Bechtel let equipment and services contracts for Sabine Pass LNG expansion
 - Sempra, TotalEnergies ship first LNG cargo from ECA LNG Phase 1
-- Zululand Energy Terminal invites EPC expressions of interest
 
 ### S&P Global Energy
 
