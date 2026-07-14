@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-14 02:35 UTC
+Generated: 2026-07-14 11:26 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -86,8 +86,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EU delays Russia sanctions as oil price cap remains unresolved
 - Senator Lindsey Graham was an ardent supporter of the oil and gas industry
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Assala achieves first oil at Grand N’Gongui field onshore Gabon
 - Chevron licenses advanced surfactant technology for shale oil recovery
+- Assala achieves first oil at Grand N’Gongui field onshore Gabon
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
@@ -99,17 +99,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Congo advances LNG, deepwater projects to attract upstream investment
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil backs South Africa's first LNG import terminal project
 - Fluor JV receives notice to begin work on LNG Canada Phase 2
-- MODEC, Eld Energy advance fuel-cell carbon capture system for FPSOs
+- Putin approves TotalEnergies exit from Arctic LNG 2 project
+- DNV verifies Carbon Ridge onboard carbon capture system in tanker pilot
 - U.S. cancels more wind leases as investment shifts to oil, gas and LNG
 
 ### Oil & Gas Journal
