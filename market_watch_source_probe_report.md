@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-14 11:26 UTC
+Generated: 2026-07-14 21:01 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 16 | OK. |
+| Oil & Gas Journal | active | 200 | 18 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -27,6 +27,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 12
 - Scraping note: OK.
 
+- Global liquefied natural gas trade volumes reached record high in 2025
 - The United States produced more crude oil than any other country in 2025
 - U.S. exports of crude oil and petroleum products reached record in April
 - The 250-year history of U.S. energy consumption
@@ -38,7 +39,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Solar generation in CAISO surpassed natural gas in the first five months of 2026
 - U.S. jet fuel production rises after prices doubled in March
 - U.S. natural gas storage capacity increased slightly in 2025
-- California natural gas prices reach historic lows in early 2026
 
 ### IEA
 
@@ -55,23 +55,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 
-- Russia Signs Up for Indian Gasoline Cargo as Ukraine Strikes Exact a Toll
-- China's Refinery Runs Will Take Time to Recover
+- China Crude Imports Plunge to 10-Year Low
+- Portovaya LNG Resumes Deliveries to China
+- New Zealand Still Keen on LNG, But Who Will Fund It?
+- Hormuz LNG Traffic Stalls After US-Iran Hostilities Resume
+- Strategic Oil Stocks Back in Focus as Hormuz Disruptions Persist
 - Oil Spikes as US Restores Blockade, Houthis Threaten
-- Asian Buyers Weigh Supply Risks as Hormuz Tensions Slow Flows
-- Stronger Oil Recovery at Risk if Hormuz Deal Crumbles: IEA
-- Oil Prices Dip as Market Tracks Mideast Drama
-- European Imports of US Jet Fuel Upend Decades of Segregation
+- Norway's EVs Drive Sharp Drop in Fuel Demand
+- China's New Five-Year Energy Plan Sidelines Natural Gas
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - China: Key Energy Policy Moves and Weak Economy Overcome Oil Shock
+- What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
-- Mideast Water, Energy and Climate Nexus
 - China Wields New Power Over Oil Pricing
-- US Revokes Iran Sanctions Waiver After Tankers Struck
+- Russia’s Refining Woes Worsen as Supply Slides Below Demand
 
 ### World Oil
 
@@ -81,6 +82,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Oil and Gas Prices
 - Oil surges as Trump reinstates Hormuz blockade, proposes transit fee
 - EU delays Russia sanctions as oil price cap remains unresolved
@@ -99,37 +101,38 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Congo advances LNG, deepwater projects to attract upstream investment
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Fluor JV receives notice to begin work on LNG Canada Phase 2
-- Putin approves TotalEnergies exit from Arctic LNG 2 project
-- DNV verifies Carbon Ridge onboard carbon capture system in tanker pilot
-- U.S. cancels more wind leases as investment shifts to oil, gas and LNG
+- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
+- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 18
 - Scraping note: OK.
 
 - Russia imposes full ban on diesel exports as fuel crisis deepens
 - Trump declares Iran ceasefire over; oil surges on renewed supply risk
 - Commonwealth LNG taps Yokogawa for Louisiana export project
+- Digitalization paying off for Rompetrol’s Petromidia refinery
+- Glenfarne Group secures $500 million for Texas LNG development
 - TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
-- Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
 - Hormuz closure emphasizes Iraq’s need for a second oil export route
+- Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
+- GIIGNL: US LNG growth drives record global trade in 2025
 - IEA: Oil market recovery clouded as Hormuz ceasefire collapses
 - EIA: US petroleum exports set monthly record in April on stronger global demand
 - EIA: US crude inventories up 3.0 million bbl
-- US EIA forecasts declining oil prices as supply disruptions ease
 - India’s first by-design grassroots integrated refining complex reaches startup
 - Strategic Biofuels gains key permitting for Louisiana clean energy project
 - Bharat Petroleum awards contract for Bina refinery expansion
