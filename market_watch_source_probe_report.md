@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-13 20:58 UTC
+Generated: 2026-07-14 02:35 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -58,15 +58,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 14
 - Scraping note: OK.
 
-- China's Refinery Runs Will Take Time to Recover
 - Russia Signs Up for Indian Gasoline Cargo as Ukraine Strikes Exact a Toll
+- China's Refinery Runs Will Take Time to Recover
+- Oil Spikes as US Restores Blockade, Houthis Threaten
 - Asian Buyers Weigh Supply Risks as Hormuz Tensions Slow Flows
 - Stronger Oil Recovery at Risk if Hormuz Deal Crumbles: IEA
 - Oil Prices Dip as Market Tracks Mideast Drama
 - European Imports of US Jet Fuel Upend Decades of Segregation
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - China: Key Energy Policy Moves and Weak Economy Overcome Oil Shock
-- Weekly Monitor: Oil Prices Normalizing Likely Means Limited US Supply Upside Response
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
 - Mideast Water, Energy and Climate Nexus
@@ -81,8 +81,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- IEA chief urges EU to revisit Arctic oil and gas drilling ban
-- Vedanta targets 500,000 boed as it pushes for more India oil and gas exploration
+- Oil and Gas Prices
+- Oil surges as Trump reinstates Hormuz blockade, proposes transit fee
+- EU delays Russia sanctions as oil price cap remains unresolved
+- Senator Lindsey Graham was an ardent supporter of the oil and gas industry
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
 - Assala achieves first oil at Grand N’Gongui field onshore Gabon
 - Chevron licenses advanced surfactant technology for shale oil recovery
@@ -97,20 +99,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Energy NL conference underscores Newfoundland's energy development potential
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Congo advances LNG, deepwater projects to attract upstream investment
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- ExxonMobil backs South Africa's first LNG import terminal project
 - Fluor JV receives notice to begin work on LNG Canada Phase 2
-- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
-- DNV verifies Carbon Ridge onboard carbon capture system in tanker pilot
+- MODEC, Eld Energy advance fuel-cell carbon capture system for FPSOs
 - U.S. cancels more wind leases as investment shifts to oil, gas and LNG
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
 
