@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-15 11:37 UTC
+Generated: 2026-07-15 21:02 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 18 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -27,6 +27,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 12
 - Scraping note: OK.
 
+- Petroleum markets responded to disruptions in the Middle East in the second quarter
 - Global liquefied natural gas trade volumes reached record high in 2025
 - The United States produced more crude oil than any other country in 2025
 - U.S. exports of crude oil and petroleum products reached record in April
@@ -38,7 +39,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Permian natural gas production increased faster than crude oil
 - Solar generation in CAISO surpassed natural gas in the first five months of 2026
 - U.S. jet fuel production rises after prices doubled in March
-- U.S. natural gas storage capacity increased slightly in 2025
 
 ### IEA
 
@@ -55,18 +55,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 11
 - Scraping note: OK.
 
-- China Crude Imports Plunge to 10-Year Low
-- Energy Deals Likely to Headline Iraqi PM's First US Trip
-- Russia's Portovaya LNG Resumes Deliveries to China
+- Glenfarne Gets $500M Private Equity Boost for Texas LNG
 - Viewpoint: Gas Demand Cuts Grow as Hormuz Risks Linger
 - LNG Prices Jump Amid Renewed Hormuz Transit Uncertainty
 - Hormuz LNG Traffic Stalls After US-Iran Hostilities Resume
 - Strategic Oil Stocks Back in Focus as Hormuz Disruptions Persist
-- Norway's EVs Drive Sharp Drop in Fuel Demand
-- China's New Five-Year Energy Plan Sidelines Natural Gas
+- Pressure Mounts on Russian Energy as US Takes Tougher Line
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
@@ -81,17 +78,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Oil and Gas Prices
-- Oil surges as Trump reinstates Hormuz blockade, proposes transit fee
-- EU delays Russia sanctions as oil price cap remains unresolved
-- Senator Lindsey Graham was an ardent supporter of the oil and gas industry
+- Oil rises as Trump drops Hormuz fee, expands pressure on Iran
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- EU moves to delay methane rule penalties for oil and gas imports
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Chevron licenses advanced surfactant technology for shale oil recovery
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Assala achieves first oil at Grand N’Gongui field onshore Gabon
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -100,17 +96,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Congo advances LNG, deepwater projects to attract upstream investment
+- TMC to supply compressed air systems for Van Oord subsea rock installation vessels
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
-- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
+- Fluor JV receives notice to begin work on LNG Canada Phase 2
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -120,22 +117,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 18
 - Scraping note: OK.
 
+- Shell FID advances LNG regasification in The Bahamas
 - Russia imposes full ban on diesel exports as fuel crisis deepens
 - Trump declares Iran ceasefire over; oil surges on renewed supply risk
 - Commonwealth LNG taps Yokogawa for Louisiana export project
+- EIA: US crude inventories down 1.7 million bbl
 - Digitalization paying off for Rompetrol’s Petromidia refinery
 - Glenfarne Group secures $500 million for Texas LNG development
-- TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
 - Hormuz closure emphasizes Iraq’s need for a second oil export route
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
 - GIIGNL: US LNG growth drives record global trade in 2025
 - IEA: Oil market recovery clouded as Hormuz ceasefire collapses
 - EIA: US petroleum exports set monthly record in April on stronger global demand
-- EIA: US crude inventories up 3.0 million bbl
 - India’s first by-design grassroots integrated refining complex reaches startup
 - Strategic Biofuels gains key permitting for Louisiana clean energy project
 - Bharat Petroleum awards contract for Bina refinery expansion
-- Neste plans 9-week turnaround at Porvoo refinery
+- TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
 - Cheniere, Bechtel let equipment and services contracts for Sabine Pass LNG expansion
 - Sempra, TotalEnergies ship first LNG cargo from ECA LNG Phase 1
 
