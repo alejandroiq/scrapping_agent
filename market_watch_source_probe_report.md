@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-14 21:01 UTC
+Generated: 2026-07-15 02:33 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -59,15 +59,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - China Crude Imports Plunge to 10-Year Low
-- Portovaya LNG Resumes Deliveries to China
-- New Zealand Still Keen on LNG, But Who Will Fund It?
+- Energy Deals Likely to Headline Iraqi PM's First US Trip
+- Russia's Portovaya LNG Resumes Deliveries to China
+- Viewpoint: Gas Demand Cuts Grow as Hormuz Risks Linger
+- LNG Prices Jump Amid Renewed Hormuz Transit Uncertainty
 - Hormuz LNG Traffic Stalls After US-Iran Hostilities Resume
 - Strategic Oil Stocks Back in Focus as Hormuz Disruptions Persist
-- Oil Spikes as US Restores Blockade, Houthis Threaten
 - Norway's EVs Drive Sharp Drop in Fuel Demand
 - China's New Five-Year Energy Plan Sidelines Natural Gas
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
-- China: Key Energy Policy Moves and Weak Economy Overcome Oil Shock
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
@@ -88,11 +88,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EU delays Russia sanctions as oil price cap remains unresolved
 - Senator Lindsey Graham was an ardent supporter of the oil and gas industry
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Chevron licenses advanced surfactant technology for shale oil recovery
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Assala achieves first oil at Grand N’Gongui field onshore Gabon
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -101,17 +101,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Energy NL conference underscores Newfoundland's energy development potential
 - Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
-- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
+- Eni, Mercuria to combine oil and LNG trading operations
 
 ### Oil & Gas Journal
 
