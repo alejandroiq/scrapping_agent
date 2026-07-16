@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-15 21:02 UTC
+Generated: 2026-07-16 02:41 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -58,7 +58,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 11
 - Scraping note: OK.
 
-- Glenfarne Gets $500M Private Equity Boost for Texas LNG
+- US Developer Argent Signs MOU to Bring US LNG to Ukraine
 - Viewpoint: Gas Demand Cuts Grow as Hormuz Risks Linger
 - LNG Prices Jump Amid Renewed Hormuz Transit Uncertainty
 - Hormuz LNG Traffic Stalls After US-Iran Hostilities Resume
@@ -96,18 +96,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TMC to supply compressed air systems for Van Oord subsea rock installation vessels
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Congo advances LNG, deepwater projects to attract upstream investment
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- Congo advances LNG, deepwater projects to attract upstream investment
+- TMC to supply compressed air systems for Van Oord subsea rock installation vessels
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Fluor JV receives notice to begin work on LNG Canada Phase 2
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 
 ### Oil & Gas Journal
 
@@ -123,7 +123,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Commonwealth LNG taps Yokogawa for Louisiana export project
 - EIA: US crude inventories down 1.7 million bbl
 - Digitalization paying off for Rompetrol’s Petromidia refinery
-- Glenfarne Group secures $500 million for Texas LNG development
 - Hormuz closure emphasizes Iraq’s need for a second oil export route
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
 - GIIGNL: US LNG growth drives record global trade in 2025
@@ -133,6 +132,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Strategic Biofuels gains key permitting for Louisiana clean energy project
 - Bharat Petroleum awards contract for Bina refinery expansion
 - TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
+- Glenfarne Group secures $500 million for Texas LNG development
 - Cheniere, Bechtel let equipment and services contracts for Sabine Pass LNG expansion
 - Sempra, TotalEnergies ship first LNG cargo from ECA LNG Phase 1
 
