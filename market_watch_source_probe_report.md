@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-16 11:40 UTC
+Generated: 2026-07-16 21:00 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,7 +13,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 18 | OK. |
+| Oil & Gas Journal | active | 200 | 19 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -58,17 +58,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 11
 - Scraping note: OK.
 
-- US Developer Argent Signs MOU to Bring US LNG to Ukraine
-- Viewpoint: Gas Demand Cuts Grow as Hormuz Risks Linger
-- LNG Prices Jump Amid Renewed Hormuz Transit Uncertainty
-- Hormuz LNG Traffic Stalls After US-Iran Hostilities Resume
-- Strategic Oil Stocks Back in Focus as Hormuz Disruptions Persist
+- EU Agrees to Temporary Russian Crude Price Cap Freeze
+- Oil Markets Shrug Off Mideast Escalation
+- Iraq’s New PM Courts Energy Investment on US Visit
+- India's Energy Security at a Crossroads as Funds Dry Up
 - Pressure Mounts on Russian Energy as US Takes Tougher Line
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
 - China Wields New Power Over Oil Pricing
+- Russia’s Refining Woes Worsen as Supply Slides Below Demand
 
 ### World Oil
 
@@ -83,10 +83,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
 - EU moves to delay methane rule penalties for oil and gas imports
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Chevron licenses advanced surfactant technology for shale oil recovery
-- Assala achieves first oil at Grand N’Gongui field onshore Gabon
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -96,31 +95,33 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Congo advances LNG, deepwater projects to attract upstream investment
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Fluor JV receives notice to begin work on LNG Canada Phase 2
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- MODEC, Eld Energy advance fuel-cell carbon capture system for FPSOs
+- Putin approves TotalEnergies exit from Arctic LNG 2 project
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
+- DNV verifies Carbon Ridge onboard carbon capture system in tanker pilot
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 19
 - Scraping note: OK.
 
 - Shell FID advances LNG regasification in The Bahamas
 - Russia imposes full ban on diesel exports as fuel crisis deepens
 - Trump declares Iran ceasefire over; oil surges on renewed supply risk
 - Commonwealth LNG taps Yokogawa for Louisiana export project
+- S&P Global Energy: LNG to become second-largest net export industry in US within 5 years
 - EIA: US crude inventories down 1.7 million bbl
 - Digitalization paying off for Rompetrol’s Petromidia refinery
 - Hormuz closure emphasizes Iraq’s need for a second oil export route
