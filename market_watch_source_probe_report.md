@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-17 02:44 UTC
+Generated: 2026-07-17 11:23 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -79,10 +79,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Oil and Gas Prices
-- Oil rises as Trump drops Hormuz fee, expands pressure on Iran
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- EU moves to delay methane rule penalties for oil and gas imports
+- Canada's Basel Belly River shale reemerges as oil development hotspot
+- Vitol weighs $2.3-billion sale of Delaware basin producer VTX Energy
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Chevron licenses advanced surfactant technology for shale oil recovery
@@ -96,19 +95,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Congo advances LNG, deepwater projects to attract upstream investment
-- TMC to supply compressed air systems for Van Oord subsea rock installation vessels
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Congo advances LNG, deepwater projects to attract upstream investment
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil backs South Africa's first LNG import terminal project
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Putin approves TotalEnergies exit from Arctic LNG 2 project
+- MODEC, Eld Energy advance fuel-cell carbon capture system for FPSOs
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
 
