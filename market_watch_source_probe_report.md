@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-16 21:00 UTC
+Generated: 2026-07-17 02:44 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 11 | OK. |
+| Energy Intelligence | active | 200 | 12 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 19 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -55,20 +55,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 
+- Red Sea Tensions Pose Threat to Saudi Exports
 - EU Agrees to Temporary Russian Crude Price Cap Freeze
-- Oil Markets Shrug Off Mideast Escalation
-- Iraq’s New PM Courts Energy Investment on US Visit
-- India's Energy Security at a Crossroads as Funds Dry Up
-- Pressure Mounts on Russian Energy as US Takes Tougher Line
+- Dire Diesel Market at Further Risk With New Hormuz Closure
+- Can Oil Supply Buffers Withstand Another Hormuz Closure?
+- West African LNG Supply Swings From Europe to Asia
+- Building Supply Supplants Deal Frenzy for China's NOCs
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
-- China Wields New Power Over Oil Pricing
 - Russia’s Refining Woes Worsen as Supply Slides Below Demand
+- China Slowly Refills Stocks With One Eye on Prices
 
 ### World Oil
 
@@ -83,10 +84,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
 - EU moves to delay methane rule penalties for oil and gas imports
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
-- Chevron licenses advanced surfactant technology for shale oil recovery
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -95,19 +96,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Congo advances LNG, deepwater projects to attract upstream investment
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- TMC to supply compressed air systems for Van Oord subsea rock installation vessels
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- ExxonMobil backs South Africa's first LNG import terminal project
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Putin approves TotalEnergies exit from Arctic LNG 2 project
-- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
-- DNV verifies Carbon Ridge onboard carbon capture system in tanker pilot
 
 ### Oil & Gas Journal
 
