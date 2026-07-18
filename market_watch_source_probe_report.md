@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-17 20:57 UTC
+Generated: 2026-07-18 02:35 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 9 | OK. |
+| Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 19 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -55,12 +55,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 11
 - Scraping note: OK.
 
 - Spot Oil Market Awakens, But Fate of Hormuz Poses Real Test
+- US LNG Cargo Reaches China, But Might Not Stay There
 - Dire Diesel Market at Further Risk With New Hormuz Closure
 - Can Oil Supply Buffers Withstand Another Hormuz Closure?
+- West African LNG Supply Swings From Europe to Asia
 - Iraq’s New PM Courts Energy Investment on US Visit
 - Diesel Squeeze Threatens Jet Supplies During Peak Demand
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
@@ -81,9 +83,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Vitol weighs $2.3-billion sale of Delaware basin producer VTX Energy
 - S&P Global: LNG to become second-largest U.S. export industry by 2031
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Marubeni acquires Barnett shale operator EagleRidge Energy
-- Chevron licenses advanced surfactant technology for shale oil recovery
 - Shale boom, electrification will drive natural gas past oil by 2030
+- Chevron licenses advanced surfactant technology for shale oil recovery
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -103,9 +105,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Putin approves TotalEnergies exit from Arctic LNG 2 project
-- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
-- MODEC, Eld Energy advance fuel-cell carbon capture system for FPSOs
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Exxon reportedly evaluates Woodside as LNG acquisition target
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
 
