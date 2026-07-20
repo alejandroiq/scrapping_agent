@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-20 03:25 UTC
+Generated: 2026-07-20 12:17 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 12 | OK. |
+| Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 19 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 
 - Spot Oil Market Awakens, But Fate of Hormuz Poses Real Test
@@ -64,12 +64,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Can Oil Supply Buffers Withstand Another Hormuz Closure?
 - West African LNG Supply Swings From Europe to Asia
 - Iraq’s New PM Courts Energy Investment on US Visit
-- Diesel Squeeze Threatens Jet Supplies During Peak Demand
+- Diesel Squeeze Threatens Summer Jet Supplies
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
-- Russia Signs Up for Indian Gasoline Cargo as Ukraine Strikes Exact a Toll
 
 ### World Oil
 
@@ -97,18 +96,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Congo advances LNG, deepwater projects to attract upstream investment
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Congo advances LNG, deepwater projects to attract upstream investment
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
-- Argent LNG awards engineering contract for Port Fourchon LNG project
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Argent LNG awards engineering contract for Port Fourchon LNG project
 
 ### Oil & Gas Journal
 
