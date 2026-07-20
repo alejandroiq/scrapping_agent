@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-20 12:17 UTC
+Generated: 2026-07-20 21:13 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 11 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 19 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -27,6 +27,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 12
 - Scraping note: OK.
 
+- New York imports more electricity from Canada after high-voltage transmission line opens
 - Petroleum markets responded to disruptions in the Middle East in the second quarter
 - Global liquefied natural gas trade volumes reached record high in 2025
 - The United States produced more crude oil than any other country in 2025
@@ -38,7 +39,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - UAE’s exit from OPEC+ reduced the group’s share of crude oil production and capacity
 - Permian natural gas production increased faster than crude oil
 - Solar generation in CAISO surpassed natural gas in the first five months of 2026
-- U.S. jet fuel production rises after prices doubled in March
 
 ### IEA
 
@@ -55,20 +55,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 10
 - Scraping note: OK.
 
-- Spot Oil Market Awakens, But Fate of Hormuz Poses Real Test
-- US LNG Cargo Reaches China, But Might Not Stay There
+- Yemen’s Houthis Put Saudi Red Sea Exports in Firing Line
+- Ukrainian Drone Attacks Target CPC Crude Cargoes
+- China's Dependence on Russian Crude Sets New High
 - Dire Diesel Market at Further Risk With New Hormuz Closure
-- Can Oil Supply Buffers Withstand Another Hormuz Closure?
-- West African LNG Supply Swings From Europe to Asia
-- Iraq’s New PM Courts Energy Investment on US Visit
-- Diesel Squeeze Threatens Summer Jet Supplies
 - Weekly Monitor: Iran Escalation Resurfaces, But Oil Upside Looks Different
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
+- China Crude Imports Plunge to 10-Year Low
+- Can Oil Supply Buffers Withstand Another Hormuz Closure?
 
 ### World Oil
 
@@ -78,15 +77,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- UK energy industry urges new Prime Minister Andy Burnham to reset North Sea policy
 - ConocoPhillips to acquire 42% stake in Iraq's Kirkuk oil redevelopment project
 - Canada's Basel Belly River shale reemerges as oil development hotspot
-- Vitol weighs $2.3-billion sale of Delaware basin producer VTX Energy
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -95,19 +93,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Congo advances LNG, deepwater projects to attract upstream investment
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- ExxonMobil backs South Africa's first LNG import terminal project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Argent LNG awards engineering contract for Port Fourchon LNG project
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
 
@@ -117,17 +116,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 19
 - Scraping note: OK.
 
+- Irving Oil schedules 2-month turnaround for Saint John refinery
 - Falling Russian diesel exports tighten global distillate markets
 - Shell FID advances LNG regasification in The Bahamas
-- Russia imposes full ban on diesel exports as fuel crisis deepens
 - ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
 - S&P Global Energy: LNG to become second-largest net export industry in US within 5 years
-- EIA: US crude inventories down 1.7 million bbl
 - Digitalization paying off for Rompetrol’s Petromidia refinery
 - Hormuz closure emphasizes Iraq’s need for a second oil export route
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
+- S&P Global: Escalating US-Iran conflict disrupts maritime traffic, oil markets
+- EIA: US crude inventories down 1.7 million bbl
 - GIIGNL: US LNG growth drives record global trade in 2025
-- IEA: Oil market recovery clouded as Hormuz ceasefire collapses
 - India’s first by-design grassroots integrated refining complex reaches startup
 - Strategic Biofuels gains key permitting for Louisiana clean energy project
 - Bharat Petroleum awards contract for Bina refinery expansion
