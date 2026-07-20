@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-19 20:51 UTC
+Generated: 2026-07-20 03:25 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -84,10 +84,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Vitol weighs $2.3-billion sale of Delaware basin producer VTX Energy
 - S&P Global: LNG to become second-largest U.S. export industry by 2031
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -97,9 +97,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- TMC to supply compressed air systems for Van Oord subsea rock installation vessels
 - Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
@@ -107,7 +106,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
+- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
+- Argent LNG awards engineering contract for Port Fourchon LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
