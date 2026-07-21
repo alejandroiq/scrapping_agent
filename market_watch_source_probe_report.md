@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-21 11:47 UTC
+Generated: 2026-07-21 21:11 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 11 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 19 | OK. |
+| Oil & Gas Journal | active | 200 | 17 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -55,20 +55,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 15
 - Scraping note: OK.
 
-- Yemen’s Houthis Put Saudi Red Sea Exports in Firing Line
-- Ukrainian Drone Attacks Target CPC Crude Cargoes
-- China's Dependence on Russian Crude Reaches New High
-- Board of Libya's NOC Set to Change as Exports Rise
+- UAE Gas Supply Accelerates With Umm Shaif Gas Cap Go-Ahead
+- Chinese Modules Built for Arctic LNG 2 Arrive in Russia
+- UK's New Leader Appoints 'Soft-Left' Energy Chief
+- Viewpoint: US LNG Calling at China Shows Beijing's LNG Trading Might
+- Inpex Backs Adnoc’s LNG Ambitions With Landmark Supply Deal
+- Opec-Plus: Brief Hormuz Opening Spurs Production Rebound
+- Demand: China's Response Forces Rethink of Consumption
 - Oil Realities Make New Phase of Hormuz Crisis More Perilous
-- Oil Prices Rise as Houthi Red Sea Threat Adds to Supply Risk
 - Weekly Monitor: Revisiting Oil Upside/Downside Pathways
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
-- China Crude Imports Plunge to 10-Year Low
+- Yemen’s Houthis Put Saudi Red Sea Exports in Firing Line
+- Can Oil Supply Buffers Withstand Another Hormuz Closure?
+- Red Sea Tensions Pose Threat to Saudi Exports
 
 ### World Oil
 
@@ -78,13 +82,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Vår Energi to acquire BlueNord, creating Europe's largest independent oil and gas producer
 - Lionheart nears $400 million deal for Venezuela oil field stake
 - Phoenix Energy surpasses 50,000 bopd production in Williston basin
 - UK energy industry urges new Prime Minister Andy Burnham to reset North Sea policy
-- ConocoPhillips to acquire 42% stake in Iraq's Kirkuk oil redevelopment project
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Chevron licenses advanced surfactant technology for shale oil recovery
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -95,47 +99,45 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
-- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- ExxonMobil backs South Africa's first LNG import terminal project
+- Exxon reportedly evaluates Woodside as LNG acquisition target
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 17
 - Scraping note: OK.
 
+- Global LNG trade hits record in 2025 as 2026 tests market resilience
 - Irving Oil schedules 2-month turnaround for Saint John refinery
-- Falling Russian diesel exports tighten global distillate markets
-- Shell FID advances LNG regasification in The Bahamas
+- Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
 - S&P Global Energy: LNG to become second-largest net export industry in US within 5 years
 - Digitalization paying off for Rompetrol’s Petromidia refinery
-- Hormuz closure emphasizes Iraq’s need for a second oil export route
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
 - S&P Global: Escalating US-Iran conflict disrupts maritime traffic, oil markets
+- Falling Russian diesel exports tighten global distillate markets
 - EIA: US crude inventories down 1.7 million bbl
-- GIIGNL: US LNG growth drives record global trade in 2025
 - India’s first by-design grassroots integrated refining complex reaches startup
 - Strategic Biofuels gains key permitting for Louisiana clean energy project
-- Bharat Petroleum awards contract for Bina refinery expansion
 - TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
+- Shell FID advances LNG regasification in The Bahamas
 - Glenfarne Group secures $500 million for Texas LNG development
 - Cheniere, Bechtel let equipment and services contracts for Sabine Pass LNG expansion
 - Sempra, TotalEnergies ship first LNG cargo from ECA LNG Phase 1
-- Commonwealth LNG taps Yokogawa for Louisiana export project
 
 ### S&P Global Energy
 
