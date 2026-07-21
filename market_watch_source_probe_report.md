@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-21 02:46 UTC
+Generated: 2026-07-21 11:47 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 12 | OK. |
+| Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 19 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -55,21 +55,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 
 - Yemen’s Houthis Put Saudi Red Sea Exports in Firing Line
 - Ukrainian Drone Attacks Target CPC Crude Cargoes
 - China's Dependence on Russian Crude Reaches New High
 - Board of Libya's NOC Set to Change as Exports Rise
+- Oil Realities Make New Phase of Hormuz Crisis More Perilous
 - Oil Prices Rise as Houthi Red Sea Threat Adds to Supply Risk
-- Dire Diesel Market at Further Risk With New Hormuz Closure
 - Weekly Monitor: Revisiting Oil Upside/Downside Pathways
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - How Oil Benchmarks Survive
 - China Crude Imports Plunge to 10-Year Low
-- Can Oil Supply Buffers Withstand Another Hormuz Closure?
 
 ### World Oil
 
@@ -79,13 +78,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Lionheart nears $400 million deal for Venezuela oil field stake
+- Phoenix Energy surpasses 50,000 bopd production in Williston basin
 - UK energy industry urges new Prime Minister Andy Burnham to reset North Sea policy
 - ConocoPhillips to acquire 42% stake in Iraq's Kirkuk oil redevelopment project
-- Canada's Basel Belly River shale reemerges as oil development hotspot
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
 - Marubeni acquires Barnett shale operator EagleRidge Energy
-- Shale boom, electrification will drive natural gas past oil by 2030
 - Chevron licenses advanced surfactant technology for shale oil recovery
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -95,20 +95,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Congo advances LNG, deepwater projects to attract upstream investment
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- Congo advances LNG, deepwater projects to attract upstream investment
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- XRG expands Rio Grande LNG stake, now invested across all five trains
-- ExxonMobil backs South Africa's first LNG import terminal project
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
 
 ### Oil & Gas Journal
 
