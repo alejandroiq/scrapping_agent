@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-22 11:48 UTC
+Generated: 2026-07-22 21:09 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,11 +9,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 12 | OK. |
+| EIA Today in Energy | active | 200 | 13 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 17 | OK. |
+| Oil & Gas Journal | active | 200 | 18 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -24,9 +24,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 13
 - Scraping note: OK.
 
+- Commercial crude oil inventories increased by 2.0 million barrels
 - New York imports more electricity from Canada after high-voltage transmission line opens
 - Petroleum markets responded to disruptions in the Middle East in the second quarter
 - Global liquefied natural gas trade volumes reached record high in 2025
@@ -58,14 +59,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 15
 - Scraping note: OK.
 
-- Houthi 'Embargo' Puts Asia's Crude Imports at Risk
-- UAE Gas Supply Accelerates With Umm Shaif Gas Cap Go-Ahead
+- Equinor Tips 'Even Tighter' Oil Products as Mideast Crisis Festers
+- Spain's Naturgy Highlights Risks Ahead of Russian LNG Ban
+- Brent Nears $95 as Questions Mount Over US Export Capacity
 - IEA Warns Against 'Complacency' as Oil Prices Relatively Muted
-- Viewpoint: US LNG Calling at China Shows Beijing's LNG Trading Might
-- Inpex Backs Adnoc’s LNG Ambitions With Landmark Supply Deal
-- Opec-Plus: Brief Hormuz Opening Spurs Production Rebound
-- Demand: China's Response Forces Rethink of Consumption
+- Houthi 'Embargo' Puts Asia's Crude Imports at Risk
 - Oil Realities Make New Phase of Hormuz Crisis More Perilous
+- Inpex Backs Adnoc’s LNG Ambitions With Landmark Supply Deal
+- Latin America: Energy Impacts of Colombia’s and Region’s Rightward Shift
 - Weekly Monitor: Revisiting Oil Upside/Downside Pathways
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
@@ -82,11 +83,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- IEA says alternative supplies continue to support oil markets despite Middle East escalation
 - Vår Energi to acquire BlueNord, creating Europe's largest independent oil and gas producer
-- Lionheart nears $400 million deal for Venezuela oil field stake
-- Phoenix Energy surpasses 50,000 bopd production in Williston basin
-- UK energy industry urges new Prime Minister Andy Burnham to reset North Sea policy
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
@@ -99,18 +99,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TMC to supply compressed air systems for Van Oord subsea rock installation vessels
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Congo advances LNG, deepwater projects to attract upstream investment
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Argent LNG awards engineering contract for Port Fourchon LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
@@ -118,21 +119,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 18
 - Scraping note: OK.
 
+- Oil prices surge as Hormuz, Bab el-Mandeb risks escalate amid renewed US–Iran tensions
 - Global LNG trade hits record in 2025 as 2026 tests market resilience
-- Irving Oil schedules 2-month turnaround for Saint John refinery
+- EIA: US crude inventories up 2 million bbl
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
-- ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
-- S&P Global Energy: LNG to become second-largest net export industry in US within 5 years
 - Digitalization paying off for Rompetrol’s Petromidia refinery
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
 - S&P Global: Escalating US-Iran conflict disrupts maritime traffic, oil markets
 - Falling Russian diesel exports tighten global distillate markets
+- S&P Global Energy: LNG to become second-largest net export industry in US within 5 years
 - EIA: US crude inventories down 1.7 million bbl
+- Irving Oil schedules 2-month turnaround for Saint John refinery
 - India’s first by-design grassroots integrated refining complex reaches startup
-- Strategic Biofuels gains key permitting for Louisiana clean energy project
+- ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
 - TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
 - Shell FID advances LNG regasification in The Bahamas
 - Glenfarne Group secures $500 million for Texas LNG development
