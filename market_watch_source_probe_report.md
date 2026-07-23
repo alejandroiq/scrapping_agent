@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-22 21:09 UTC
+Generated: 2026-07-23 02:50 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -59,13 +59,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 15
 - Scraping note: OK.
 
+- Questions Mount Over US Oil Export Capacity
 - Equinor Tips 'Even Tighter' Oil Products as Mideast Crisis Festers
-- Spain's Naturgy Highlights Risks Ahead of Russian LNG Ban
-- Brent Nears $95 as Questions Mount Over US Export Capacity
+- Azerbaijan Ready to Boost Gas Exports to Germany Amid Hurdles
+- Oil Markets Stumble Deeper Into Supply Deficit
 - IEA Warns Against 'Complacency' as Oil Prices Relatively Muted
 - Houthi 'Embargo' Puts Asia's Crude Imports at Risk
-- Oil Realities Make New Phase of Hormuz Crisis More Perilous
-- Inpex Backs Adnoc’s LNG Ambitions With Landmark Supply Deal
+- Russian Refining Sector Shows Signs of Recovery From Crisis
 - Latin America: Energy Impacts of Colombia’s and Region’s Rightward Shift
 - Weekly Monitor: Revisiting Oil Upside/Downside Pathways
 - What’s Driving China’s Sharp Decline in Oil Imports?
@@ -83,8 +83,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- IEA says alternative supplies continue to support oil markets despite Middle East escalation
-- Vår Energi to acquire BlueNord, creating Europe's largest independent oil and gas producer
+- Kuwait Oil Company selects Halliburton to advance upstream innovation center
+- Oil and Gas Prices
+- Oil rallies toward $95 amid escalating U.S.-Iran conflict
 - First Oil: Renewed enthusiasm exuded in Canada and within IPAA
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
@@ -100,19 +101,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG awards engineering contract for Port Fourchon LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- ExxonMobil backs South Africa's first LNG import terminal project
 - S&P Global: LNG to become second-largest U.S. export industry by 2031
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
 
