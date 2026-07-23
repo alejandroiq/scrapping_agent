@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-23 02:50 UTC
+Generated: 2026-07-23 11:51 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 13 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 18 | OK. |
+| Oil & Gas Journal | active | 200 | 19 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -56,7 +56,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 14
 - Scraping note: OK.
 
 - Questions Mount Over US Oil Export Capacity
@@ -70,7 +70,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Weekly Monitor: Revisiting Oil Upside/Downside Pathways
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
-- How Oil Benchmarks Survive
 - Yemen’s Houthis Put Saudi Red Sea Exports in Firing Line
 - Can Oil Supply Buffers Withstand Another Hormuz Closure?
 - Red Sea Tensions Pose Threat to Saudi Exports
@@ -86,10 +85,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Kuwait Oil Company selects Halliburton to advance upstream innovation center
 - Oil and Gas Prices
 - Oil rallies toward $95 amid escalating U.S.-Iran conflict
-- First Oil: Renewed enthusiasm exuded in Canada and within IPAA
+- First Oil: Low expectations for new UK prime minister
+- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -102,28 +102,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Elevating support technology to enhance energy production
 - Congo advances LNG, deepwater projects to attract upstream investment
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- ExxonMobil backs South Africa's first LNG import terminal project
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 19
 - Scraping note: OK.
 
 - Oil prices surge as Hormuz, Bab el-Mandeb risks escalate amid renewed US–Iran tensions
 - Global LNG trade hits record in 2025 as 2026 tests market resilience
+- Iraq at the crossroads: Export routes, OPEC, and the future of Middle East oil
+- Oil & Gas Journal ReEnterprised
 - EIA: US crude inventories up 2 million bbl
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - Digitalization paying off for Rompetrol’s Petromidia refinery
@@ -133,7 +134,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - S&P Global Energy: LNG to become second-largest net export industry in US within 5 years
 - EIA: US crude inventories down 1.7 million bbl
 - Irving Oil schedules 2-month turnaround for Saint John refinery
-- India’s first by-design grassroots integrated refining complex reaches startup
 - ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
 - TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
 - Shell FID advances LNG regasification in The Bahamas
