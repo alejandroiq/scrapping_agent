@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-23 21:06 UTC
+Generated: 2026-07-24 02:45 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 13 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 18 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -56,13 +56,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 
-- Questions Mount Over US Oil Export Capacity
-- EU Waters Down Latest Russia Sanctions Package
-- Azerbaijan Ready to Boost Gas Exports to Germany Amid Hurdles
+- Houthis Launch 'Embargo' With Attack on Saudi Tanker
 - Brent Breaks $100 as Signals Point to Deeper Supply Stress
+- Bab al-Mandeb Threat Extends Beyond Saudi Oil Exports
+- EU Waters Down Latest Russia Sanctions Package
 - Can Oil Inventories Still Prevent a Market Catastrophe?
 - Trio of Conflicts Risks Perfect Energy Storm
 - Oil Realities Make New Phase of Hormuz Crisis More Perilous
@@ -71,8 +71,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - What’s Driving China’s Sharp Decline in Oil Imports?
 - Why Trump Can’t Cut Gasoline Prices
 - Yemen’s Houthis Put Saudi Red Sea Exports in Firing Line
-- Can Oil Supply Buffers Withstand Another Hormuz Closure?
-- Red Sea Tensions Pose Threat to Saudi Exports
+- Questions Mount Over US Oil Export Capacity
 
 ### World Oil
 
@@ -99,19 +98,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
 - ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
