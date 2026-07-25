@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-25 02:44 UTC
+Generated: 2026-07-25 11:11 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -86,15 +86,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Vitol sells Delaware basin producer VTX Energy Partners to Verde Operating
 - Oil and Gas Prices
 - Oil tops $100 as Red Sea attacks heighten global supply risks
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
-- Shale boom, electrification will drive natural gas past oil by 2030
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -103,18 +103,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- CNOOC upgrades automation systems at Buzzard North Sea oil field
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Congo advances LNG, deepwater projects to attract upstream investment
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
