@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-24 21:05 UTC
+Generated: 2026-07-25 02:44 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 14 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 17 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -57,16 +57,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 17
 - Scraping note: OK.
 
-- East Africa Oil Pipeline Set to Begin Pumping by Year's End
+- Russian LNG Production Grows on Blacklisted Exports
 - Indian Refiners Lose on Fuel Retail, Gain on Refining Margins
+- Crude Prices Retreat Into Weekend, Snapping 5-Day Rally
+- US Holds Fewer Policy Cards as Oil Supply Crisis Roars Back
 - TotalEnergies: Next Phase of Mideast Crisis Raises Supply Stakes
 - Rising Mideast Tensions Imperil China's Jet Supply and Demand Recovery
 - Mid-Distillates Brace for More Shocks With Red Sea Closure
-- Bab al-Mandeb Threat Extends Beyond Saudi Oil Exports
-- Houthis Launch 'Embargo' With Attack on Saudi Tanker
 - US LNG Exports to Jump in Second Half Amid Global Supply Gap
 - Big Gas Producers, Pipelines Chase Surging US Power Demand
 - Latin America: Energy Impacts of Colombia’s and Region’s Rightward Shift
@@ -76,6 +76,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil Realities Make New Phase of Hormuz Crisis More Perilous
 - Questions Mount Over US Oil Export Capacity
 - Houthi 'Embargo' Puts Asia's Crude Imports at Risk
+- Inpex Backs Adnoc’s LNG Ambitions With Landmark Supply Deal
 
 ### World Oil
 
@@ -90,8 +91,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Chevron licenses advanced surfactant technology for shale oil recovery
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -102,19 +103,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- CNOOC upgrades automation systems at Buzzard North Sea oil field
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
-- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 
 ### Oil & Gas Journal
 
