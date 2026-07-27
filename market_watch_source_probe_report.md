@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-27 12:56 UTC
+Generated: 2026-07-27 21:11 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,9 +9,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 14 | OK. |
+| EIA Today in Energy | active | 200 | 13 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 17 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -24,7 +24,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 
 - Energia Costa Azul, Mexico’s second LNG terminal, shipped first cargo
@@ -40,7 +40,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. commercial crude oil inventories have decreased in June
 - UAE’s exit from OPEC+ reduced the group’s share of crude oil production and capacity
 - Permian natural gas production increased faster than crude oil
-- Solar generation in CAISO surpassed natural gas in the first five months of 2026
 
 ### IEA
 
@@ -57,21 +56,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 10
 - Scraping note: OK.
 
-- Russian LNG Production Grows As Blacklisted Exports Leap
-- India's Downstream Giants Lose on Fuel Retail, Gain on Refining Margins
+- Russia to Extend Gasoline Export Ban, May Lift Diesel Ban
+- Kuwait Oil Co. Signs $16 Billion Pipeline Leaseback Deal
+- Basrah Oil Co. Leads Iraq's Mediterranean Export Push
 - Crude Prices Retreat Into Weekend, Snapping 5-Day Rally
-- US Holds Fewer Policy Cards as Oil Supply Crisis Roars Back
-- TotalEnergies: Next Phase of Mideast Crisis Raises Supply Stakes
-- Rising Mideast Tensions Imperil China's Jet Supply and Demand Recovery
-- Mid-Distillates Brace for More Shocks With Red Sea Closure
-- US LNG Exports to Jump in Second Half Amid Global Supply Gap
-- Big Gas Producers, Pipelines Chase Surging US Power Demand
+- Crude Prices Beat Hasty Retreat as US Pauses Attacks on Iran
 - Latin America: Energy Impacts of Colombia’s and Region’s Rightward Shift
 - Weekly Monitor: Revisiting Oil Upside/Downside Pathways
-- Yemen’s Houthis Put Saudi Red Sea Exports in Firing Line
 - Oil Realities Make New Phase of Hormuz Crisis More Perilous
 - Questions Mount Over US Oil Export Capacity
 - Oil Markets Stumble Deeper Into Supply Deficit
@@ -84,9 +78,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
 - Vitol sells Delaware basin producer VTX Energy Partners to Verde Operating
-- Oil and Gas Prices
-- Oil tops $100 as Red Sea attacks heighten global supply risks
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -101,17 +94,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Congo advances LNG, deepwater projects to attract upstream investment
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG awards engineering contract for Port Fourchon LNG project
+- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - DOE approves 20-year export authorization for Argent LNG project
 
@@ -124,22 +118,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Oil retreats from $100/bbl but posts strong weekly gain
-- Oil prices surge as Hormuz, Bab el-Mandeb risks escalate amid renewed US–Iran tensions
-- Poll results: Risks to natural gas pipeline construction
-- US DOE offers $65.5 million to support oil, gas, pipelines
-- Equinor considers subsea tieback of new Barents Sea oil discovery
+- Morgan Stanley acquires Epic Energy, operator of Moomba to Adelaide Pipeline System
+- Argent LNG wins DOE approval to export to free-trade agreement countries
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - Digitalization paying off for Rompetrol’s Petromidia refinery
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
 - S&P Global: Escalating US-Iran conflict disrupts maritime traffic, oil markets
+- US DOE offers $65.5 million to support oil, gas, pipelines
 - Iraq at the crossroads: Export routes, OPEC, and the future of Middle East oil
 - Oil & Gas Journal ReEnterprised
 - Irving Oil schedules 2-month turnaround for Saint John refinery
+- Equinor considers subsea tieback of new Barents Sea oil discovery
 - ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
 - TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
+- Poll results: Risks to natural gas pipeline construction
 - Shell FID advances LNG regasification in The Bahamas
 - Glenfarne Group secures $500 million for Texas LNG development
-- Cheniere, Bechtel let equipment and services contracts for Sabine Pass LNG expansion
 
 ### S&P Global Energy
 
