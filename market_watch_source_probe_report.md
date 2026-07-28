@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-27 21:11 UTC
+Generated: 2026-07-28 02:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 13 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 10 | OK. |
+| Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 17 | OK. |
+| Oil & Gas Journal | active | 200 | 16 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -56,14 +56,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 
 - Russia to Extend Gasoline Export Ban, May Lift Diesel Ban
 - Kuwait Oil Co. Signs $16 Billion Pipeline Leaseback Deal
+- Crude Prices Beat Hasty Retreat as US Pauses Attacks on Iran
 - Basrah Oil Co. Leads Iraq's Mediterranean Export Push
 - Crude Prices Retreat Into Weekend, Snapping 5-Day Rally
-- Crude Prices Beat Hasty Retreat as US Pauses Attacks on Iran
+- US Holds Fewer Policy Cards as Oil Supply Crisis Roars Back
 - Latin America: Energy Impacts of Colombia’s and Region’s Rightward Shift
 - Weekly Monitor: Revisiting Oil Upside/Downside Pathways
 - Oil Realities Make New Phase of Hormuz Crisis More Perilous
@@ -78,13 +79,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Macquarie warns of oil glut as U.S.-Iran tensions ease
 - Sir Ian Wood, champion of the North Sea oil industry, dies at 84
-- Vitol sells Delaware basin producer VTX Energy Partners to Verde Operating
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Shale boom, electrification will drive natural gas past oil by 2030
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -95,26 +98,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Congo advances LNG, deepwater projects to attract upstream investment
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
-- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- DOE approves 20-year export authorization for Argent LNG project
+- ExxonMobil backs South Africa's first LNG import terminal project
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 16
 - Scraping note: OK.
 
 - Oil retreats from $100/bbl but posts strong weekly gain
@@ -123,7 +124,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - Digitalization paying off for Rompetrol’s Petromidia refinery
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
-- S&P Global: Escalating US-Iran conflict disrupts maritime traffic, oil markets
 - US DOE offers $65.5 million to support oil, gas, pipelines
 - Iraq at the crossroads: Export routes, OPEC, and the future of Middle East oil
 - Oil & Gas Journal ReEnterprised
