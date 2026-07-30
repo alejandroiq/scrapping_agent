@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-29 20:57 UTC
+Generated: 2026-07-30 02:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 13 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 12 | OK. |
+| Energy Intelligence | active | 200 | 8 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 17 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -56,21 +56,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 8
 - Scraping note: OK.
 
-- Adnoc Eyes Offshore Link for West-East Oil Pipeline
-- Explosion at Egypt’s Damietta LNG Raises Tension
-- Russia Looks Set to Extend Ban on Diesel Exports
-- Sanctions Cloud TotalEnergies' Russian Strategy
 - Mideast Escalation Lights Fire Under Oil Prices
+- Explosion at Egypt’s Damietta LNG Raises Tension
+- Sanctions Cloud TotalEnergies' Russian Strategy
+- Adnoc Eyes Offshore Link for West-East Oil Pipeline
 - Strikes Target Saudi Oil and Gas Facilities
-- Oil Prices Continue Slide on Hopes for Mideast Diplomacy
 - Pakistan Set to Keep Buying Spot LNG Amid Mideast Supply Disruption
 - UK: Burnham Likely to Keep Low-Carbon Support, But Oil Tweaks Possible
-- Latin America: Energy Impacts of Colombia’s and Region’s Rightward Shift
 - China's Oil Demand Steadies in June
-- Russia Ships First 2026 Oil Cargo via Arctic Route
 
 ### World Oil
 
@@ -85,7 +81,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
@@ -98,17 +93,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Congo advances LNG, deepwater projects to attract upstream investment
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Eni, Mercuria to combine oil and LNG trading operations
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Eni, Mercuria to combine oil and LNG trading operations
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 
 ### Oil & Gas Journal
