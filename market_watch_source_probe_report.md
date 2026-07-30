@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-30 02:29 UTC
+Generated: 2026-07-30 11:53 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -80,9 +80,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -93,18 +93,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Congo advances LNG, deepwater projects to attract upstream investment
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
+- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Eni, Mercuria to combine oil and LNG trading operations
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 
 ### Oil & Gas Journal
