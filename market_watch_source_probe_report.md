@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-31 02:54 UTC
+Generated: 2026-07-31 12:00 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -79,10 +79,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Shell Q2 profit rises on higher oil prices, record Brazil production
-- Carney vows Canada will remain reliable oil supplier despite U.S. tariffs
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- Oil and Gas Prices
-- Oil surges above $90 as Trump warns of new strikes on Iran
+- Carney vows Canada will remain reliable oil supplier despite U.S. tariffs
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Chevron licenses advanced surfactant technology for shale oil recovery
@@ -96,18 +94,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Congo advances LNG, deepwater projects to attract upstream investment
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- Congo advances LNG, deepwater projects to attract upstream investment
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Eni, Mercuria to combine oil and LNG trading operations
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
+- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
