@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-07-30 21:11 UTC
+Generated: 2026-07-31 02:54 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 13 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 12 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 16 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -56,21 +56,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 
+- CPC Suspends Crude Loadings Again After Drone Strike
 - Asia Seeks Alternatives to Saudi Crude Amid Red Sea Disruption
+- Crude Prices Slide Despite Ongoing US-Iran Hostilities
 - How Much of Its Oil Cushion Is China Willing to Sacrifice?
 - Houthi Threats on Saudi Oil Shift Market Hopes to Suez
 - Mideast Disruptions Roil West African Oil Markets
-- Iraq Eyes Strong Energy Advantage With New Export Routes
-- Sanctions Cloud TotalEnergies' Russian Strategy
-- Pakistan Set to Keep Buying Spot LNG Amid Mideast Supply Disruption
 - Weekly Monitor: An Uneasy Floor Under Oil Prices
 - UK: Burnham Likely to Keep Low-Carbon Support, But Oil Tweaks Possible
 - Strikes Target Saudi Oil and Gas Facilities
 - China's Oil Demand Steadies in June
-- Mideast Escalation Lights Fire Under Oil Prices
 
 ### World Oil
 
@@ -87,9 +85,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil surges above $90 as Trump warns of new strikes on Iran
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -99,17 +96,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
-- Congo advances LNG, deepwater projects to attract upstream investment
+- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Congo advances LNG, deepwater projects to attract upstream investment
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
+- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
+- Eni, Mercuria to combine oil and LNG trading operations
 
 ### Oil & Gas Journal
 
