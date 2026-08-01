@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-01 02:53 UTC
+Generated: 2026-08-01 11:17 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,7 +13,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 18 | OK. |
+| Oil & Gas Journal | active | 200 | 17 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -83,8 +83,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Chevron licenses advanced surfactant technology for shale oil recovery
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -93,29 +93,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Congo advances LNG, deepwater projects to attract upstream investment
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Vår Energi sanctions 86-MMboe Balder development in North Sea
+- Congo advances LNG, deepwater projects to attract upstream investment
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
-- Deadly blast at Qatar's Ras Laffan LNG complex leaves 13 dead
+- DOE approves 20-year export authorization for Argent LNG project
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 17
 - Scraping note: OK.
 
 - Australia launches pre-feasibility, pre-FEED study for grassroots refinery
@@ -127,7 +127,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
 - Expand Energy sticks to full-year production goal, touts Twin Eagle marketing purchase’s prospects
 - EIA: US crude oil inventories down 7.2 million bbl
-- Oil prices surge on renewed Middle East tensions
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - Equinor considers subsea tieback of new Barents Sea oil discovery
 - ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
