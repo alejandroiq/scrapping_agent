@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-03 12:56 UTC
+Generated: 2026-08-03 21:04 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,11 +9,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 13 | OK. |
+| EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 9 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 17 | OK. |
+| Oil & Gas Journal | active | 200 | 18 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -24,7 +24,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 12
 - Scraping note: OK.
 
 - China’s crude oil imports fell in the second quarter
@@ -39,7 +39,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The 250-year history of U.S. energy consumption
 - U.S. refining capacity decreased during 2025
 - Metered electricity demand in the New York ISO falls midday because of small-scale solar
-- U.S. commercial crude oil inventories have decreased in June
 
 ### IEA
 
@@ -56,14 +55,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 
-- More Greek Shippers Enter Russian Oil Trade, Led by Dynacom
+- Iraq-Turkey Deal Aims to Backstop Baghdad's Northern Exports
+- India to Complete Refining Additions by December
+- Japan, South Korea Import More Mideast Crude
+- Limited Refinery Supply Drives Price Spike in Products
 - Asia Drives US Oil Export Surge in May
-- Indian Oil Eyes Gulf LPG Supply Security via Tonnage Tender
 - Fresh Jet Fuel Supply Crunch Looms Alongside Diesel Fears
-- How Long Can Alaska LNG Hang in Legislative Limbo?
 - Weekly Monitor: An Uneasy Floor Under Oil Prices
 - UK: Burnham Likely to Keep Low-Carbon Support, But Oil Tweaks Possible
 - Strikes Target Saudi Oil and Gas Facilities
@@ -77,14 +77,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Upstream finalists announced for 2026 Gulf Energy Excellence Awards
-- OPEC+ approves final production quota increase of 2026
+- Tight global inventories outweigh OPEC+ production increase, analyst says
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Shale boom, electrification will drive natural gas past oil by 2030
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -98,34 +96,37 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- Vår Energi sanctions 86-MMboe Balder development in North Sea
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
-- XRG expands Rio Grande LNG stake, now invested across all five trains
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- DOE approves 20-year export authorization for Argent LNG project
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 18
 - Scraping note: OK.
 
+- Indian Oil to commission refinery expansions by yearend
 - Australia launches pre-feasibility, pre-FEED study for grassroots refinery
-- EIA: China draws crude stocks as imports slide 32%
-- Dangote books gas turbine packages for Lekki integrated refining complex
-- ExxonMobil second-quarter earnings climb to $14.5 billion on rising oil prices, record Permian output
+- OPEC+ approves September output hike, completes 2023 cuts rollback
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - Digitalization paying off for Rompetrol’s Petromidia refinery
 - Beyond AI Pilots: Scaling AI-Enabled Decision Making in Energy
-- Expand Energy sticks to full-year production goal, touts Twin Eagle marketing purchase’s prospects
-- EIA: US crude oil inventories down 7.2 million bbl
+- EIA: China draws crude stocks as imports slide 32%
+- ExxonMobil second-quarter earnings climb to $14.5 billion on rising oil prices, record Permian output
 - Irving Oil schedules 2-month turnaround for Saint John refinery
+- Dangote books gas turbine packages for Lekki integrated refining complex
+- Expand Energy sticks to full-year production goal, touts Twin Eagle marketing purchase’s prospects
 - Equinor considers subsea tieback of new Barents Sea oil discovery
 - ConocoPhillips joins bp in Kirkuk oil field redevelopment in Iraq
 - TotalEnergies lets drilling, completions contract for Suriname deepwater oil project
