@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-04 02:37 UTC
+Generated: 2026-08-04 12:03 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,7 +13,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 18 | OK. |
+| Oil & Gas Journal | active | 200 | 20 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -80,11 +80,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Tight global inventories outweigh OPEC+ production increase, analyst says
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Shale boom, electrification will drive natural gas past oil by 2030
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -95,29 +94,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Elevating support technology to enhance energy production
 - Congo advances LNG, deepwater projects to attract upstream investment
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - S&P Global: LNG to become second-largest U.S. export industry by 2031
+- DOE approves 20-year export authorization for Argent LNG project
 - S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 20
 - Scraping note: OK.
 
 - Indian Oil to commission refinery expansions by yearend
 - Australia launches pre-feasibility, pre-FEED study for grassroots refinery
+- Market Focus: Reading the oil market after the US-Iran MOU collapse
+- Oil & Gas Journal ReEnterprised
 - OPEC+ approves September output hike, completes 2023 cuts rollback
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - Digitalization paying off for Rompetrol’s Petromidia refinery
