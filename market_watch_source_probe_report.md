@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-03 21:04 UTC
+Generated: 2026-08-04 02:37 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -59,9 +59,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Iraq-Turkey Deal Aims to Backstop Baghdad's Northern Exports
-- India to Complete Refining Additions by December
 - Japan, South Korea Import More Mideast Crude
 - Limited Refinery Supply Drives Price Spike in Products
+- India to Complete Refining Additions by December
 - Asia Drives US Oil Export Surge in May
 - Fresh Jet Fuel Supply Crunch Looms Alongside Diesel Fears
 - Weekly Monitor: An Uneasy Floor Under Oil Prices
@@ -80,9 +80,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Tight global inventories outweigh OPEC+ production increase, analyst says
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Marubeni acquires Barnett shale operator EagleRidge Energy
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -92,21 +94,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Congo advances LNG, deepwater projects to attract upstream investment
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
-- DOE approves 20-year export authorization for Argent LNG project
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 
 ### Oil & Gas Journal
 
