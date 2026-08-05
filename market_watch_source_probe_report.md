@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-05 12:00 UTC
+Generated: 2026-08-05 21:10 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 12 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 19 | OK. |
+| Oil & Gas Journal | active | 200 | 17 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -27,6 +27,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 12
 - Scraping note: OK.
 
+- The U.S.-Canada natural gas and electricity trade value rose in 2025
 - China’s crude oil imports fell in the second quarter
 - Lower crude oil prices reduced U.S.-Canada energy trade value in 2025
 - Energia Costa Azul, Mexico’s second LNG terminal, shipped first cargo
@@ -38,7 +39,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. exports of crude oil and petroleum products reached record in April
 - The 250-year history of U.S. energy consumption
 - U.S. refining capacity decreased during 2025
-- Metered electricity demand in the New York ISO falls midday because of small-scale solar
 
 ### IEA
 
@@ -55,21 +55,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 
-- Aramco Eyes Exports via Egypt as Crisis Clips Output
-- Qatar LNG Expansion Work Resumes Amid Hormuz Uncertainty
-- India Road Fuel Demand Robust as Jet, LPG Remain Weak
+- Australia: Northern Territory Charges Ichthys LNG Over Emissions
+- Russia's Blacklisted Arctic LNG 2 Hits Gas Production Record
+- Australia to Study Feasibility of Newbuild Refinery
 - Marathon Petroleum Touts Crude Sourcing Flexibility
 - Viewpoint: Physical LNG Security in Focus During Mideast, Ukraine Wars
 - Higher Prices Weigh on Asian LNG Demand Outlook in 2026
 - Damietta Drone Strike Sparks Egypt LNG Summer Concerns
-- Product Prices Soar As Refineries Struggle To Meet Demand
 - Weekly Monitor: An Uneasy Floor Under Oil Prices
 - Iraq’s Southern Exports Hit by Security Jitters
-- Mideast Escalation Lights Fire Under Oil Prices
-- Sanctions Cloud TotalEnergies' Russian Strategy
+- India Budgets $9 Billion to Boost Oil, Gas Exploration
 
 ### World Oil
 
@@ -79,11 +77,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Nigeria approves $4.5 billion oil-backed financing deal to support production growth
-- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Marubeni acquires Barnett shale operator EagleRidge Energy
@@ -95,43 +91,43 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Congo advances LNG, deepwater projects to attract upstream investment
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
-- Congo advances LNG, deepwater projects to attract upstream investment
-- XRG expands Rio Grande LNG stake, now invested across all five trains
+- DOE approves 20-year export authorization for Argent LNG project
+- S&P Global: Canadian oil sands emissions intensity falls 31% since 2009
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 17
 - Scraping note: OK.
 
 - bp completes sale of German refinery, associated assets
 - Indian Oil to commission refinery expansions by yearend
 - Australia launches pre-feasibility, pre-FEED study for grassroots refinery
-- Diamondback leaning on organic growth and ‘betting on the need to refill inventories’
-- Morningstar: Global biofuel demand surges amid energy security concerns
-- HF Sinclair inks supply deals amid pending segment spinoff, refinery closure
-- Market Focus: Reading the oil market after the US-Iran MOU collapse
-- Oil & Gas Journal ReEnterprised
+- EOG accumulates Austin Chalk position that adds a year to inventories
+- Maurel & Prom to acquire Gran Tierra Energy’s assets in Colombia, Ecuador for $1.33 billion
+- EIA: US crude inventories up 2.35 million bbl
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - Digitalization paying off for Rompetrol’s Petromidia refinery
-- OPEC+ approves September output hike, completes 2023 cuts rollback
-- EIA: China draws crude stocks as imports slide 32%
+- Williams signs $5.5-billion deal to expand Haynesville natural gas infrastructure, operations
+- Diamondback leaning on organic growth and ‘betting on the need to refill inventories’
 - Irving Oil schedules 2-month turnaround for Saint John refinery
-- Dangote books gas turbine packages for Lekki integrated refining complex
+- HF Sinclair inks supply deals amid pending segment spinoff, refinery closure
 - Equinor considers subsea tieback of new Barents Sea oil discovery
 - Resilience-based LNG piping design boosts project NPV
 - eLNG liquefaction gaining momentum as next-gen development option
