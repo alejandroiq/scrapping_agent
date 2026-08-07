@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-07 10:53 UTC
+Generated: 2026-08-07 20:41 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,11 +9,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 12 | OK. |
+| EIA Today in Energy | active | 200 | 11 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 5 | OK. |
+| Energy Intelligence | active | 200 | 8 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 17 | OK. |
+| Oil & Gas Journal | active | 200 | 15 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -24,7 +24,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 
 - The U.S.-Canada natural gas and electricity trade value rose in 2025
@@ -38,7 +38,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The United States produced more crude oil than any other country in 2025
 - U.S. exports of crude oil and petroleum products reached record in April
 - The 250-year history of U.S. energy consumption
-- U.S. refining capacity decreased during 2025
 
 ### IEA
 
@@ -55,14 +54,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 5
+- Relevant news count: 8
 - Scraping note: OK.
 
-- Mideast Constraints Test India's Crude-Supply Strategy
-- Mideast Crisis Delivers Africa Energy Security Wake-Up Call
-- Oil Industry Adapts as Volatility Becomes Structural
-- Iraq’s Southern Exports Hit by Security Jitters
+- US Senate Passes Russian Sanctions Bill
+- RWE Takes Louisiana LNG Stake Amid US Offshore Wind Exit
+- Saudi OSPs Reflect Market Repricing Mideast Supply Risk
+- Global Supply Fears Switch From Jet Fuel to Diesel
+- EV Sales Soar in Australia, Helped by Global Turmoil
+- Weekly Monitor: Continued Caution From Oil Suppliers as a Potential Post-Conflict Period Beckons
 - India Budgets $9 Billion to Boost Oil, Gas Exploration
+- Iraq-Turkey Deal Aims to Backstop Baghdad's Northern Exports
 
 ### World Oil
 
@@ -72,9 +74,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- U.S. upstream M&A declines in Q2, but Permian demand remains robust
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -92,10 +94,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
-- XRG expands Rio Grande LNG stake, now invested across all five trains
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
+- XRG expands Rio Grande LNG stake, now invested across all five trains
+- Argent LNG awards engineering contract for Port Fourchon LNG project
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
@@ -108,26 +110,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Orlen launches transshipment hub at Gdańsk refinery
 - bp completes sale of German refinery, associated assets
 - Indian Oil to commission refinery expansions by yearend
+- Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
+- Murphy Oil adds $300 million to 2026 capex plans
 - EOG accumulates Austin Chalk position that adds a year to inventories
 - Maurel & Prom to acquire Gran Tierra Energy’s assets in Colombia, Ecuador for $1.33 billion
-- Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
-- Digitalization paying off for Rompetrol’s Petromidia refinery
 - EIA: US crude inventories up 2.35 million bbl
-- Williams signs $5.5-billion deal to expand Haynesville natural gas infrastructure, operations
 - Irving Oil schedules 2-month turnaround for Saint John refinery
-- HF Sinclair inks supply deals amid pending segment spinoff, refinery closure
 - Diamondback leaning on organic growth and ‘betting on the need to refill inventories’
 - Equinor considers subsea tieback of new Barents Sea oil discovery
+- Williams signs $5.5-billion deal to expand Haynesville natural gas infrastructure, operations
 - Resilience-based LNG piping design boosts project NPV
 - eLNG liquefaction gaining momentum as next-gen development option
 - Morgan Stanley acquires Epic Energy, operator of Moomba to Adelaide Pipeline System
-- Argent LNG wins DOE approval to export to free-trade agreement countries
 
 ### S&P Global Energy
 
