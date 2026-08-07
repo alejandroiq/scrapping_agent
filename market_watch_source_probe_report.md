@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-07 00:53 UTC
+Generated: 2026-08-07 10:53 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 12 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 6 | OK. |
+| Energy Intelligence | active | 200 | 5 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 17 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 5
 - Scraping note: OK.
 
 - Mideast Constraints Test India's Crude-Supply Strategy
@@ -63,7 +63,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil Industry Adapts as Volatility Becomes Structural
 - Iraq’s Southern Exports Hit by Security Jitters
 - India Budgets $9 Billion to Boost Oil, Gas Exploration
-- Iraq-Turkey Deal Aims to Backstop Baghdad's Northern Exports
 
 ### World Oil
 
@@ -85,16 +84,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- Guyana expands Caribbean energy partnerships as oil production grows
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
+- Guyana expands Caribbean energy partnerships as oil production grows
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
-- Congo advances LNG, deepwater projects to attract upstream investment
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- XRG expands Rio Grande LNG stake, now invested across all five trains
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
