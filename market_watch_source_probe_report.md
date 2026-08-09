@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-08 20:31 UTC
+Generated: 2026-08-09 01:48 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -76,7 +76,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -86,18 +85,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Guyana expands Caribbean energy partnerships as oil production grows
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Guyana expands Caribbean energy partnerships as oil production grows
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
+- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
+- Argent LNG awards engineering contract for Port Fourchon LNG project
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 - ExxonMobil advances Rovuma LNG with McDermott engineering award
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
