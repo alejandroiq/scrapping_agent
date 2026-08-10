@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-10 01:52 UTC
+Generated: 2026-08-10 11:09 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 11 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 7 | OK. |
+| Energy Intelligence | active | 200 | 8 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 15 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -54,7 +54,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 8
 - Scraping note: OK.
 
 - RWE Takes Louisiana LNG Stake Amid US Offshore Wind Exit
@@ -63,6 +63,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Global Supply Fears Switch From Jet Fuel to Diesel
 - EV Sales Soar in Australia, Helped by Global Turmoil
 - Weekly Monitor: Continued Caution From Oil Suppliers as a Potential Post-Conflict Period Beckons
+- The Changing Role of the Energy Broker
 - India Budgets $9 Billion to Boost Oil, Gas Exploration
 
 ### World Oil
@@ -73,11 +74,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- ADNOC L&S acquires 11 tankers in $1.3-billion fleet expansion
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
-- Chevron licenses advanced surfactant technology for shale oil recovery
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -86,19 +88,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC L&S orders four LNG carriers to expand global shipping fleet
-- XRG expands Rio Grande LNG stake, now invested across all five trains
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
