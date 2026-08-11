@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-11 10:51 UTC
+Generated: 2026-08-11 20:45 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 11 | OK. |
+| Energy Intelligence | active | 200 | 12 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 13 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -53,14 +53,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 
-- Saudi Refinery Attacked Again as Yemen Fighting Escalates
 - US Blockade Curbs Recovery in Iran's Oil Output
-- Trump Targets Big Oil as Fuel Prices Rise
-- Adnoc Weighs LNG Export Plant Outside Strait of Hormuz
-- Saudi OSPs Reflect Market Repricing Mideast Supply Risk
+- India Still Favors Russian Oil Despite US Sanctions Bill
+- China's July Crude Imports Rise on Lull in Mideast Crisis
+- Viewpoint: Healthy LNG Orderbook Sidesteps Hormuz Chaos
+- Mideast LNG Disruptions Spur Record EU Gas Trading Volumes
+- TTF Gas Bulls Lift Spot European LNG Price
 - US LNG Exporters Upbeat Despite Navigating 'Fog of War'
 - Global Supply Fears Switch From Jet Fuel to Diesel
 - Weekly Monitor: Continued Caution From Oil Suppliers as a Potential Post-Conflict Period Beckons
@@ -77,12 +78,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Siemens Energy supports Petrobras offshore expansion with FPSO systems
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Energy services employment holds steady despite weaker U.S. labor market
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- Shale boom, electrification will drive natural gas past oil by 2030
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -91,21 +93,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
 - Kosmos Energy awards SCA onshore umbilical storage project
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
-- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
+- Baker Hughes extends long-term service deal for Nigeria LNG Train 7
 - ExxonMobil advances Rovuma LNG with McDermott engineering award
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 
 ### Oil & Gas Journal
 
@@ -115,12 +116,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 13
 - Scraping note: OK.
 
+- Orlen’s Mažeikiai refinery to benefit from renewable electricity
 - Orlen launches transshipment hub at Gdańsk refinery
-- bp completes sale of German refinery, associated assets
+- Trump administration extends Jones Act waivers amid continued supply constraints
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
+- S&P Global Energy: Refined products face renewed supply squeeze
 - Murphy Oil adds $300 million to 2026 capex plans
-- EOG accumulates Austin Chalk position that adds a year to inventories
-- Maurel & Prom to acquire Gran Tierra Energy’s assets in Colombia, Ecuador for $1.33 billion
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - Diamondback leaning on organic growth and ‘betting on the need to refill inventories’
 - Equinor considers subsea tieback of new Barents Sea oil discovery
