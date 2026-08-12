@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-12 02:01 UTC
+Generated: 2026-08-12 11:01 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -78,13 +78,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Oil and Gas Prices
+- Oil prices rise as traders question progress toward Strait of Hormuz deal
 - Siemens Energy supports Petrobras offshore expansion with FPSO systems
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Energy services employment holds steady despite weaker U.S. labor market
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Marubeni acquires Barnett shale operator EagleRidge Energy
-- Chevron licenses advanced surfactant technology for shale oil recovery
+- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -94,20 +93,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Murphy Oil discovers light oil at Bubale-1X offshore Côte d'Ivoire
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - Shale boom, electrification will drive natural gas past oil by 2030
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 
 ### Oil & Gas Journal
 
