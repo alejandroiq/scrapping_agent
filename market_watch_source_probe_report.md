@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-13 11:01 UTC
+Generated: 2026-08-13 20:43 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -57,17 +57,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Iraqi and Kuwaiti Crude Flows Redrawn by the Hormuz Disruption
+- Iraq Taps UAE's Hormuz Workaround to Move Crude
 - Attack on Refinery in Libya Highlights Wider Risks
 - Europe Oil Products Trade Stalls as Rhine Levels Plummet
-- Viewpoint: Healthy LNG Orderbook Sidesteps Hormuz Chaos
-- Mideast LNG Disruptions Spur Record EU Gas Trading Volumes
-- TTF Gas Bulls Lift Spot European LNG Price
+- Qatar Extends Force Majeure on LNG to India
 - Russia's Refining Recovery Overshadowed by New Attacks
 - Weekly Monitor: Continued Caution From Oil Suppliers as a Potential Post-Conflict Period Beckons
 - Next Competitive Advantage in Energy Isn't a New Oil Field
 - The Changing Role of the Energy Broker
 - Uniper's LNG Executive Exodus Continues
 - Global Supply Fears Switch From Jet Fuel to Diesel
+- Mideast LNG Disruptions Spur Record EU Gas Trading Volumes
 
 ### World Oil
 
@@ -77,12 +77,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Oil and Gas Prices
-- Oil prices rise as traders question progress toward Strait of Hormuz deal
+- Suriname offshore oil and gas momentum builds as GranMorgu advances
+- Indonesia Energy advances K-29 well toward target reservoir at Kruh Block
+- Petro-Victory increases Brazil oil production 128% through mature-field workovers
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Marubeni acquires Barnett shale operator EagleRidge Energy
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -92,21 +93,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Siemens Energy supports Petrobras offshore expansion with FPSO systems
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Shale boom, electrification will drive natural gas past oil by 2030
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- Eni, XRG take Vaca Muerta stakes to advance Argentina LNG project
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ExxonMobil advances Rovuma LNG with McDermott engineering award
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 
 ### Oil & Gas Journal
 
@@ -117,7 +117,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - IEA revises down 2026 oil demand forecast
-- Orlen’s Mažeikiai refinery to benefit from renewable electricity
 - ConocoPhillips Alaska’s Coyote 3SX project achieves first oil
 - EIA: US crude inventories up 17.4 million bbl
 - LLOG sanctions Gulf of Mexico Who Dat East development
@@ -126,6 +125,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - S&P Global Energy: Refined products face renewed supply squeeze
 - Trump administration extends Jones Act waivers amid continued supply constraints
 - Irving Oil schedules 2-month turnaround for Saint John refinery
+- Orlen’s Mažeikiai refinery to benefit from renewable electricity
 - Murphy Oil adds $300 million to 2026 capex plans
 - Equinor considers subsea tieback of new Barents Sea oil discovery
 - Orlen launches transshipment hub at Gdańsk refinery
