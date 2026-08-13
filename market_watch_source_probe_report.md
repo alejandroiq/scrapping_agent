@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-12 20:45 UTC
+Generated: 2026-08-13 02:03 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 12 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 14 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -53,17 +53,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 12
 - Scraping note: OK.
 
 - Iraqi and Kuwaiti Crude Flows Redrawn by the Hormuz Disruption
-- Oil Products Trade Stalls as Rhine Levels Plummet
-- Russia's Crude Exports Dip in Early August
+- Attack on Refinery in Libya Highlights Wider Risks
+- Europe Oil Products Trade Stalls as Rhine Levels Plummet
 - Viewpoint: Healthy LNG Orderbook Sidesteps Hormuz Chaos
 - Mideast LNG Disruptions Spur Record EU Gas Trading Volumes
 - TTF Gas Bulls Lift Spot European LNG Price
-- Russian Oil Consumption Dips on Supply Crunch, Economic Woes
-- EU Gas-Fired Power Needs to Continue Driving Gas Demand
+- Russia's Refining Recovery Overshadowed by New Attacks
 - Weekly Monitor: Continued Caution From Oil Suppliers as a Potential Post-Conflict Period Beckons
 - Next Competitive Advantage in Energy Isn't a New Oil Field
 - The Changing Role of the Energy Broker
@@ -83,8 +82,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Chevron licenses advanced surfactant technology for shale oil recovery
-- Marubeni acquires Barnett shale operator EagleRidge Energy
+- Shale boom, electrification will drive natural gas past oil by 2030
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -93,21 +91,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- Kosmos Energy awards SCA onshore umbilical storage project
 - Siemens Energy supports Petrobras offshore expansion with FPSO systems
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- DOE approves 20-year export authorization for Argent LNG project
+- Argent LNG awards engineering contract for Port Fourchon LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
-- XRG expands Rio Grande LNG stake, now invested across all five trains
 - ExxonMobil advances Rovuma LNG with McDermott engineering award
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 
 ### Oil & Gas Journal
 
