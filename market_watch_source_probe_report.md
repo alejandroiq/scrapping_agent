@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-13 20:43 UTC
+Generated: 2026-08-14 02:01 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 12 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 14 | OK. |
+| Oil & Gas Journal | active | 200 | 13 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -53,20 +53,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 14
 - Scraping note: OK.
 
 - Iraqi and Kuwaiti Crude Flows Redrawn by the Hormuz Disruption
-- Iraq Taps UAE's Hormuz Workaround to Move Crude
+- Iraq Taps UAE's Hormuz Work-Around to Move Crude
 - Attack on Refinery in Libya Highlights Wider Risks
-- Europe Oil Products Trade Stalls as Rhine Levels Plummet
+- TotalEnergies Picks Daewoo for Papua LNG as FID Looms
+- Exxon Sees Year-End FID at Mozambique's Rovuma LNG
 - Qatar Extends Force Majeure on LNG to India
-- Russia's Refining Recovery Overshadowed by New Attacks
+- Americas Crude Fills Supply Gap as Trade Flows Reorient
 - Weekly Monitor: Continued Caution From Oil Suppliers as a Potential Post-Conflict Period Beckons
 - Next Competitive Advantage in Energy Isn't a New Oil Field
 - The Changing Role of the Energy Broker
 - Uniper's LNG Executive Exodus Continues
 - Global Supply Fears Switch From Jet Fuel to Diesel
+- Europe Oil Products Trade Stalls as Rhine Levels Plummet
 - Mideast LNG Disruptions Spur Record EU Gas Trading Volumes
 
 ### World Oil
@@ -83,7 +85,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Chevron licenses advanced surfactant technology for shale oil recovery
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -93,19 +95,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Renaissance makes offshore oil discovery at Nigeria's OML 74
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- Eni, Mercuria to combine oil and LNG trading operations
+- Shell sees flat LNG trade in 2026 as Hormuz recovery remains uncertain
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
 - ExxonMobil advances Rovuma LNG with McDermott engineering award
 
 ### Oil & Gas Journal
@@ -113,7 +115,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 
 - IEA revises down 2026 oil demand forecast
@@ -123,7 +125,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
 - EIA raises third-quarter Brent forecast to $85/bbl on Strait of Hormuz disruptions
 - S&P Global Energy: Refined products face renewed supply squeeze
-- Trump administration extends Jones Act waivers amid continued supply constraints
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - Orlen’s Mažeikiai refinery to benefit from renewable electricity
 - Murphy Oil adds $300 million to 2026 capex plans
