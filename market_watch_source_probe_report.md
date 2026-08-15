@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-14 20:32 UTC
+Generated: 2026-08-15 01:17 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 11 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -53,22 +53,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 10
 - Scraping note: OK.
 
 - Iraqi and Kuwaiti Crude Flows Redrawn by the Hormuz Disruption
 - Russia Sanctions Bill May Target 'Shadow Fleet'
-- Qatar Extends Force Majeure on LNG to India
-- TotalEnergies Picks Daewoo for Papua LNG as FID Looms
-- Exxon Sees Year-End FID at Mozambique's Rovuma LNG
 - China Saves $3B by Tapping Inventories During Hormuz Crisis
+- A Year In, LNG Canada Helping Fill War-Driven Supply Hole
 - Jet Supply Chains Creak After 6 Months of War
-- Americas Crude Fills Supply Gap as Trade Flows Reorient
-- Weekly Monitor: Continued Caution From Oil Suppliers as a Potential Post-Conflict Period Beckons
+- Energy Fuels Subject of Insider Trading Probe
 - Next Competitive Advantage in Energy Isn't a New Oil Field
 - The Changing Role of the Energy Broker
+- Qatar Extends Force Majeure on LNG to India
 - Iraq Taps UAE's Hormuz Work-Around to Move Crude
-- Europe Oil Products Trade Stalls as Rhine Levels Plummet
 
 ### World Oil
 
@@ -92,22 +89,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Siemens Energy supports Petrobras offshore expansion with FPSO systems
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
+- Renaissance makes offshore oil discovery at Nigeria's OML 74
 - Suriname offshore oil and gas momentum builds as GranMorgu advances
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
 
 ### Oil & Gas Journal
 
