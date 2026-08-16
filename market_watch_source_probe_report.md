@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-16 01:21 UTC
+Generated: 2026-08-16 10:23 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -79,7 +79,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Chevron licenses advanced surfactant technology for shale oil recovery
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -88,23 +88,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Suriname offshore oil and gas momentum builds as GranMorgu advances
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
+- XRG expands Rio Grande LNG stake, now invested across all five trains
 - PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- Shale boom, electrification will drive natural gas past oil by 2030
 - ExxonMobil advances Rovuma LNG with McDermott engineering award
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
-- U.S. deal ends TotalEnergies offshore wind plans, accelerates LNG investment
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 
 ### Oil & Gas Journal
 
