@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-18 01:16 UTC
+Generated: 2026-08-18 10:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -88,11 +88,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- Renaissance makes offshore oil discovery at Nigeria's OML 74
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
@@ -100,10 +98,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Shale boom, electrification will drive natural gas past oil by 2030
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
 - ExxonMobil advances Rovuma LNG with McDermott engineering award
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- U.S. deal ends TotalEnergies offshore wind plans, accelerates LNG investment
 
 ### Oil & Gas Journal
 
