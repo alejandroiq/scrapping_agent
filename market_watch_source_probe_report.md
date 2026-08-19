@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-19 01:17 UTC
+Generated: 2026-08-19 10:30 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 9 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -52,7 +52,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Iraqi and Kuwaiti Crude Flows Redrawn by the Hormuz Disruption
@@ -64,6 +64,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Vessel Surplus, Mideast Conflict Weigh on LNG Freight Rates
 - Demand: China Positions Itself as Swing Regulator
 - South Asia's LNG Buying Limits Differ Amid Mideast Disruption
+- The 'New Normal' for Energy Markets
 - Next Competitive Advantage in Energy Isn't a New Oil Field
 - The Changing Role of the Energy Broker
 - Russia Sanctions Bill May Target 'Shadow Fleet'
@@ -85,8 +86,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Moody’s: Higher oil prices lift E&P credit outlook as upgrades outpace downgrades
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Shale boom, electrification will drive natural gas past oil by 2030
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -96,18 +97,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shale boom, electrification will drive natural gas past oil by 2030
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
 
 ### Oil & Gas Journal
 
