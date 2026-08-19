@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-19 10:30 UTC
+Generated: 2026-08-19 20:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 9 | OK. |
+| Oil & Gas Journal | active | 200 | 11 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -27,6 +27,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 9
 - Scraping note: OK.
 
+- Longer wells boost Permian crude oil and natural gas production
 - United States on track for record natural gas production in 2026
 - The U.S.-Canada natural gas and electricity trade value rose in 2025
 - China’s crude oil imports fell in the second quarter
@@ -35,7 +36,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Commercial crude oil inventories increased by 2.0 million barrels
 - New York imports more electricity from Canada after high-voltage transmission line opens
 - Petroleum markets responded to disruptions in the Middle East in the second quarter
-- Global liquefied natural gas trade volumes reached record high in 2025
 
 ### IEA
 
@@ -52,13 +52,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 13
 - Scraping note: OK.
 
 - Iraqi and Kuwaiti Crude Flows Redrawn by the Hormuz Disruption
-- Iran Halts UAE-Linked Tanker in Hormuz, Attacks Cargo Ship
-- China's Refinery Runs Rise But Still Near Post-Pandemic Lows
-- Ukraine Hits Greek Tanker That Loaded at CPC Terminal
+- Diesel Markets in Disarray as Supply Lines Cut
 - Venezuelan Crude Loses Luster for Indian Refiners
 - Qatari LNG Export Ramp-Up Unlikely Despite Higher Loadings
 - Vessel Surplus, Mideast Conflict Weigh on LNG Freight Rates
@@ -79,15 +77,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- ConocoPhillips achieves first oil at 12,000-bpd Coyote 3SX project in Alaska
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- YPF-led Argentina LNG seeks approval for $51-billion investment
-- Oil and Gas Prices
-- Moody’s: Higher oil prices lift E&P credit outlook as upgrades outpace downgrades
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- Marubeni acquires Barnett shale operator EagleRidge Energy
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Shale boom, electrification will drive natural gas past oil by 2030
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -97,17 +95,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
@@ -115,15 +113,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 11
 - Scraping note: OK.
 
+- Venezuela pitches oil, gas investment opportunities at Houston showcase
+- Golar contracts CIMC Raffles for fourth FLNG
+- EIA: US crude inventories up 4.4 million bbl
 - Argentina LNG seeks RIGI approval for $51-billion investment
+- Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
+- Panoro Energy to acquire Côte d'Ivoire producing asset from DNO
 - Then & Now: From Spindletop to cybersecurity, how oil and gas safety evolved
 - Oil & Gas Journal ReEnterprised
-- Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
-- EIA raises third-quarter Brent forecast to $85/bbl on Strait of Hormuz disruptions
-- EIA: US crude inventories up 17.4 million bbl
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - ConocoPhillips Alaska’s Coyote 3SX project achieves first oil
 - LLOG sanctions Gulf of Mexico Who Dat East development
