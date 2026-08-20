@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-19 20:29 UTC
+Generated: 2026-08-20 01:16 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 12 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 11 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
@@ -52,16 +52,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 12
 - Scraping note: OK.
 
-- Iraqi and Kuwaiti Crude Flows Redrawn by the Hormuz Disruption
 - Diesel Markets in Disarray as Supply Lines Cut
 - Venezuelan Crude Loses Luster for Indian Refiners
 - Qatari LNG Export Ramp-Up Unlikely Despite Higher Loadings
 - Vessel Surplus, Mideast Conflict Weigh on LNG Freight Rates
-- Demand: China Positions Itself as Swing Regulator
-- South Asia's LNG Buying Limits Differ Amid Mideast Disruption
+- South Korea's Ammonia Retreat Casts Doubts on Demand Potential
+- Russia Boosts Oil, LNG Shipments via Arctic Waters
 - The 'New Normal' for Energy Markets
 - Next Competitive Advantage in Energy Isn't a New Oil Field
 - The Changing Role of the Energy Broker
@@ -83,10 +82,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - SLB to restore offshore production for Brunei Shell Petroleum
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Marubeni acquires Barnett shale operator EagleRidge Energy
-- Chevron licenses advanced surfactant technology for shale oil recovery
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -96,17 +93,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
-- YPF-led Argentina LNG seeks approval for $51-billion investment
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Argent LNG awards engineering contract for Port Fourchon LNG project
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
