@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-20 10:31 UTC
+Generated: 2026-08-20 20:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,7 +13,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | Energy Intelligence | active | 200 | 12 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 11 | OK. |
+| Oil & Gas Journal | active | 200 | 14 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -56,17 +56,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Diesel Markets in Disarray as Supply Lines Cut
-- Venezuelan Crude Loses Luster for Indian Refiners
-- Qatari LNG Export Ramp-Up Unlikely Despite Higher Loadings
-- Vessel Surplus, Mideast Conflict Weigh on LNG Freight Rates
-- South Korea's Ammonia Retreat Casts Doubts on Demand Potential
-- Russia Boosts Oil, LNG Shipments via Arctic Waters
+- US Economic Pressure Risks Iran Escalation, Oil Disruption
+- Iraq Looks Beyond Discounts for Faster Oil Cash
+- Oil Markets Show Resilience, But Tipping Point Still Looms
+- Tanker Rates Hit Record Highs Amid Multiple Disruptions
+- Mideast Crisis Advances China's Demand Peak
+- Heat Stress Tests Europe's Energy Systems
 - The 'New Normal' for Energy Markets
 - Next Competitive Advantage in Energy Isn't a New Oil Field
 - The Changing Role of the Energy Broker
 - Russia Sanctions Bill May Target 'Shadow Fleet'
-- Qatar Extends Force Majeure on LNG to India
-- Iraq Taps UAE's Hormuz Work-Around to Move Crude
+- Venture Global Poised to Leapfrog Cheniere in US LNG Capacity
 
 ### World Oil
 
@@ -76,13 +76,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Continental Resources to acquire FireBird Energy, adding 32,000 boed in Permian
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - ConocoPhillips achieves first oil at 12,000-bpd Coyote 3SX project in Alaska
-- SLB to restore offshore production for Brunei Shell Petroleum
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Chevron licenses advanced surfactant technology for shale oil recovery
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -92,34 +94,35 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- SLB to restore offshore production for Brunei Shell Petroleum
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
 - Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
-- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 14
 - Scraping note: OK.
 
+- Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production
+- Orlen inks deal to secure nearly 25% crude-feedstock needs from Equinor
+- Continental Resources adds Midland basin acreage through FireBird Energy II deal
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Golar contracts CIMC Raffles for fourth FLNG
-- EIA: US crude inventories up 4.4 million bbl
 - Argentina LNG seeks RIGI approval for $51-billion investment
 - Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
+- EIA: US crude inventories up 4.4 million bbl
 - Panoro Energy to acquire Côte d'Ivoire producing asset from DNO
 - Then & Now: From Spindletop to cybersecurity, how oil and gas safety evolved
 - Oil & Gas Journal ReEnterprised
