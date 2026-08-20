@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-20 01:16 UTC
+Generated: 2026-08-20 10:31 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -82,8 +82,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - SLB to restore offshore production for Brunei Shell Petroleum
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -92,19 +92,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- Aquaterra Energy, James Fisher form global offshore decommissioning partnership
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Kosmos Energy awards SCA onshore umbilical storage project
+- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Kosmos Energy awards SCA onshore umbilical storage project
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
 - Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Argent LNG awards engineering contract for Port Fourchon LNG project
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 - Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
