@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-20 20:29 UTC
+Generated: 2026-08-21 01:20 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -55,9 +55,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 12
 - Scraping note: OK.
 
-- Diesel Markets in Disarray as Supply Lines Cut
 - US Economic Pressure Risks Iran Escalation, Oil Disruption
 - Iraq Looks Beyond Discounts for Faster Oil Cash
+- Russia Starts Selling Imported Gasoline, Ramps Up Buying
 - Oil Markets Show Resilience, But Tipping Point Still Looms
 - Tanker Rates Hit Record Highs Amid Multiple Disruptions
 - Mideast Crisis Advances China's Demand Peak
@@ -84,6 +84,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Chevron licenses advanced surfactant technology for shale oil recovery
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -94,18 +95,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
 - SLB to restore offshore production for Brunei Shell Petroleum
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
 - Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
-- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
