@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-21 10:31 UTC
+Generated: 2026-08-21 20:27 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -55,18 +55,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 12
 - Scraping note: OK.
 
-- US Economic Pressure Risks Iran Escalation, Oil Disruption
-- Iraq Looks Beyond Discounts for Faster Oil Cash
-- Russia Starts Selling Imported Gasoline, Ramps Up Buying
+- Hormuz Oil Flows Still Fall Short of US Claims
+- China's July Oil Demand on Recovery Path
 - Oil Markets Show Resilience, But Tipping Point Still Looms
 - Tanker Rates Hit Record Highs Amid Multiple Disruptions
-- Mideast Crisis Advances China's Demand Peak
+- Mideast Crisis Brings Forward China's Demand Peak
 - Heat Stress Tests Europe's Energy Systems
+- The Governability Gap in Energy Portfolio Management
 - The 'New Normal' for Energy Markets
 - Next Competitive Advantage in Energy Isn't a New Oil Field
-- The Changing Role of the Energy Broker
-- Russia Sanctions Bill May Target 'Shadow Fleet'
+- US Economic Pressure Risks Iran Escalation, Oil Disruption
 - Venture Global Poised to Leapfrog Cheniere in US LNG Capacity
+- Ukraine Hits Greek Tanker That Loaded at CPC Terminal
 
 ### World Oil
 
@@ -76,13 +76,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Oil and Gas Prices
+- Oil prices rise toward $94 as U.S. prepares new Iran economic measures
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Continental Resources to acquire FireBird Energy, adding 32,000 boed in Permian
-- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
-- ConocoPhillips achieves first oil at 12,000-bpd Coyote 3SX project in Alaska
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Marubeni acquires Barnett shale operator EagleRidge Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -93,19 +92,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Kosmos Energy awards SCA onshore umbilical storage project
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- SLB to restore offshore production for Brunei Shell Petroleum
+- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Kosmos Energy awards SCA onshore umbilical storage project
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- DOE approves 20-year export authorization for Argent LNG project
-- ADNOC L&S orders four LNG carriers to expand global shipping fleet
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -115,20 +115,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 14
 - Scraping note: OK.
 
+- Global product trade disruptions lift refining margins to record highs
 - Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production
 - Orlen inks deal to secure nearly 25% crude-feedstock needs from Equinor
-- Continental Resources adds Midland basin acreage through FireBird Energy II deal
+- Santos targets Q4 2026 FID for Papua LNG plant
+- Devon Energy shuffles executive leadership team
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
-- Golar contracts CIMC Raffles for fourth FLNG
 - Argentina LNG seeks RIGI approval for $51-billion investment
-- Magnolia expands Giddings position with $4-billion WildFire Energy acquisition
+- Continental Resources adds Midland basin acreage through FireBird Energy II deal
 - EIA: US crude inventories up 4.4 million bbl
 - Panoro Energy to acquire Côte d'Ivoire producing asset from DNO
-- Then & Now: From Spindletop to cybersecurity, how oil and gas safety evolved
-- Oil & Gas Journal ReEnterprised
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - ConocoPhillips Alaska’s Coyote 3SX project achieves first oil
 - LLOG sanctions Gulf of Mexico Who Dat East development
+- Golar contracts CIMC Raffles for fourth FLNG
 
 ### S&P Global Energy
 
