@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-21 01:20 UTC
+Generated: 2026-08-21 10:31 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -76,16 +76,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Continental Resources to acquire FireBird Energy, adding 32,000 boed in Permian
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Continental Resources to acquire FireBird Energy, adding 32,000 boed in Permian
 - DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - ConocoPhillips achieves first oil at 12,000-bpd Coyote 3SX project in Alaska
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Marubeni acquires Barnett shale operator EagleRidge Energy
-- Chevron licenses advanced surfactant technology for shale oil recovery
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -95,8 +93,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - SLB to restore offshore production for Brunei Shell Petroleum
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
@@ -106,6 +103,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- DOE approves 20-year export authorization for Argent LNG project
+- ADNOC L&S orders four LNG carriers to expand global shipping fleet
 
 ### Oil & Gas Journal
 
