@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-23 10:25 UTC
+Generated: 2026-08-23 20:24 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -76,10 +76,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Iran announces 7.5-Tcf natural gas discovery in Fars province
+- UK LNG import plans draw criticism as North Sea production declines
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Oil and Gas Prices
 - Oil prices rise toward $94 as U.S. prepares new Iran economic measures
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Continental Resources to acquire FireBird Energy, adding 32,000 boed in Permian
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -92,20 +93,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
-- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 
 ### Oil & Gas Journal
 
