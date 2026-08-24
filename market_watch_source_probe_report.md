@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-24 01:20 UTC
+Generated: 2026-08-24 10:38 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -93,19 +93,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- SLB to restore offshore production for Brunei Shell Petroleum
 - UK industry coalition urges Labour MPs to back North Sea oil and gas
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
