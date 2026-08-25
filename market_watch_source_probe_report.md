@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-25 10:34 UTC
+Generated: 2026-08-25 20:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 15 | OK. |
+| Oil & Gas Journal | active | 200 | 13 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -52,23 +52,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 10
 - Scraping note: OK.
 
+- Kuwait Commits to Supplying Term Crude Through Hormuz
+- Kazakhstan to Refine Russian Crude for Fuel-Starved Russia
 - US Threatens Iran's Trade Partners With More Sanctions
-- Sinopec Warns of Lower Refining Output, Chinese Oil Demand Peak
-- Santos Buys CBM Assets to Shore Up GLNG Gas Supply
-- Hormuz Oil Flows Still Fall Short of US Claims
-- China's July Oil Demand on Recovery Path
-- Oil Markets Show Resilience, But Tipping Point Still Looms
 - Atlantic Canada LNG Gets New Look Amid Global Supply Crunch
 - Kazatomprom Signs Uranium Supply Deals With Russian, Chinese Companies
 - The Governability Gap in Energy Portfolio Management
 - The 'New Normal' for Energy Markets
 - Mideast Crisis Brings Forward China's Demand Peak
 - US Economic Pressure Risks Iran Escalation, Oil Disruption
-- Ukraine Hits Greek Tanker That Loaded at CPC Terminal
-- Iran Halts UAE-Linked Tanker in Hormuz, Attacks Cargo Ship
+- Sinopec Warns of Lower Refining Output, Chinese Oil Demand Peak
 
 ### World Oil
 
@@ -78,9 +74,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - U.S. threatens sanctions on Iran’s trading partners as pressure mounts on oil flows
-- Iran announces 7.5-Tcf natural gas discovery in Fars province
-- UK LNG import plans draw criticism as North Sea production declines
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -93,44 +88,43 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- SLB to restore offshore production for Brunei Shell Petroleum
+- Kosmos Energy awards SCA onshore umbilical storage project
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Kosmos Energy awards SCA onshore umbilical storage project
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Shale boom, electrification will drive natural gas past oil by 2030
+- UK LNG import plans draw criticism as North Sea production declines
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 13
 - Scraping note: OK.
 
-- Global product trade disruptions lift refining margins to record highs
+- Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
+- Dangote refinery boosts Nigeria’s petroleum product exports
 - US threatens sanctions against countries, companies buying Iranian oil
-- Santos targets Q4 2026 FID for Papua LNG plant
-- Devon Energy shuffles executive leadership team
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
-- Continental Resources, Mercuria envision equal partnership JV to boost Vaca Muerta oil production
-- Continental Resources adds Midland basin acreage through FireBird Energy II deal
-- EIA: US crude inventories up 4.4 million bbl
-- Panoro Energy to acquire Côte d'Ivoire producing asset from DNO
+- Oil prices fall as US sanctions on Iran posing limited near-term supply risk
+- Devon Energy shuffles executive leadership team
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - Orlen inks deal to secure nearly 25% crude-feedstock needs from Equinor
 - ConocoPhillips Alaska’s Coyote 3SX project achieves first oil
 - LLOG sanctions Gulf of Mexico Who Dat East development
+- Santos targets Q4 2026 FID for Papua LNG plant
 - Golar contracts CIMC Raffles for fourth FLNG
 
 ### S&P Global Energy
