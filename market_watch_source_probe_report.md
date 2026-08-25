@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-24 20:31 UTC
+Generated: 2026-08-25 01:18 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
-| Energy Intelligence | active | 200 | 11 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 14 | OK. |
+| Oil & Gas Journal | active | 200 | 15 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -52,13 +52,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 14
 - Scraping note: OK.
 
-- Hormuz Oil Flows Still Fall Short of US Claims
+- US Threatens Iran's Trade Partners With More Sanctions
 - Sinopec Warns of Lower Refining Output, Chinese Oil Demand Peak
+- Santos Buys CBM Assets to Shore Up GLNG Gas Supply
+- Hormuz Oil Flows Still Fall Short of US Claims
 - China's July Oil Demand on Recovery Path
 - Oil Markets Show Resilience, But Tipping Point Still Looms
+- Atlantic Canada LNG Gets New Look Amid Global Supply Crunch
 - Kazatomprom Signs Uranium Supply Deals With Russian, Chinese Companies
 - The Governability Gap in Energy Portfolio Management
 - The 'New Normal' for Energy Markets
@@ -92,29 +95,30 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Siemens Energy supports Petrobras offshore expansion with FPSO systems
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- SLB to restore offshore production for Brunei Shell Petroleum
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Kosmos Energy awards SCA onshore umbilical storage project
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Kosmos Energy awards SCA onshore umbilical storage project
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Global product trade disruptions lift refining margins to record highs
+- US threatens sanctions against countries, companies buying Iranian oil
 - Santos targets Q4 2026 FID for Papua LNG plant
 - Devon Energy shuffles executive leadership team
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
