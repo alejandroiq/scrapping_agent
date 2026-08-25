@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-25 01:18 UTC
+Generated: 2026-08-25 10:34 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -78,11 +78,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- U.S. threatens sanctions on Iran’s trading partners as pressure mounts on oil flows
 - Iran announces 7.5-Tcf natural gas discovery in Fars province
 - UK LNG import plans draw criticism as North Sea production declines
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Oil and Gas Prices
-- Oil prices rise toward $94 as U.S. prepares new Iran economic measures
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -95,19 +93,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- Shale boom, electrification will drive natural gas past oil by 2030
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 
 ### Oil & Gas Journal
 
