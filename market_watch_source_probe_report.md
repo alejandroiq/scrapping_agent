@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-25 20:29 UTC
+Generated: 2026-08-26 01:21 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -56,10 +56,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Kuwait Commits to Supplying Term Crude Through Hormuz
-- Kazakhstan to Refine Russian Crude for Fuel-Starved Russia
+- US Refinery Maintenance Looms Large for Product Markets
 - US Threatens Iran's Trade Partners With More Sanctions
-- Atlantic Canada LNG Gets New Look Amid Global Supply Crunch
-- Kazatomprom Signs Uranium Supply Deals With Russian, Chinese Companies
+- Japan Considers More LNG Power Plants by 2040
+- Southeast Asia: Exposure and Adaptation to the Global Oil Shock
 - The Governability Gap in Energy Portfolio Management
 - The 'New Normal' for Energy Markets
 - Mideast Crisis Brings Forward China's Demand Peak
@@ -88,22 +88,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Kosmos Energy awards SCA onshore umbilical storage project
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- SLB to restore offshore production for Brunei Shell Petroleum
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Kosmos Energy awards SCA onshore umbilical storage project
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- DOE approves 20-year export authorization for Argent LNG project
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - Shale boom, electrification will drive natural gas past oil by 2030
 - UK LNG import plans draw criticism as North Sea production declines
-- YPF-led Argentina LNG seeks approval for $51-billion investment
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 
 ### Oil & Gas Journal
 
