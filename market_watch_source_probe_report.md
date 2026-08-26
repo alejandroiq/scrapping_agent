@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-26 10:36 UTC
+Generated: 2026-08-26 22:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,11 +9,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 9 | OK. |
+| EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 13 | OK. |
+| Oil & Gas Journal | active | 200 | 15 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -24,9 +24,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 
+- Eight petroleum liquids pipeline projects have been completed since the start of 2025
 - Dangote refinery drives increase in petroleum shipments from Nigeria
 - Longer wells boost Permian crude oil and natural gas production
 - United States on track for record natural gas production in 2026
@@ -55,15 +56,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 10
 - Scraping note: OK.
 
+- Egypt Plans to Double Oil, Gas Output by 2030
+- Kazakhstan Cuts 2026 Oil Target After CPC Disruptions
 - Kuwait Commits to Supplying Term Crude Through Hormuz
-- US Refinery Maintenance Looms Large for Product Markets
-- US Threatens Iran's Trade Partners With More Sanctions
-- Japan Considers More LNG Power Plants by 2040
 - Southeast Asia: Exposure and Adaptation to the Global Oil Shock
 - The Governability Gap in Energy Portfolio Management
 - The 'New Normal' for Energy Markets
 - Mideast Crisis Brings Forward China's Demand Peak
 - US Economic Pressure Risks Iran Escalation, Oil Disruption
+- US Refinery Maintenance Looms Large for Product Markets
 - Sinopec Warns of Lower Refining Output, Chinese Oil Demand Peak
 
 ### World Oil
@@ -75,7 +76,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Oil and gas operators can’t fix what they can’t see: Addressing operational drift
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -88,42 +88,45 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK industry coalition urges Labour MPs to back North Sea oil and gas
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Kosmos Energy awards SCA onshore umbilical storage project
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Kosmos Energy awards SCA onshore umbilical storage project
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
-- YPF-led Argentina LNG seeks approval for $51-billion investment
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- DOE approves 20-year export authorization for Argent LNG project
+- Shale boom, electrification will drive natural gas past oil by 2030
+- UK LNG import plans draw criticism as North Sea production declines
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
-- Dangote refinery boosts Nigeria’s petroleum product exports
-- US threatens sanctions against countries, companies buying Iranian oil
+- EIA: US crude inventories up 100,000 bbl
+- Analysis: AI could unlock $230 billion in annual upstream oil and gas value
+- Enbridge to acquire Salt Creek Midstream crude gathering assets in Permian basin
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
 - Oil prices fall as US sanctions on Iran posing limited near-term supply risk
-- Devon Energy shuffles executive leadership team
+- Dangote refinery boosts Nigeria’s petroleum product exports
+- US threatens sanctions against countries, companies buying Iranian oil
 - Irving Oil schedules 2-month turnaround for Saint John refinery
+- BSR advances Dung Quat refinery expansion
 - Orlen inks deal to secure nearly 25% crude-feedstock needs from Equinor
 - ConocoPhillips Alaska’s Coyote 3SX project achieves first oil
-- LLOG sanctions Gulf of Mexico Who Dat East development
 - Santos targets Q4 2026 FID for Papua LNG plant
 - Golar contracts CIMC Raffles for fourth FLNG
 
