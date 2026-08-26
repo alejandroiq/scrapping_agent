@@ -923,3 +923,10 @@ run_timestamp_utc,source,status,http_status,relevant_news_count,issue_or_suggest
 2026-08-26 01:21 UTC,Oil & Gas Journal,active,200,13,OK.
 2026-08-26 01:21 UTC,S&P Global Energy,not active,403,0,"Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional."
 2026-08-26 01:21 UTC,OPEC Press Releases,not active,403,0,"Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional."
+2026-08-26 10:36 UTC,EIA Today in Energy,active,200,9,OK.
+2026-08-26 10:36 UTC,IEA,active,403,0,"Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional."
+2026-08-26 10:36 UTC,Energy Intelligence,active,200,10,OK.
+2026-08-26 10:36 UTC,World Oil,active,200,30,OK.
+2026-08-26 10:36 UTC,Oil & Gas Journal,active,200,13,OK.
+2026-08-26 10:36 UTC,S&P Global Energy,not active,403,0,"Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional."
+2026-08-26 10:36 UTC,OPEC Press Releases,not active,403,0,"Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional."

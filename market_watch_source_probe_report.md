@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-26 01:21 UTC
+Generated: 2026-08-26 10:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -75,7 +75,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- U.S. threatens sanctions on Iran’s trading partners as pressure mounts on oil flows
+- Oil and gas operators can’t fix what they can’t see: Addressing operational drift
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -88,22 +88,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- UK industry coalition urges Labour MPs to back North Sea oil and gas
+- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- SLB to restore offshore production for Brunei Shell Petroleum
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- DOE approves 20-year export authorization for Argent LNG project
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
-- UK LNG import plans draw criticism as North Sea production declines
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 
 ### Oil & Gas Journal
 
