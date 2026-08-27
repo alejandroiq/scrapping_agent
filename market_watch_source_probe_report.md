@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-26 22:49 UTC
+Generated: 2026-08-27 07:59 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -75,7 +75,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - First Oil: Low expectations for new UK prime minister
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -89,22 +88,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- DeepOcean completes North Sea subsea decommissioning work for Spirit Energy
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
-- DOE approves 20-year export authorization for Argent LNG project
+- YPF-led Argentina LNG seeks approval for $51-billion investment
+- S&P Global: LNG to become second-largest U.S. export industry by 2031
 - Shale boom, electrification will drive natural gas past oil by 2030
 - UK LNG import plans draw criticism as North Sea production declines
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 
 ### Oil & Gas Journal
 
