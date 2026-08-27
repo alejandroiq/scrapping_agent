@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-27 07:59 UTC
+Generated: 2026-08-27 20:11 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,7 +13,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 15 | OK. |
+| Oil & Gas Journal | active | 200 | 14 | OK. |
 | S&P Global Energy | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 | OPEC Press Releases | not active | 403 | 0 | Access blocked or forbidden. Possible solutions: use an official RSS/API if available, replace with a public source, or keep this source as optional. |
 
@@ -56,16 +56,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 10
 - Scraping note: OK.
 
-- Egypt Plans to Double Oil, Gas Output by 2030
-- Kazakhstan Cuts 2026 Oil Target After CPC Disruptions
-- Kuwait Commits to Supplying Term Crude Through Hormuz
+- TotalEnergies Exits Arctic LNG 2, Retains Novatek Stake
+- High Prices Draw Record Volumes of US Diesel to Europe
+- Japan Rolls Out Energy Resilience Policies in Response to Mideast War
 - Southeast Asia: Exposure and Adaptation to the Global Oil Shock
 - The Governability Gap in Energy Portfolio Management
 - The 'New Normal' for Energy Markets
-- Mideast Crisis Brings Forward China's Demand Peak
-- US Economic Pressure Risks Iran Escalation, Oil Disruption
 - US Refinery Maintenance Looms Large for Product Markets
 - Sinopec Warns of Lower Refining Output, Chinese Oil Demand Peak
+- Kazakhstan Cuts 2026 Oil Target After CPC Disruptions
+- Hormuz Oil Flows Still Fall Short of US Claims
 
 ### World Oil
 
@@ -75,8 +75,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- First Oil: Low expectations for new UK prime minister
-- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- First Oil: The twists and turns of our new summer forecast
+- Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -87,37 +87,36 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Kosmos Energy awards SCA onshore umbilical storage project
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- YPF-led Argentina LNG seeks approval for $51-billion investment
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 - Shale boom, electrification will drive natural gas past oil by 2030
 - UK LNG import plans draw criticism as North Sea production declines
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- YPF-led Argentina LNG seeks approval for $51-billion investment
+- U.S. deal ends TotalEnergies offshore wind plans, accelerates LNG investment
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 14
 - Scraping note: OK.
 
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
 - EIA: US crude inventories up 100,000 bbl
 - Analysis: AI could unlock $230 billion in annual upstream oil and gas value
-- Enbridge to acquire Salt Creek Midstream crude gathering assets in Permian basin
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
 - Oil prices fall as US sanctions on Iran posing limited near-term supply risk
@@ -126,7 +125,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - BSR advances Dung Quat refinery expansion
 - Orlen inks deal to secure nearly 25% crude-feedstock needs from Equinor
-- ConocoPhillips Alaska’s Coyote 3SX project achieves first oil
+- Enbridge to acquire Salt Creek Midstream crude gathering assets in Permian basin
 - Santos targets Q4 2026 FID for Papua LNG plant
 - Golar contracts CIMC Raffles for fourth FLNG
 
