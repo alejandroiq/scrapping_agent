@@ -69,7 +69,12 @@ SOURCES = [
     SourceConfig(
         name="IEA",
         url="https://www.iea.org/",
-        status="active",
+        status="excluded from daily report",
+        notes=(
+            "Reachable source, but excluded from the live daily report because "
+            "it often adds broader policy/transition coverage rather than "
+            "short-cycle crude/products market signal."
+        ),
     ),
     SourceConfig(
         name="Energy Intelligence",
@@ -89,44 +94,20 @@ SOURCES = [
     SourceConfig(
         name="OilPrice.com",
         url="https://oilprice.com/rss/main",
-        status="candidate",
-        notes="Candidate RSS source for daily crude and geopolitics coverage.",
+        status="active",
+        notes="RSS source for daily crude and geopolitics coverage.",
     ),
     SourceConfig(
         name="Rigzone",
         url="https://www.rigzone.com/",
-        status="candidate",
-        notes="Candidate source for drilling, output, and industry news.",
-    ),
-    SourceConfig(
-        name="Hart Energy",
-        url="https://www.hartenergy.com/",
-        status="candidate",
-        notes="Candidate source for Permian, A&D, and US upstream coverage.",
+        status="active",
+        notes="Source for drilling, output, and industry news.",
     ),
     SourceConfig(
         name="Offshore Magazine",
         url="https://www.offshore-mag.com/",
-        status="candidate",
-        notes="Candidate source for offshore projects and upstream developments.",
-    ),
-    SourceConfig(
-        name="Natural Gas Intelligence",
-        url="https://www.naturalgasintel.com/",
-        status="candidate",
-        notes="Candidate source for gas, LNG, and storage coverage.",
-    ),
-    SourceConfig(
-        name="S&P Global Energy",
-        url="https://www.spglobal.com/energy/",
-        status="not active",
-        notes="Mentioned in comments but not currently enabled in SOURCE_CONFIGS.",
-    ),
-    SourceConfig(
-        name="OPEC Press Releases",
-        url="https://www.opec.org/press-releases.html",
-        status="not active",
-        notes="Candidate source for official OPEC announcements.",
+        status="active",
+        notes="Source for offshore projects and upstream developments.",
     ),
 ]
 
@@ -389,7 +370,7 @@ def extract_eia_today_in_energy_titles(html: str) -> tuple[list[str], int]:
 
 
 def extract_iea_titles(html: str) -> tuple[list[str], int]:
-    """Extract IEA homepage story cards, matching the production scraper shape."""
+    """Extract IEA homepage story cards for exclusion diagnostics."""
     soup = BeautifulSoup(html, "html.parser")
     cards = soup.select("article.o-hero-latest__listing")
     titles = []
@@ -399,6 +380,7 @@ def extract_iea_titles(html: str) -> tuple[list[str], int]:
         headline_element = article.select_one("h2")
         if headline_element is None:
             continue
+
         append_unique_title(titles, seen_titles, headline_element.get_text(" "))
 
     return titles[:MAX_TITLES_PER_SOURCE], len(cards)
@@ -546,6 +528,9 @@ def diagnose_issue(result: SourceResult) -> str:
     """Create a short issue/solution note for one source."""
     if result.issue:
         return result.issue
+
+    if result.source.status == "excluded from daily report":
+        return f"Excluded from live daily report. Reason: {result.source.notes}"
 
     if result.http_status in {401, 403}:
         return (
