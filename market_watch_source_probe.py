@@ -21,6 +21,7 @@ from pathlib import Path
 import csv
 import re
 from urllib.parse import urljoin, urlparse
+import xml.etree.ElementTree as ET
 
 import requests
 from bs4 import BeautifulSoup
@@ -86,6 +87,36 @@ SOURCES = [
         status="active",
     ),
     SourceConfig(
+        name="OilPrice.com",
+        url="https://oilprice.com/rss/main",
+        status="candidate",
+        notes="Candidate RSS source for daily crude and geopolitics coverage.",
+    ),
+    SourceConfig(
+        name="Rigzone",
+        url="https://www.rigzone.com/",
+        status="candidate",
+        notes="Candidate source for drilling, output, and industry news.",
+    ),
+    SourceConfig(
+        name="Hart Energy",
+        url="https://www.hartenergy.com/",
+        status="candidate",
+        notes="Candidate source for Permian, A&D, and US upstream coverage.",
+    ),
+    SourceConfig(
+        name="Offshore Magazine",
+        url="https://www.offshore-mag.com/",
+        status="candidate",
+        notes="Candidate source for offshore projects and upstream developments.",
+    ),
+    SourceConfig(
+        name="Natural Gas Intelligence",
+        url="https://www.naturalgasintel.com/",
+        status="candidate",
+        notes="Candidate source for gas, LNG, and storage coverage.",
+    ),
+    SourceConfig(
         name="S&P Global Energy",
         url="https://www.spglobal.com/energy/",
         status="not active",
@@ -142,17 +173,24 @@ NAVIGATION_TITLE_WORDS = [
     "energy intelligence store",
     "energy transition",
     "energy review",
+    "engineering & science",
     "events",
     "explore",
     "international energy statistics",
     "login",
     "manufacturing energy consumption survey",
     "monthly energy review",
+    "natural gas converter",
+    "natural gas glossary",
+    "natural gas industry faqs",
+    "natural gas prices",
+    "natural gas storage",
     "newsletter",
     "petroleum supply monthly",
     "press room",
     "primary energy consumption",
     "refining & processing",
+    "refining & petrochem",
     "privacy",
     "register",
     "residential energy consumption survey",
@@ -217,6 +255,10 @@ def is_relevant_title(title: str) -> bool:
 def looks_like_navigation_title(title: str) -> bool:
     """Return True for menu, product, survey, and utility labels."""
     lower_title = title.lower()
+    ticker_pattern = r"\bwti crude\b.*\bbrent crude\b.*\bnatural gas\b"
+    if re.search(ticker_pattern, lower_title):
+        return True
+
     return any(word in lower_title for word in NAVIGATION_TITLE_WORDS)
 
 
@@ -416,8 +458,40 @@ def extract_energy_intelligence_titles(html: str, source: SourceConfig) -> tuple
     return titles, raw_link_count
 
 
+def extract_rss_titles(xml_text: str) -> tuple[list[str], int]:
+    """Extract relevant titles from a simple RSS feed."""
+    titles = []
+    seen_titles = set()
+    raw_item_count = 0
+    cutoff_date = datetime.now(timezone.utc).date() - timedelta(days=LOOKBACK_DAYS)
+
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError:
+        return titles, raw_item_count
+
+    for item in root.findall(".//item"):
+        raw_item_count += 1
+        title = clean_text(item.findtext("title"))
+        pub_date_text = clean_text(item.findtext("pubDate"))
+        candidate_date = parse_date_from_text(pub_date_text)
+
+        if not is_recent_or_undated(candidate_date, cutoff_date):
+            continue
+
+        append_unique_title(titles, seen_titles, title)
+
+        if len(titles) >= MAX_TITLES_PER_SOURCE:
+            break
+
+    return titles, raw_item_count
+
+
 def extract_relevant_titles(html: str, source: SourceConfig) -> tuple[list[str], int]:
     """Extract relevant title text using source-aware rules when available."""
+    if source.url.lower().endswith((".rss", "/rss/main")) or "<rss" in html[:500].lower():
+        return extract_rss_titles(html)
+
     if source.name == "EIA Today in Energy":
         return extract_eia_today_in_energy_titles(html)
 
