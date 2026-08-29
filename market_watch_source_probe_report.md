@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-29 14:57 UTC
+Generated: 2026-08-29 22:27 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 14 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 3 | OK. |
 
@@ -98,20 +98,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK LNG import plans draw criticism as North Sea production declines
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- S&P Global: LNG to become second-largest U.S. export industry by 2031
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- UK LNG import plans draw criticism as North Sea production declines
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 
 ### Oil & Gas Journal
 
@@ -141,10 +141,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Mexico’s Green Energy Push Is Finally Gaining Momentum
+- U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil
+- Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom
 - Europe’s Russia Sanctions Have a Major Blind Spot
 - Venezuela Helped Build OPEC. Now It May Help Break It Apart
 - Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot
@@ -153,7 +156,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’
 - Ukraine Drones Spark Fire at Russian Refinery as Fuel Crisis Worsens
 - Qatar Extends Force Majeure as Hormuz Crisis Still Blocks LNG Traffic
-- Oil Selloff Outruns Reality in Hormuz
 
 ### Rigzone
 
