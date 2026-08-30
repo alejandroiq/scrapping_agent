@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-30 14:43 UTC
+Generated: 2026-08-30 22:27 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 14 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 3 | OK. |
 
@@ -54,7 +54,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Potential US-Venezuelan Oil Stake Deal Raises Questions
@@ -71,7 +71,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - US Refinery Maintenance Looms Large for Product Markets
 - Sinopec Warns of Lower Refining Output, Chinese Oil Demand Peak
 - Kazakhstan Cuts 2026 Oil Target After CPC Disruptions
-- Kuwait Commits to Supplying Term Crude Through Hormuz
 - Lukoil-Carlyle Asset Deal Remains in Holding Pattern
 
 ### World Oil
@@ -98,20 +97,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
-- UK LNG import plans draw criticism as North Sea production declines
+- deugro launches Papua New Guinea JV for major LNG project logistics
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
@@ -141,10 +140,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- ‘Soap Cocktails’ Help U.S. Shale Boost Oil Production
 - Iran War Adds $330 Billion to Global Energy Import Bill
 - Mexico’s Green Energy Push Is Finally Gaining Momentum
 - U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil
@@ -152,10 +152,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Europe’s Russia Sanctions Have a Major Blind Spot
 - Venezuela Helped Build OPEC. Now It May Help Break It Apart
 - Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot
-- U.S. Oil Rig Count Falls by 5 as Gas Rigs Rise
-- Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure
-- Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’
-- Ukraine Drones Spark Fire at Russian Refinery as Fuel Crisis Worsens
 
 ### Rigzone
 
