@@ -982,3 +982,11 @@ run_timestamp_utc,source,status,http_status,relevant_news_count,issue_or_suggest
 2026-08-29 22:27 UTC,OilPrice.com,active,200,11,OK.
 2026-08-29 22:27 UTC,Rigzone,active,200,3,OK.
 2026-08-29 22:27 UTC,Offshore Magazine,active,200,3,OK.
+2026-08-30 04:07 UTC,EIA Today in Energy,active,200,9,OK.
+2026-08-30 04:07 UTC,IEA,excluded from daily report,403,0,"Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal."
+2026-08-30 04:07 UTC,Energy Intelligence,active,200,16,OK.
+2026-08-30 04:07 UTC,World Oil,active,200,30,OK.
+2026-08-30 04:07 UTC,Oil & Gas Journal,active,200,14,OK.
+2026-08-30 04:07 UTC,OilPrice.com,active,200,11,OK.
+2026-08-30 04:07 UTC,Rigzone,active,200,3,OK.
+2026-08-30 04:07 UTC,Offshore Magazine,active,200,3,OK.
