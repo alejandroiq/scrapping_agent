@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-31 17:25 UTC
+Generated: 2026-08-31 23:39 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,9 +13,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 15 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| Oil & Gas Journal | active | 200 | 14 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 3 | OK. |
 
 ## Titles By Source
@@ -57,13 +57,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 14
 - Scraping note: OK.
 
-- Potential US-Venezuelan Oil Stake Deal Raises Questions
+- Trump’s Venezuela Oil Plan Takes Shape Amid Legal Uncertainty
+- Oil Supply Toll Hits 2.2B bbl at Mideast War's 6-Month Mark
 - PetroChina Oil Output Falls as Iraq Shut-Ins Take Toll
-- Russian Oil Majors Gain From Mideast War Despite Refinery Strikes
-- South Korea, Japan Import More Mideast, US Crude
-- India Refiners Reroute Gulf Crude to Avoid Hormuz Risk
 - Crisis Forces Gulf Producers to Rethink How They Sell Oil
-- High Oil Prices Derail SAF Efforts in Asia-Pacific
+- South Korea, Japan Import More Mideast, US Crude
+- Critical Phase Looms for Namibia’s Oil Sector
+- US Interior's New Gas, Oil and LNG Investments Not So New
 - Southeast Asia: Exposure and Adaptation to the Global Oil Shock
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
@@ -95,76 +95,74 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
 - Kosmos Energy awards SCA onshore umbilical storage project
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- DOE approves 20-year export authorization for Argent LNG project
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- UK LNG import plans draw criticism as North Sea production declines
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 14
 - Scraping note: OK.
 
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
+- US, Venezuela reach deal covering 65 billion bbl of oil reserves
 - Oil prices fall on Strait of Hormuz bypass tactics
-- San Matías Pipeline secures $900 million for Vaca Muerta-to-LNG gas pipeline
-- TotalEnergies completes Arctic LNG 2 exit
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
-- US, Venezuela reach deal covering 65 billion bbl of oil reserves
+- TotalEnergies completes Arctic LNG 2 exit
 - EIA: US crude inventories up 100,000 bbl
 - Analysis: AI could unlock $230 billion in annual upstream oil and gas value
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - BSR advances Dung Quat refinery expansion
 - Dangote refinery boosts Nigeria’s petroleum product exports
+- San Matías Pipeline secures $900 million for Vaca Muerta-to-LNG gas pipeline
 - Enbridge to acquire Salt Creek Midstream crude gathering assets in Permian basin
 - Santos targets Q4 2026 FID for Papua LNG plant
-- Golar contracts CIMC Raffles for fourth FLNG
 
 ### OilPrice.com
 
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Oil Companies and Banks Face UK Windfall Tax Threat
-- Asia Steps In to Fill Diesel Supply Gap in Africa as Middle East Exports Crash
-- China's LNG Imports Set to Drop 18% in August as Prices Soar
-- Iran Says Supertanker Hit by Mines in Strait of Hormuz
-- Lithium Miners Cash In as Battery Storage Demand Surges
-- Asian Refiners Turn to Argentina as Iran War Disrupts Oil Supply
-- Goldman Sachs Sees Diesel Refining Margins Soaring to $63 a Barrel
-- Trump Says Venezuelan Oil Will Refill U.S. Strategic Petroleum Reserve
-- Oil Prices Surge as U.S. and Iran Exchange Strikes
+- Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem
+- Iran War Triggers Billions in New Oil Pipeline and Port Investment
+- Norway Wants Europe’s Energy Market, Without Sharing Its Trade-Offs
+- Chevron, ONGC and GE Vernova Near Final Venezuela Energy Deals
+- Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders
+- BP Adds 80 MMcf/d to Egypt’s Gas Supply Two Years Ahead of Schedule
+- Russian Oil Is No Longer India’s Easy Bargain
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
 - Trump Announces 'Biggest Oil Deal in World History'
 - Oil Price Supported by Renewed Geopolitical Risk
+- Goldman Sachs Steps Up Warnings on Diesel
 
 ### Offshore Magazine
 
