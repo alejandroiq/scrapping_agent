@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-31 04:13 UTC
+Generated: 2026-08-31 17:25 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 14 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| Oil & Gas Journal | active | 200 | 15 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 3 | OK. |
 
 ## Titles By Source
@@ -54,14 +54,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 14
 - Scraping note: OK.
 
 - Potential US-Venezuelan Oil Stake Deal Raises Questions
-- India Refiners Reroute Gulf Crude to Avoid Hormuz Risk
-- Papua LNG Clears Key Hurdle With Revised Gas Agreement
-- QatarEnergy Extends Force Majeure on LNG to Italy's Edison
+- PetroChina Oil Output Falls as Iraq Shut-Ins Take Toll
 - Russian Oil Majors Gain From Mideast War Despite Refinery Strikes
+- South Korea, Japan Import More Mideast, US Crude
+- India Refiners Reroute Gulf Crude to Avoid Hormuz Risk
 - Crisis Forces Gulf Producers to Rethink How They Sell Oil
 - High Oil Prices Derail SAF Efforts in Asia-Pacific
 - Southeast Asia: Exposure and Adaptation to the Global Oil Shock
@@ -69,8 +69,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The Governability Gap in Energy Portfolio Management
 - The 'New Normal' for Energy Markets
 - US Refinery Maintenance Looms Large for Product Markets
-- Sinopec Warns of Lower Refining Output, Chinese Oil Demand Peak
-- Kazakhstan Cuts 2026 Oil Target After CPC Disruptions
+- QatarEnergy Extends Force Majeure on LNG to Italy's Edison
 - Lukoil-Carlyle Asset Deal Remains in Holding Pattern
 
 ### World Oil
@@ -81,10 +80,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- ONGC to build $736 million strategic oil reserve in India
+- Trump says Venezuelan oil will be used to refill U.S. Strategic Petroleum Reserve
 - Venezuela weighs OPEC exit as producer group faces growing fragmentation
-- BritENERGY shifts investment from ‘uninvestable’ UK to Permian basin
-- U.S., Venezuela discuss major oil field stake, potential 100-year lease
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -97,27 +95,28 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
-- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
 - DOE approves 20-year export authorization for Argent LNG project
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
@@ -126,6 +125,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies completes Arctic LNG 2 exit
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
+- US, Venezuela reach deal covering 65 billion bbl of oil reserves
 - EIA: US crude inventories up 100,000 bbl
 - Analysis: AI could unlock $230 billion in annual upstream oil and gas value
 - Irving Oil schedules 2-month turnaround for Saint John refinery
@@ -140,31 +140,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Companies and Banks Face UK Windfall Tax Threat
+- Asia Steps In to Fill Diesel Supply Gap in Africa as Middle East Exports Crash
+- China's LNG Imports Set to Drop 18% in August as Prices Soar
+- Iran Says Supertanker Hit by Mines in Strait of Hormuz
+- Lithium Miners Cash In as Battery Storage Demand Surges
+- Asian Refiners Turn to Argentina as Iran War Disrupts Oil Supply
+- Goldman Sachs Sees Diesel Refining Margins Soaring to $63 a Barrel
+- Trump Says Venezuelan Oil Will Refill U.S. Strategic Petroleum Reserve
 - Oil Prices Surge as U.S. and Iran Exchange Strikes
-- ‘Soap Cocktails’ Help U.S. Shale Boost Oil Production
-- Iran War Adds $330 Billion to Global Energy Import Bill
-- Mexico’s Green Energy Push Is Finally Gaining Momentum
-- U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil
-- Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom
-- Europe’s Russia Sanctions Have a Major Blind Spot
-- Venezuela Helped Build OPEC. Now It May Help Break It Apart
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Venezuela Weighs OPEC Exit
-- USA Crude Oil Stocks Rise Slightly
-- Goldman Says Gulf Oil Exports at 2/3 of Pre-War Level
+- Trump Announces 'Biggest Oil Deal in World History'
+- Oil Price Supported by Renewed Geopolitical Risk
 
 ### Offshore Magazine
 
