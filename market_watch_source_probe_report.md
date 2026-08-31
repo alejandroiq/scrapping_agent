@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-30 22:27 UTC
+Generated: 2026-08-31 04:13 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -97,6 +97,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Kosmos Energy awards SCA onshore umbilical storage project
+- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
@@ -105,12 +109,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- DOE approves 20-year export authorization for Argent LNG project
 
 ### Oil & Gas Journal
 
@@ -144,6 +144,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Prices Surge as U.S. and Iran Exchange Strikes
 - ‘Soap Cocktails’ Help U.S. Shale Boost Oil Production
 - Iran War Adds $330 Billion to Global Energy Import Bill
 - Mexico’s Green Energy Push Is Finally Gaining Momentum
@@ -151,7 +152,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom
 - Europe’s Russia Sanctions Have a Major Blind Spot
 - Venezuela Helped Build OPEC. Now It May Help Break It Apart
-- Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot
 
 ### Rigzone
 
