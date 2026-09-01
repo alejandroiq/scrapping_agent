@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-08-31 23:39 UTC
+Generated: 2026-09-01 04:00 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -95,21 +95,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Sir Ian Wood, champion of the North Sea oil industry, dies at 84
+- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Kosmos Energy awards SCA onshore umbilical storage project
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
-- UK LNG import plans draw criticism as North Sea production declines
+- deugro launches Papua New Guinea JV for major LNG project logistics
+- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
