@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-01 14:35 UTC
+Generated: 2026-09-01 22:26 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 14 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| Oil & Gas Journal | active | 200 | 15 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 3 | OK. |
+| Offshore Magazine | active | 200 | 4 | OK. |
 
 ## Titles By Source
 
@@ -54,22 +54,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 14
 - Scraping note: OK.
 
-- Trump’s Venezuela Oil Plan Takes Shape Amid Legal Uncertainty
-- Oil Supply Toll Hits 2.2B bbl at Mideast War's 6-Month Mark
+- ONGC Nears Venezuelan Oil Deal, Backs India’s Deepwater Push
+- Mideast Gulf Leaders Push Clean Energy Amid Volatility
+- Russia Extends Diesel Export Ban
 - PetroChina Oil Output Falls as Iraq Shut-Ins Take Toll
+- Geopolitical Uncertainty Pushes Asian LNG Price Over 3-Year High
 - Crisis Forces Gulf Producers to Rethink How They Sell Oil
-- South Korea, Japan Import More Mideast, US Crude
-- Critical Phase Looms for Namibia’s Oil Sector
+- South Korea's AI-Led Power Demand Revisions Bolster LNG Prospects
 - US Interior's New Gas, Oil and LNG Investments Not So New
 - Southeast Asia: Exposure and Adaptation to the Global Oil Shock
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
-- US Refinery Maintenance Looms Large for Product Markets
 - QatarEnergy Extends Force Majeure on LNG to Italy's Edison
-- Lukoil-Carlyle Asset Deal Remains in Holding Pattern
+- Kazakhstan Cuts 2026 Oil Target After CPC Disruptions
+- Papua LNG Clears Key Hurdle With Revised Gas Agreement
 
 ### World Oil
 
@@ -79,9 +80,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- U.S.-Venezuela oil deal covers 17 fields, 65 Bbbl of reserves
+- Comstock strikes $1.65 billion SOCAR deal, $450 million Haynesville drilling JV
+- Chevron nears deal to operate two giant oil fields in Venezuela’s Orinoco Belt
+- Two oil tankers reportedly struck as Strait of Hormuz hostilities resume
 - ONGC to build $736 million strategic oil reserve in India
-- Trump says Venezuelan oil will be used to refill U.S. Strategic Petroleum Reserve
-- Venezuela weighs OPEC exit as producer group faces growing fragmentation
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -95,37 +98,36 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
 - Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 
+- OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
+- EIA: US LNG exports rose 23% in first-half 2026 amid higher capacity
 - Oil & Gas Journal ReEnterprised
 - US, Venezuela reach deal covering 65 billion bbl of oil reserves
-- Oil prices fall on Strait of Hormuz bypass tactics
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
+- Oil prices fall on Strait of Hormuz bypass tactics
 - TotalEnergies completes Arctic LNG 2 exit
-- EIA: US crude inventories up 100,000 bbl
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - BSR advances Dung Quat refinery expansion
 - Dangote refinery boosts Nigeria’s petroleum product exports
@@ -138,20 +140,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- U.S. Crude Inventories Drop amid Continued SPR Draws
+- U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case
+- Food Inflation Jumps as Higher Energy Costs Hit UK Retailers
+- Asia Spot LNG Prices Hit 5-Month High as Hormuz Blockage Drags On
+- U.S.-Iran Strikes Put $100 Oil Back in Focus
 - U.S. Energy Storage Capacity Installations Hit Record High in Q2
 - Russia Doubles Dark Fleet to Ship LNG to Asia
-- Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz
-- Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze
-- Price, Not Politics, Is Driving Most of India’s Oil Buying
-- U.S. Oil Deal Pushes China and Russia Out of Venezuelan Fields
-- Oil Prices Climb as Trump Threatens New Strikes on Iran
-- Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem
-- Iran War Triggers Billions in New Oil Pipeline and Port Investment
-- Norway Wants Europe’s Energy Market, Without Sharing Its Trade-Offs
 
 ### Rigzone
 
@@ -163,17 +162,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Source note: Source for drilling, output, and industry news.
 
 - What Is the Oil, Gas Impact of Storm Edouard?
-- Russia Expands LNG Dark Fleet
+- Top Indian Oil Producer to Build $736MM Strategic Reserves
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 4
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Valeura accelerates Wassana redevelopment offshore Thailand, targets earlier first oil
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
 - ONGC, Oil India award/extend contracts for Transocean, Dolphin rigs
