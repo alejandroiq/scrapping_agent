@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-01 04:00 UTC
+Generated: 2026-09-01 14:35 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 14 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 3 | OK. |
 
 ## Titles By Source
@@ -28,6 +28,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 9
 - Scraping note: OK.
 
+- U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
 - Eight petroleum liquids pipeline projects have been completed since the start of 2025
 - Dangote refinery drives increase in petroleum shipments from Nigeria
 - Longer wells boost Permian crude oil and natural gas production
@@ -36,7 +37,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - China’s crude oil imports fell in the second quarter
 - Lower crude oil prices reduced U.S.-Canada energy trade value in 2025
 - Energia Costa Azul, Mexico’s second LNG terminal, shipped first cargo
-- Commercial crude oil inventories increased by 2.0 million barrels
 
 ### IEA
 
@@ -54,7 +54,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 
 - Trump’s Venezuela Oil Plan Takes Shape Amid Legal Uncertainty
@@ -67,7 +67,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Southeast Asia: Exposure and Adaptation to the Global Oil Shock
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
-- The 'New Normal' for Energy Markets
 - US Refinery Maintenance Looms Large for Product Markets
 - QatarEnergy Extends Force Majeure on LNG to Italy's Edison
 - Lukoil-Carlyle Asset Deal Remains in Holding Pattern
@@ -95,21 +94,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Kosmos Energy awards SCA onshore umbilical storage project
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - deugro launches Papua New Guinea JV for major LNG project logistics
-- DOE approves 20-year export authorization for Argent LNG project
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
@@ -120,13 +119,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
+- Oil & Gas Journal ReEnterprised
 - US, Venezuela reach deal covering 65 billion bbl of oil reserves
 - Oil prices fall on Strait of Hormuz bypass tactics
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
 - TotalEnergies completes Arctic LNG 2 exit
 - EIA: US crude inventories up 100,000 bbl
-- Analysis: AI could unlock $230 billion in annual upstream oil and gas value
 - Irving Oil schedules 2-month turnaround for Saint John refinery
 - BSR advances Dung Quat refinery expansion
 - Dangote refinery boosts Nigeria’s petroleum product exports
@@ -139,30 +138,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- U.S. Energy Storage Capacity Installations Hit Record High in Q2
+- Russia Doubles Dark Fleet to Ship LNG to Asia
+- Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz
+- Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze
+- Price, Not Politics, Is Driving Most of India’s Oil Buying
+- U.S. Oil Deal Pushes China and Russia Out of Venezuelan Fields
+- Oil Prices Climb as Trump Threatens New Strikes on Iran
 - Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem
 - Iran War Triggers Billions in New Oil Pipeline and Port Investment
 - Norway Wants Europe’s Energy Market, Without Sharing Its Trade-Offs
-- Chevron, ONGC and GE Vernova Near Final Venezuela Energy Deals
-- Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders
-- BP Adds 80 MMcf/d to Egypt’s Gas Supply Two Years Ahead of Schedule
-- Russian Oil Is No Longer India’s Easy Bargain
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Trump Announces 'Biggest Oil Deal in World History'
-- Oil Price Supported by Renewed Geopolitical Risk
-- Goldman Sachs Steps Up Warnings on Diesel
+- What Is the Oil, Gas Impact of Storm Edouard?
+- Russia Expands LNG Dark Fleet
 
 ### Offshore Magazine
 
