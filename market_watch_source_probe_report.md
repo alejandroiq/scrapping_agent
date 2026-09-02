@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-02 03:20 UTC
+Generated: 2026-09-02 14:09 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 15 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 4 | OK. |
 
@@ -57,7 +57,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 13
 - Scraping note: OK.
 
-- Trump’s Venezuela Oil Ambitions Face Steep Investment Hurdles
+- US Widens Iran Campaign to Tankers
 - US Gulf Coast Refiners Ready for More Venezuelan Crude
 - Mideast Gulf Leaders Push Clean Energy Amid Volatility
 - Geopolitical Uncertainty Pushes Asian LNG Price Over 3-Year High
@@ -65,11 +65,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Mideast Crisis Brings Forward China's Demand Peak
 - Shell, Equinor Struggle With Tanzania LNG Breakthrough
 - South Korea's AI-Led Power Demand Revisions Bolster LNG Prospects
+- Weekly Monitor: Rising Hormuz Risks Could Mean Prolonged/Indefinite Supply Issues
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
+- Russian Exports: Product Shipments Collapse, Crude Soars
 - QatarEnergy Extends Force Majeure on LNG to Italy's Edison
-- Kazakhstan Cuts 2026 Oil Target After CPC Disruptions
-- Papua LNG Clears Key Hurdle With Revised Gas Agreement
 
 ### World Oil
 
@@ -96,19 +96,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Kosmos Energy awards SCA onshore umbilical storage project
+- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
@@ -139,17 +139,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Ukraine’s Refinery Strikes Force Russia to Process Oil Abroad
+- India Boosts Far East Russian Oil Imports as War Upends Trade Routes
+- Kazakhstan to Double Oil Refining Capacity by 2040
+- Qatar and UAE Turn to Rare LNG Ship Transfers as Hormuz Crisis Drags On
+- Diesel Cracks Hit Record Highs as Global Fuel Squeeze Deepens
+- Pakistan Rejects Costly LNG Cargo as Blackout Risk Deepens
+- Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets
+- U.S. Energy Secretary Says Venezuela Could More Than Double Oil Production
+- Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation
 - Major U.S. Oil Port Selected for Nuclear Power Project
 - U.S. Crude Inventories Drop amid Continued SPR Draws
 - U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case
-- Food Inflation Jumps as Higher Energy Costs Hit UK Retailers
-- Asia Spot LNG Prices Hit 5-Month High as Hormuz Blockage Drags On
-- U.S.-Iran Strikes Put $100 Oil Back in Focus
-- U.S. Energy Storage Capacity Installations Hit Record High in Q2
 
 ### Rigzone
 
@@ -160,8 +165,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- What Is the Oil, Gas Impact of Storm Edouard?
-- Top Indian Oil Producer to Build $736MM Strategic Reserves
+- AI Could Unlock $230B for Oil, Gas, OFSE Cos, McKinsey Says
+- USA-VEN Oil Deal Dubbed a 'Major Opportunity'
 
 ### Offshore Magazine
 
