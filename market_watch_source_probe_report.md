@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-01 22:26 UTC
+Generated: 2026-09-02 03:20 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 15 | OK. |
 | OilPrice.com | active | 200 | 7 | OK. |
@@ -54,18 +54,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 
-- ONGC Nears Venezuelan Oil Deal, Backs India’s Deepwater Push
+- Trump’s Venezuela Oil Ambitions Face Steep Investment Hurdles
+- US Gulf Coast Refiners Ready for More Venezuelan Crude
 - Mideast Gulf Leaders Push Clean Energy Amid Volatility
-- Russia Extends Diesel Export Ban
-- PetroChina Oil Output Falls as Iraq Shut-Ins Take Toll
 - Geopolitical Uncertainty Pushes Asian LNG Price Over 3-Year High
-- Crisis Forces Gulf Producers to Rethink How They Sell Oil
+- Oil Supply Toll Hits 2.2B bbl at Mideast War's 6-Month Mark
+- Mideast Crisis Brings Forward China's Demand Peak
+- Shell, Equinor Struggle With Tanzania LNG Breakthrough
 - South Korea's AI-Led Power Demand Revisions Bolster LNG Prospects
-- US Interior's New Gas, Oil and LNG Investments Not So New
-- Southeast Asia: Exposure and Adaptation to the Global Oil Shock
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
 - QatarEnergy Extends Force Majeure on LNG to Italy's Edison
@@ -97,19 +96,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- DOE approves 20-year export authorization for Argent LNG project
+- deugro launches Papua New Guinea JV for major LNG project logistics
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
@@ -144,13 +143,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Major U.S. Oil Port Selected for Nuclear Power Project
 - U.S. Crude Inventories Drop amid Continued SPR Draws
 - U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case
 - Food Inflation Jumps as Higher Energy Costs Hit UK Retailers
 - Asia Spot LNG Prices Hit 5-Month High as Hormuz Blockage Drags On
 - U.S.-Iran Strikes Put $100 Oil Back in Focus
 - U.S. Energy Storage Capacity Installations Hit Record High in Q2
-- Russia Doubles Dark Fleet to Ship LNG to Asia
 
 ### Rigzone
 
@@ -173,7 +172,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Valeura accelerates Wassana redevelopment offshore Thailand, targets earlier first oil
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- Valeura accelerates Wassana redevelopment offshore Thailand, targets earlier first oil
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
 - ONGC, Oil India award/extend contracts for Transocean, Dolphin rigs
