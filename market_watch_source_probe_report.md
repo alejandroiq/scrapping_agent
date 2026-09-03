@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-03 14:12 UTC
+Generated: 2026-09-03 22:21 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 10 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 27 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| Oil & Gas Journal | active | 200 | 26 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 7 | OK. |
 
 ## Titles By Source
@@ -53,17 +53,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 14
 - Scraping note: OK.
 
-- US Widens Iran Campaign to Tankers
-- US Diesel Stocks Drain as Maintenance, Heating Seasons Loom
-- Improved Hormuz Flows Dent US Crude Exports in June
-- Geopolitical Uncertainty Pushes Asian LNG Price Over 3-Year High
-- Russian Exports: Product Shipments Collapse, Crude Soars
+- Trump's Venezuela Oil Deal Lands on Shaky Political Ground
+- Venezuelan Law Clouds Landmark US Oil Deal
+- Uganda Unveils New Crude Export Grade Ahead of First Oil
+- Gulf Players Lean on State Tanker Fleets for Risky Shipments
+- US Blockade Tests Limits of Iran’s Oil Export Model
+- Trump's Venezuela Oil Grab
+- Japan, South Korea Energy Priorities Diverge Amid Crisis
 - Weekly Monitor: Rising Hormuz Risks Could Mean Prolonged/Indefinite Supply Issues
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
+- Russian Exports: Product Shipments Collapse, Crude Soars
+- US Widens Iran Campaign to Tankers
 - QatarEnergy Extends Force Majeure on LNG to Italy's Edison
 - US Gulf Coast Refiners Ready for More Venezuelan Crude
 
@@ -90,9 +94,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
@@ -100,38 +102,39 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
 - YPF-led Argentina LNG seeks approval for $51-billion investment
+- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 27
+- Relevant news count: 26
 - Scraping note: OK.
 
 - OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
+- US BLM considers expanding oil and gas leasing to Utah’s Ouray National Wildlife Refuge
+- Construction of offshore oil and gas infrastructure at a shipyard.
+- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
+- Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude inventories down 4.5 million bbl
-- A panoramic view of installations and eqiupment at Citgo&apos;s refinery in Lake Charles, La.
-- Citgo approves new processing unit for Lake Charles refinery
-- Venezuela pitches oil, gas investment opportunities at Houston showcase
-- Argentina LNG seeks RIGI approval for $51-billion investment
 - Comstock Haynesville drilling rig
 - Comstock proposes $1.65-billion SOCAR partnership, $450-million Haynesville drilling venture
-- EIA: US LNG exports rose 23% in first-half 2026 amid higher capacity
-- Oil & Gas Journal ReEnterprised
+- A panoramic view of installations and eqiupment at Citgo&apos;s refinery in Lake Charles, La.
+- Citgo approves new processing unit for Lake Charles refinery
 - Construction vehicles undertaking site-preparation works in front of a refinery background.
 - BSR advances Dung Quat refinery expansion
 - A graph showing Nigeria&apos;s seaborne petroleum product shipments,
 - Dangote refinery boosts Nigeria’s petroleum product exports
 - Orlen inks deal to secure nearly 25% crude-feedstock needs from Equinor
-- Orlen SA&apos;s Plock integrated refining and petrochemicals complex
 - 498979279491515___commercialenergy_headerimage_128
 - Offshore vessels transporting natural gas processing infrastructure
 - San Matías Pipeline secures $900 million for Vaca Muerta-to-LNG gas pipeline
@@ -147,32 +150,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- High Oil Prices Speed Up China’s Shift Away From Crude
+- Machado Backs U.S. Oil Partnership but Questions Venezuela Deal
+- UK Borrowing Costs Surge as Oil Shock Rattles Global Markets
+- U.S. Diesel Prices Surge Toward All-Time High
+- Russia’s Oil Revenue Sinks as Urals Falls to $59
+- Russia Says Oil Output Drop Is Temporary as Refineries Restart
 - Hormuz Disruptions Could Drag Into Next Year, Japanese Tanker Giant Warns
 - Iraq Hikes Oil Exports via Hormuz in Boon for Asian Refiners
-- Global Refining Crunch Could Keep Fuel Prices High Into 2027
-- Europe’s Low Gas Stocks Set Stage for Winter LNG Battle
-- Chinese Refiners Pay Record Premiums for Russian ESPO Crude
-- Asian LNG Prices Surge to Highest Since 2022 as Iran War Escalates
-- Asian Oil Buying Spree Sends Dubai Crude Toward $100
-- Why Uranium Stocks Are Falling as U.S. Production Triples
-- U.S. SPR Depletion Threatens Further Oil Price Volatility
-- U.S. Diesel Prices Close In on April War Peak
-- OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply
-- Chevron Bets $7 Billion on Venezuela Oil Expansion
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
+- Texas Oil Regulator Hails 'Oil Theft Bust'
 - Brent Could Hit $100 Soon
 
 ### Offshore Magazine
