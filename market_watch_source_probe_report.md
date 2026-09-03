@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-03 03:22 UTC
+Generated: 2026-09-03 14:12 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 9 | OK. |
+| EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 27 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 7 | OK. |
 
 ## Titles By Source
@@ -25,7 +25,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 
 - U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
@@ -36,7 +36,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The U.S.-Canada natural gas and electricity trade value rose in 2025
 - China’s crude oil imports fell in the second quarter
 - Lower crude oil prices reduced U.S.-Canada energy trade value in 2025
-- Energia Costa Azul, Mexico’s second LNG terminal, shipped first cargo
 
 ### IEA
 
@@ -91,21 +90,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- DOE approves 20-year export authorization for Argent LNG project
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 
 ### Oil & Gas Journal
 
@@ -148,33 +147,33 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Hormuz Disruptions Could Drag Into Next Year, Japanese Tanker Giant Warns
+- Iraq Hikes Oil Exports via Hormuz in Boon for Asian Refiners
+- Global Refining Crunch Could Keep Fuel Prices High Into 2027
+- Europe’s Low Gas Stocks Set Stage for Winter LNG Battle
+- Chinese Refiners Pay Record Premiums for Russian ESPO Crude
+- Asian LNG Prices Surge to Highest Since 2022 as Iran War Escalates
+- Asian Oil Buying Spree Sends Dubai Crude Toward $100
 - Why Uranium Stocks Are Falling as U.S. Production Triples
 - U.S. SPR Depletion Threatens Further Oil Price Volatility
 - U.S. Diesel Prices Close In on April War Peak
 - OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply
 - Chevron Bets $7 Billion on Venezuela Oil Expansion
-- Budget Airline Warns Jet Fuel Shock Could Wipe Out Rivals
-- The Suspicious Timing Behind Trump's “Biggest Oil Deal In History”
-- U.S. Oil Stocks Drop as Fuel Demand Weakens
-- Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike
-- Ukraine’s Refinery Strikes Force Russia to Process Oil Abroad
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- AI Could Unlock $230B for Oil, Gas, OFSE Cos, McKinsey Says
-- USA-VEN Oil Deal Dubbed a 'Major Opportunity'
-- Trump Pressures USA Oil Refiners to Ease Pump Prices
+- Brent Could Hit $100 Soon
 
 ### Offshore Magazine
 
