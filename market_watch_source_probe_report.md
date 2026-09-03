@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-02 22:25 UTC
+Generated: 2026-09-03 03:22 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 27 | OK. |
 | OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 8 | OK. |
+| Offshore Magazine | active | 200 | 7 | OK. |
 
 ## Titles By Source
 
@@ -54,20 +54,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 10
 - Scraping note: OK.
 
 - US Widens Iran Campaign to Tankers
 - US Diesel Stocks Drain as Maintenance, Heating Seasons Loom
 - Improved Hormuz Flows Dent US Crude Exports in June
-- High Jet Fuel Prices Spark Airline Efficiency Drive
-- Oil Supply Toll Hits 2.2B bbl at Mideast War's 6-Month Mark
-- Mideast Crisis Brings Forward China's Demand Peak
-- Russian Crude Exports Fall in August as Drones Disrupt Loadings
+- Geopolitical Uncertainty Pushes Asian LNG Price Over 3-Year High
+- Russian Exports: Product Shipments Collapse, Crude Soars
 - Weekly Monitor: Rising Hormuz Risks Could Mean Prolonged/Indefinite Supply Issues
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
-- Russian Exports: Product Shipments Collapse, Crude Soars
 - QatarEnergy Extends Force Majeure on LNG to Italy's Edison
 - US Gulf Coast Refiners Ready for More Venezuelan Crude
 
@@ -94,21 +91,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Suriname offshore oil and gas momentum builds as GranMorgu advances
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - DOE approves 20-year export authorization for Argent LNG project
-- deugro launches Papua New Guinea JV for major LNG project logistics
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
+- deugro launches Papua New Guinea JV for major LNG project logistics
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 
 ### Oil & Gas Journal
 
@@ -120,16 +117,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
 - Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
+- Oil &amp; Gas Journal Weekly Market Recap
+- EIA: US crude inventories down 4.5 million bbl
 - A panoramic view of installations and eqiupment at Citgo&apos;s refinery in Lake Charles, La.
 - Citgo approves new processing unit for Lake Charles refinery
-- Comstock Haynesville drilling rig
-- Comstock proposes $1.65-billion SOCAR partnership, $450-million Haynesville drilling venture
 - Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Argentina LNG seeks RIGI approval for $51-billion investment
+- Comstock Haynesville drilling rig
+- Comstock proposes $1.65-billion SOCAR partnership, $450-million Haynesville drilling venture
 - EIA: US LNG exports rose 23% in first-half 2026 amid higher capacity
 - Oil & Gas Journal ReEnterprised
-- Two hands shaking against a background of US, Venezuela geographical silhouettes above an oil field with drilling equipment and a barrel of oil.
-- US, Venezuela reach deal covering 65 billion bbl of oil reserves
 - Construction vehicles undertaking site-preparation works in front of a refinery background.
 - BSR advances Dung Quat refinery expansion
 - A graph showing Nigeria&apos;s seaborne petroleum product shipments,
@@ -155,16 +152,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Why Uranium Stocks Are Falling as U.S. Production Triples
+- U.S. SPR Depletion Threatens Further Oil Price Volatility
 - U.S. Diesel Prices Close In on April War Peak
+- OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply
 - Chevron Bets $7 Billion on Venezuela Oil Expansion
 - Budget Airline Warns Jet Fuel Shock Could Wipe Out Rivals
-- OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply
 - The Suspicious Timing Behind Trump's “Biggest Oil Deal In History”
 - U.S. Oil Stocks Drop as Fuel Demand Weakens
 - Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike
 - Ukraine’s Refinery Strikes Force Russia to Process Oil Abroad
-- India Boosts Far East Russian Oil Imports as War Upends Trade Routes
-- Kazakhstan to Double Oil Refining Capacity by 2040
 
 ### Rigzone
 
@@ -184,14 +181,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - Are cycle times improving Looking at the offshore oil and gas project market since 2014
 - Oil rig in the Caspian Sea near Baku
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Valeura accelerates Wassana redevelopment offshore Thailand, targets earlier first oil
 - Mammoet completed heavy lifting operations for BW Energy&apos;s Maromba B wellhead platform conversion project
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
 - Oil India has extended its contract with Dolphin Drilling for the semisubmersible rig Blackford Dolphin offshore eastern India until October
