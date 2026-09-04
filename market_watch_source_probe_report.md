@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-04 03:20 UTC
+Generated: 2026-09-04 14:03 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 8 | OK. |
+| EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 7 | OK. |
 
 ## Titles By Source
@@ -25,9 +25,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 
+- Elevated crack spreads and crude oil prices contribute to higher prices at the pump
 - U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
 - Eight petroleum liquids pipeline projects have been completed since the start of 2025
 - Dangote refinery drives increase in petroleum shipments from Nigeria
@@ -53,10 +54,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 16
 - Scraping note: OK.
 
-- Trump's Venezuela Oil Deal Lands on Shaky Political Ground
+- South Korea to Merge State Oil, Gas and Power Entities
+- China's Oil Demand Peak Hinges on Petchem Demand
 - Venezuelan Law Clouds Landmark US Oil Deal
 - Uganda Unveils New Crude Export Grade Ahead of First Oil
 - US Blockade Tests Limits of Iran’s Oil Export Model
@@ -70,7 +72,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Russian Exports: Product Shipments Collapse, Crude Soars
 - US Widens Iran Campaign to Tankers
 - QatarEnergy Extends Force Majeure on LNG to Italy's Edison
-- US Gulf Coast Refiners Ready for More Venezuelan Crude
+- Russian Oil, Gas Revenues Drop in August
 
 ### World Oil
 
@@ -95,8 +97,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Kosmos Energy awards SCA onshore umbilical storage project
+- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
@@ -104,12 +108,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- DOE approves 20-year export authorization for Argent LNG project
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
-- deugro launches Papua New Guinea JV for major LNG project logistics
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
@@ -151,30 +153,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Iran Says It's Found Ways to Dodge U.S. Oil Blockade
+- The Iran War Has Put Venezuela’s Oil Back in the Spotlight
+- How Much Oil Is Really Getting Through the Strait of Hormuz?
+- WTI Back Above $91 as War Premium Returns
+- U.S. Diesel Prices Hit All-Time High as Global Fuel Squeeze Deepens
+- Argentina Targets Falklands Oil Drillers With Tougher Sanctions
+- UK Poised to Approve Jackdaw Gas Field as Energy Costs Soar
+- ADNOC Keeps Loading LNG as Hormuz Risks Intensify
+- Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge
 - U.S.-Venezuela Oil Deal Threatens China’s Oil-Backed Loans
 - Why Oil Majors Don’t Want to Build New U.S. Refineries
-- High Oil Prices Speed Up China’s Shift Away From Crude
-- Machado Backs U.S. Oil Partnership but Questions Venezuela Deal
-- UK Borrowing Costs Surge as Oil Shock Rattles Global Markets
-- U.S. Diesel Prices Surge Toward All-Time High
-- Russia’s Oil Revenue Sinks as Urals Falls to $59
-- Russia Says Oil Output Drop Is Temporary as Refineries Restart
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Texas Oil Regulator Hails 'Oil Theft Bust'
-- Brent Could Hit $100 Soon
+- Vaca Muerta Estimated to Hold 9B Barrels of Sub $55 Oil Resource
 
 ### Offshore Magazine
 
