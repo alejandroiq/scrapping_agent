@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-03 22:21 UTC
+Generated: 2026-09-04 03:20 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
 | OilPrice.com | active | 200 | 8 | OK. |
@@ -53,16 +53,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Trump's Venezuela Oil Deal Lands on Shaky Political Ground
 - Venezuelan Law Clouds Landmark US Oil Deal
 - Uganda Unveils New Crude Export Grade Ahead of First Oil
-- Gulf Players Lean on State Tanker Fleets for Risky Shipments
 - US Blockade Tests Limits of Iran’s Oil Export Model
-- Trump's Venezuela Oil Grab
+- Gulf Players Lean on State Tanker Fleets for Risky Shipments
+- Mideast War Erases Global Jet Fuel Demand Growth
 - Japan, South Korea Energy Priorities Diverge Amid Crisis
+- Trump's Venezuela Oil Grab
 - Weekly Monitor: Rising Hormuz Risks Could Mean Prolonged/Indefinite Supply Issues
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
@@ -79,8 +80,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Venezuela set for wave of oil deals as U.S. pushes production expansion
-- Comstock strikes $1.65 billion SOCAR deal, $450 million Haynesville drilling JV
+- Venezuela oil production could reach 2 MMbpd as investment accelerates
+- Guyana targets 1.7 MMbpd oil production by end of decade
 - Uganda unveils ‘Pearl Sweet’ crude blend ahead of first oil exports
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
@@ -94,21 +95,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- SLB to restore offshore production for Brunei Shell Petroleum
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- YPF-led Argentina LNG seeks approval for $51-billion investment
-- DOE approves 20-year export authorization for Argent LNG project
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 
 ### Oil & Gas Journal
 
@@ -154,14 +155,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- U.S.-Venezuela Oil Deal Threatens China’s Oil-Backed Loans
+- Why Oil Majors Don’t Want to Build New U.S. Refineries
 - High Oil Prices Speed Up China’s Shift Away From Crude
 - Machado Backs U.S. Oil Partnership but Questions Venezuela Deal
 - UK Borrowing Costs Surge as Oil Shock Rattles Global Markets
 - U.S. Diesel Prices Surge Toward All-Time High
 - Russia’s Oil Revenue Sinks as Urals Falls to $59
 - Russia Says Oil Output Drop Is Temporary as Refineries Restart
-- Hormuz Disruptions Could Drag Into Next Year, Japanese Tanker Giant Warns
-- Iraq Hikes Oil Exports via Hormuz in Boon for Asian Refiners
 
 ### Rigzone
 
