@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-04 22:11 UTC
+Generated: 2026-09-05 03:23 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
 | OilPrice.com | active | 200 | 10 | OK. |
@@ -54,16 +54,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 
 - China's Oil Demand Peak Hinges on Petchem Demand
 - 'At-Cost' Oil Deal Risks Chilling Venezuela Investment
 - YPF CEO Sees Path for Argentina to Double Oil Output
-- US Blockade Tests Limits of Iran’s Oil Export Model
 - Gulf Players Lean on State Tanker Fleets for Risky Shipments
+- US Blockade Tests Limits of Iran’s Oil Export Model
 - Mideast War Erases Global Jet Fuel Demand Growth
-- Haynesville Attracts More Foreign Investment With Comstock Deal
 - Weekly Monitor: Rising Hormuz Risks Could Mean Prolonged/Indefinite Supply Issues
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - The Governability Gap in Energy Portfolio Management
@@ -94,22 +93,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
-- DOE approves 20-year export authorization for Argent LNG project
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- UK LNG import plans draw criticism as North Sea production declines
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- UK LNG import plans draw criticism as North Sea production declines
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 
 ### Oil & Gas Journal
 
