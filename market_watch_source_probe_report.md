@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-05 13:17 UTC
+Generated: 2026-09-05 21:57 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -93,22 +93,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Guyana expands Caribbean energy partnerships as oil production grows
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
 - TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 - UK LNG import plans draw criticism as North Sea production declines
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
+- MODEC, Eld Energy advance fuel-cell carbon capture system for FPSOs
 
 ### Oil & Gas Journal
 
@@ -149,10 +149,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year
 - BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve
 - Ukraine Pushes Congress for Russia Sanctions Before Election Recess
 - Citadel Eyes U.S. Shale as Oil Trading Moves Closer to the Wellhead
@@ -160,9 +161,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC
 - Record Diesel Prices Push Brent Toward $95
 - China Rare Earth Firms Freeze U.S. Exports Weeks Before Xi-Trump Summit
-- Iran Says It's Found Ways to Dodge U.S. Oil Blockade
-- The Iran War Has Put Venezuela’s Oil Back in the Spotlight
-- How Much Oil Is Really Getting Through the Strait of Hormuz?
 
 ### Rigzone
 
