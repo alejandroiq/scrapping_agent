@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-05 03:23 UTC
+Generated: 2026-09-05 13:17 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -93,22 +93,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Energy NL’s Johnson sees renewed optimism for E&P offshore Newfoundland and Labrador after 10-year lull
-- SLB to restore offshore production for Brunei Shell Petroleum
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Guyana expands Caribbean energy partnerships as oil production grows
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
-- UK LNG import plans draw criticism as North Sea production declines
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 - TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- UK LNG import plans draw criticism as North Sea production declines
 
 ### Oil & Gas Journal
 
