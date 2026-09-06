@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-06 13:26 UTC
+Generated: 2026-09-06 21:59 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -83,8 +83,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Guyana targets 1.7 MMbpd oil production by end of decade
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -93,8 +93,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Siemens Energy supports Petrobras offshore expansion with FPSO systems
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
@@ -102,13 +101,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- YPF-led Argentina LNG seeks approval for $51-billion investment
 - UK LNG import plans draw criticism as North Sea production declines
+- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 - TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 
 ### Oil & Gas Journal
 
@@ -153,15 +153,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Majors Seek Bigger Bargaining Power in Labor Disputes
+- Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment
+- Oil-Rich Oman Bets Big on Renewable Energy
 - Iran War Forces a Rewrite of Global Oil Trade Routes
 - This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year
 - BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve
 - Ukraine Pushes Congress for Russia Sanctions Before Election Recess
 - Citadel Eyes U.S. Shale as Oil Trading Moves Closer to the Wellhead
 - U.S. Oil Rig Count Rises as Gas Rig Activity Declines
-- Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC
-- Record Diesel Prices Push Brent Toward $95
-- China Rare Earth Firms Freeze U.S. Exports Weeks Before Xi-Trump Summit
 
 ### Rigzone
 
