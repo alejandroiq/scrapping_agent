@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-06 03:23 UTC
+Generated: 2026-09-06 13:26 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -93,22 +93,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
+- Siemens Energy supports Petrobras offshore expansion with FPSO systems
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- YPF-led Argentina LNG seeks approval for $51-billion investment
+- UK LNG import plans draw criticism as North Sea production declines
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 
 ### Oil & Gas Journal
 
