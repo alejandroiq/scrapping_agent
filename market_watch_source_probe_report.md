@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-05 21:57 UTC
+Generated: 2026-09-06 03:23 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -83,8 +83,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Guyana targets 1.7 MMbpd oil production by end of decade
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -93,22 +93,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- SLB to restore offshore production for Brunei Shell Petroleum
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
+- deugro launches Papua New Guinea JV for major LNG project logistics
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- UK LNG import plans draw criticism as North Sea production declines
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- MODEC, Eld Energy advance fuel-cell carbon capture system for FPSOs
 
 ### Oil & Gas Journal
 
@@ -149,10 +149,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Iran War Forces a Rewrite of Global Oil Trade Routes
 - This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year
 - BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve
 - Ukraine Pushes Congress for Russia Sanctions Before Election Recess
