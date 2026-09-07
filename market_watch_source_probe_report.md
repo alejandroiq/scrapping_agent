@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-07 15:33 UTC
+Generated: 2026-09-07 22:35 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -58,8 +58,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - TotalEnergies Hands Papua LNG Operatorship to Exxon Mobil
-- China's Oil Demand Peak Hinges on Petchem Demand
-- 'At-Cost' Oil Deal Risks Chilling Venezuela Investment
+- Nigeria’s Dangote Refinery Launches $1.5 Billion IPO
 - YPF CEO Sees Path for Argentina to Double Oil Output
 - Gulf Players Lean on State Tanker Fleets for Risky Shipments
 - US Blockade Tests Limits of Iran’s Oil Export Model
@@ -68,6 +67,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Russian Exports: Product Shipments Collapse, Crude Soars
 - US Widens Iran Campaign to Tankers
 - Russian Oil, Gas Revenues Drop in August
+- US Gulf Coast Refiners Ready for More Venezuelan Crude
 
 ### World Oil
 
@@ -93,20 +93,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
 - SLB to restore offshore production for Brunei Shell Petroleum
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Argentina pressures energy companies over Falkland Islands oil development
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- DOE approves 20-year export authorization for Argent LNG project
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
@@ -151,17 +151,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Washington’s Venezuela Oil Deal Is About Much More Than Crude
+- Rosneft Ships First Crude From $157 Billion Vostok Oil Project
+- GM, Ford Turn EV Battery Bust Into Energy Storage Bet
+- Sudan Could Become the Red Sea’s Next Energy Security Flashpoint
+- Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat
+- Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain
 - India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle
 - Can Iraq Really Replace Saudi Arabia As The Middle East’s Top Oil Producer?
 - American and African Crudes Soar as China's Oil Imports Rebound
 - High Crude and LNG Prices Weigh on India’s Oil and Gas Sector
 - Saudi Aramco's Jizan Refinery Hit Again as Houthi Attacks Escalate
-- India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates
-- Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise
-- Qatar Moves Six LNG Tankers Toward Gulf as Export Restart Looms
-- Shipping Fuel Shortage Looms as Refiners Prioritize Diesel
-- Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge
-- Russia Is Redrawing Its Energy Map Through the Arctic
 
 ### Rigzone
 
