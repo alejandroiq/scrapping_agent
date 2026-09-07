@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-06 21:59 UTC
+Generated: 2026-09-07 03:23 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -93,22 +93,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- UK LNG import plans draw criticism as North Sea production declines
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- PetroChina weighs LNG Canada stake sale to fund Phase 2 expansion
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Shale boom, electrification will drive natural gas past oil by 2030
 - deugro launches Papua New Guinea JV for major LNG project logistics
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 - TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 
 ### Oil & Gas Journal
 
@@ -149,10 +149,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Russia Is Redrawing Its Energy Map Through the Arctic
 - Oil Majors Seek Bigger Bargaining Power in Labor Disputes
 - Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment
 - Oil-Rich Oman Bets Big on Renewable Energy
@@ -160,8 +161,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year
 - BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve
 - Ukraine Pushes Congress for Russia Sanctions Before Election Recess
-- Citadel Eyes U.S. Shale as Oil Trading Moves Closer to the Wellhead
-- U.S. Oil Rig Count Rises as Gas Rig Activity Declines
 
 ### Rigzone
 
