@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-07 22:35 UTC
+Generated: 2026-09-08 03:28 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 8 | OK. |
+| Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
 
@@ -78,14 +78,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
+- Argentina pressures energy companies over Falkland Islands oil development
 - Oil and Gas Prices
+- Oil nears $98 as Chinese crude buying rebounds, Middle East risks intensify
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Bessent sees oil falling as low as $40 after Iran war
-- Iran, U.S. escalate attacks on oil tankers as war drags on
-- Zion Oil & Gas completes horizontal drilling at MJ-02 well in Israel
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -93,19 +94,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
+- Guyana expands Caribbean energy partnerships as oil production grows
+- Kosmos Energy awards SCA onshore umbilical storage project
 - Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Argentina pressures energy companies over Falkland Islands oil development
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
@@ -147,7 +147,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -160,8 +160,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle
 - Can Iraq Really Replace Saudi Arabia As The Middle East’s Top Oil Producer?
 - American and African Crudes Soar as China's Oil Imports Rebound
-- High Crude and LNG Prices Weigh on India’s Oil and Gas Sector
-- Saudi Aramco's Jizan Refinery Hit Again as Houthi Attacks Escalate
 
 ### Rigzone
 
@@ -180,10 +178,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Ghana signs preliminary deal with Shell and Chevron on deepwater oil and gas development
 - ABS, JB Energy partner on studies for Brazil floating wind pilot
 - Oil rig in the Caspian Sea near Baku
 - Are cycle times improving Looking at the offshore oil and gas project market since 2014
