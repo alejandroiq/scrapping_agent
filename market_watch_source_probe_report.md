@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-08 03:28 UTC
+Generated: 2026-09-08 14:12 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 11 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
+| Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
 
@@ -94,19 +94,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Guyana expands Caribbean energy partnerships as oil production grows
-- Kosmos Energy awards SCA onshore umbilical storage project
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - SLB to restore offshore production for Brunei Shell Petroleum
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
+- deugro launches Papua New Guinea JV for major LNG project logistics
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 
 ### Oil & Gas Journal
 
@@ -147,46 +147,47 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- $100 Brent Looms as China’s Oil Buying Rebounds
+- Oil Tankers Flood Back Into Suez Canal As Red Sea Risk Grows
+- China’s Crude Buying Rebounds as Fuel Exports Jump 29%
+- Oil Prices Near $100 After Fresh Attacks on Saudi Energy Sites
+- Global Diesel Supply Crunch Is Set to Last Through Winter
+- Oil Prices Climb Toward $100 as Middle East Peace Hopes Fade
 - Washington’s Venezuela Oil Deal Is About Much More Than Crude
 - Rosneft Ships First Crude From $157 Billion Vostok Oil Project
 - GM, Ford Turn EV Battery Bust Into Energy Storage Bet
 - Sudan Could Become the Red Sea’s Next Energy Security Flashpoint
-- Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat
-- Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain
-- India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle
-- Can Iraq Really Replace Saudi Arabia As The Middle East’s Top Oil Producer?
-- American and African Crudes Soar as China's Oil Imports Rebound
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Venezuela OPEC Exit 'Structurally Likely'
-- OPEC+ 7 Reveal October Output Plan
+- Oil Prices Hit 3-Month Highs
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Papua LNG edges toward FID as TotalEnergies hands operatorship to ExxonMobil
 - Ghana signs preliminary deal with Shell and Chevron on deepwater oil and gas development
-- ABS, JB Energy partner on studies for Brazil floating wind pilot
 - Oil rig in the Caspian Sea near Baku
 - Are cycle times improving Looking at the offshore oil and gas project market since 2014
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- ABS, JB Energy partner on studies for Brazil floating wind pilot
 - Mammoet completed heavy lifting operations for BW Energy&apos;s Maromba B wellhead platform conversion project
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
 - Oil India has extended its contract with Dolphin Drilling for the semisubmersible rig Blackford Dolphin offshore eastern India until October
