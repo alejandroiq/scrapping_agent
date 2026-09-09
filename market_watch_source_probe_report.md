@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-09 03:32 UTC
+Generated: 2026-09-09 14:13 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 9 | OK. |
+| EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 14 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
@@ -25,7 +25,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 
 - Elevated crack spreads and crude oil prices contribute to higher prices at the pump
@@ -36,7 +36,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - United States on track for record natural gas production in 2026
 - The U.S.-Canada natural gas and electricity trade value rose in 2025
 - China’s crude oil imports fell in the second quarter
-- Lower crude oil prices reduced U.S.-Canada energy trade value in 2025
 
 ### IEA
 
@@ -54,7 +53,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 13
 - Scraping note: OK.
 
 - Saudi Energy Sites Targeted as Houthi Conflict Escalates
@@ -69,8 +68,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Critical Trends, September 2026: LNG FID Outlook Update
 - Weekly Monitor: Rising Hormuz Risks Could Mean Prolonged/Indefinite Supply Issues
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
-- Russian Exports: Product Shipments Collapse, Crude Soars
-- US Widens Iran Campaign to Tankers
 - Russian Oil, Gas Revenues Drop in August
 
 ### World Oil
@@ -81,13 +78,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Oil and Gas Prices
+- Brent tops $100 as U.S.-Iran conflict escalates
 - Tamarack Valley, Headwater to merge in $7.2-billion Canadian oil deal
 - Saudi Arabia halts energy operations after Houthi attacks
-- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Argentina pressures energy companies over Falkland Islands oil development
-- Oil and Gas Prices
-- Oil nears $98 as Chinese crude buying rebounds, Middle East risks intensify
-- Africa eyes depleted oil and gas reservoirs for carbon storage
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
@@ -98,19 +94,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Kosmos Energy awards SCA onshore umbilical storage project
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Africa eyes depleted oil and gas reservoirs for carbon storage
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
@@ -151,31 +148,37 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 14
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- California Heat Wave Tests Grid as Power Demand Surges
+- Sinopec Sees China Oil Demand Falling 8.9% in 2026
+- Morgan Stanley: Oil Traders Are ‘More Precise’ With Risk as Wars Drag On
+- Diesel Crunch Set to Worsen as Refining Capacity Falls Short, Industry Warns
+- India’s Refineries Run at Up to 108% as Diesel Demand Surges
+- Iraq Pushes OPEC for a Huge Increase in Its Oil Quota
+- Brent Breaks $100 for the First Time in Nearly Two Months
+- Rising Oil Prices Threaten China’s Independent Refiners
+- Pakistan’s Energy Crisis Set to Ease as Qatari LNG Breaks Through Hormuz
+- Oil Prices Hit $100 as U.S. Destroys Five Iranian Tankers
 - Iran’s Oil Exports Collapse as Hormuz Standoff Drags On
 - Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens
 - Copper Surges Above $14,500 as Supply Squeeze Deepens
 - Labor Day Gasoline Just Hit a Record. Here’s What Comes Next
-- How the U.S. Is Targeting Iran's Oil Money
-- Chevron to Double Venezuela Rig Count in $7 Billion Oil Push
-- Canada’s Oil Pivot to Asia Is Starting to Materialize
-- Uganda Set to Become World's Newest Oil Exporter in Early 2027
-- Oil Prices Are Once Again on the Brink of $100
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Oil Prices Hit 3-Month Highs
-- Venezuelans Split on Trump Oil Deal
+- Brent Oil Price Breaks $100 Per Barrel
+- HSBC Analysts Significantly Raise Oil Price Forecasts
+- Iraq Asks OPEC to Raise Quota
 
 ### Offshore Magazine
 
