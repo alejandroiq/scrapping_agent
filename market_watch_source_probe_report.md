@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-10 03:30 UTC
+Generated: 2026-09-10 14:07 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 14 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 28 | OK. |
-| OilPrice.com | active | 200 | 6 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
 ## Titles By Source
@@ -28,6 +28,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 8
 - Scraping note: OK.
 
+- United States on track for record crude oil production in 2026
 - Elevated crack spreads and crude oil prices contribute to higher prices at the pump
 - U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
 - Eight petroleum liquids pipeline projects have been completed since the start of 2025
@@ -35,7 +36,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Longer wells boost Permian crude oil and natural gas production
 - United States on track for record natural gas production in 2026
 - The U.S.-Canada natural gas and electricity trade value rose in 2025
-- China’s crude oil imports fell in the second quarter
 
 ### IEA
 
@@ -53,21 +53,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 14
 - Scraping note: OK.
 
 - Tanker Strikes Threaten Fragile Hormuz Recovery
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
-- Limits Seen to LNG STS Transfers Outside Hormuz
-- Kuwait Defies Iran to Keep Hormuz Oil Shuttles Moving
+- Resurgent Mideast Hostilities Push Brent Back Over $100
 - Saudi Energy Sites Targeted as Houthi Conflict Escalates
-- Hormuz Export Rebound Pulls Iraq Oil Output Higher
-- Europe's Winter Gas Challenge Is Price, Not LNG Supply Access
-- Critical Phase Looms for Namibia’s Oil Sector
+- Limits Seen to LNG STS Transfers Outside Hormuz
+- Taking Stock of Western Majors' Upcoming Upstream FIDs
+- Vostok Oil Cements Moscow's Arctic Drive, Reliance on China
+- Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Critical Trends, September 2026: LNG FID Outlook Update
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - China Starts Ramping Up Crude Imports
 - Russian Oil, Gas Revenues Drop in August
+- Kuwait Defies Iran to Keep Hormuz Oil Shuttles Moving
 - TotalEnergies Hands Papua LNG Operatorship to Exxon Mobil
 
 ### World Oil
@@ -78,11 +79,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- U.S. crude oil production on track for record 13.8 MMbpd in 2026, EIA says
 - Oil and Gas Prices
 - Brent tops $101 as U.S.-Iran tanker attacks escalate
 - Tamarack Valley, Headwater to merge in $7.2-billion Canadian oil deal
 - Saudi Arabia halts energy operations after Houthi attacks
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -95,19 +97,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Kosmos Energy awards SCA onshore umbilical storage project
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Argentina pressures energy companies over Falkland Islands oil development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -151,29 +152,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Oil Breaks $100—and This Rally Has Legs
+- HSBC Raises 2026 Brent Forecast to $90 as Hormuz Crisis Drags On
+- Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar
+- India Calls for Bigger Biofuel Push as Oil Prices Soar
+- Australia Softens Gas Reservation Rule for LNG Exporters
+- Oil Holds Above $100 as U.S.-Iran Tanker War Escalates
+- WTI Breaks $100—and This Rally Has Legs
 - Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market
 - U.S. Crude Stocks Edge Lower as Oil Tops $100
-- Uganda Launches New Crude Grade as First Oil Exports Near
-- Google Bets €13 Billion on Finland to Power AI Boom With Nuclear Energy
-- Ukraine Targets Russia's Key Black Sea Oil Port
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Brent Oil Price Breaks $100 Per Barrel
-- USA Oil, Gas Workforce Figures Buck Trend
-- Iraq Asks OPEC to Raise Quota
+- Oil Closes at Highest Level in 4 Months
 
 ### Offshore Magazine
 
