@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-09 22:19 UTC
+Generated: 2026-09-10 03:30 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 26 | OK. |
+| Oil & Gas Journal | active | 200 | 28 | OK. |
 | OilPrice.com | active | 200 | 6 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
@@ -53,7 +53,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 
 - Tanker Strikes Threaten Fragile Hormuz Recovery
@@ -65,7 +65,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Europe's Winter Gas Challenge Is Price, Not LNG Supply Access
 - Critical Phase Looms for Namibia’s Oil Sector
 - Critical Trends, September 2026: LNG FID Outlook Update
-- Weekly Monitor: Rising Hormuz Risks Could Mean Prolonged/Indefinite Supply Issues
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - China Starts Ramping Up Crude Imports
 - Russian Oil, Gas Revenues Drop in August
@@ -86,39 +85,41 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Kosmos Energy awards SCA onshore umbilical storage project
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Argentina pressures energy companies over Falkland Islands oil development
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes wins major technology order for Venture Global's CP2 LNG expansion
 - CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 - Africa eyes depleted oil and gas reservoirs for carbon storage
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- Shale boom, electrification will drive natural gas past oil by 2030
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 26
+- Relevant news count: 28
 - Scraping note: OK.
 
 - OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
+- Tallgrass crude portfolio
+- Enbridge to acquire Tallgrass Energy's crude transportation business for $2.55 billion
 - oil and gas infrastructure with digital global map and line graph
 - Oil tops $100 as Middle East supply risks intensify
 - Papua LNG project map
@@ -154,12 +155,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Breaks $100—and This Rally Has Legs
+- Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market
 - U.S. Crude Stocks Edge Lower as Oil Tops $100
 - Uganda Launches New Crude Grade as First Oil Exports Near
 - Google Bets €13 Billion on Finland to Power AI Boom With Nuclear Energy
 - Ukraine Targets Russia's Key Black Sea Oil Port
-- California Heat Wave Tests Grid as Power Demand Surges
-- Sinopec Sees China Oil Demand Falling 8.9% in 2026
 
 ### Rigzone
 
