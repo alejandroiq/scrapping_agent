@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-10 22:18 UTC
+Generated: 2026-09-11 03:28 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
@@ -53,17 +53,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 18
 - Scraping note: OK.
 
 - Fortified Tankers Lift Hormuz Flows to 10M b/d: Shipping Official
 - Europe Scrambles for Scarce Diesel Ahead of Winter
 - Brent's Surge Above $107 Signals Deeper Mideast Supply Risk
 - Australia Eases Gas Reserve Rules for LNG Exporters
-- Resurgent Mideast Hostilities Push Brent Back Over $100
-- Limits Seen to LNG STS Transfers Outside Hormuz
-- Taking Stock of Western Majors' Upcoming Upstream FIDs
-- Vostok Oil Cements Moscow's Arctic Drive, Reliance on China
+- Gulf Refining Strains Ripple Through Global Markets
+- Asia Toughs Out Supply Crisis as Markets Battle Uncertainty
+- China's Return to Buying 'Spooks' Crude Market Players
+- Intense Skepticism Surrounds US' 'Historic' Venezuela Oil Deal
+- Venezuela Oil Deals Stack Up, But to What End?
+- US Clean Energy Projects Splinter After Funding Cuts
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Critical Trends, September 2026: LNG FID Outlook Update
 - The Illusions of Energy Power
@@ -89,28 +91,28 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Saudi Arabia halts energy operations after Houthi attacks
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Argentina pressures energy companies over Falkland Islands oil development
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Argentina pressures energy companies over Falkland Islands oil development
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- UK LNG import plans draw criticism as North Sea production declines
 - deugro launches Papua New Guinea JV for major LNG project logistics
-- YPF-led Argentina LNG seeks approval for $51-billion investment
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -159,6 +161,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- AI Boom to Boost Southeast Asia’s LNG Demand
 - Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support
 - OPEC Sees Oil Demand Growth Explode Sixfold in 2027
 - Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders
@@ -167,7 +170,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. Crude Inventories Fall As Brent Prices Soar
 - Senegal to Offer 109 Oil and Gas Blocks to Investors
 - IEA: Global Coal Demand Set to Hit Record High as Iran War Chokes LNG Supply
-- HSBC Raises 2026 Brent Forecast to $90 as Hormuz Crisis Drags On
 
 ### Rigzone
 
