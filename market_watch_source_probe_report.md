@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-11 14:06 UTC
+Generated: 2026-09-11 22:18 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
 
@@ -56,22 +56,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 16
 - Scraping note: OK.
 
-- Brent's Surge Above $107 Signals Deeper Mideast Supply Risk
-- Europe Scrambles for Scarce Diesel Ahead of Winter
+- IEA Sees Wider Supply Deficit as Mideast Quagmire Drags On
+- What We Know So Far About the 'Historic' US-Venezuela Oil Deal
 - Gulf Refining Strains Ripple Through Global Markets
-- Asia Toughs Out Supply Crisis as Markets Battle Uncertainty
-- China's Return to Buying 'Spooks' Crude Market Players
-- Intense Skepticism Surrounds US' 'Historic' Venezuela Oil Deal
 - Venezuela Oil Deals Stack Up, But to What End?
-- US Clean Energy Projects Splinter After Funding Cuts
+- Taking Stock of Western Majors' Upcoming Upstream FIDs
+- US LNG Exporters Could Be Headed for a Lucrative Winter
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Critical Trends, September 2026: LNG FID Outlook Update
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
+- Europe Scrambles for Scarce Diesel Ahead of Winter
 - China Starts Ramping Up Crude Imports
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
 - Kuwait Defies Iran to Keep Hormuz Oil Shuttles Moving
+- Saudi Energy Sites Targeted as Houthi Conflict Escalates
 
 ### World Oil
 
@@ -89,8 +89,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Afreximbank targets new Angola oil and gas investment after nearly $2 billion deployed
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -99,18 +99,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Argentina pressures energy companies over Falkland Islands oil development
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -121,24 +121,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - EIA sees Brent near $90/bbl in second-half 2026 amid Middle East disruptions
-- OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
+- Aerial view of the front of a large crude oil tanker ship at sea.
+- S&P Global: Middle East crude flows to stay below prewar levels through 2027
+- Middle East oil shipping
+- Oil extends rally on further Middle East disruptions
+- Demand supply balance / Cumulative changes to oil balance
+- IEA sees oil demand decline deepening as Middle East disruptions persist
 - EIA: US crude inventories down 400,000 bbl
+- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - US crude oil production
 - EIA forecasts continued growth in US crude oil production through 2026
-- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
-- Venezuela pitches oil, gas investment opportunities at Houston showcase
 - Tallgrass crude portfolio
 - Enbridge to acquire Tallgrass Energy's crude transportation business for $2.55 billion
-- oil and gas infrastructure with digital global map and line graph
-- Oil tops $100 as Middle East supply risks intensify
-- Papua LNG project map
-- ExxonMobil to assume operatorship of Papua LNG from TotalEnergies
 - A panoramic view of installations and eqiupment at Citgo&apos;s refinery in Lake Charles, La.
 - Citgo approves new processing unit for Lake Charles refinery
+- Infrastructure for new aromatics unit at OMV Petrom&apos;s Petrobrazi refinery
+- OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
 - Construction vehicles undertaking site-preparation works in front of a refinery background.
 - BSR advances Dung Quat refinery expansion
-- Photo showing a seaview of the Saint John refinery complex.
-- Irving Oil details plans for 2026 turnaround of Canada’s largest refinery
 - 498979279491515___commercialenergy_headerimage_128
 - Oil and gas drilling operations onshore US
 - Learn more here: https://polishoilandgas.com/
@@ -155,21 +155,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- U.S. Oil Rig Count Rises as Oil Tops $100
+- Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline
+- Saudi Arabia’s Critical Oil Bypass Comes Under Threat
+- Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate
+- IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027
 - Debunking the Viral Claim That America Has Only 14 Days of Oil Left
 - Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat
 - Vostok Oil: One Tanker, Four Trillion Rubles
-- WTI Breaks $100 as Middle East Supply Crisis Deepens
-- Energy Aspects: Oil Market Has Reached an "Inflection Point"
-- China's Crude Imports Set to Hold at 7.2 Million Bpd in September
-- China’s 70% EV Target Deals Another Blow to Oil Demand
-- Oil Prices Could Top $120 as Middle East Conflict Escalates
-- U.S. Diesel Prices Top $6 a Gallon for First Time Ever
-- Oil Prices Surge to Four-Month Highs as War Risks Mount
-- AI Boom to Boost Southeast Asia’s LNG Demand
 
 ### Rigzone
 
@@ -188,16 +185,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- New Fortress Energy sells former Seadrill semisubs for scrap
-- ExxonMobil awards Saipem-Jan De Nul preliminary offshore work for Rovuma LNG
+- Map of United Oil &amp; Gas&apos; Walton-Morant license offshore southern Jamaica
+- OCTG pipe inventory at a Vallourec facility
 - Oil rig in the Caspian Sea near Baku
 - Are cycle times improving Looking at the offshore oil and gas project market since 2014
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - TotalEnergies fast-tracks Angola oil discovery, enters two new Lower Congo Basin blocks
+- New Fortress Energy sells former Seadrill semisubs for scrap
 - Mammoet completed heavy lifting operations for BW Energy&apos;s Maromba B wellhead platform conversion project
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
 - Oil India has extended its contract with Dolphin Drilling for the semisubmersible rig Blackford Dolphin offshore eastern India until October
