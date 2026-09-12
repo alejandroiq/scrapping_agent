@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-12 13:23 UTC
+Generated: 2026-09-12 21:58 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -97,20 +97,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Argentina pressures energy companies over Falkland Islands oil development
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
-- YPF-led Argentina LNG seeks approval for $51-billion investment
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- UK LNG import plans draw criticism as North Sea production declines
 
 ### Oil & Gas Journal
 
@@ -155,18 +155,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- The Race to Solve Nuclear Energy’s Biggest Problem
 - U.S. Oil Rig Count Rises as Oil Tops $100
 - Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline
 - Saudi Arabia’s Critical Oil Bypass Comes Under Threat
 - Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate
 - IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027
 - Debunking the Viral Claim That America Has Only 14 Days of Oil Left
-- Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat
-- Vostok Oil: One Tanker, Four Trillion Rubles
 
 ### Rigzone
 
