@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-12 03:33 UTC
+Generated: 2026-09-12 13:23 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -97,8 +97,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Kosmos Energy awards SCA onshore umbilical storage project
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Argentina pressures energy companies over Falkland Islands oil development
@@ -109,8 +109,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil advances Rovuma LNG with McDermott engineering award
-- deugro launches Papua New Guinea JV for major LNG project logistics
+- Woodside Q2 output falls 18% as cyclone, maintenance hit LNG production
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 
 ### Oil & Gas Journal
 
