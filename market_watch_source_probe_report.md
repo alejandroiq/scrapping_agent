@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-11 22:18 UTC
+Generated: 2026-09-12 03:33 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -16,7 +16,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Oil & Gas Journal | active | 200 | 29 | OK. |
 | OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
 
@@ -97,20 +97,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB to restore offshore production for Brunei Shell Petroleum
+- Kosmos Energy awards SCA onshore umbilical storage project
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Argentina pressures energy companies over Falkland Islands oil development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
+- deugro launches Papua New Guinea JV for major LNG project logistics
 
 ### Oil & Gas Journal
 
@@ -185,14 +185,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - Map of United Oil &amp; Gas&apos; Walton-Morant license offshore southern Jamaica
 - OCTG pipe inventory at a Vallourec facility
 - Oil rig in the Caspian Sea near Baku
-- Are cycle times improving Looking at the offshore oil and gas project market since 2014
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - TotalEnergies fast-tracks Angola oil discovery, enters two new Lower Congo Basin blocks
 - New Fortress Energy sells former Seadrill semisubs for scrap
