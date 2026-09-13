@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-13 14:07 UTC
+Generated: 2026-09-13 22:11 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
+| OilPrice.com | active | 200 | 6 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -99,13 +99,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Argentina pressures energy companies over Falkland Islands oil development
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
@@ -155,17 +155,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 6
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Further Oil Price Spikes Could Rekindle Recession Fears
+- UK Wind Power Hits Record High as Energy Security Risks Mount
 - Oil Industry Braces for Years-Long Iran War
 - The Race to Solve Nuclear Energy’s Biggest Problem
 - U.S. Oil Rig Count Rises as Oil Tops $100
 - Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline
-- Saudi Arabia’s Critical Oil Bypass Comes Under Threat
-- Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate
-- IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027
 
 ### Rigzone
 
