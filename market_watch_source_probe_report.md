@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-13 03:39 UTC
+Generated: 2026-09-13 14:07 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -97,20 +97,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- INEOS Energy chairman says bp's North Sea exit underscores UK's investment challenges
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Argentina pressures energy companies over Falkland Islands oil development
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- UK LNG import plans draw criticism as North Sea production declines
 
 ### Oil & Gas Journal
 
