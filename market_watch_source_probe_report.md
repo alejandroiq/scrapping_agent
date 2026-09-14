@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-13 22:11 UTC
+Generated: 2026-09-14 03:48 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 6 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -71,7 +71,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - China Starts Ramping Up Crude Imports
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
 - Kuwait Defies Iran to Keep Hormuz Oil Shuttles Moving
-- Saudi Energy Sites Targeted as Houthi Conflict Escalates
+- White House Eyes Defense Production Act to Boost Fuel Supply
 
 ### World Oil
 
@@ -81,12 +81,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- U.S.-backed NABEP targets 500,000 bpd of Venezuela oil output by 2028
-- Brent nears $108 as Middle East attacks intensify oil supply concerns
+- Wright warns oil markets against expecting Iran-Hormuz breakthrough
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- IEA cuts 2026 oil supply outlook as Gulf recovery slips to 2027
 - U.S. crude oil production on track for record 13.8 MMbpd in 2026, EIA says
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Afreximbank targets new Angola oil and gas investment after nearly $2 billion deployed
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
@@ -99,18 +98,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- Argentina pressures energy companies over Falkland Islands oil development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB to restore offshore production for Brunei Shell Petroleum
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Argentina pressures energy companies over Falkland Islands oil development
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- YPF-led Argentina LNG seeks approval for $51-billion investment
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 
 ### Oil & Gas Journal
 
@@ -155,16 +155,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles
+- StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes
 - Further Oil Price Spikes Could Rekindle Recession Fears
 - UK Wind Power Hits Record High as Energy Security Risks Mount
 - Oil Industry Braces for Years-Long Iran War
 - The Race to Solve Nuclear Energy’s Biggest Problem
 - U.S. Oil Rig Count Rises as Oil Tops $100
-- Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline
 
 ### Rigzone
 
