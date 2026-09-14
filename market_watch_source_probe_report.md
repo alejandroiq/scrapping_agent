@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-14 03:48 UTC
+Generated: 2026-09-14 16:12 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
@@ -53,11 +53,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 17
 - Scraping note: OK.
 
+- Oil Prices Leap as Saudi Exports Strangled
+- China Caps Retail Price Hikes, Monitors Products Exports
 - IEA Sees Wider Supply Deficit as Mideast Quagmire Drags On
 - What We Know So Far About the 'Historic' US-Venezuela Oil Deal
+- White House Eyes Defense Production Act to Boost Fuel Supply
 - Gulf Refining Strains Ripple Through Global Markets
 - Venezuela Oil Deals Stack Up, But to What End?
 - Taking Stock of Western Majors' Upcoming Upstream FIDs
@@ -70,8 +73,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Europe Scrambles for Scarce Diesel Ahead of Winter
 - China Starts Ramping Up Crude Imports
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
-- Kuwait Defies Iran to Keep Hormuz Oil Shuttles Moving
-- White House Eyes Defense Production Act to Boost Fuel Supply
 
 ### World Oil
 
@@ -81,36 +82,36 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Venezuela joins G20 energy summit in Houston as U.S. seeks more oil deals
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Wright warns oil markets against expecting Iran-Hormuz breakthrough
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - IEA cuts 2026 oil supply outlook as Gulf recovery slips to 2027
-- U.S. crude oil production on track for record 13.8 MMbpd in 2026, EIA says
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- UK LNG import plans draw criticism as North Sea production declines
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Argentina pressures energy companies over Falkland Islands oil development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- YPF-led Argentina LNG seeks approval for $51-billion investment
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 
 ### Oil & Gas Journal
 
@@ -127,8 +128,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil extends rally on further Middle East disruptions
 - Demand supply balance / Cumulative changes to oil balance
 - IEA sees oil demand decline deepening as Middle East disruptions persist
-- EIA: US crude inventories down 400,000 bbl
 - AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
+- EIA: US crude inventories down 400,000 bbl
 - US crude oil production
 - EIA forecasts continued growth in US crude oil production through 2026
 - Tallgrass crude portfolio
@@ -155,29 +156,33 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Record Freight Costs Squeeze Russia's Black Sea Crude Exports
+- Syria Diesel Prices Jump 40% Triggering Widespread Unrest
+- Brent at $108: Gulf States Halt Hormuz Talks as Houthis Strike Saudi Airbase
+- Chevron Expects LNG Prices To Remain High in the Short Term
+- Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles
+- Soaring Oil Prices Put Fed on Track for September Rate Hike
+- Oman Energy Minister Says Middle East Needs to Diversify LNG Export Routes
+- Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears
 - Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles
 - StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes
-- Further Oil Price Spikes Could Rekindle Recession Fears
-- UK Wind Power Hits Record High as Energy Security Risks Mount
-- Oil Industry Braces for Years-Long Iran War
-- The Race to Solve Nuclear Energy’s Biggest Problem
-- U.S. Oil Rig Count Rises as Oil Tops $100
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- What if the Assumptions Embedded in the Oil Curve Are Wrong?
-- USA Diesel Hits $6 Per Gallon for First Time Ever
+- Brent Oil Passes $108 Per Barrel
+- EIA Sees 2026 Oil Price Coming in $22 Higher Than Last Year
+- Trump Demands Russian Refineries Be Spared as Diesel Surges
 
 ### Offshore Magazine
 
