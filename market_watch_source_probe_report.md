@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-14 16:12 UTC
+Generated: 2026-09-14 22:59 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -53,26 +53,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 22
 - Scraping note: OK.
 
 - Oil Prices Leap as Saudi Exports Strangled
-- China Caps Retail Price Hikes, Monitors Products Exports
-- IEA Sees Wider Supply Deficit as Mideast Quagmire Drags On
-- What We Know So Far About the 'Historic' US-Venezuela Oil Deal
-- White House Eyes Defense Production Act to Boost Fuel Supply
-- Gulf Refining Strains Ripple Through Global Markets
-- Venezuela Oil Deals Stack Up, But to What End?
-- Taking Stock of Western Majors' Upcoming Upstream FIDs
+- China's Return to Buying 'Spooks' Crude Market Players
 - US LNG Exporters Could Be Headed for a Lucrative Winter
+- What We Know So Far About the 'Historic' US-Venezuela Oil Deal
+- Trump Pushes Russia-Ukraine Energy Truce Amid Diesel Crunch
+- Thailand Weighs LNG-Buying Consortium to Boost Clout
+- LNG Buyers Cautiously Return to Long-Term Deals
+- Mideast Crisis: How Oil Markets Have Coped Since War's Outbreak
+- Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
+- Iraq Makes Capacity Claim Ahead of Opec Baseline Audit
+- Taking Stock of Western Majors' Upcoming Upstream FIDs
+- Venezuela Oil Deals Stack Up, But to What End?
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Critical Trends, September 2026: LNG FID Outlook Update
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - Europe Scrambles for Scarce Diesel Ahead of Winter
+- China Caps Retail Price Hikes, Monitors Products Exports
 - China Starts Ramping Up Crude Imports
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
+- White House Eyes Defense Production Act to Boost Fuel Supply
 
 ### World Oil
 
@@ -97,21 +102,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- UK LNG import plans draw criticism as North Sea production declines
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Argentina pressures energy companies over Falkland Islands oil development
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Argentina pressures energy companies over Falkland Islands oil development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 
 ### Oil & Gas Journal
 
@@ -121,19 +126,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 29
 - Scraping note: OK.
 
+- YPF taps Axens for new diesel hydrotreater at Argentinian refinery
 - EIA sees Brent near $90/bbl in second-half 2026 amid Middle East disruptions
+- IEA: Ukrainian drone campaign degrades Russian refining resilience
 - Aerial view of the front of a large crude oil tanker ship at sea.
 - S&P Global: Middle East crude flows to stay below prewar levels through 2027
 - Middle East oil shipping
 - Oil extends rally on further Middle East disruptions
+- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - Demand supply balance / Cumulative changes to oil balance
 - IEA sees oil demand decline deepening as Middle East disruptions persist
-- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - EIA: US crude inventories down 400,000 bbl
 - US crude oil production
 - EIA forecasts continued growth in US crude oil production through 2026
-- Tallgrass crude portfolio
-- Enbridge to acquire Tallgrass Energy's crude transportation business for $2.55 billion
 - A panoramic view of installations and eqiupment at Citgo&apos;s refinery in Lake Charles, La.
 - Citgo approves new processing unit for Lake Charles refinery
 - Infrastructure for new aromatics unit at OMV Petrom&apos;s Petrobrazi refinery
@@ -156,20 +161,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally
+- New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem
+- The Next Oil Shock Is Never the Last
+- Chevron Targets Four Continents in New LNG Expansion Drive
 - Record Freight Costs Squeeze Russia's Black Sea Crude Exports
 - Syria Diesel Prices Jump 40% Triggering Widespread Unrest
 - Brent at $108: Gulf States Halt Hormuz Talks as Houthis Strike Saudi Airbase
-- Chevron Expects LNG Prices To Remain High in the Short Term
-- Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles
-- Soaring Oil Prices Put Fed on Track for September Rate Hike
-- Oman Energy Minister Says Middle East Needs to Diversify LNG Export Routes
-- Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears
-- Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles
-- StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes
 
 ### Rigzone
 
@@ -193,8 +195,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Azule Energy awards Saipem, SLB OneSubsea contracts for Angola's West Hub Tails project
 - Map of United Oil &amp; Gas&apos; Walton-Morant license offshore southern Jamaica
-- OCTG pipe inventory at a Vallourec facility
 - Oil rig in the Caspian Sea near Baku
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - TotalEnergies fast-tracks Angola oil discovery, enters two new Lower Congo Basin blocks
