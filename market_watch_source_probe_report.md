@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-15 03:49 UTC
+Generated: 2026-09-15 14:40 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 8 | OK. |
+| EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| Oil & Gas Journal | active | 200 | 30 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
@@ -25,9 +25,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 
+- Corpus Christi LNG expansion makes facility the second-largest in the United States
 - United States on track for record crude oil production in 2026
 - Elevated crack spreads and crude oil prices contribute to higher prices at the pump
 - U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
@@ -53,7 +54,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 18
 - Scraping note: OK.
 
 - Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
@@ -70,7 +71,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Critical Trends, September 2026: LNG FID Outlook Update
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
-- Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - Europe Scrambles for Scarce Diesel Ahead of Winter
 - China Starts Ramping Up Crude Imports
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
@@ -84,15 +84,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- TotalEnergies, Mistral launch AI program for oil and gas exploration
 - Venezuela joins G20 energy summit in Houston as U.S. seeks more oil deals
 - Oil and Gas Prices
 - PVM analysts: Oil market losing its defenses against $120 Brent
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -100,37 +100,39 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Kosmos Energy awards SCA onshore umbilical storage project
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Argentina pressures energy companies over Falkland Islands oil development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Siemens Energy supports Petrobras offshore expansion with FPSO systems
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Argentina pressures energy companies over Falkland Islands oil development
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - YPF-led Argentina LNG seeks approval for $51-billion investment
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 29
+- Relevant news count: 30
 - Scraping note: OK.
 
+- Saudi pipeline shutdown threatens further global oil supply losses
 - YPF taps Axens for new diesel hydrotreater at Argentinian refinery
-- EIA sees Brent near $90/bbl in second-half 2026 amid Middle East disruptions
+- Insights: Prioritizing process safety management across the refining industry (Pt. 1)
+- Oil & Gas Journal ReEnterprised
 - IEA: Ukrainian drone campaign degrades Russian refining resilience
 - Aerial view of the front of a large crude oil tanker ship at sea.
 - S&P Global: Middle East crude flows to stay below prewar levels through 2027
+- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - Middle East oil shipping
 - Oil extends rally on further Middle East disruptions
-- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - Demand supply balance / Cumulative changes to oil balance
 - IEA sees oil demand decline deepening as Middle East disruptions persist
 - EIA: US crude inventories down 400,000 bbl
@@ -151,38 +153,39 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Salt Creek Midstream Delaware basin crude oil system map.
 - Enbridge to acquire Salt Creek Midstream crude gathering assets in Permian basin
 - Oil and gas production platform offshore California.
-- footer logo Oil & Gas Journal
 
 ### OilPrice.com
 
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- China’s Yuan Crude Oil Futures Jump to Record High
+- Drone Strikes Cripple Half of Russia's Top Diesel Refineries
+- Australia's Energy Minister Heads to Saudi Arabia for Pipeline Answers
+- Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security
+- UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion
+- LNG Demand in China and India Could Surge When Prices Normalize
+- Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack
+- Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks
 - Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis
 - $100 Oil Puts Central Banks Back on Inflation Alert
 - Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally
 - New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem
-- The Next Oil Shock Is Never the Last
-- Chevron Targets Four Continents in New LNG Expansion Drive
-- Record Freight Costs Squeeze Russia's Black Sea Crude Exports
-- Syria Diesel Prices Jump 40% Triggering Widespread Unrest
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
-- Scraping note: OK.
+- Relevant news count: 0
+- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
 - Source note: Source for drilling, output, and industry news.
 
-- Brent Oil Passes $108 Per Barrel
-- EIA Sees 2026 Oil Price Coming in $22 Higher Than Last Year
-- Trump Demands Russian Refineries Be Spared as Diesel Surges
+- No relevant titles detected.
 
 ### Offshore Magazine
 
