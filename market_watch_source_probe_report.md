@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-15 14:40 UTC
+Generated: 2026-09-15 22:44 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
+| Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -54,17 +54,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 21
 - Scraping note: OK.
 
 - Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
 - Mideast Crisis: How Oil Markets Have Coped Since War's Outbreak
 - Thailand Weighs LNG-Buying Consortium to Boost Clout
-- Trump Pushes Russia-Ukraine Energy Truce Amid Diesel Crunch
-- LNG Buyers Cautiously Return to Long-Term Deals
-- Iraq Makes Capacity Claim Ahead of Opec Baseline Audit
-- China Caps Retail Price Hikes, Monitors Products Exports
-- Oil Prices Leap as Saudi Exports Strangled
+- Trump’s Diesel Plea Collides With Russia’s Refining Reality
+- Commonwealth LNG Already Eyeing Expansion
+- Sempra Agrees to Supply US LNG to Brazil's Petrobras
+- Fat Dated Brent Premium Attests to Market Tightness
+- Aramco Leans on Tech, Local Supply Chains to Bolster Resilience
+- China Refinery Runs Surge in August
+- Market Touts LNG Portfolio Approach to Deal With Crises
+- Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
 - GE Vernova Hitachi Talks SMRs, Fleets and Hyperscaler Demand
 - Asia Toughs Out Supply Crisis as Markets Battle Uncertainty
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
@@ -72,7 +75,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - Europe Scrambles for Scarce Diesel Ahead of Winter
-- China Starts Ramping Up Crude Imports
+- China Caps Retail Price Hikes, Monitors Products Exports
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
 - White House Eyes Defense Production Act to Boost Fuel Supply
 
@@ -85,6 +88,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - TotalEnergies, Mistral launch AI program for oil and gas exploration
+- U.S. Steel clears final permit for $475 million oil and gas tubular facility
 - Venezuela joins G20 energy summit in Houston as U.S. seeks more oil deals
 - Oil and Gas Prices
 - PVM analysts: Oil market losing its defenses against $120 Brent
@@ -99,21 +103,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Siemens Energy supports Petrobras offshore expansion with FPSO systems
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Argentina pressures energy companies over Falkland Islands oil development
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- YPF-led Argentina LNG seeks approval for $51-billion investment
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 
 ### Oil & Gas Journal
 
@@ -125,25 +128,25 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Saudi pipeline shutdown threatens further global oil supply losses
 - YPF taps Axens for new diesel hydrotreater at Argentinian refinery
+- Caturus exec speaks at G20 Energy Abundance Ministerial in Houston
+- Caturus plans to nearly double capacity of under-construction Commonwealth LNG plant
 - Insights: Prioritizing process safety management across the refining industry (Pt. 1)
 - Oil & Gas Journal ReEnterprised
 - IEA: Ukrainian drone campaign degrades Russian refining resilience
+- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - Aerial view of the front of a large crude oil tanker ship at sea.
 - S&P Global: Middle East crude flows to stay below prewar levels through 2027
-- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - Middle East oil shipping
 - Oil extends rally on further Middle East disruptions
 - Demand supply balance / Cumulative changes to oil balance
 - IEA sees oil demand decline deepening as Middle East disruptions persist
-- EIA: US crude inventories down 400,000 bbl
-- US crude oil production
-- EIA forecasts continued growth in US crude oil production through 2026
+- Panoramic view of processing units at ZPC&apos;s Zhoushan integrated refining complex
 - A panoramic view of installations and eqiupment at Citgo&apos;s refinery in Lake Charles, La.
 - Citgo approves new processing unit for Lake Charles refinery
 - Infrastructure for new aromatics unit at OMV Petrom&apos;s Petrobrazi refinery
 - OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
-- Construction vehicles undertaking site-preparation works in front of a refinery background.
-- BSR advances Dung Quat refinery expansion
+- US crude oil production
+- EIA forecasts continued growth in US crude oil production through 2026
 - 498979279491515___commercialenergy_headerimage_128
 - Oil and gas drilling operations onshore US
 - Learn more here: https://polishoilandgas.com/
@@ -159,22 +162,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades
+- U.S. Oil Inventories Jump as Cushing Stocks Keep Falling
+- Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025
+- ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount
+- US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days
+- Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings
+- Libya Threatens Force Majeure as Oil Guards Shut Fields
+- U.S. Diesel Prices on Track for Record Year
+- Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut
 - China’s Yuan Crude Oil Futures Jump to Record High
-- Drone Strikes Cripple Half of Russia's Top Diesel Refineries
-- Australia's Energy Minister Heads to Saudi Arabia for Pipeline Answers
-- Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security
-- UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion
-- LNG Demand in China and India Could Surge When Prices Normalize
-- Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack
-- Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks
-- Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis
-- $100 Oil Puts Central Banks Back on Inflation Alert
-- Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally
-- New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem
 
 ### Rigzone
 
@@ -196,11 +197,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Azule Energy awards Saipem, SLB OneSubsea contracts for Angola's West Hub Tails project
-- Map of United Oil &amp; Gas&apos; Walton-Morant license offshore southern Jamaica
+- Ventura Offshore, SED Energy Holdings plan merger with $1.3-billion revenue backlog
 - Oil rig in the Caspian Sea near Baku
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- TotalEnergies fast-tracks Angola oil discovery, enters two new Lower Congo Basin blocks
+- Azule Energy awards Saipem, SLB OneSubsea contracts for Angola's West Hub Tails project
+- Map of United Oil &amp; Gas&apos; Walton-Morant license offshore southern Jamaica
 - New Fortress Energy sells former Seadrill semisubs for scrap
 - Mammoet completed heavy lifting operations for BW Energy&apos;s Maromba B wellhead platform conversion project
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
