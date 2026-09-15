@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-14 22:59 UTC
+Generated: 2026-09-15 03:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 22 | OK. |
+| Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -53,28 +53,25 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 19
 - Scraping note: OK.
 
-- Oil Prices Leap as Saudi Exports Strangled
-- China's Return to Buying 'Spooks' Crude Market Players
-- US LNG Exporters Could Be Headed for a Lucrative Winter
-- What We Know So Far About the 'Historic' US-Venezuela Oil Deal
-- Trump Pushes Russia-Ukraine Energy Truce Amid Diesel Crunch
-- Thailand Weighs LNG-Buying Consortium to Boost Clout
-- LNG Buyers Cautiously Return to Long-Term Deals
-- Mideast Crisis: How Oil Markets Have Coped Since War's Outbreak
 - Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
+- Mideast Crisis: How Oil Markets Have Coped Since War's Outbreak
+- Thailand Weighs LNG-Buying Consortium to Boost Clout
+- Trump Pushes Russia-Ukraine Energy Truce Amid Diesel Crunch
+- LNG Buyers Cautiously Return to Long-Term Deals
 - Iraq Makes Capacity Claim Ahead of Opec Baseline Audit
-- Taking Stock of Western Majors' Upcoming Upstream FIDs
-- Venezuela Oil Deals Stack Up, But to What End?
+- China Caps Retail Price Hikes, Monitors Products Exports
+- Oil Prices Leap as Saudi Exports Strangled
+- GE Vernova Hitachi Talks SMRs, Fleets and Hyperscaler Demand
+- Asia Toughs Out Supply Crisis as Markets Battle Uncertainty
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Critical Trends, September 2026: LNG FID Outlook Update
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
 - Europe Scrambles for Scarce Diesel Ahead of Winter
-- China Caps Retail Price Hikes, Monitors Products Exports
 - China Starts Ramping Up Crude Imports
 - China Not Guaranteed to Absorb Looming LNG Supply Glut
 - White House Eyes Defense Production Act to Boost Fuel Supply
@@ -88,9 +85,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Venezuela joins G20 energy summit in Houston as U.S. seeks more oil deals
+- Oil and Gas Prices
+- PVM analysts: Oil market losing its defenses against $120 Brent
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- Wright warns oil markets against expecting Iran-Hormuz breakthrough
-- IEA cuts 2026 oil supply outlook as Gulf recovery slips to 2027
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -102,21 +100,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Kosmos Energy awards SCA onshore umbilical storage project
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Argentina pressures energy companies over Falkland Islands oil development
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 
 ### Oil & Gas Journal
 
@@ -161,17 +158,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis
+- $100 Oil Puts Central Banks Back on Inflation Alert
 - Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally
 - New MIT Process Could Solve Hydrogen's Biggest Supply Chain Problem
 - The Next Oil Shock Is Never the Last
 - Chevron Targets Four Continents in New LNG Expansion Drive
 - Record Freight Costs Squeeze Russia's Black Sea Crude Exports
 - Syria Diesel Prices Jump 40% Triggering Widespread Unrest
-- Brent at $108: Gulf States Halt Hormuz Talks as Houthis Strike Saudi Airbase
 
 ### Rigzone
 
