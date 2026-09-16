@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-15 22:44 UTC
+Generated: 2026-09-16 03:45 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 21 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
 | OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
 
@@ -54,24 +54,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 21
+- Relevant news count: 20
 - Scraping note: OK.
 
-- Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
-- Mideast Crisis: How Oil Markets Have Coped Since War's Outbreak
-- Thailand Weighs LNG-Buying Consortium to Boost Clout
+- Plush Dated Brent Premium Attests to Oil Market Tightness
+- Europe Faces Further Gas Price Spikes Amid Rising Supply Concerns
+- Chinese Refinery Runs Surge in August
+- LNG Buyers Seek Long-Term Deals — But Also More Flexibility
 - Trump’s Diesel Plea Collides With Russia’s Refining Reality
 - Commonwealth LNG Already Eyeing Expansion
 - Sempra Agrees to Supply US LNG to Brazil's Petrobras
-- Fat Dated Brent Premium Attests to Market Tightness
-- Aramco Leans on Tech, Local Supply Chains to Bolster Resilience
-- China Refinery Runs Surge in August
-- Market Touts LNG Portfolio Approach to Deal With Crises
 - Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
-- GE Vernova Hitachi Talks SMRs, Fleets and Hyperscaler Demand
-- Asia Toughs Out Supply Crisis as Markets Battle Uncertainty
+- Aramco Leans on Tech, Local Supply Chains to Bolster Resilience
+- Mideast Crisis: How Oil Markets Have Coped Since War's Outbreak
+- Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
+- Viewpoint: Flurry of Long-Term LNG Deals Back Bullish Demand View
+- Taiwan Advances Push to Replace Coal With LNG
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
-- Critical Trends, September 2026: LNG FID Outlook Update
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - Europe Scrambles for Scarce Diesel Ahead of Winter
@@ -95,8 +94,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -105,18 +104,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Argentina pressures energy companies over Falkland Islands oil development
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 
 ### Oil & Gas Journal
 
@@ -166,6 +165,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers
 - Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades
 - U.S. Oil Inventories Jump as Cushing Stocks Keep Falling
 - Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025
@@ -175,7 +175,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Libya Threatens Force Majeure as Oil Guards Shut Fields
 - U.S. Diesel Prices on Track for Record Year
 - Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut
-- China’s Yuan Crude Oil Futures Jump to Record High
 
 ### Rigzone
 
@@ -193,11 +192,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Ventura Offshore, SED Energy Holdings plan merger with $1.3-billion revenue backlog
 - Oil rig in the Caspian Sea near Baku
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Azule Energy awards Saipem, SLB OneSubsea contracts for Angola's West Hub Tails project
