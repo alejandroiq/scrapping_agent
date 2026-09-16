@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-16 03:45 UTC
+Generated: 2026-09-16 14:41 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 9 | OK. |
+| EIA Today in Energy | active | n/a | 0 | Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
-| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
@@ -24,19 +24,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
-- HTTP status: 200
-- Relevant news count: 9
-- Scraping note: OK.
+- HTTP status: n/a
+- Relevant news count: 0
+- Scraping note: Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow.
 
-- Corpus Christi LNG expansion makes facility the second-largest in the United States
-- United States on track for record crude oil production in 2026
-- Elevated crack spreads and crude oil prices contribute to higher prices at the pump
-- U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
-- Eight petroleum liquids pipeline projects have been completed since the start of 2025
-- Dangote refinery drives increase in petroleum shipments from Nigeria
-- Longer wells boost Permian crude oil and natural gas production
-- United States on track for record natural gas production in 2026
-- The U.S.-Canada natural gas and electricity trade value rose in 2025
+- No relevant titles detected.
 
 ### IEA
 
@@ -54,14 +46,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 22
 - Scraping note: OK.
 
-- Plush Dated Brent Premium Attests to Oil Market Tightness
+- Surging Dated Brent Premium Attests to Oil Market Tightness
 - Europe Faces Further Gas Price Spikes Amid Rising Supply Concerns
 - Chinese Refinery Runs Surge in August
 - LNG Buyers Seek Long-Term Deals — But Also More Flexibility
 - Trump’s Diesel Plea Collides With Russia’s Refining Reality
+- Jet Fuel Prices Close to Mideast War Highs as Supply Evaporates
+- Petronas Expands LNG Portfolio for Flexibility
 - Commonwealth LNG Already Eyeing Expansion
 - Sempra Agrees to Supply US LNG to Brazil's Petrobras
 - Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
@@ -89,9 +83,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies, Mistral launch AI program for oil and gas exploration
 - U.S. Steel clears final permit for $475 million oil and gas tubular facility
 - Venezuela joins G20 energy summit in Houston as U.S. seeks more oil deals
-- Oil and Gas Prices
-- PVM analysts: Oil market losing its defenses against $120 Brent
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -102,20 +93,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Argentina pressures energy companies over Falkland Islands oil development
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
@@ -161,31 +155,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- TTF Gas Hits $92.95 as Gulf Tensions Weigh on Energy Markets
+- Sweeping Russia-Iran Sanctions Bill Advances Toward House Vote
+- U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers
+- Japan’s Top LNG Buyer to Sell Excess Gas in Global Markets
+- Saudi Arabia Pivots to Spot Oil Sales After Key Pipeline Goes Offline
+- Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown
+- Japan’s Oil Import Bill Soars 59% as Trade Deficit Deepens
+- China Could Curb Fuel Exports as Diesel and Gasoline Stocks Sink
 - Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers
 - Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades
 - U.S. Oil Inventories Jump as Cushing Stocks Keep Falling
-- Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025
-- ADNOC Scoops Up Iraqi Crude at $25 Per Barrel Discount
-- US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days
-- Saudi Oil Crisis Deepens as Aramco Suspends Yanbu Loadings
-- Libya Threatens Force Majeure as Oil Guards Shut Fields
-- U.S. Diesel Prices on Track for Record Year
-- Saudi Aramco Cancels European Crude Cargoes as Key Pipeline Stays Shut
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 0
-- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
+- Relevant news count: 1
+- Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- No relevant titles detected.
+- No Trump Truce Seen as Kyiv Hits Volga Refinery
 
 ### Offshore Magazine
 
