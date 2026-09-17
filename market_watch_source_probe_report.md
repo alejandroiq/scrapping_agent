@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-17 14:44 UTC
+Generated: 2026-09-17 22:43 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 28 | OK. |
+| Oil & Gas Journal | active | 200 | 25 | OK. |
 | OilPrice.com | active | 200 | 12 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
@@ -54,29 +54,26 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 17
 - Scraping note: OK.
 
-- Jet Fuel Prices Close to Mideast War Highs as Supply Evaporates
-- Kazakhstan Rules Out Opec-Plus Exit, Supports Quota Revision
-- US House Advances Russia Sanctions Bill to White House
-- Continental Enters Venezuela With Heavy Oil Operatorship
-- Uganda, Vitol Deepen Alliance Ahead of First Oil
-- Mideast Crisis: How Oil Markets Have Coped Since War's Outbreak
-- Aramco Leans on Tech, Local Supply Chains to Bolster Resilience
-- Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
-- Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
-- YPF Moves to Fulfill Oil Growth Ambitions
-- Europe Faces Further Gas Price Spikes Amid Rising Supply Concerns
+- Grim New Mideast Energy Security Reality
+- LNG Flexibility Push Shifts Risks, Clouds Future Path
+- Exxon Sees Oil, Gas Holding Its Own Amid Low-Carbon Gains
+- Exmar to Provide FSRU for Cote d'Ivoire LNG Import Terminal
+- Mounting Pressure on Mideast Oil Flows Puts Markets on Edge
+- Permanent Oil Demand Losses Emerge in Asia
+- Fuel-Starved Europe Looks Further East for Diesel
+- Can US Downstream Absorb More Venezuelan Heavy Crude?
 - Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
-- Will AI Appetite Unlock or Overload Nuclear’s Supply Chain?
-- Europe Scrambles for Scarce Diesel Ahead of Winter
 - China Caps Retail Price Hikes, Monitors Products Exports
+- Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
 - White House Eyes Defense Production Act to Boost Fuel Supply
 - Surging Dated Brent Premium Attests to Oil Market Tightness
+- Chinese Refinery Runs Surge in August
 
 ### World Oil
 
@@ -91,38 +88,38 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Enverus sees 7 MMbpd of refining capacity damaged or constrained by wars
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Guyana expands Caribbean energy partnerships as oil production grows
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 28
+- Relevant news count: 25
 - Scraping note: OK.
 
 - Saudi pipeline shutdown threatens further global oil supply losses
@@ -131,15 +128,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EIA: US crude inventories down 600,000 bbl
 - Continental Resources, PDVSA sign MoU for potential Venezuela oil development
 - Chord Energy Marcellus non-op acreage
-- AFPM Summit: Refiners revisit cokers as Venezuelan crude returns
 - Insights: Prioritizing process safety management across the refining industry (Pt. 1)
 - Oil & Gas Journal ReEnterprised
 - IEA: Ukrainian drone campaign degrades Russian refining resilience
 - Panoramic view of processing units at ZPC&apos;s Zhoushan integrated refining complex
 - A panoramic view of installations and eqiupment at Citgo&apos;s refinery in Lake Charles, La.
 - Citgo approves new processing unit for Lake Charles refinery
-- Infrastructure for new aromatics unit at OMV Petrom&apos;s Petrobrazi refinery
-- OMV Petrom advances Petrobrazi refinery’s green hydrogen, SAF projects
 - US crude oil production
 - EIA forecasts continued growth in US crude oil production through 2026
 - 498979279491515___commercialenergy_headerimage_128
@@ -163,18 +157,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas
+- U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens
+- America Is Paying a Lot for Fuel, Not Running Out of Gasoline
+- Russian Fuel Exports Rebound in August But Still Down 50% From Last Year
+- Taiwan Mulls Nuclear Revival to Cut Its LNG Exposure
+- Cooking Oil-Powered Plane to Fly Tourists to Antarctica
+- IEA Chief: Electrification Still Energy's Top Bet Despite AI Fears
+- Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens
+- Oil Prices Slide as China Presses Iran to Rein In the Houthis
 - Ukraine Hits Refinery as Moscow Prepares to Extend Diesel Export Ban
 - Congress Sends Sweeping Russia-Iran Sanctions Bill to Trump
 - UK Energy Bills Could Jump 25-30% From January as Gas Prices Soar
-- LNG Prices Could Jump Further as Hormuz Supply Crunch Persists
-- Alberta Plans New Royalty Incentives to Spur Oil Production
-- Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens
-- India Pushes Back on U.S. Tariff Threat Over Russian Oil
-- Soaring LNG Prices Push Asian Demand Toward Second Annual Decline
-- Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman
-- StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes
-- Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens
-- Oil Above $100 Pushes U.S. Fuel Prices to New Records
 
 ### Rigzone
 
@@ -198,8 +192,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Oil rig in the Caspian Sea near Baku
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
+- Oil rig in the Caspian Sea near Baku
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Azule Energy awards Saipem, SLB OneSubsea contracts for Angola's West Hub Tails project
 - New Fortress Energy sells former Seadrill semisubs for scrap
