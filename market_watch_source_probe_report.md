@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-17 03:51 UTC
+Generated: 2026-09-17 14:44 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 28 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
@@ -54,7 +54,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 20
 - Scraping note: OK.
 
 - Jet Fuel Prices Close to Mideast War Highs as Supply Evaporates
@@ -68,6 +68,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Attacks Squeeze Saudi Arabia’s East and West Oil Outlets
 - YPF Moves to Fulfill Oil Growth Ambitions
 - Europe Faces Further Gas Price Spikes Amid Rising Supply Concerns
+- Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
 - Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
@@ -98,16 +99,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Guyana expands Caribbean energy partnerships as oil production grows
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
@@ -158,33 +159,35 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Ukraine Hits Refinery as Moscow Prepares to Extend Diesel Export Ban
+- Congress Sends Sweeping Russia-Iran Sanctions Bill to Trump
+- UK Energy Bills Could Jump 25-30% From January as Gas Prices Soar
+- LNG Prices Could Jump Further as Hormuz Supply Crunch Persists
+- Alberta Plans New Royalty Incentives to Spur Oil Production
+- Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens
+- India Pushes Back on U.S. Tariff Threat Over Russian Oil
+- Soaring LNG Prices Push Asian Demand Toward Second Annual Decline
+- Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman
 - StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes
 - Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens
 - Oil Above $100 Pushes U.S. Fuel Prices to New Records
-- Saudi Oil Crisis Is About to Hit Europe
-- Continental Strikes Venezuela Oil Deal with PDVSA
-- Export Constraints Curb Kazakhstan’s Ability to Offset the Global Oil Shortage
-- Equinor Targets 15 Million Tons of LNG as Qatar Exports Stay Blocked
-- Energy Shock Puts Bank of England Under Pressure to Raise Rates
-- Russia Extends Diesel Export Ban Through October
-- U.S. Oil Inventories Edge Lower as Fuel Demand Softens
-- TTF Gas Hits $92.95 as Gulf Tensions Weigh on Energy Markets
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- EIA Now Sees Bigger Oil Crunch in 2026, Glut in 2027
-- USCG, FBI Conduct Cyberattack Probes on Oil Tankers
+- Winter is Coming for Diesel
+- Saudi Pipeline Outage Exposes Limits of Supply Optionality
+- OMV Confirms Viability of Libyan Oil Discovery
 
 ### Offshore Magazine
 
