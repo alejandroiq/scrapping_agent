@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-18 03:38 UTC
+Generated: 2026-09-18 14:09 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
@@ -28,6 +28,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 9
 - Scraping note: OK.
 
+- What goes into diesel prices?
 - Corpus Christi LNG expansion makes facility the second-largest in the United States
 - United States on track for record crude oil production in 2026
 - Elevated crack spreads and crude oil prices contribute to higher prices at the pump
@@ -36,7 +37,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Dangote refinery drives increase in petroleum shipments from Nigeria
 - Longer wells boost Permian crude oil and natural gas production
 - United States on track for record natural gas production in 2026
-- The U.S.-Canada natural gas and electricity trade value rose in 2025
 
 ### IEA
 
@@ -54,14 +54,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 16
 - Scraping note: OK.
 
-- Grim New Mideast Energy Security Reality
 - Mounting Pressure on Mideast Oil Flows Puts Markets on Edge
 - Permanent Oil Demand Losses Emerge in Asia
+- Grim New Mideast Energy Security Reality
 - Fuel-Starved Europe Looks Further East for Diesel
-- Jet Fuel Prices Close to Mideast War Highs as Supply Evaporates
 - Exxon Sees Oil, Gas Holding Its Own Amid Low-Carbon Gains
 - Exmar to Provide FSRU for Cote d'Ivoire LNG Import Terminal
 - LNG Flexibility Push Shifts Risks, Clouds Future Path
@@ -84,7 +83,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- Continental Resources targets 30-Bbbl Venezuela oil block in PDVSA deal
+- TotalEnergies secures $1.8 billion GIP investment in African oil and gas infrastructure
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -96,23 +95,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Argentina pressures energy companies over Falkland Islands oil development
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- SLB to restore offshore production for Brunei Shell Petroleum
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- YPF-led Argentina LNG seeks approval for $51-billion investment
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 
 ### Oil & Gas Journal
 
@@ -153,34 +152,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- The Oil Market’s Backup Plan Is Breaking Down
+- Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says
+- WTI Retreats as Saudi Oil Workaround Eases Supply Fears
+- Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline
+- India’s Clean Energy Boom Halts Coal Power Growth
+- Hormuz Tanker Traffic Slumps as Saudi Arabia Scrambles for New Oil Routes
+- China’s Fuel Exports Surge as Global Diesel Shortage Deepens
+- China Pushes Coal Miners to Lift Supply as Prices Climb
+- Oil Prices Head for Weekly Loss as Saudi Export Fears Ease
 - Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas
-- U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens
-- America Is Paying a Lot for Fuel, Not Running Out of Gasoline
-- Russian Fuel Exports Rebound in August But Still Down 50% From Last Year
-- Taiwan Mulls Nuclear Revival to Cut Its LNG Exposure
-- Cooking Oil-Powered Plane to Fly Tourists to Antarctica
-- IEA Chief: Electrification Still Energy's Top Bet Despite AI Fears
-- Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens
-- Oil Prices Slide as China Presses Iran to Rein In the Houthis
-- Ukraine Hits Refinery as Moscow Prepares to Extend Diesel Export Ban
-- Congress Sends Sweeping Russia-Iran Sanctions Bill to Trump
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Winter is Coming for Diesel
-- Saudi Pipeline Outage Exposes Limits of Supply Optionality
-- OMV Confirms Viability of Libyan Oil Discovery
+- Hormuz Sees More LNG Traffic
 
 ### Offshore Magazine
 
