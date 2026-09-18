@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-17 22:43 UTC
+Generated: 2026-09-18 03:38 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 10 | OK. |
+| Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
 
@@ -58,15 +58,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Grim New Mideast Energy Security Reality
-- LNG Flexibility Push Shifts Risks, Clouds Future Path
-- Exxon Sees Oil, Gas Holding Its Own Amid Low-Carbon Gains
-- Exmar to Provide FSRU for Cote d'Ivoire LNG Import Terminal
 - Mounting Pressure on Mideast Oil Flows Puts Markets on Edge
 - Permanent Oil Demand Losses Emerge in Asia
 - Fuel-Starved Europe Looks Further East for Diesel
+- Jet Fuel Prices Close to Mideast War Highs as Supply Evaporates
+- Exxon Sees Oil, Gas Holding Its Own Amid Low-Carbon Gains
+- Exmar to Provide FSRU for Cote d'Ivoire LNG Import Terminal
+- LNG Flexibility Push Shifts Risks, Clouds Future Path
 - Can US Downstream Absorb More Venezuelan Heavy Crude?
 - Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
-- Weekly Monitor: Supply and Demand Normalization In 2027 Both Look Increasingly Tenuous
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - China Caps Retail Price Hikes, Monitors Products Exports
@@ -83,36 +83,36 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 - Continental Resources targets 30-Bbbl Venezuela oil block in PDVSA deal
-- House passes TWIC bill aimed at expanding offshore energy workforce
-- Enverus sees 7 MMbpd of refining capacity damaged or constrained by wars
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- Chevron strikes oil and gas in Angola’s Block 0, eyes tieback development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 
 ### Oil & Gas Journal
 
@@ -153,7 +153,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -168,7 +168,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil Prices Slide as China Presses Iran to Rein In the Houthis
 - Ukraine Hits Refinery as Moscow Prepares to Extend Diesel Export Ban
 - Congress Sends Sweeping Russia-Iran Sanctions Bill to Trump
-- UK Energy Bills Could Jump 25-30% From January as Gas Prices Soar
 
 ### Rigzone
 
@@ -188,14 +187,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
 - Oil rig in the Caspian Sea near Baku
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Azule Energy awards Saipem, SLB OneSubsea contracts for Angola's West Hub Tails project
 - New Fortress Energy sells former Seadrill semisubs for scrap
 - Mammoet completed heavy lifting operations for BW Energy&apos;s Maromba B wellhead platform conversion project
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
