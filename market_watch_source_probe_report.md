@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-18 22:21 UTC
+Generated: 2026-09-19 03:35 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -16,7 +16,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Oil & Gas Journal | active | 200 | 23 | OK. |
 | OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 8 | OK. |
 
 ## Titles By Source
 
@@ -90,32 +90,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies secures $1.8 billion GIP investment in African oil and gas infrastructure
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- UK LNG import plans draw criticism as North Sea production declines
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- ExxonMobil advances Rovuma LNG with McDermott engineering award
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - ADNOC, XRG deepen European LNG ties through Germany agreements
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 
 ### Oil & Gas Journal
 
@@ -187,7 +187,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
@@ -199,6 +199,3 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - New Fortress Energy sells former Seadrill semisubs for scrap
 - Mammoet completed heavy lifting operations for BW Energy&apos;s Maromba B wellhead platform conversion project
 - Mammoet completes lifting campaign for BW Energy's Maromba wellhead platform conversion
-- Oil India has extended its contract with Dolphin Drilling for the semisubmersible rig Blackford Dolphin offshore eastern India until October
-- ONGC, Oil India award/extend contracts for Transocean, Dolphin rigs
-- ABS, JB Energy partner on studies for Brazil floating wind pilot
