@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-19 13:43 UTC
+Generated: 2026-09-19 22:11 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -98,24 +98,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- UK LNG import plans draw criticism as North Sea production declines
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - ADNOC, XRG deepen European LNG ties through Germany agreements
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 
 ### Oil & Gas Journal
 
@@ -154,10 +154,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom
 - Macron Calls for Another Emergency Oil Release as Europe Loses Supply
 - Kazakhstan Turns to Russian Gas as Domestic Demand Surges
 - Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge
@@ -167,8 +168,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Russia’s $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions
 - LNG Tankers Push Through Hormuz Again as Qatar, UAE Fight Supply Crunch
 - The Oil Market’s Backup Plan Is Breaking Down
-- Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says
-- WTI Retreats as Saudi Oil Workaround Eases Supply Fears
 
 ### Rigzone
 
