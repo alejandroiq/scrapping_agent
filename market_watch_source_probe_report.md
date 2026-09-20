@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-20 13:59 UTC
+Generated: 2026-09-20 22:14 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -99,23 +99,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
-- deugro launches Papua New Guinea JV for major LNG project logistics
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Osaka Gas buys 5% stake in Browse LNG project from bp
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- ADNOC, XRG deepen European LNG ties through Germany agreements
 
 ### Oil & Gas Journal
 
@@ -158,6 +158,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Hormuz Crisis to Push Global Coal Demand to Record High
+- China Will Dominate Global Nuclear Energy Through 2035, Analyst Says
 - Energy Giants Are Betting Billions on a World of Longer Oil Routes
 - Europe Outbids Asia for LNG as Prices Surge 150%
 - Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom
@@ -166,8 +168,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge
 - U.S. Oil, Gas Rig Count Creeps Up With Strong Prices
 - TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets
-- Saudi Export Pivot Sends Brent Below $105
-- Russia’s $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions
 
 ### Rigzone
 
