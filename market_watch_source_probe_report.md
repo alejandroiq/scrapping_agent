@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-20 03:51 UTC
+Generated: 2026-09-20 13:59 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -98,24 +98,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Siemens Energy supports Petrobras offshore expansion with FPSO systems
+- DNO divests Côte d’Ivoire business to Panoro Energy in $86.5 million deal
 - TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
-- ADNOC, XRG deepen European LNG ties through Germany agreements
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- deugro launches Papua New Guinea JV for major LNG project logistics
 
 ### Oil & Gas Journal
 
