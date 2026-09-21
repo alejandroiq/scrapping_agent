@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-20 22:14 UTC
+Generated: 2026-09-21 03:47 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -90,18 +90,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies secures $1.8 billion GIP investment in African oil and gas infrastructure
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
@@ -110,12 +111,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- TDI-Brooks wins survey contract for Delfin LNG deepwater port
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - ADNOC, XRG deepen European LNG ties through Germany agreements
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 
 ### Oil & Gas Journal
 
@@ -158,6 +158,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts
 - Hormuz Crisis to Push Global Coal Demand to Record High
 - China Will Dominate Global Nuclear Energy Through 2035, Analyst Says
 - Energy Giants Are Betting Billions on a World of Longer Oil Routes
@@ -167,7 +168,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Kazakhstan Turns to Russian Gas as Domestic Demand Surges
 - Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge
 - U.S. Oil, Gas Rig Count Creeps Up With Strong Prices
-- TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets
 
 ### Rigzone
 
