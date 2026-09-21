@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-21 03:47 UTC
+Generated: 2026-09-21 16:17 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 13 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -57,26 +57,26 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 20
 - Scraping note: OK.
 
+- Poland’s Orlen Locks In Winter Gas Support for Ukraine With LNG Deal
 - Houthis Push Into Yemen's Energy Heartland
 - Refining Shortfall Isn't Global: It Lives in Asia
 - Mounting Pressure on Mideast Oil Flows Puts Markets on Edge
 - LNG Flexibility Push Shifts Risks, Clouds Future Path
 - Grim New Mideast Energy Security Reality
 - Permanent Oil Demand Losses Emerge in Asia
+- China Imports Record Russian Crude Volumes
 - Osaka Gas Snaps Up BP’s Browse Stake, Locks In Australian LNG
 - Exxon Refinery Outage Adds Pressure to Regional Fuel Prices
 - Russia Set to Extend Diesel Export Ban, Eyes Record Imports
-- US, South Korea Float Energy Investments in Trade Talks
+- US-China Talks to Scrap LNG Tariff Face Hurdle Ahead of Summit
 - Papua LNG Shake-Up Favors Exxon's PNG Strategy
 - Canada Pitches LNG Export Projects to International Investors
 - Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
-- China Caps Retail Price Hikes, Monitors Products Exports
 - Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
 - Surging Dated Brent Premium Attests to Oil Market Tightness
-- Chinese Refinery Runs Surge in August
 
 ### World Oil
 
@@ -86,8 +86,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- TotalEnergies secures $1.8 billion GIP investment in African oil and gas infrastructure
+- Angola signs 11 energy deals as operators expand upstream investment
+- Halliburton signs Venezuela oil and gas agreements with Eneva, WESCA
+- Macron calls G7 meeting to consider new strategic oil stock release
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
@@ -98,24 +100,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- UK LNG import plans draw criticism as North Sea production declines
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Osaka Gas buys 5% stake in Browse LNG project from bp
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - ADNOC, XRG deepen European LNG ties through Germany agreements
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 
 ### Oil & Gas Journal
 
@@ -154,20 +154,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Record Diesel Prices Raise Fears of Local Fuel Shortages
+- Hungary Asks U.S. to Waive Tariffs Over Russian Oil Purchases
+- Rising Energy Costs Threaten UK Growth Despite 1.3% Expansion
+- Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu
+- India's Coal Demand Set to Jump 4.2% as Plant Stocks Hit Critical Lows
+- Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates
+- Norway's Arctic Oil Pitch Falls Flat in Brussels
+- U.S. Diesel Hits Record $6.50 as Global Fuel Crunch Deepens
+- Pakistan Secures Second Qatari LNG Cargo Through Hormuz After Iran Deal
+- Europe’s Fuel Crisis Spreads From Diesel to Jet Fuel
+- Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise
+- Oil Prices Slide as Traders Bet on Iran Diplomacy
 - Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts
-- Hormuz Crisis to Push Global Coal Demand to Record High
-- China Will Dominate Global Nuclear Energy Through 2035, Analyst Says
-- Energy Giants Are Betting Billions on a World of Longer Oil Routes
-- Europe Outbids Asia for LNG as Prices Surge 150%
-- Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom
-- Macron Calls for Another Emergency Oil Release as Europe Loses Supply
-- Kazakhstan Turns to Russian Gas as Domestic Demand Surges
-- Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge
-- U.S. Oil, Gas Rig Count Creeps Up With Strong Prices
 
 ### Rigzone
 
@@ -178,8 +181,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- House Passes Bill Allowing New Tariffs on Russia Oil Buyers
-- Hormuz Sees More LNG Traffic
+- Has the Oil Market Changed Forever?
+- Moscow Refinery Hit in Major Drone Attack by Ukraine
 
 ### Offshore Magazine
 
