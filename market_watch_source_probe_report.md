@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-22 03:45 UTC
+Generated: 2026-09-22 14:25 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 9 | OK. |
+| EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 6 | OK. |
 
 ## Titles By Source
@@ -25,9 +25,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 
+- Public companies produce most U.S. crude oil and natural gas
 - What goes into diesel prices?
 - Corpus Christi LNG expansion makes facility the second-largest in the United States
 - United States on track for record crude oil production in 2026
@@ -54,15 +55,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 20
 - Scraping note: OK.
 
 - Moscow Refinery Hit in Ukrainian Raid on Last Day of Elections
 - LNG Flexibility Push Shifts Risks, Clouds Future Path
+- Global Squeeze Triggers Spike in Russian Oil Premiums to India
 - Permanent Oil Demand Losses Emerge in Asia
 - China Imports Record Russian Crude Volumes
 - Houthis Push Into Yemen's Energy Heartland
-- Mounting Pressure on Mideast Oil Flows Puts Markets on Edge
 - Oil Futures Fall, But Physical Crude, Diesel Point to Trouble
 - US-China Talks to Scrap LNG Tariff Face Hurdle Ahead of Summit
 - US, South Korea Float Energy Investments in Trade Talks
@@ -76,6 +77,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Exxon Refinery Outage Adds Pressure to Regional Fuel Prices
 - Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
 - Surging Dated Brent Premium Attests to Oil Market Tightness
+- Chinese Refinery Runs Surge in August
 
 ### World Oil
 
@@ -85,10 +87,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Angola signs 11 energy deals as operators expand upstream investment
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
 - Halliburton signs Venezuela oil and gas agreements with Eneva, WESCA
-- Macron calls G7 meeting to consider new strategic oil stock release
-- Osaka Gas buys 5% stake in Browse LNG project from bp
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -99,22 +99,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - Africa eyes depleted oil and gas reservoirs for carbon storage
 - New UK training program supports workforce mobility between oil, gas and offshore wind
+- Osaka Gas buys 5% stake in Browse LNG project from bp
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 
 ### Oil & Gas Journal
 
@@ -153,30 +155,34 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Yemen Escalation Raises New Risks for Global Oil Markets
+- “We're Living On An Oil Market Credit Card”: Analyst Sounds Alarm
+- Oil Tumbles 3% as Iran Floats Hormuz Reopening Within a Week
+- ING: Supply-Side Risks Stay Elevated Even as Oil Prices Pull Back
+- Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart
+- India’s Oil Import Bill Jumps 48% as Crude Prices Soar
+- Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027
+- Oil Prices Reverse Course as Traders Watch US-Iran Diplomacy
 - Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste
 - New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade
 - Global Refinery Crunch Pushes Diesel Prices to New Records
 - Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening
-- Prague Caps Fuel Prices, Taxes Orlen's ‘Windfall’ Refining Margins
-- Hormuz Blockage Puts Qatar's $83 Billion LNG Bet at Risk
-- Record Diesel Prices Raise Fears of Local Fuel Shortages
-- Hungary Asks U.S. to Waive Tariffs Over Russian Oil Purchases
-- Rising Energy Costs Threaten UK Growth Despite 1.3% Expansion
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Has the Oil Market Changed Forever?
+- USA Diesel Price Surges Again
+- Aramco Poised to Resume Oil Exports at Red Sea Port
 
 ### Offshore Magazine
 
