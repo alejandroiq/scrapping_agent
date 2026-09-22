@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-21 23:03 UTC
+Generated: 2026-09-22 03:45 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
+| Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
@@ -54,25 +54,26 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 19
 - Scraping note: OK.
 
-- Houthis Push Into Yemen's Energy Heartland
-- Refining Shortfall Isn't Global: It Lives in Asia
-- Mounting Pressure on Mideast Oil Flows Puts Markets on Edge
+- Moscow Refinery Hit in Ukrainian Raid on Last Day of Elections
 - LNG Flexibility Push Shifts Risks, Clouds Future Path
-- Grim New Mideast Energy Security Reality
 - Permanent Oil Demand Losses Emerge in Asia
-- Osaka Gas Snaps Up BP’s Browse Stake, Locks In Australian LNG
-- Exxon Refinery Outage Adds Pressure to Regional Fuel Prices
-- Russia Set to Extend Diesel Export Ban, Eyes Record Imports
+- China Imports Record Russian Crude Volumes
+- Houthis Push Into Yemen's Energy Heartland
+- Mounting Pressure on Mideast Oil Flows Puts Markets on Edge
 - Oil Futures Fall, But Physical Crude, Diesel Point to Trouble
+- US-China Talks to Scrap LNG Tariff Face Hurdle Ahead of Summit
+- US, South Korea Float Energy Investments in Trade Talks
+- Refining Shortfall Isn't Global: It Lives in Asia
 - Papua LNG Shake-Up Favors Exxon's PNG Strategy
 - Canada Pitches LNG Export Projects to International Investors
 - Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
+- Exxon Refinery Outage Adds Pressure to Regional Fuel Prices
 - Hormuz Crisis Reshapes Baghdad-Erbil Oil Bargain
 - Surging Dated Brent Premium Attests to Oil Market Tightness
 
@@ -98,22 +99,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- YPF-led Argentina LNG seeks approval for $51-billion investment
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
-- ADNOC, XRG deepen European LNG ties through Germany agreements
 
 ### Oil & Gas Journal
 
@@ -156,6 +157,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste
 - New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade
 - Global Refinery Crunch Pushes Diesel Prices to New Records
 - Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening
@@ -164,7 +166,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Record Diesel Prices Raise Fears of Local Fuel Shortages
 - Hungary Asks U.S. to Waive Tariffs Over Russian Oil Purchases
 - Rising Energy Costs Threaten UK Growth Despite 1.3% Expansion
-- Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu
 
 ### Rigzone
 
