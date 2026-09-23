@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-22 22:46 UTC
+Generated: 2026-09-23 03:43 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 24 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
@@ -55,19 +55,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 16
 - Scraping note: OK.
 
-- Moscow Refinery Hit in Ukrainian Raid on Last Day of Elections
-- LNG Flexibility Push Shifts Risks, Clouds Future Path
-- Permanent Oil Demand Losses Emerge in Asia
-- Saudi East-West Pipeline Restarts After Major Hormuz Oil Swing
 - Trump Backs US Diesel Export Ban as Prices Surge
+- Saudi East-West Pipeline Restarts After Major Hormuz Oil Swing
 - Energy to Take Prominent Place in Xi-Trump Summit
 - India’s EIL Nabs Key Contracts for Planned Kenyan Mega-Refinery
-- Refining Shortfall Isn't Global: It Lives in Asia
-- Papua LNG Shake-Up Favors Exxon's PNG Strategy
-- Canada Pitches LNG Export Projects to International Investors
+- Libya Guards Shut Zawiya Refinery, El Sharara Oil Field
+- War Risk Sends Secondhand Tanker Prices Above Newbuilds
+- Opec-Plus: August Output Drops, But Hormuz Shuttle Props
+- Demand: Diesel Prices Bite as the War's Reach Widens
+- Japan's Jera Set On Expanding Global LNG Offtake, Gas Assets
 - Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
@@ -88,32 +87,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Halliburton signs Venezuela oil and gas agreements with Eneva, WESCA
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Siemens Energy supports Petrobras offshore expansion with FPSO systems
+- TDI-Brooks wins survey contract for Delfin LNG deepwater port
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Osaka Gas buys 5% stake in Browse LNG project from bp
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 
 ### Oil & Gas Journal
 
@@ -157,6 +156,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Washington Needs This LNG Deal More Than Beijing Does
+- Trump Proposes $5 Billion Fund to Rebuild Gulf Energy Infrastructure
 - Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock
 - US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold
 - Global Energy Demand Set to Jump 60% by 2060 as Developing Nations Power Up
@@ -164,8 +165,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives
 - Saudi Pipeline Restart Fails to End Oil Market Tightness
 - Saudi Arabia Restarts East-West Oil Pipeline
-- Libya’s Largest Oilfield Hit by New Armed Group Blockade
-- Yemen Escalation Raises New Risks for Global Oil Markets
 
 ### Rigzone
 
