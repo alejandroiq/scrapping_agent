@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-24 03:35 UTC
+Generated: 2026-09-24 14:40 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 22 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 
 - Trump Administration Sends Vague Signals on Diesel Export Restrictions
@@ -63,11 +63,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Asian LNG Buyers Team Up to Improve Supply Resilience
 - Plot Thickens Around Lukoil International Asset Sale
 - South Korea Plans to Cap Mideast Crude, LNG Imports
+- Russia’s LNG Output Jumps as Sanction Pressures Mount
 - Rising Prices, Supply Constraints Temper Oil Demand Outlook
 - Saudi East-West Pipeline Restarts After Major Hormuz Oil Swing
 - War Risk Sends Secondhand Tanker Prices Above Newbuilds
-- Japan's Jera Set On Expanding Global LNG Offtake, Gas Assets
 - Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
+- Beyond Solar: Why Energy Storage Will Shape the Future of Power Systems
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
@@ -92,7 +93,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Baker Hughes to supply subsea systems for Indonesia's Kutei Northern Hub
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
@@ -102,8 +103,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
@@ -111,6 +111,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 - Africa eyes depleted oil and gas reservoirs for carbon storage
 - DNV launches resilience framework as threats to critical energy infrastructure grow
+- Oilfield Electrification & Power Infrastructure
 
 ### Oil & Gas Journal
 
@@ -148,33 +149,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz
+- U.S. to Back Argentina’s First LNG Export Project With $6 Billion Loan
+- Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher
+- Indian Refiners Lift LPG Output Nearly 20% as Hormuz Blockage Chokes Imports
+- Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock
+- Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions
 - Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade
 - White House Rules Out Diesel Export Ban as Prices Surge Above $6.50
 - Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost
 - Hormuz Supply Crisis to Change LNG Market Forever
-- Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism
-- U.S. Energy Secretary: Blunt Tool of Banning Diesel Exports Doesn't Work
-- Dangote's Kenya Refinery Project Launches This Week at Up to $20B
-- Copper Erases Tariff Selloff as Shanghai Stockpiles Hit Three-Year Low
-- EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average
-- Climate Startup Signs CO2 Deals With Three U.S. Oil Producers
-- China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit
-- TotalEnergies to Develop Offshore Gas Field to Boost Nigeria LNG Supply
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- A Critical Week for Oil
+- Analysts Say China 2026 Oil, Gas Demand Outlook Weakens
+- FortisBC Gets BC Environmental Clearance for Tilbury LNG Expansion
 
 ### Offshore Magazine
 
