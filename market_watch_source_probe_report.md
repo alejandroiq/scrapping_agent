@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-24 14:40 UTC
+Generated: 2026-09-24 23:04 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 22 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| Oil & Gas Journal | active | 200 | 23 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 14 | OK. |
 
 ## Titles By Source
 
@@ -55,24 +55,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 20
 - Scraping note: OK.
 
 - Trump Administration Sends Vague Signals on Diesel Export Restrictions
 - Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
 - Asian LNG Buyers Team Up to Improve Supply Resilience
 - Plot Thickens Around Lukoil International Asset Sale
-- South Korea Plans to Cap Mideast Crude, LNG Imports
-- Russia’s LNG Output Jumps as Sanction Pressures Mount
-- Rising Prices, Supply Constraints Temper Oil Demand Outlook
-- Saudi East-West Pipeline Restarts After Major Hormuz Oil Swing
-- War Risk Sends Secondhand Tanker Prices Above Newbuilds
+- Crude Prices Rebound as Diesel Market Whipsaws
+- Democrats Accuse Trump of Oil Industry Quid Pro Quo
+- Ex-Im Bank Offers up to $6 Billion for Argentina LNG
+- Industry Urges Against US Diesel Export Restrictions
+- How Much Will Hormuz Crisis Impact Oil Demand Growth?
+- Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
+- Russia Banks on China Gas Ties Amid Mounting Sanctions
+- Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
+- Red Sea: Conflict Spillover Pushes Supply Risks Higher
 - Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power Systems
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - Exxon Refinery Outage Adds Pressure to Regional Fuel Prices
+- South Korea Plans to Cap Mideast Crude, LNG Imports
 
 ### World Oil
 
@@ -84,51 +89,51 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - First Oil: The twists and turns of our new summer forecast
 - Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Metatek wins Philippines contract for 40,000-km² energy exploration survey
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - North Sea oil and gas decline threatens 115,000-job workforce, report says
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Africa eyes depleted oil and gas reservoirs for carbon storage
-- DNV launches resilience framework as threats to critical energy infrastructure grow
-- Oilfield Electrification & Power Infrastructure
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 23
 - Scraping note: OK.
 
+- Oil prices rise as US-Iran breakthrough hopes fade
 - US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
 - INA commissions new delayed coker at Rijeka refinery
 - Oil prices retreat as Middle East supply concerns ease amid diplomatic talks
-- US sanctions bill targets Russian energy but gives Trump broad discretion
+- Offshore oil and gas operations
 - EIA: US crude oil inventories up 3 million bbl
-- Tanker containing first shipment from the Golden Pass LNG project is guided by tug vessels through a canal waterway out to open sea.
-- QatarEnergy NFE LNG Train 1 to start 1H 2027; Ras Laffan repairs to take 3 years
 - ESENTIA to acquire Guadalajara-Manzanillo natural gas pipeline system
+- US sanctions bill targets Russian energy but gives Trump broad discretion
 - Insights: Prioritizing process safety management across the refining industry (Pt. 1)
 - Oil & Gas Journal ReEnterprised
 - IEA: Ukrainian drone campaign degrades Russian refining resilience
@@ -138,10 +143,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - US crude oil production
 - EIA forecasts continued growth in US crude oil production through 2026
 - 498979279491515___commercialenergy_headerimage_128
+- Tanker containing first shipment from the Golden Pass LNG project is guided by tug vessels through a canal waterway out to open sea.
+- QatarEnergy NFE LNG Train 1 to start 1H 2027; Ras Laffan repairs to take 3 years
 - Enbridge launches open season for West Texas Express natural gas pipeline
 - Caturus exec speaks at G20 Energy Abundance Ministerial in Houston
 - Caturus plans to nearly double capacity of under-construction Commonwealth LNG plant
-- Saudi pipeline shutdown threatens further global oil supply losses
 - footer logo Oil & Gas Journal
 
 ### OilPrice.com
@@ -149,20 +155,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive
+- Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices
+- Global Biofuels Output Could Surge 70% Amid Energy Crisis
+- Saudi Oil Export Costs Surge as Red Sea Risks Mount
+- Why Are Diesel Prices So High?
+- Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude
+- Russia Begins Oil Exports From Its Giant Vostok Arctic Project
+- China Could Cut Fuel Exports in October as Inventories Plunge
 - Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz
-- U.S. to Back Argentina’s First LNG Export Project With $6 Billion Loan
-- Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher
-- Indian Refiners Lift LPG Output Nearly 20% as Hormuz Blockage Chokes Imports
-- Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock
-- Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions
-- Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade
-- White House Rules Out Diesel Export Ban as Prices Surge Above $6.50
-- Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost
-- Hormuz Supply Crisis to Change LNG Market Forever
 
 ### Rigzone
 
@@ -181,17 +186,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 14
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- NLNG&apos;s Train 7 expansion project on Bonny Island, Nigeria
+- TotalEnergies sanctions Ima gas field offshore Nigeria to supply NLNG Train 7
+- Oil rig in the Caspian Sea near Baku
+- Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - EXMAR to supply FSRU for Côte d'Ivoire LNG import project
 - Offshore oil and gas platform in Gulf of Thailand
 - Valeura discovers new oil field near Manora offshore Thailand
 - Talos Energy closes $420-million &lsquo;deepwater bolt-on&rsquo; from Shell
 - Talos Energy closes $420-million ‘deepwater bolt-on’ from Shell
-- Oil rig in the Caspian Sea near Baku
-- Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - PTTEP Energy Development Co and Valeura Energy have taken FID on the Bussabong gas field development in Block G3/65 in the Gulf of Thailand.
 - Vallourec secures pipe supply contracts for Petrobras' Sepia 2 project, Greek CO2 storage development
 - New Fortress Energy sells former Seadrill semisubs for scrap
