@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-25 03:52 UTC
+Generated: 2026-09-25 15:02 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 14 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
+| Offshore Magazine | active | 200 | 15 | OK. |
 
 ## Titles By Source
 
@@ -71,10 +71,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Record-Low Gas Storage Set to Deepen EU's LNG Dependence
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
 - Red Sea: Conflict Spillover Pushes Supply Risks Higher
-- Beyond Solar: Why Energy Storage Will Shape the Future of Power Systems
+- Brics vs. US Sanctions
+- Beyond Solar: Why Energy Storage Will Shape the Future of Power
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
-- The Illusions of Energy Power
 - Exxon Refinery Outage Adds Pressure to Regional Fuel Prices
 - Trump Administration Sends Vague Signals on Diesel Export Restrictions
 - Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
@@ -94,31 +94,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Texas RRC warns oil and gas operators of growing cyber threats
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
+- UK LNG import plans draw criticism as North Sea production declines
+- Metatek wins Philippines contract for 40,000-km² energy exploration survey
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
-- Osaka Gas buys 5% stake in Browse LNG project from bp
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Africa eyes depleted oil and gas reservoirs for carbon storage
 
 ### Oil & Gas Journal
 
@@ -157,43 +157,42 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Trump’s Diesel Export Threat Puts Britain on Edge
+- WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch
+- India Weighs Mandatory Imported Coal Blending as Plant Stocks Crumble
+- Ukraine Drone Strike Knocks Out Russia's Novoshakhtinsk Refinery
+- India Says It Will Keep Exporting Diesel
+- Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens
+- Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply
 - 5 Energy Stocks Positioned for a Prolonged Iran War
-- Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive
-- Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices
-- Global Biofuels Output Could Surge 70% Amid Energy Crisis
-- Saudi Oil Export Costs Surge as Red Sea Risks Mount
-- Why Are Diesel Prices So High?
-- Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude
-- Russia Begins Oil Exports From Its Giant Vostok Arctic Project
-- China Could Cut Fuel Exports in October as Inventories Plunge
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Analysts Say China 2026 Oil, Gas Demand Outlook Weakens
-- FortisBC Gets BC Environmental Clearance for Tilbury LNG Expansion
+- INPEX Pre-Empts JERA's Sale of Ichthys LNG Stake to MidOcean
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 15
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - NLNG&apos;s Train 7 expansion project on Bonny Island, Nigeria
 - TotalEnergies sanctions Ima gas field offshore Nigeria to supply NLNG Train 7
+- Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - EXMAR to supply FSRU for Côte d'Ivoire LNG import project
