@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-24 23:04 UTC
+Generated: 2026-09-25 03:52 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
@@ -55,29 +55,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 22
 - Scraping note: OK.
 
-- Trump Administration Sends Vague Signals on Diesel Export Restrictions
-- Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
-- Asian LNG Buyers Team Up to Improve Supply Resilience
-- Plot Thickens Around Lukoil International Asset Sale
-- Crude Prices Rebound as Diesel Market Whipsaws
+- Saudi Arabia Moves to Restore Western Oil Export Route
+- Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
+- How Much Will Hormuz Crisis Impact Oil Demand Growth?
+- Questions Swirl as Qatar’s UCC Pursues Energy Megaprojects
+- Industry Urges Against US Diesel Export Restrictions
 - Democrats Accuse Trump of Oil Industry Quid Pro Quo
 - Ex-Im Bank Offers up to $6 Billion for Argentina LNG
-- Industry Urges Against US Diesel Export Restrictions
-- How Much Will Hormuz Crisis Impact Oil Demand Growth?
+- Crude Prices Rebound as Diesel Market Whipsaws
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
-- Russia Banks on China Gas Ties Amid Mounting Sanctions
+- Growing Risk of US Diesel Export Ban Roils Downstream Sector
+- Record-Low Gas Storage Set to Deepen EU's LNG Dependence
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
 - Red Sea: Conflict Spillover Pushes Supply Risks Higher
-- Weekly Monitor: Refining Remains Problematic as Oil Market Issues Grow
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power Systems
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
 - The Illusions of Energy Power
 - Exxon Refinery Outage Adds Pressure to Regional Fuel Prices
+- Trump Administration Sends Vague Signals on Diesel Export Restrictions
+- Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
 - South Korea Plans to Cap Mideast Crude, LNG Imports
+- Plot Thickens Around Lukoil International Asset Sale
 
 ### World Oil
 
@@ -87,8 +89,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- First Oil: The twists and turns of our new summer forecast
-- Putting A.I. to work: The disciplined approach to innovation in oil and gas operations
+- Greenland Energy extends Jameson Land exploration well deadlines to 2028
+- Petrobras signs MoU with Mozambique’s ENH for oil and gas cooperation
+- Texas RRC warns oil and gas operators of growing cyber threats
+- From automation to autonomy: Building the next oil and gas operating model
+- The missing measure of energy security
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -97,26 +102,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- Metatek wins Philippines contract for 40,000-km² energy exploration survey
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- SLB to restore offshore production for Brunei Shell Petroleum
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - North Sea oil and gas decline threatens 115,000-job workforce, report says
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- Osaka Gas buys 5% stake in Browse LNG project from bp
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 
 ### Oil & Gas Journal
 
@@ -159,6 +161,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- 5 Energy Stocks Positioned for a Prolonged Iran War
 - Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive
 - Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices
 - Global Biofuels Output Could Surge 70% Amid Energy Crisis
@@ -167,7 +170,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Vitol Scoops Up 25 Million Barrels of Discounted Iraqi Crude
 - Russia Begins Oil Exports From Its Giant Vostok Arctic Project
 - China Could Cut Fuel Exports in October as Inventories Plunge
-- Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz
 
 ### Rigzone
 
