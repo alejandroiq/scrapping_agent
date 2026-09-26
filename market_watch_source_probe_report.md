@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-26 14:12 UTC
+Generated: 2026-09-26 22:26 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
-| Offshore Magazine | active | 200 | 15 | OK. |
+| Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
 
@@ -89,8 +89,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Greenland Energy extends Jameson Land exploration well deadlines to 2028
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -98,15 +98,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- ADNOC, XRG deepen European LNG ties through Germany agreements
 - Africa eyes depleted oil and gas reservoirs for carbon storage
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
@@ -114,7 +115,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 - Oil and gas operators can’t fix what they can’t see: Addressing operational drift
-- DNV launches resilience framework as threats to critical energy infrastructure grow
 - Texas RRC warns oil and gas operators of growing cyber threats
 
 ### Oil & Gas Journal
@@ -154,10 +154,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Brazil's Energy Mix Goes Green Even As Oil Production Climbs
+- North Carolina Regulators Reject Duke Energy Gas Power Plant
 - Nigeria Joins IEA As Crude Output Hits Six-Year High
 - Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says
 - U.S. Oil, Gas Drilling Perks Up As Pressure Mounts
@@ -165,7 +167,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EU Shrugs Off Gas Supply Fears Despite Low Storage Levels
 - Trump’s Diesel Export Threat Puts Britain on Edge
 - WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch
-- India Weighs Mandatory Imported Coal Blending as Plant Stocks Crumble
 
 ### Rigzone
 
@@ -183,10 +184,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Karpowership&apos;s LNGT Africa unit
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
@@ -194,10 +196,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - NLNG&apos;s Train 7 expansion project on Bonny Island, Nigeria
 - TotalEnergies sanctions Ima gas field offshore Nigeria to supply NLNG Train 7
 - EXMAR to supply FSRU for Côte d'Ivoire LNG import project
-- Offshore oil and gas platform in Gulf of Thailand
-- Valeura discovers new oil field near Manora offshore Thailand
-- Talos Energy closes $420-million &lsquo;deepwater bolt-on&rsquo; from Shell
-- Talos Energy closes $420-million ‘deepwater bolt-on’ from Shell
 - Vallourec secures pipe supply contracts for Petrobras' Sepia 2 project, Greek CO2 storage development
 - New Fortress Energy sells former Seadrill semisubs for scrap
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
