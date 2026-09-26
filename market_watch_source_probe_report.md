@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-25 23:08 UTC
+Generated: 2026-09-26 03:57 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -89,33 +89,33 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Greenland Energy extends Jameson Land exploration well deadlines to 2028
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 - TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
-- Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- Africa eyes depleted oil and gas reservoirs for carbon storage
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Africa eyes depleted oil and gas reservoirs for carbon storage
-- TotalEnergies, Mistral launch AI program for oil and gas exploration
+- Oil and gas operators can’t fix what they can’t see: Addressing operational drift
+- DNV launches resilience framework as threats to critical energy infrastructure grow
 
 ### Oil & Gas Journal
 
