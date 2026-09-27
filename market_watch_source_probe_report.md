@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-26 22:26 UTC
+Generated: 2026-09-27 04:08 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -97,25 +97,25 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- UK LNG import plans draw criticism as North Sea production declines
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- deugro launches Papua New Guinea JV for major LNG project logistics
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Oil and gas operators can’t fix what they can’t see: Addressing operational drift
-- Texas RRC warns oil and gas operators of growing cyber threats
+- Africa eyes depleted oil and gas reservoirs for carbon storage
+- DNV launches resilience framework as threats to critical energy infrastructure grow
 
 ### Oil & Gas Journal
 
