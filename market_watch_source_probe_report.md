@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-27 04:08 UTC
+Generated: 2026-09-27 15:01 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -86,36 +86,36 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Greenland Energy extends Jameson Land exploration well deadlines to 2028
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK LNG import plans draw criticism as North Sea production declines
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 - Africa eyes depleted oil and gas reservoirs for carbon storage
+- TotalEnergies, Mistral launch AI program for oil and gas exploration
 - DNV launches resilience framework as threats to critical energy infrastructure grow
+- Texas RRC warns oil and gas operators of growing cyber threats
+- Study: Energy sector ramps up investment in digital twins, AI
 
 ### Oil & Gas Journal
 
@@ -154,7 +154,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -166,7 +166,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Why WTI Is Suddenly Trading $12 Below Brent
 - EU Shrugs Off Gas Supply Fears Despite Low Storage Levels
 - Trump’s Diesel Export Threat Puts Britain on Edge
-- WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch
 
 ### Rigzone
 
