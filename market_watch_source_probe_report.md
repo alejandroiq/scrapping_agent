@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-27 15:01 UTC
+Generated: 2026-09-27 22:51 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| Oil & Gas Journal | active | 200 | 22 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -55,9 +55,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 20
 - Scraping note: OK.
 
+- Russian Diesel Exports Fall
 - Questions Swirl as Qatar’s UCC Pursues Energy Megaprojects
 - Inpex Heads Off MidOcean Deal, Tightens Grip on Ichthys LNG
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
@@ -88,6 +89,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -104,17 +106,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- YPF-led Argentina LNG seeks approval for $51-billion investment
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Africa eyes depleted oil and gas reservoirs for carbon storage
-- TotalEnergies, Mistral launch AI program for oil and gas exploration
-- DNV launches resilience framework as threats to critical energy infrastructure grow
+- Oil and gas operators can’t fix what they can’t see: Addressing operational drift
 - Texas RRC warns oil and gas operators of growing cyber threats
+- DNV launches resilience framework as threats to critical energy infrastructure grow
 - Study: Energy sector ramps up investment in digital twins, AI
 
 ### Oil & Gas Journal
@@ -122,7 +123,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 22
 - Scraping note: OK.
 
 - Oil prices rise as US-Iran breakthrough hopes fade
@@ -142,7 +143,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - North American weekly rig count falls as Canadian oil drilling declines
 - US crude oil production
 - EIA forecasts continued growth in US crude oil production through 2026
-- 498979279491515___commercialenergy_headerimage_128
 - Tanker containing first shipment from the Golden Pass LNG project is guided by tug vessels through a canal waterway out to open sea.
 - QatarEnergy NFE LNG Train 1 to start 1H 2027; Ras Laffan repairs to take 3 years
 - ESENTIA to acquire Guadalajara-Manzanillo natural gas pipeline system
@@ -154,10 +154,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- The Next Global Energy Crisis Won’t Come From Just One Direction
 - Brazil's Energy Mix Goes Green Even As Oil Production Climbs
 - North Carolina Regulators Reject Duke Energy Gas Power Plant
 - Nigeria Joins IEA As Crude Output Hits Six-Year High
