@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-27 22:51 UTC
+Generated: 2026-09-28 04:09 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -89,7 +89,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -98,25 +97,26 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- deugro launches Papua New Guinea JV for major LNG project logistics
+- YPF-led Argentina LNG seeks approval for $51-billion investment
 - Africa eyes depleted oil and gas reservoirs for carbon storage
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 - Oil and gas operators can’t fix what they can’t see: Addressing operational drift
-- Texas RRC warns oil and gas operators of growing cyber threats
 - DNV launches resilience framework as threats to critical energy infrastructure grow
-- Study: Energy sector ramps up investment in digital twins, AI
+- Texas RRC warns oil and gas operators of growing cyber threats
 
 ### Oil & Gas Journal
 
@@ -158,6 +158,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Venezuela’s Oil Comeback Could Cost More Than $100 Billion
 - The Next Global Energy Crisis Won’t Come From Just One Direction
 - Brazil's Energy Mix Goes Green Even As Oil Production Climbs
 - North Carolina Regulators Reject Duke Energy Gas Power Plant
@@ -166,7 +167,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. Oil, Gas Drilling Perks Up As Pressure Mounts
 - Why WTI Is Suddenly Trading $12 Below Brent
 - EU Shrugs Off Gas Supply Fears Despite Low Storage Levels
-- Trump’s Diesel Export Threat Puts Britain on Edge
 
 ### Rigzone
 
