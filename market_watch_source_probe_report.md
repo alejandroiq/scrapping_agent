@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-28 04:09 UTC
+Generated: 2026-09-28 17:59 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 22 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 21
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
@@ -64,8 +64,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - How Much Will Hormuz Crisis Impact Oil Demand Growth?
 - Saudi Arabia Moves to Restore Western Oil Export Route
-- Oil Prices Sink Into the Weekend as Uncertainty Swirls
-- Russia Downgrades Oil, Gas Outlook on Sanctions, Drone Strikes
+- TotalEnergies, Exxon Mobil Ink Gas, Oil Deals in Azerbaijan
+- QatarEnergy Extends Force Majeure on LNG Deliveries to Edison
+- Libya Reopens El Sharara Field, Zawiya Refinery
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
 - Tariff Deal Could Restore US-China LNG Trade After 18-Month Gap
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
@@ -75,8 +76,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Who Holds the Power in Energy Now?
 - Trump Administration Sends Vague Signals on Diesel Export Restrictions
-- Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
 - South Korea Plans to Cap Mideast Crude, LNG Imports
+- Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
 - Plot Thickens Around Lukoil International Asset Sale
 
 ### World Oil
@@ -87,6 +88,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- 1947 Oil & Gas begins AIM trading following U.S. Gulf acquisition
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -96,27 +100,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
-- YPF-led Argentina LNG seeks approval for $51-billion investment
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 - ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Oil and gas operators can’t fix what they can’t see: Addressing operational drift
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - DNV launches resilience framework as threats to critical energy infrastructure grow
-- Texas RRC warns oil and gas operators of growing cyber threats
 
 ### Oil & Gas Journal
 
@@ -158,26 +159,27 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Venezuela’s Oil Comeback Could Cost More Than $100 Billion
-- The Next Global Energy Crisis Won’t Come From Just One Direction
-- Brazil's Energy Mix Goes Green Even As Oil Production Climbs
-- North Carolina Regulators Reject Duke Energy Gas Power Plant
-- Nigeria Joins IEA As Crude Output Hits Six-Year High
-- Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says
-- U.S. Oil, Gas Drilling Perks Up As Pressure Mounts
-- Why WTI Is Suddenly Trading $12 Below Brent
-- EU Shrugs Off Gas Supply Fears Despite Low Storage Levels
+- Russia Tightens Secrecy On Energy Exports
+- Can Fracking Reverse Colombia’s Oil and Gas Decline?
+- High Freight Costs Push More U.S. LNG Toward Europe
+- Qatar Extends LNG Force Majeure as Hormuz Crisis Drags On
+- Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record
+- TotalEnergies Targets 3% Annual Oil and Gas Growth Through 2030
+- Germany's Gas Storage Sits at 57%, but VNG Says Winter Supply Is Covered
+- Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher
+- Middle East Oil Exports Rebound to 12.8 Million Bpd
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Trump Advisers Study Impact of Diesel Export Ban
+- Energy Groups Urge Trump to Reject Fuel Export Restrictions
+- Brent Oil Up Over 3 Percent in Intraday Trading
 
 ### Offshore Magazine
 
