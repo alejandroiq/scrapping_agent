@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-29 00:14 UTC
+Generated: 2026-09-29 16:22 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 24 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| Oil & Gas Journal | active | 200 | 25 | OK. |
+| OilPrice.com | active | 200 | 13 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 21
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
@@ -63,6 +63,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - US Crude, LNG Left Out of US-China Tariff Deal
 - QatarEnergy Extends Force Majeure on LNG Deliveries to Edison
 - How Much Will Hormuz Crisis Impact Oil Demand Growth?
+- Syria Cuts Russian Crude Supplies Amid US Pressure
 - TotalEnergies, Exxon Ink Gas, Oil Deals in Azerbaijan
 - Libya Reopens El Sharara Field, Zawiya Refinery
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
@@ -87,11 +88,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Canadian oil sands production to hit record 3.5 MMbpd in 2026, S&P Global says
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - 1947 Oil & Gas begins AIM trading following U.S. Gulf acquisition
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -99,37 +103,36 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- UK LNG import plans draw criticism as North Sea production declines
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- ADNOC, XRG deepen European LNG ties through Germany agreements
 - Africa eyes depleted oil and gas reservoirs for carbon storage
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 24
+- Relevant news count: 25
 - Scraping note: OK.
 
 - Oil prices rise as US-Iran breakthrough hopes fade
 - US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
 - INA commissions new delayed coker at Rijeka refinery
 - Oil prices retreat as Middle East supply concerns ease amid diplomatic talks
+- Insights: Prioritizing process safety management across the refining industry (Pt. II)
+- Oil & Gas Journal ReEnterprised
 - Line graph showing percentage of oil content of reserve additions vs. production for oil-weighted companies on y-axis and years (2016-25) on x-axis, with horizontal black line representing percentage of oil reserves intersecting horizontal gray line representing percentage of oil production.
 - Kimmeridge: US shale oil reserve replacement weakens as gas remains abundant
 - A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
@@ -138,7 +141,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Colorado finalizes methane controls for existing oil and gas operations as federal rules remain in flux
 - Offshore oil and gas operations
 - Insights: Prioritizing process safety management across the refining industry (Pt. 1)
-- Oil & Gas Journal ReEnterprised
 - IEA: Ukrainian drone campaign degrades Russian refining resilience
 - YPF taps Axens for new diesel hydrotreater at Argentinian refinery
 - Panoramic view of processing units at ZPC&apos;s Zhoushan integrated refining complex
@@ -156,20 +158,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Iran Talks Take the Heat Out of the Oil Rally
+- Three EU Nations Call for New 2040 Renewable Energy Goal
+- The Hidden Tradeoffs of a U.S. Diesel Export Ban
+- LNG Canada to Double Export Capacity After Shell Approves Phase 2
+- UAE's Next $25 Billion Bet On India Includes Energy Sector
+- India Looks to Boost Exploration as Hormuz Crisis Threatens Supply
+- Saudi Arabia Restarts Red Sea Crude Oil Loadings
+- India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat
+- Argentina Threatens UK with Court Action Over Falklands Oil Drilling
+- China's LNG Imports Set for Second Straight Monthly Drop
+- Oil Extends Rally Despite Higher Hormuz Volume Reports
 - Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive
 - Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside
-- The World Is Entering a New Era of Energy Security
-- Europe’s Gas Forecasts Are Not an Energy Strategy
-- U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982
-- Record Diesel Costs Add Fresh Pressure on UK Economy
-- Russia Tightens Secrecy On Energy Exports
-- Can Fracking Reverse Colombia’s Oil and Gas Decline?
-- High Freight Costs Push More U.S. LNG Toward Europe
-- Qatar Extends LNG Force Majeure as Hormuz Crisis Drags On
 
 ### Rigzone
 
@@ -180,9 +185,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Energy Groups Urge Trump to Reject Fuel Export Restrictions
-- Brent Oil Up Over 3 Percent in Intraday Trading
-- Oil Execs Flocking to VEN Set Off Hunt for Golf Clubs
+- Oil Risk Premium Is Becoming Structural
+- Shell Greenlights Project to Double LNG Canada Capacity
+- Texas Oil Regulator Urges Operators to Report Theft
 
 ### Offshore Magazine
 
