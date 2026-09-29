@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-29 16:22 UTC
+Generated: 2026-09-29 23:30 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 13 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
+| Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
 
@@ -63,9 +63,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - US Crude, LNG Left Out of US-China Tariff Deal
 - QatarEnergy Extends Force Majeure on LNG Deliveries to Edison
 - How Much Will Hormuz Crisis Impact Oil Demand Growth?
-- Syria Cuts Russian Crude Supplies Amid US Pressure
-- TotalEnergies, Exxon Ink Gas, Oil Deals in Azerbaijan
-- Libya Reopens El Sharara Field, Zawiya Refinery
+- Brazil's Petrobras Signs Up for More US LNG
+- Canadian Oil Output Nears New Record High in July
+- Refiners Have Limited Options if US Bans Diesel Exports
+- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
 - Record-Low Gas Storage Set to Deepen EU's LNG Dependence
@@ -74,7 +75,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Brics vs. US Sanctions
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
-- Who Holds the Power in Energy Now?
 - Trump Administration Sends Vague Signals on Diesel Export Restrictions
 - South Korea Plans to Cap Mideast Crude, LNG Imports
 - Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
@@ -88,11 +88,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Canadian oil sands production to hit record 3.5 MMbpd in 2026, S&P Global says
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- 1947 Oil & Gas begins AIM trading following U.S. Gulf acquisition
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
@@ -103,21 +103,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - ADNOC, XRG deepen European LNG ties through Germany agreements
+- MidOcean Energy joins LNG Canada Phase 2 following FID
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 - Africa eyes depleted oil and gas reservoirs for carbon storage
-- Osaka Gas buys 5% stake in Browse LNG project from bp
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 
 ### Oil & Gas Journal
 
@@ -127,23 +127,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 25
 - Scraping note: OK.
 
+- Shell takes FID to double LNG Canada capacity
 - Oil prices rise as US-Iran breakthrough hopes fade
 - US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
 - INA commissions new delayed coker at Rijeka refinery
-- Oil prices retreat as Middle East supply concerns ease amid diplomatic talks
+- Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
+- S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - Insights: Prioritizing process safety management across the refining industry (Pt. II)
 - Oil & Gas Journal ReEnterprised
 - Line graph showing percentage of oil content of reserve additions vs. production for oil-weighted companies on y-axis and years (2016-25) on x-axis, with horizontal black line representing percentage of oil reserves intersecting horizontal gray line representing percentage of oil production.
 - Kimmeridge: US shale oil reserve replacement weakens as gas remains abundant
-- A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
-- MOL wraps repairs on major unit at Hungarian refinery
 - A volatile week for crude ends with lower prices
 - Colorado finalizes methane controls for existing oil and gas operations as federal rules remain in flux
-- Offshore oil and gas operations
+- A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
+- MOL wraps repairs on major unit at Hungarian refinery
 - Insights: Prioritizing process safety management across the refining industry (Pt. 1)
 - IEA: Ukrainian drone campaign degrades Russian refining resilience
 - YPF taps Axens for new diesel hydrotreater at Argentinian refinery
-- Panoramic view of processing units at ZPC&apos;s Zhoushan integrated refining complex
 - North American weekly rig count falls as Canadian oil drilling declines
 - US crude oil production
 - EIA forecasts continued growth in US crude oil production through 2026
@@ -158,52 +158,49 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher
+- US Distillate Stocks Continue to Fall As Crude Inventories Build
+- White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar
+- Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens
+- U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6
+- EU Weighs One-Year Delay to Methane Rules as Winter Energy Risks Rise
 - Iran Talks Take the Heat Out of the Oil Rally
 - Three EU Nations Call for New 2040 Renewable Energy Goal
 - The Hidden Tradeoffs of a U.S. Diesel Export Ban
 - LNG Canada to Double Export Capacity After Shell Approves Phase 2
-- UAE's Next $25 Billion Bet On India Includes Energy Sector
-- India Looks to Boost Exploration as Hormuz Crisis Threatens Supply
-- Saudi Arabia Restarts Red Sea Crude Oil Loadings
-- India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat
-- Argentina Threatens UK with Court Action Over Falklands Oil Drilling
-- China's LNG Imports Set for Second Straight Monthly Drop
-- Oil Extends Rally Despite Higher Hormuz Volume Reports
-- Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive
-- Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
 - Oil Risk Premium Is Becoming Structural
 - Shell Greenlights Project to Double LNG Canada Capacity
-- Texas Oil Regulator Urges Operators to Report Theft
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Timor-Leste approves EIS for Finder&rsquo;s offshore KTJ oilfields project
-- Timor-Leste approves EIS for Finder’s offshore KTJ oilfields project
+- Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- Timor-Leste approves EIS for Finder&rsquo;s offshore KTJ oilfields project
+- Timor-Leste approves EIS for Finder’s offshore KTJ oilfields project
 - Vallourec secures pipe supply contracts for Petrobras' Sepia 2 project, Greek CO2 storage development
 - Karpowership&apos;s LNGT Africa unit
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
