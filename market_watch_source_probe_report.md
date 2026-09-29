@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-28 17:59 UTC
+Generated: 2026-09-29 00:14 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 21 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 22 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Oil & Gas Journal | active | 200 | 24 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
+| Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
 
@@ -55,20 +55,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 21
+- Relevant news count: 20
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
-- Questions Swirl as Qatar’s UCC Pursues Energy Megaprojects
-- Inpex Heads Off MidOcean Deal, Tightens Grip on Ichthys LNG
-- Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
-- How Much Will Hormuz Crisis Impact Oil Demand Growth?
-- Saudi Arabia Moves to Restore Western Oil Export Route
-- TotalEnergies, Exxon Mobil Ink Gas, Oil Deals in Azerbaijan
+- Chevron’s ‘Circumspect’ Approach to LNG
+- US Crude, LNG Left Out of US-China Tariff Deal
 - QatarEnergy Extends Force Majeure on LNG Deliveries to Edison
+- How Much Will Hormuz Crisis Impact Oil Demand Growth?
+- TotalEnergies, Exxon Ink Gas, Oil Deals in Azerbaijan
 - Libya Reopens El Sharara Field, Zawiya Refinery
+- Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
-- Tariff Deal Could Restore US-China LNG Trade After 18-Month Gap
+- Record-Low Gas Storage Set to Deepen EU's LNG Dependence
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
 - Red Sea: Conflict Spillover Pushes Supply Risks Higher
 - Brics vs. US Sanctions
@@ -102,35 +101,37 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- UK LNG import plans draw criticism as North Sea production declines
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Osaka Gas buys 5% stake in Browse LNG project from bp
 - Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Africa eyes depleted oil and gas reservoirs for carbon storage
-- DNV launches resilience framework as threats to critical energy infrastructure grow
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 24
 - Scraping note: OK.
 
 - Oil prices rise as US-Iran breakthrough hopes fade
 - US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
 - INA commissions new delayed coker at Rijeka refinery
 - Oil prices retreat as Middle East supply concerns ease amid diplomatic talks
+- Line graph showing percentage of oil content of reserve additions vs. production for oil-weighted companies on y-axis and years (2016-25) on x-axis, with horizontal black line representing percentage of oil reserves intersecting horizontal gray line representing percentage of oil production.
+- Kimmeridge: US shale oil reserve replacement weakens as gas remains abundant
 - A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
 - MOL wraps repairs on major unit at Hungarian refinery
 - A volatile week for crude ends with lower prices
@@ -155,50 +156,50 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive
+- Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside
+- The World Is Entering a New Era of Energy Security
+- Europe’s Gas Forecasts Are Not an Energy Strategy
+- U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982
+- Record Diesel Costs Add Fresh Pressure on UK Economy
 - Russia Tightens Secrecy On Energy Exports
 - Can Fracking Reverse Colombia’s Oil and Gas Decline?
 - High Freight Costs Push More U.S. LNG Toward Europe
 - Qatar Extends LNG Force Majeure as Hormuz Crisis Drags On
-- Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record
-- TotalEnergies Targets 3% Annual Oil and Gas Growth Through 2030
-- Germany's Gas Storage Sits at 57%, but VNG Says Winter Supply Is Covered
-- Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher
-- Middle East Oil Exports Rebound to 12.8 Million Bpd
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
 - Energy Groups Urge Trump to Reject Fuel Export Restrictions
 - Brent Oil Up Over 3 Percent in Intraday Trading
+- Oil Execs Flocking to VEN Set Off Hunt for Golf Clubs
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Karpowership&apos;s LNGT Africa unit
-- Offshore grid expansion faces supply chain and permitting pressures, TenneT says
+- Timor-Leste approves EIS for Finder&rsquo;s offshore KTJ oilfields project
+- Timor-Leste approves EIS for Finder’s offshore KTJ oilfields project
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
+- Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- NLNG&apos;s Train 7 expansion project on Bonny Island, Nigeria
-- TotalEnergies sanctions Ima gas field offshore Nigeria to supply NLNG Train 7
-- EXMAR to supply FSRU for Côte d'Ivoire LNG import project
 - Vallourec secures pipe supply contracts for Petrobras' Sepia 2 project, Greek CO2 storage development
-- New Fortress Energy sells former Seadrill semisubs for scrap
+- Karpowership&apos;s LNGT Africa unit
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
 - Principle Power VP: Ports, policy and supply chains will determine floating wind's next phase
