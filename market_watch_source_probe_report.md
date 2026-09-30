@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-30 04:26 UTC
+Generated: 2026-09-30 16:17 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,12 +9,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 10 | OK. |
+| EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 24 | OK. |
+| Energy Intelligence | active | 200 | 25 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 13 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 13 | OK. |
 
@@ -25,7 +25,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 
 - Public companies produce most U.S. crude oil and natural gas
@@ -37,7 +37,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Eight petroleum liquids pipeline projects have been completed since the start of 2025
 - Dangote refinery drives increase in petroleum shipments from Nigeria
 - Longer wells boost Permian crude oil and natural gas production
-- United States on track for record natural gas production in 2026
 
 ### IEA
 
@@ -55,7 +54,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 24
+- Relevant news count: 25
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
@@ -63,11 +62,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - How the Mideast Conflict is Impacting Qatar's Giant LNG Build-Out
 - Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
 - Diesel: Distressed Market Could Implode if US Restricts Exports
+- Iraq Turns West as Record Runs Fail to Plug Gasoline Gap
+- Japan, South Korea Fill Middle East Crude Supply Gap
 - Syria Cuts Russian Crude Supplies Amid US Pressure
 - QatarEnergy Extends Force Majeure on LNG Deliveries to Edison
+- Russia Extends Diesel Export Ban as US Weighs Restrictions
 - Brazil's Petrobras Signs Up for More US LNG
 - Canadian Oil Output Nears New Record High in July
-- Refiners Have Limited Options if US Bans Diesel Exports
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Chevron’s ‘Circumspect’ Approach to LNG
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -79,7 +80,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Trump Administration Sends Vague Signals on Diesel Export Restrictions
-- South Korea Plans to Cap Mideast Crude, LNG Imports
 - Europe's Traders Panicked by Trump's Plan to Ban Diesel Exports
 - Plot Thickens Around Lukoil International Asset Sale
 
@@ -93,14 +93,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Oil and Gas Prices
 - Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- Tullow Oil loses Ghana tax dispute, sending shares down 50%
 - Canadian oil sands production to hit record 3.5 MMbpd in 2026, S&P Global says
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -109,18 +109,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- SLB to restore offshore production for Brunei Shell Petroleum
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- MidOcean Energy joins LNG Canada Phase 2 following FID
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Texas RRC warns oil and gas operators of growing cyber threats
 
 ### Oil & Gas Journal
 
@@ -161,20 +161,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Deadly Blast Hits Major Indian Refinery as Fuel Markets Tighten
+- Oil Price Forecasts Jump as Hormuz Disruption Drags On
+- EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average
+- Iran Warns No Energy Infrastructure Will Be Safe If It Can't Sell Oil
+- OPEC+ Expected to Keep Oil Production Quotas Unchanged
+- Russia Extends Diesel Export Ban Through Oct. 31
+- Analysts Cut China's Q4 Crude Import Forecasts by 400,000 Bpd
+- Foreign Investors Pull $3.2 Billion From Indian Markets as Oil Rally Returns
+- India Boosts Middle East Oil Imports, Cuts Russian Flows
+- JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates
+- Oil Prices Climb as Trump Rules Out Easing Iran Sanctions
 - Oil's New Normal Is Higher Prices
 - Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher
-- US Distillate Stocks Continue to Fall As Crude Inventories Build
-- White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar
-- Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens
-- U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6
-- EU Weighs One-Year Delay to Methane Rules as Winter Energy Risks Rise
-- Iran Talks Take the Heat Out of the Oil Rally
-- Three EU Nations Call for New 2040 Renewable Energy Goal
-- The Hidden Tradeoffs of a U.S. Diesel Export Ban
 
 ### Rigzone
 
@@ -185,8 +188,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Oil Risk Premium Is Becoming Structural
-- Shell Greenlights Project to Double LNG Canada Capacity
+- WTI Discount to Brent Deepens
+- Leviathan's Israeli Owners Cancel $6.7B Domestic Supply Deal
 
 ### Offshore Magazine
 
