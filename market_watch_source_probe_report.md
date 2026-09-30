@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-29 23:30 UTC
+Generated: 2026-09-30 04:26 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 21 | OK. |
+| Energy Intelligence | active | 200 | 24 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
 | OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 13 | OK. |
 
 ## Titles By Source
 
@@ -55,21 +55,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 21
+- Relevant news count: 24
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
-- Chevron’s ‘Circumspect’ Approach to LNG
-- US Crude, LNG Left Out of US-China Tariff Deal
+- Shell, Partners Green-Light LNG Canada's Second Phase
+- How the Mideast Conflict is Impacting Qatar's Giant LNG Build-Out
+- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
+- Diesel: Distressed Market Could Implode if US Restricts Exports
+- Syria Cuts Russian Crude Supplies Amid US Pressure
 - QatarEnergy Extends Force Majeure on LNG Deliveries to Edison
-- How Much Will Hormuz Crisis Impact Oil Demand Growth?
 - Brazil's Petrobras Signs Up for More US LNG
 - Canadian Oil Output Nears New Record High in July
 - Refiners Have Limited Options if US Bans Diesel Exports
-- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
+- Chevron’s ‘Circumspect’ Approach to LNG
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
-- Record-Low Gas Storage Set to Deepen EU's LNG Dependence
+- Door Still Open for Talks After No Tariff Relief for US LNG Into China
+- Thailand Rethinks Its LNG Buying Strategy Amid Growing Demand
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
 - Red Sea: Conflict Spillover Pushes Supply Risks Higher
 - Brics vs. US Sanctions
@@ -88,15 +91,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Oil and Gas Prices
 - Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Canadian oil sands production to hit record 3.5 MMbpd in 2026, S&P Global says
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Peter Thiel takes $76-million stake in Vaca Muerta producer Vista Energy
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -105,18 +109,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
 - SLB to restore offshore production for Brunei Shell Petroleum
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- New UK training program supports workforce mobility between oil, gas and offshore wind
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
 - Africa eyes depleted oil and gas reservoirs for carbon storage
 
 ### Oil & Gas Journal
@@ -162,6 +165,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil's New Normal Is Higher Prices
 - Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher
 - US Distillate Stocks Continue to Fall As Crude Inventories Build
 - White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar
@@ -171,7 +175,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Iran Talks Take the Heat Out of the Oil Rally
 - Three EU Nations Call for New 2040 Renewable Energy Goal
 - The Hidden Tradeoffs of a U.S. Diesel Export Ban
-- LNG Canada to Double Export Capacity After Shell Approves Phase 2
 
 ### Rigzone
 
@@ -190,10 +193,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- ExxonMobil awards SLB OneSubsea contract for Area 4 deepwater Mozambique LNG project
+- SCA to manage cable transport, carousel delivery for Caspian energy project
 - Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
