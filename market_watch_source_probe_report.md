@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-01 16:55 UTC
+Generated: 2026-10-01 23:44 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 23 | OK. |
+| Energy Intelligence | active | 200 | 24 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 28 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
 
@@ -55,32 +55,33 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 24
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
-- Hormuz Recovery Still Lags, Faces New Tanker Strike Threats
-- Trump Announces South Korean Funding for Alaska LNG
-- Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
-- Iraq Turns West as Record Runs Fail to Plug Gasoline Gap
-- UK Insists It Has Diverse, Resilient Diesel Supplies
 - China Halts Refined Products Exports
-- Moeve CEO Issues Warning on Energy Subsidies
-- Japan, South Korea Fill Middle East Crude Supply Gap
-- How the Mideast Conflict is Impacting Qatar's Giant LNG Build-Out
-- US Crude Exports Slide in July, While Diesel Shipments Soar
-- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
+- Ongoing Wars Put Low-Carbon Energy in Security Spotlight
+- Precarious Moment for Europe's US-Reliant Diesel Market
+- LNG Demand Resilient for Now Amid Major Supply Disruption
+- US Presses Europe to Release Diesel Reserves
+- South Korea Circumspect on Trump's Alaska LNG Push
+- Power Generation to Keep Driving Spanish Gas Demand Into 2027
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
-- Chevron’s ‘Circumspect’ Approach to LNG
+- Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
-- Diesel: Distressed Market Could Implode if US Restricts Exports
-- Can Russia's Budget Manage Without Higher Oil, Gas Taxes?
+- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
+- Chevron’s ‘Circumspect’ Approach to LNG
+- Energy Security Risks Multiply as Barriers Erode
+- US-China Detente Masks Energy Rivalry
 - LNG Market Evolution Quarterly, Q3'26
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
 - Red Sea: Conflict Spillover Pushes Supply Risks Higher
 - Brics vs. US Sanctions
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
+- Japan, South Korea Fill Middle East Crude Supply Gap
+- Hormuz Recovery Still Lags, Faces New Tanker Strike Threats
+- LNG Prices Continue to Slide Despite Continued Uncertainty
 
 ### World Oil
 
@@ -97,29 +98,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- SLB to restore offshore production for Brunei Shell Petroleum
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Osaka Gas buys 5% stake in Browse LNG project from bp
-- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- deugro launches Papua New Guinea JV for major LNG project logistics
+- MidOcean Energy joins LNG Canada Phase 2 following FID
 
 ### Oil & Gas Journal
 
@@ -163,22 +164,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Power Demand Is Surging Faster Than Grids Can Keep Up
+- Venezuela’s Oil Exports Drop 9% as Freight Costs Bite
+- China Halts October Fuel Exports as Global Diesel Crunch Deepens
+- UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates
+- Middle East Oil Exports Stage a Remarkable Comeback
+- BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale
 - Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia
 - Uranium Hits Record High While Nuclear Stocks Slide
 - India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices
 - U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles
-- Indian Refiners Seek Tankers for Hormuz Oil
-- Three Tankers Struck by Unknown Projectiles in Strait of Hormuz
-- China Halts Fuel Exports Until Further Notice
-- Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs
-- Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis
-- Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices
-- Brent Tumbles to $96 as Gulf Oil Flows Bounce Back
-- Iran’s Disappearing Oil Is Becoming Everyone’s Problem
 
 ### Rigzone
 
@@ -197,17 +196,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Offshore oil and gas platforms in the North Sea
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Amplitude reaches FID on offshore East Coast Supply Project
-- ExxonMobil awards SLB OneSubsea contract for Area 4 deepwater Mozambique LNG project
+- Offshore oil and gas platforms in the North Sea
 - Vallourec secures pipe supply contracts for Petrobras' Sepia 2 project, Greek CO2 storage development
 - Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Karpowership&apos;s LNGT Africa unit
