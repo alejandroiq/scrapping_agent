@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-01 04:38 UTC
+Generated: 2026-10-01 16:55 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,14 +9,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 9 | OK. |
+| EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 22 | OK. |
+| Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 13 | OK. |
+| Oil & Gas Journal | active | 200 | 28 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
 
@@ -25,9 +25,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 
+- U.S. exports of propane reached records in the first half of 2026
 - Public companies produce most U.S. crude oil and natural gas
 - What goes into diesel prices?
 - Corpus Christi LNG expansion makes facility the second-largest in the United States
@@ -54,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 23
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
@@ -62,16 +63,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Trump Announces South Korean Funding for Alaska LNG
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Iraq Turns West as Record Runs Fail to Plug Gasoline Gap
+- UK Insists It Has Diverse, Resilient Diesel Supplies
+- China Halts Refined Products Exports
 - Moeve CEO Issues Warning on Energy Subsidies
 - Japan, South Korea Fill Middle East Crude Supply Gap
 - How the Mideast Conflict is Impacting Qatar's Giant LNG Build-Out
-- Diesel: Distressed Market Could Implode if US Restricts Exports
 - US Crude Exports Slide in July, While Diesel Shipments Soar
-- Dangote Breaks Ground on New $16B Kenyan Mega-Refinery
 - Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Chevron’s ‘Circumspect’ Approach to LNG
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
+- Diesel: Distressed Market Could Implode if US Restricts Exports
 - Can Russia's Budget Manage Without Higher Oil, Gas Taxes?
 - LNG Market Evolution Quarterly, Q3'26
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
@@ -105,9 +107,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
@@ -115,39 +117,41 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Osaka Gas buys 5% stake in Browse LNG project from bp
+- TotalEnergies completes exit from Arctic LNG 2, transfers 10% stake
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 26
+- Relevant news count: 28
 - Scraping note: OK.
 
 - Shell takes FID to double LNG Canada capacity
 - Oil prices rise as US-Iran breakthrough hopes fade
 - US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
-- INA commissions new delayed coker at Rijeka refinery
+- Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
+- MRPL refinery fire at coker-adjacent plant kills one, injures another
+- Dangote breaks ground on 700,000-b/d Kenya refinery
+- Oil prices rise amid Chinese fuel export uncertainty, Middle East shipping risks
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories up 900,000 bbl
 - Monthly oil, diesel/gas oil exports in KSA, Kuwait, and the US
 - Morningstar DBRS: Global diesel squeeze boosts US refiners
 - US seeks to release another 40 million bbl from SPR despite low inventory levels
-- Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
-- S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - Insights: Prioritizing process safety management across the refining industry (Pt. II)
 - Oil & Gas Journal ReEnterprised
 - A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
 - MOL wraps repairs on major unit at Hungarian refinery
+- Panoramic view of processing installations at INA&apos;s Rijeka refinery.
+- INA commissions new delayed coker at Rijeka refinery
 - Insights: Prioritizing process safety management across the refining industry (Pt. 1)
-- IEA: Ukrainian drone campaign degrades Russian refining resilience
-- YPF taps Axens for new diesel hydrotreater at Argentinian refinery
+- Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
+- S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - North American weekly rig count falls as Canadian oil drilling declines
-- US crude oil production
-- EIA forecasts continued growth in US crude oil production through 2026
+- Oil pumpjacks working in Permian basin
 - Tanker containing first shipment from the Golden Pass LNG project is guided by tug vessels through a canal waterway out to open sea.
 - QatarEnergy NFE LNG Train 1 to start 1H 2027; Ras Laffan repairs to take 3 years
 - ESENTIA to acquire Guadalajara-Manzanillo natural gas pipeline system
@@ -159,23 +163,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia
+- Uranium Hits Record High While Nuclear Stocks Slide
+- India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices
+- U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles
+- Indian Refiners Seek Tankers for Hormuz Oil
+- Three Tankers Struck by Unknown Projectiles in Strait of Hormuz
+- China Halts Fuel Exports Until Further Notice
+- Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs
+- Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis
+- Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices
+- Brent Tumbles to $96 as Gulf Oil Flows Bounce Back
 - Iran’s Disappearing Oil Is Becoming Everyone’s Problem
-- Venezuela’s Oil Revival Accelerates as Foreign Companies Return
-- Can Quantum Computing Tame AI's Energy Appetite?
-- Africa’s Massive Cement Expansion Could Drive An Energy Boom
-- Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed
-- The World’s Diesel Problem Runs Deeper Than the Iran War
-- U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility
-- Europe Gets Hit by Another Energy-Driven Inflation Shock
-- Deadly Blast Hits Major Indian Refinery as Fuel Markets Tighten
-- Oil Price Forecasts Jump as Hormuz Disruption Drags On
-- EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average
-- Iran Warns No Energy Infrastructure Will Be Safe If It Can't Sell Oil
-- OPEC+ Expected to Keep Oil Production Quotas Unchanged
 
 ### Rigzone
 
@@ -186,18 +189,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- WTI Discount to Brent Deepens
-- Leviathan's Israeli Owners Cancel $6.7B Domestic Supply Deal
+- JPM Flags 'Remarkable Recovery' for Oil Market
+- South Korea Takes Steps toward Potential Alaska LNG Investment
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Offshore oil and gas platforms in the North Sea
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
