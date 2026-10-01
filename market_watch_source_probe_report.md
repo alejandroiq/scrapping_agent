@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-09-30 23:31 UTC
+Generated: 2026-10-01 04:38 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 23 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
 | OilPrice.com | active | 200 | 13 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 13 | OK. |
+| Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
 
@@ -54,26 +54,25 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 22
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
-- Shell, Partners Green-Light LNG Canada's Second Phase
-- How the Mideast Conflict is Impacting Qatar's Giant LNG Build-Out
-- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
-- Diesel: Distressed Market Could Implode if US Restricts Exports
 - Hormuz Recovery Still Lags, Faces New Tanker Strike Threats
-- Moeve CEO Issues Warning on Energy Subsidies
-- Iraq Turns West as Record Runs Fail to Plug Gasoline Gap
-- Japan, South Korea Fill Middle East Crude Supply Gap
-- Syria Cuts Russian Crude Supplies Amid US Pressure
 - Trump Announces South Korean Funding for Alaska LNG
+- Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
+- Iraq Turns West as Record Runs Fail to Plug Gasoline Gap
+- Moeve CEO Issues Warning on Energy Subsidies
+- Japan, South Korea Fill Middle East Crude Supply Gap
+- How the Mideast Conflict is Impacting Qatar's Giant LNG Build-Out
+- Diesel: Distressed Market Could Implode if US Restricts Exports
 - US Crude Exports Slide in July, While Diesel Shipments Soar
+- Dangote Breaks Ground on New $16B Kenyan Mega-Refinery
+- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Chevron’s ‘Circumspect’ Approach to LNG
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
-- Door Still Open for Talks After No Tariff Relief for US LNG Into China
-- Thailand Rethinks Its LNG Buying Strategy Amid Growing Demand
+- Can Russia's Budget Manage Without Higher Oil, Gas Taxes?
 - LNG Market Evolution Quarterly, Q3'26
 - Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
 - Red Sea: Conflict Spillover Pushes Supply Risks Higher
@@ -105,20 +104,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- SLB to restore offshore production for Brunei Shell Petroleum
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 - MidOcean Energy joins LNG Canada Phase 2 following FID
-- UK LNG import plans draw criticism as North Sea production declines
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -164,6 +163,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Iran’s Disappearing Oil Is Becoming Everyone’s Problem
 - Venezuela’s Oil Revival Accelerates as Foreign Companies Return
 - Can Quantum Computing Tame AI's Energy Appetite?
 - Africa’s Massive Cement Expansion Could Drive An Energy Boom
@@ -176,7 +176,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average
 - Iran Warns No Energy Infrastructure Will Be Safe If It Can't Sell Oil
 - OPEC+ Expected to Keep Oil Production Quotas Unchanged
-- Russia Extends Diesel Export Ban Through Oct. 31
 
 ### Rigzone
 
@@ -195,20 +194,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- ExxonMobil awards SLB OneSubsea contract for Area 4 deepwater Mozambique LNG project
-- SCA to manage cable transport, carousel delivery for Caspian energy project
-- Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Timor-Leste approves EIS for Finder&rsquo;s offshore KTJ oilfields project
-- Timor-Leste approves EIS for Finder’s offshore KTJ oilfields project
+- Amplitude reaches FID on offshore East Coast Supply Project
+- ExxonMobil awards SLB OneSubsea contract for Area 4 deepwater Mozambique LNG project
 - Vallourec secures pipe supply contracts for Petrobras' Sepia 2 project, Greek CO2 storage development
+- Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Karpowership&apos;s LNGT Africa unit
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
 - Principle Power VP: Ports, policy and supply chains will determine floating wind's next phase
