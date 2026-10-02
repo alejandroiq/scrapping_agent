@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-02 04:30 UTC
+Generated: 2026-10-02 16:08 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,9 +11,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 21 | OK. |
+| Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 28 | OK. |
+| Oil & Gas Journal | active | 200 | 26 | OK. |
 | OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
@@ -28,6 +28,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 10
 - Scraping note: OK.
 
+- U.S. natural gas production reached a record high in July 2026
 - U.S. exports of propane reached records in the first half of 2026
 - Public companies produce most U.S. crude oil and natural gas
 - What goes into diesel prices?
@@ -37,7 +38,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
 - Eight petroleum liquids pipeline projects have been completed since the start of 2025
 - Dangote refinery drives increase in petroleum shipments from Nigeria
-- Longer wells boost Permian crude oil and natural gas production
 
 ### IEA
 
@@ -55,17 +55,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 21
+- Relevant news count: 23
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
 - China Halts Refined Products Exports
+- Gulf Tanker Congestion Pushes Crude Transfers to India
+- Indian LNG Buyers Eye Saudi LPG Price Peg Amid Import Slump
 - Ongoing Wars Put Low-Carbon Energy in Security Spotlight
 - Precarious Moment for Europe's US-Reliant Diesel Market
-- LNG Demand Resilient for Now Amid Major Supply Disruption
+- Record Subsidies Keep India's Fuel Demand Train Chugging
 - US Presses Europe to Release Diesel Reserves
 - South Korea Circumspect on Trump's Alaska LNG Push
-- Power Generation to Keep Driving Spanish Gas Demand Into 2027
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -73,12 +74,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Chevron’s ‘Circumspect’ Approach to LNG
 - Energy Security Risks Multiply as Barriers Erode
 - US-China Detente Masks Energy Rivalry
+- LNG Demand Resilient for Now Amid Major Supply Disruption
 - LNG Market Evolution Quarterly, Q3'26
 - Brics vs. US Sanctions
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power
-- Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Japan, South Korea Fill Middle East Crude Supply Gap
 - Hormuz Recovery Still Lags, Faces New Tanker Strike Threats
+- LNG Prices Continue to Slide Despite Continued Uncertainty
 
 ### World Oil
 
@@ -88,9 +90,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 - Federal oil and gas permitting bill heads to Trump's desk
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Citizen Energy brings eight Anadarko basin wells online, plans 12 more
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -102,50 +104,48 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Argentina pressures energy companies over Falkland Islands oil development
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB to restore offshore production for Brunei Shell Petroleum
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- ADNOC, XRG deepen European LNG ties through Germany agreements
 - Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Africa eyes depleted oil and gas reservoirs for carbon storage
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- MidOcean Energy joins LNG Canada Phase 2 following FID
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 28
+- Relevant news count: 26
 - Scraping note: OK.
 
 - Shell takes FID to double LNG Canada capacity
 - Oil prices rise as US-Iran breakthrough hopes fade
 - US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
-- Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
-- MRPL refinery fire at coker-adjacent plant kills one, injures another
+- Alaska LNG liquefaction plant rendering
+- Trump cites $54 billion South Korean plan for Alaska LNG
 - Dangote breaks ground on 700,000-b/d Kenya refinery
 - Oil prices rise amid Chinese fuel export uncertainty, Middle East shipping risks
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories up 900,000 bbl
+- Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
+- MRPL refinery fire at coker-adjacent plant kills one, injures another
 - Monthly oil, diesel/gas oil exports in KSA, Kuwait, and the US
 - Morningstar DBRS: Global diesel squeeze boosts US refiners
-- US seeks to release another 40 million bbl from SPR despite low inventory levels
 - Insights: Prioritizing process safety management across the refining industry (Pt. II)
 - Oil & Gas Journal ReEnterprised
 - A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
 - MOL wraps repairs on major unit at Hungarian refinery
-- Panoramic view of processing installations at INA&apos;s Rijeka refinery.
-- INA commissions new delayed coker at Rijeka refinery
-- Insights: Prioritizing process safety management across the refining industry (Pt. 1)
 - Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
 - S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - North American weekly rig count falls as Canadian oil drilling declines
@@ -165,17 +165,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- 5 Energy ETFs That Have Soared in 2026
-- Power Demand Is Surging Faster Than Grids Can Keep Up
-- Venezuela’s Oil Exports Drop 9% as Freight Costs Bite
-- China Halts October Fuel Exports as Global Diesel Crunch Deepens
-- UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates
-- Middle East Oil Exports Stage a Remarkable Comeback
-- BLM Opens 35,000 California Acres to December Oil and Gas Lease Sale
-- Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia
-- Uranium Hits Record High While Nuclear Stocks Slide
-- India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices
-- U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles
+- G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis
+- LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began
+- WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns
+- U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities
+- Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites
+- Alaska LNG Hinges on How Much Asian Buyers Will Pay for Energy Security
+- WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release
+- JERA CEO Warns LNG Prices Have Further to Climb
+- U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman
+- ConocoPhillips Signs 20-Year LNG Deal With Venture Global
+- Brent Holds Above $102 as Gulf Export Rebound Offsets U.S. Military Moves
 
 ### Rigzone
 
@@ -186,8 +186,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- JPM Flags 'Remarkable Recovery' for Oil Market
-- South Korea Takes Steps toward Potential Alaska LNG Investment
+- Oil Prices Come Under Pressure
+- ConocoPhillips Joins Venture Global's Long-Term LNG Buyers
 
 ### Offshore Magazine
 
