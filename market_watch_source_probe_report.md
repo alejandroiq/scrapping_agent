@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-01 23:44 UTC
+Generated: 2026-10-02 04:30 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 24 | OK. |
+| Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 28 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 24
+- Relevant news count: 21
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
@@ -74,14 +74,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Security Risks Multiply as Barriers Erode
 - US-China Detente Masks Energy Rivalry
 - LNG Market Evolution Quarterly, Q3'26
-- Weekly Monitor: Middle East Supply Risks Could Become a Multiyear Concern
-- Red Sea: Conflict Spillover Pushes Supply Risks Higher
 - Brics vs. US Sanctions
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power
 - Energy Security Is Food Security: Asia’s Hidden Strategic Vulnerability
 - Japan, South Korea Fill Middle East Crude Supply Gap
 - Hormuz Recovery Still Lags, Faces New Tanker Strike Threats
-- LNG Prices Continue to Slide Despite Continued Uncertainty
 
 ### World Oil
 
@@ -91,16 +88,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Oil and Gas Prices
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
-- Tullow Oil loses Ghana tax dispute, sending shares down 50%
-- Canadian oil sands production to hit record 3.5 MMbpd in 2026, S&P Global says
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Federal oil and gas permitting bill heads to Trump's desk
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Citizen Energy brings eight Anadarko basin wells online, plans 12 more
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -109,18 +104,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Argentina pressures energy companies over Falkland Islands oil development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - SLB to restore offshore production for Brunei Shell Petroleum
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Monumental Energy identifies New Zealand gas targets in Taranaki basin
-- Atlantic Petroleum applies for new Faroe Islands exploration license
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Zenith Energy to lead P&A campaign for nine Timor Sea wells
+- Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Atlantic Petroleum applies for new Faroe Islands exploration license
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- deugro launches Papua New Guinea JV for major LNG project logistics
-- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
 
 ### Oil & Gas Journal
 
@@ -164,10 +161,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- 5 Energy ETFs That Have Soared in 2026
 - Power Demand Is Surging Faster Than Grids Can Keep Up
 - Venezuela’s Oil Exports Drop 9% as Freight Costs Bite
 - China Halts October Fuel Exports as Global Diesel Crunch Deepens
