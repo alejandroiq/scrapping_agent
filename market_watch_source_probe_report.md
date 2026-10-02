@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-02 16:08 UTC
+Generated: 2026-10-02 23:35 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 23 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| Oil & Gas Journal | active | 200 | 23 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 22
 - Scraping note: OK.
 
 - Russian Diesel Exports Fall
@@ -63,10 +63,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Gulf Tanker Congestion Pushes Crude Transfers to India
 - Indian LNG Buyers Eye Saudi LPG Price Peg Amid Import Slump
 - Ongoing Wars Put Low-Carbon Energy in Security Spotlight
-- Precarious Moment for Europe's US-Reliant Diesel Market
-- Record Subsidies Keep India's Fuel Demand Train Chugging
-- US Presses Europe to Release Diesel Reserves
-- South Korea Circumspect on Trump's Alaska LNG Push
+- Europe Accelerates Diesel Stock Release Under US Pressure
+- Drone Strikes, Field Outages Squeeze CPC Exports
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -75,6 +73,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Security Risks Multiply as Barriers Erode
 - US-China Detente Masks Energy Rivalry
 - LNG Demand Resilient for Now Amid Major Supply Disruption
+- Precarious Moment for Europe's US-Reliant Diesel Market
 - LNG Market Evolution Quarterly, Q3'26
 - Brics vs. US Sanctions
 - Beyond Solar: Why Energy Storage Will Shape the Future of Power
@@ -104,7 +103,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
@@ -116,34 +118,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - ADNOC, XRG deepen European LNG ties through Germany agreements
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
-- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Shell takes FID to double LNG Canada capacity to 28 MMtpa
-- MidOcean Energy joins LNG Canada Phase 2 following FID
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 26
+- Relevant news count: 23
 - Scraping note: OK.
 
 - Shell takes FID to double LNG Canada capacity
 - Oil prices rise as US-Iran breakthrough hopes fade
 - US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
+- Oil & Gas Journal ReEnterprised
 - Alaska LNG liquefaction plant rendering
 - Trump cites $54 billion South Korean plan for Alaska LNG
 - Dangote breaks ground on 700,000-b/d Kenya refinery
 - Oil prices rise amid Chinese fuel export uncertainty, Middle East shipping risks
-- Oil &amp; Gas Journal Weekly Market Recap
-- EIA: US crude oil inventories up 900,000 bbl
 - Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
 - MRPL refinery fire at coker-adjacent plant kills one, injures another
 - Monthly oil, diesel/gas oil exports in KSA, Kuwait, and the US
 - Morningstar DBRS: Global diesel squeeze boosts US refiners
 - Insights: Prioritizing process safety management across the refining industry (Pt. II)
-- Oil & Gas Journal ReEnterprised
 - A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
 - MOL wraps repairs on major unit at Hungarian refinery
 - Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
@@ -153,7 +150,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Tanker containing first shipment from the Golden Pass LNG project is guided by tug vessels through a canal waterway out to open sea.
 - QatarEnergy NFE LNG Train 1 to start 1H 2027; Ras Laffan repairs to take 3 years
 - ESENTIA to acquire Guadalajara-Manzanillo natural gas pipeline system
-- Enbridge launches open season for West Texas Express natural gas pipeline
 - footer logo Oil & Gas Journal
 
 ### OilPrice.com
@@ -161,10 +157,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project
+- Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk
+- U.S. Oil Drilling Inches Up As Prices Fall
+- Dated Brent Above $120 Signals a Serious Oil Squeeze
 - G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis
 - LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began
 - WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns
@@ -173,9 +173,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Alaska LNG Hinges on How Much Asian Buyers Will Pay for Energy Security
 - WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release
 - JERA CEO Warns LNG Prices Have Further to Climb
-- U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman
-- ConocoPhillips Signs 20-Year LNG Deal With Venture Global
-- Brent Holds Above $102 as Gulf Export Rebound Offsets U.S. Military Moves
 
 ### Rigzone
 
@@ -187,7 +184,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Source note: Source for drilling, output, and industry news.
 
 - Oil Prices Come Under Pressure
-- ConocoPhillips Joins Venture Global's Long-Term LNG Buyers
+- Canada PM Invokes New Powers to Fast-Track Oil Pipeline
 
 ### Offshore Magazine
 
@@ -198,12 +195,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Petrobras confirms second oil-bearing interval in Morpho well offshore Brazil
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Offshore oil and gas platforms in the North Sea
-- Vallourec secures pipe supply contracts for Petrobras' Sepia 2 project, Greek CO2 storage development
 - Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Karpowership&apos;s LNGT Africa unit
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
