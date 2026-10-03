@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-03 04:13 UTC
+Generated: 2026-10-03 14:35 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -104,22 +104,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- CoreMarine completes Hilli Episeyo FLNG disconnection offshore Cameroon
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- MidOcean Energy joins LNG Canada Phase 2 following FID
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
