@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-04 15:10 UTC
+Generated: 2026-10-04 22:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -95,9 +95,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Federal oil and gas permitting bill heads to Trump's desk
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -105,21 +105,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- Osaka Gas buys 5% stake in Browse LNG project from bp
+- Africa eyes depleted oil and gas reservoirs for carbon storage
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
@@ -158,10 +158,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Europe’s Diesel Woes Just Got Even Worse
+- Floating Power Plants Are Opening a New Energy Frontier
 - Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project
 - Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk
 - U.S. Oil Drilling Inches Up As Prices Fall
@@ -169,7 +171,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis
 - LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began
 - WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns
-- U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities
 
 ### Rigzone
 
