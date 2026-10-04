@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-04 04:44 UTC
+Generated: 2026-10-04 15:10 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -105,21 +105,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
