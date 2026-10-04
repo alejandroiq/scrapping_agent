@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-03 22:44 UTC
+Generated: 2026-10-04 04:44 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -95,31 +95,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Federal oil and gas permitting bill heads to Trump's desk
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Petrobras, Pemex target deep pre-salt oil resources offshore Mexico
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - PETRONAS signs five-year LNG supply deal with Greece’s METLEN
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- MidOcean Energy joins LNG Canada Phase 2 following FID
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
