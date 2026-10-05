@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-04 22:49 UTC
+Generated: 2026-10-05 04:32 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 23 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -55,10 +55,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 22
 - Scraping note: OK.
 
-- Russian Diesel Exports Fall
 - Europe Accelerates Diesel Stock Release Under US Pressure
 - Gulf Tanker Congestion Pushes Crude Transfers to India
 - Indian LNG Buyers Eye Saudi LPG Price Peg Amid Import Slump
@@ -92,12 +91,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- OPEC+ holds November oil production targets steady as supply remains constrained
 - Federal oil and gas permitting bill heads to Trump's desk
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -105,9 +105,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
@@ -116,9 +118,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
-- Osaka Gas buys 5% stake in Browse LNG project from bp
-- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
@@ -158,7 +157,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -170,7 +169,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Dated Brent Above $120 Signals a Serious Oil Squeeze
 - G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis
 - LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began
-- WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns
 
 ### Rigzone
 
