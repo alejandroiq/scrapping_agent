@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-05 04:32 UTC
+Generated: 2026-10-05 19:07 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 22 | OK. |
+| Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 23 | OK. |
+| Oil & Gas Journal | active | 200 | 25 | OK. |
 | OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
@@ -28,6 +28,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 10
 - Scraping note: OK.
 
+- Crude oil prices and refinery margins generally increased throughout the third quarter
 - U.S. natural gas production reached a record high in July 2026
 - U.S. exports of propane reached records in the first half of 2026
 - Public companies produce most U.S. crude oil and natural gas
@@ -37,7 +38,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Elevated crack spreads and crude oil prices contribute to higher prices at the pump
 - U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
 - Eight petroleum liquids pipeline projects have been completed since the start of 2025
-- Dangote refinery drives increase in petroleum shipments from Nigeria
 
 ### IEA
 
@@ -55,31 +55,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 23
 - Scraping note: OK.
 
-- Europe Accelerates Diesel Stock Release Under US Pressure
+- Total CEO: Mideast Crisis Exposes Energy Underinvestment
+- Aramco's Nasser Says Saudi Capacity Intact, Stocks Hitting 'Stress Level'
+- Chevron’s ‘Circumspect’ Approach to LNG
+- Release From Strategic Stocks Falls Well Short of Spring Pledge
+- Yemen Offensive Raises Stakes for Saudi Energy Infrastructure
+- Iran’s Oil Shake-Up Comes Amid Revenue Scrutiny
 - Gulf Tanker Congestion Pushes Crude Transfers to India
 - Indian LNG Buyers Eye Saudi LPG Price Peg Amid Import Slump
-- Ongoing Wars Put Low-Carbon Energy in Security Spotlight
+- Cenovus Expands Oil Sands Output With Athabasca Acquisition
+- Europe Accelerates Diesel Stock Release Under US Pressure
 - Drone Strikes, Field Outages Squeeze CPC Exports
-- Record Subsidies Keep India's Fuel Demand Train Chugging
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
 - Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
-- Chevron’s ‘Circumspect’ Approach to LNG
-- Are LNG Floodgates About to Open Between North America and Asia?
-- US-China Detente Masks Energy Rivalry
-- Precarious Moment for Europe's US-Reliant Diesel Market
 - Energy Security Risks Multiply as Barriers Erode
+- US-China Detente Masks Energy Rivalry
 - LNG Market Evolution Quarterly, Q3'26
+- The Energy Industry in an Autocratic World
 - Brics vs. US Sanctions
-- Beyond Solar: Why Energy Storage Will Shape the Future of Power
 - Japan, South Korea Fill Middle East Crude Supply Gap
 - China Halts Refined Products Exports
 - Hormuz Recovery Still Lags, Faces New Tanker Strike Threats
-- LNG Prices Continue to Slide Despite Continued Uncertainty
 
 ### World Oil
 
@@ -89,10 +90,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Cenovus to acquire Athabasca Oil in C$5.7-billion deal
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 - OPEC+ holds November oil production targets steady as supply remains constrained
-- Federal oil and gas permitting bill heads to Trump's desk
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
@@ -105,36 +107,37 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- AquaTerra reports record North Sea demand for decommissioning, maintenance services
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- deugro launches Papua New Guinea JV for major LNG project logistics
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 25
 - Scraping note: OK.
 
 - Shell takes FID to double LNG Canada capacity
 - Oil prices rise as US-Iran breakthrough hopes fade
-- US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
+- US BLM sets December California oil, gas lease sale
 - Oil & Gas Journal ReEnterprised
+- Dangote breaks ground on 700,000-b/d Kenya refinery
+- Promotional image for Energy Intelligence Forum 2026 with of Ryan Lance, ConocoPhillips&apos; chairman, against a background of blue with an outline of the globe in the background.
+- ConocoPhillips' chairman sees oil price floor rising towards $70/bbl
 - Alaska LNG liquefaction plant rendering
 - Trump cites $54 billion South Korean plan for Alaska LNG
-- Dangote breaks ground on 700,000-b/d Kenya refinery
 - Oil prices rise amid Chinese fuel export uncertainty, Middle East shipping risks
 - Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
 - MRPL refinery fire at coker-adjacent plant kills one, injures another
@@ -146,10 +149,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
 - S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - North American weekly rig count falls as Canadian oil drilling declines
-- Oil pumpjacks working in Permian basin
+- US Energy Secretary Chris Wright
+- US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
 - Tanker containing first shipment from the Golden Pass LNG project is guided by tug vessels through a canal waterway out to open sea.
 - QatarEnergy NFE LNG Train 1 to start 1H 2027; Ras Laffan repairs to take 3 years
-- ESENTIA to acquire Guadalajara-Manzanillo natural gas pipeline system
 - footer logo Oil & Gas Journal
 
 ### OilPrice.com
@@ -161,26 +164,27 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Europe’s Diesel Woes Just Got Even Worse
-- Floating Power Plants Are Opening a New Energy Frontier
-- Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project
-- Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk
-- U.S. Oil Drilling Inches Up As Prices Fall
-- Dated Brent Above $120 Signals a Serious Oil Squeeze
-- G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis
-- LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began
+- Southeast Asia’s Oil and Gas M&A Market Is Heating Up
+- Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown
+- Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports
+- Indian State Firm BPCL Readies $3-Billion Bond to Fund Brazil oil Project
+- Possible Fire Reported at Saudi Refinery as Attack Claims Circulate
+- Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’
+- South Korea Plans to Triple Canadian Crude Imports as Saudi Share Slips
+- Hormuz LNG Flows Still Down More Than 75% Despite Rebound
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Oil Prices Come Under Pressure
-- Canada PM Invokes New Powers to Fast-Track Oil Pipeline
+- USA Continues Strategic Petroleum Reserve Release
+- Iran Oil Minister Quits as Exports Dry Up
+- OPEC+ 7 Reveal Production Plan for November
 
 ### Offshore Magazine
 
