@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-06 01:10 UTC
+Generated: 2026-10-06 16:32 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 21 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| Oil & Gas Journal | active | 200 | 26 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 9 | OK. |
+| Offshore Magazine | active | 200 | 8 | OK. |
 
 ## Titles By Source
 
@@ -55,17 +55,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 21
+- Relevant news count: 20
 - Scraping note: OK.
 
-- Total CEO: Mideast Crisis Exposes Energy Underinvestment
+- Europe Needs All Energy Sources to Navigate Crisis: Execs
+- LNG Canada Expansion Helps Shell Counter Mideast Disruptions
 - Release From Strategic Stocks Falls Well Short of Spring Pledge
+- Petronas CEO Warns of 2027 LNG Price ‘Bloodbath’ for Asia
 - Yemen Offensive Raises Stakes for Saudi Energy Infrastructure
-- Iran’s Oil Shake-Up Comes Amid Revenue Scrutiny
-- Aramco's Nasser Says Saudi Capacity Intact, Stocks Hitting 'Stress Level'
-- Gulf Tanker Congestion Pushes Crude Transfers to India
 - Russian Refining Hits New Low as Kyiv Sustains Offensive
-- Cenovus Expands Oil Sands Output With Athabasca Acquisition
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -73,6 +71,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Chevron’s ‘Circumspect’ Approach to LNG
 - Energy Security Risks Multiply as Barriers Erode
 - US-China Detente Masks Energy Rivalry
+- Energy on the Front Line: Modern Conflict and New Energy Risks
 - LNG Market Evolution Quarterly, Q3'26
 - The Energy Industry in an Autocratic World
 - Brics vs. US Sanctions
@@ -90,14 +89,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Cenovus to acquire Athabasca Oil in C$5.7-billion deal
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- OPEC+ holds November oil production targets steady as supply remains constrained
+- Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases
+- Saudi Aramco CEO warns global oil supply buffer is ‘scarily thin’
+- Chevron announces leadership changes across oil, gas and new energies businesses
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -106,14 +105,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
@@ -124,11 +123,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 25
+- Relevant news count: 26
 - Scraping note: OK.
 
 - Shell takes FID to double LNG Canada capacity
 - Oil prices rise as US-Iran breakthrough hopes fade
+- Energy Transfer, Vaquero Midstream Delaware basin asset map
+- Energy Transfer expands Delaware basin footprint with $2.625 billion deal
 - US BLM sets December California oil, gas lease sale
 - Oil & Gas Journal ReEnterprised
 - Dangote breaks ground on 700,000-b/d Kenya refinery
@@ -136,7 +137,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - ConocoPhillips' chairman sees oil price floor rising towards $70/bbl
 - Alaska LNG liquefaction plant rendering
 - Trump cites $54 billion South Korean plan for Alaska LNG
-- Oil prices rise amid Chinese fuel export uncertainty, Middle East shipping risks
 - Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
 - MRPL refinery fire at coker-adjacent plant kills one, injures another
 - Monthly oil, diesel/gas oil exports in KSA, Kuwait, and the US
@@ -158,20 +158,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- The Hidden Cost of Saudi Arabia’s Oil Export Recovery
+- Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk
+- Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks
+- EU Delays Methane Rules, Opens Refinery Talks as Fuel Prices Hit Records
+- India Could Boost Crude and Critical Minerals Supply from Ecuador
+- Japan Courts Saudi Arabia and UAE as Asia's Oil Supply Fears Persist
+- China Accelerates Ultra-Deep Drilling to Boost Domestic Oil Supply
+- At Least 50 Iranian Tankers Are Stuck in the Gulf as U.S. Blockade Holds
+- Gulf Oil Exports Recover to 81% of Pre-War Levels
+- World Bank Warns Asia Is Running Out of Money to Fight Energy Shock
+- Trump Defers Federal Fuel Tax on Dyed Diesel as Prices Hit $6.32
 - Standard Chartered Says Hormuz Oil Flows Are Far From Normal
-- Europe Weighs Methane Rule Delay as Energy Supply Risks Mount
-- G7 Oil Stocks Release Is A Band-Aid Fix in Broken Fuel Market
-- Germany Is Spending €2 Billion to Discover the Real Price of Clean Jet Fuel
-- Southeast Asia’s Oil and Gas M&A Market Is Heating Up
-- Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown
-- Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports
-- Indian State Firm BPCL Readies $3-Billion Bond to Fund Brazil oil Project
-- Possible Fire Reported at Saudi Refinery as Attack Claims Circulate
-- Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’
 
 ### Rigzone
 
@@ -182,16 +184,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- USA Continues Strategic Petroleum Reserve Release
-- Iran Oil Minister Quits as Exports Dry Up
-- OPEC+ 7 Reveal Production Plan for November
+- 100+ Oil Execs Predict Future WTI Oil Prices
+- Brent Once Again Toiling Around $100 Mark
+- Vitol CEO Says Oil Inventories in West Have Been Exhausted
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
@@ -199,7 +201,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Petrobras confirms second oil-bearing interval in Morpho well offshore Brazil
 - Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Karpowership&apos;s LNGT Africa unit
 - MODU construction survey: Much of the newbuild rig supply may never hit the market
