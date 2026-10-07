@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-06 23:38 UTC
+Generated: 2026-10-07 04:47 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -88,16 +88,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Cenovus to acquire Athabasca Oil in C$5.7-billion deal
+- Oil executives warn global supply buffers are thinning despite rising Hormuz flows
+- IEA to discuss 100 MMbbl emergency oil, diesel stock release
+- Indonesia Energy brings K-29 well online, prepares to spud WK-5
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- Kuwait restores oil production to 2 MMbpd as Hormuz traffic increases
-- Saudi Aramco CEO warns global oil supply buffer is ‘scarily thin’
-- Chevron announces leadership changes across oil, gas and new energies businesses
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -106,18 +105,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB to restore offshore production for Brunei Shell Petroleum
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 
 ### Oil & Gas Journal
 
@@ -166,6 +166,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Why $100 Oil Is Hard to Kill
 - 5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff
 - US Crude Inventories Slide
 - Halliburton Shuns Falklands Oil Project
@@ -173,7 +174,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Is the West’s 100-Year Venezuela Oil Bet About To Backfire?
 - The Hidden Cost of Saudi Arabia’s Oil Export Recovery
 - Gulf Storm Threat Could Put 3 Million Bpd of Refining Capacity at Risk
-- Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks
 
 ### Rigzone
 
