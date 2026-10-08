@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-08 00:02 UTC
+Generated: 2026-10-08 17:14 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 21 | OK. |
+| Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 27 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 13 | OK. |
 
 ## Titles By Source
@@ -55,30 +55,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 21
+- Relevant news count: 23
 - Scraping note: OK.
 
+- Supply Shock or Lasting Demand Shift? Energy Leaders Divided on Crisis
 - Mideast Crisis Tests LNG Commercial Relationships
+- Oil Companies' Shift From Clean Hydrogen Isn't Universal
+- Post-Russian Gas Exit Supply Concerns Remain for Southeast Europe
+- Opec-Plus Capacity Test Runs Into Wartime Reality
 - Europe Needs All Energy Sources to Navigate Crisis: Execs
 - Petronas CEO Warns of 2027 LNG Price ‘Bloodbath’ for Asia
-- New US Sanction Threat Boosts Russian LNG Export Uncertainty
-- Release From Strategic Stocks Falls Well Short of Spring Pledge
-- Yemen Offensive Raises Stakes for Saudi Energy Infrastructure
-- US Gas Supply to Top Demand This Winter, Producer Group Says
-- Diesel Prices Retreat as IEA Accelerates Stock Release
+- US Jet Fuel Markets Tighten as Refiners Focus on Diesel
+- Arctic LNG 2 Eyes Tanker Additions via South Korean Entity
+- China’s Oil Demand Edges Higher in August on Export Push
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
-- Chevron Eyes Short-Term LNG, Favors Argentina Over Venezuela in Gas
 - Chevron’s ‘Circumspect’ Approach to LNG
-- Petronas Eyes Europe Amid Growing Atlantic LNG Portfolio
-- LNG Canada Expansion Helps Shell Counter Mideast Disruptions
-- Post-Russian Gas Exit Supply Concerns Remain for Southeast Europe
+- Pragmatism Has a Seat at German Energy Policy Table
+- Azerbaijan's Gas Exports Set for Major Boost Later This Decade
+- New US Sanction Threat Boosts Russian LNG Export Uncertainty
 - Energy on the Front Line: Modern Conflict and New Energy Risks
+- Rethinking Biofuels in an Energy Crisis
 - Getting More From Energy Storage
 - The Energy Industry in an Autocratic World
-- China Halts Refined Products Exports
 - Total CEO: Mideast Crisis Exposes Energy Underinvestment
+- Aramco's Nasser Says Saudi Capacity Intact, Stocks Hitting 'Stress Level'
 
 ### World Oil
 
@@ -88,10 +90,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Crescent Energy strikes $4.2-billion deal for Devon's Eagle Ford assets
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Oil executives warn global supply buffers are thinning despite rising Hormuz flows
-- IEA to discuss 100 MMbbl emergency oil, diesel stock release
-- Indonesia Energy brings K-29 well online, prepares to spud WK-5
+- EPA to propose further revisions to U.S. oil and gas emissions rules
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
@@ -103,21 +104,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Spirit Energy completes $55 million UK North Sea decommissioning campaign
+- Drilling Tools International expands North Sea presence with Saltire Energy acquisition
+- Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Osaka Gas buys 5% stake in Browse LNG project from bp
 
 ### Oil & Gas Journal
 
@@ -127,14 +129,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 27
 - Scraping note: OK.
 
+- Crescent Energy to acquire Eagle Ford assets from Devon for $4.2 billion
 - LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
-- Shell takes FID to double LNG Canada capacity
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 3.2 million bbl
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
+- Dangote breaks ground on 700,000-b/d Kenya refinery
 - Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
 - Cenovus to build oil sands business via Athabasca acquisition
-- Dangote breaks ground on 700,000-b/d Kenya refinery
 - Energy Transfer, Vaquero Midstream Delaware basin asset map
 - Energy Transfer expands Delaware basin footprint with $2.625 billion deal
 - Promotional image for Energy Intelligence Forum 2026 with of Ryan Lance, ConocoPhillips&apos; chairman, against a background of blue with an outline of the globe in the background.
@@ -151,8 +153,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
 - S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - North American weekly rig count falls as Canadian oil drilling declines
-- US Energy Secretary Chris Wright
-- US LNG exports on track to top 120 million tonnes in 2026, Energy Secretary says
+- LNG Canada marine terminal in Kitimat, BC April, 2026
+- Shell takes FID to double LNG Canada capacity
 - footer logo Oil & Gas Journal
 
 ### OilPrice.com
@@ -160,29 +162,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Who Is Going to Pay for Alaska LNG?
-- Depleted Global Stocks Set Higher Floor Under Oil Prices
-- Global Diesel Crunch Fuels New Wave of Energy Nationalism
-- Google Secures 890 MW Of Nuclear Power from Constellation Energy
-- U.S. Gulf Energy Hub Braces for Category 2 Hurricane
-- SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline
-- Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue
-- U.S. Crude Stocks Dip But Distillates Hold Steady
+- Reliance Drives India’s Venezuelan Oil Imports to Seven-Year High
+- Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South
+- Russian Oil Flows to India Plunge to 310,000 Bpd
+- Supertanker Rates Hit Record $1.4 Million a Day
+- Oil Jumps 5% as Iran Steps Up Attacks on Hormuz Tankers
+- India's Inflation Likely Hit 5.4% in September as Oil Costs Bite
+- First Deep-Gulf Tanker Attack in Nearly a Month Hits Vessel off Qatar
+- Big Oil Begins Shutting In Gulf of Mexico Production
+- Hormuz Tanker Traffic Hits Two-Month Low as Attacks Surge
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Kalshi Files Proposal for Never-Expiring Oil Contract
+- EIA Boosts Oil Price Forecast by $5 in 2026, $10 in 2027
+- Oil Prices Rebound Intraday Thursday
 
 ### Offshore Magazine
 
