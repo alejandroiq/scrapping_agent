@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-07 17:19 UTC
+Generated: 2026-10-08 00:02 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 25 | OK. |
+| Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 27 | OK. |
 | OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 13 | OK. |
 
 ## Titles By Source
 
@@ -55,19 +55,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 25
+- Relevant news count: 21
 - Scraping note: OK.
 
+- Mideast Crisis Tests LNG Commercial Relationships
 - Europe Needs All Energy Sources to Navigate Crisis: Execs
 - Petronas CEO Warns of 2027 LNG Price ‘Bloodbath’ for Asia
 - New US Sanction Threat Boosts Russian LNG Export Uncertainty
 - Release From Strategic Stocks Falls Well Short of Spring Pledge
 - Yemen Offensive Raises Stakes for Saudi Energy Infrastructure
-- Iran’s Oil Shake-Up Comes Amid Revenue Scrutiny
-- Russian Black Sea Tanker Strike Underscores Pollution, Export Risks
-- Shell Marine Promotes Dual-Fuel LNG Amid Future Bunker Uncertainty
-- Altamira LNG Off Line Following 'Mechanical Issue'
-- EIA Sees Winter of Discontent for US Heating Oil
+- US Gas Supply to Top Demand This Winter, Producer Group Says
+- Diesel Prices Retreat as IEA Accelerates Stock Release
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -77,12 +75,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - LNG Canada Expansion Helps Shell Counter Mideast Disruptions
 - Post-Russian Gas Exit Supply Concerns Remain for Southeast Europe
 - Energy on the Front Line: Modern Conflict and New Energy Risks
-- LNG Market Evolution Quarterly, Q3'26
 - Getting More From Energy Storage
 - The Energy Industry in an Autocratic World
 - China Halts Refined Products Exports
 - Total CEO: Mideast Crisis Exposes Energy Underinvestment
-- Hormuz Recovery Still Lags, Faces New Tanker Strike Threats
 
 ### World Oil
 
@@ -107,11 +103,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
@@ -121,7 +117,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 
 ### Oil & Gas Journal
 
@@ -168,14 +164,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Who Is Going to Pay for Alaska LNG?
+- Depleted Global Stocks Set Higher Floor Under Oil Prices
+- Global Diesel Crunch Fuels New Wave of Energy Nationalism
+- Google Secures 890 MW Of Nuclear Power from Constellation Energy
+- U.S. Gulf Energy Hub Braces for Category 2 Hurricane
 - SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline
 - Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue
 - U.S. Crude Stocks Dip But Distillates Hold Steady
-- IEA Discusses G7's 100 Million-Barrel Oil and Diesel Release
-- Norway Plans to Tap $63.7 Billion From Its Oil Fund in 2027
-- Shell’s Refining Margin Jumps 75% as Fuel Supplies Dry Up
-- QatarEnergy Secures $3 Billion Loan From Chinese Banks as LNG Exports Stall
-- Brent Back Above $100 as Houthis Hit Saudi Infrastructure
 
 ### Rigzone
 
@@ -193,18 +189,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- AI-generated image of LNG carrier being converted into FSRU at shipyard
-- AI-generated image of an FLNG vessel at sea
-- Eni targets year-end FID for Argentina LNG FLNG development
-- Ithaca Energy to acquire Terra Nova, White Rose stakes offshore Canada from Suncor
+- An artist&apos;s rendering of an FSRU and FLNG
+- Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- AI-generated image of an FLNG vessel at sea
+- Eni targets year-end FID for Argentina LNG FLNG development
+- Ithaca Energy to acquire Terra Nova, White Rose stakes offshore Canada from Suncor
+- AI-generated image of LNG carrier being converted into FSRU at shipyard
 - Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
 - Karpowership&apos;s LNGT Africa unit
 - Principle Power VP: Ports, policy and supply chains will determine floating wind's next phase
