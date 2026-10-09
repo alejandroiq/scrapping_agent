@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-09 00:10 UTC
+Generated: 2026-10-09 16:51 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 23 | OK. |
+| Energy Intelligence | active | 200 | 26 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 28 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 10 | OK. |
+| Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
 
@@ -55,21 +55,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 26
 - Scraping note: OK.
 
 - Oil Industry Touts 'Resiliency' Needs, But Who Pays?
 - LNG Bullishness Belies Emerging 'Flexibility' Risks
-- China’s Oil Demand Edges Higher in August on Export Push
-- Carlyle Goes Cold on Lukoil Deal as US-Backed Group Grabs Initiative
 - Opec-Plus Capacity Test Runs Into Wartime Reality
+- Carlyle Goes Cold on Lukoil Deal as US-Backed Group Grabs Initiative
+- China’s Oil Demand Edges Higher in August on Export Push
 - Gulf Oil Flows Recover, But Numbers Veil High Costs
 - Mideast Crisis Energy Implications Taking Shape
 - US Sanctions Remainder of Iran's 'Shadow Fleet'
 - Europe's Energy Vulnerabilities Rise as Winter Looms
-- Venture Global Loses LNG Arbitration to Portugal's Galp
-- US Hurricane Threat Adds to Mideast Oil Supply Risks
-- Petrobras, QatarEnergy Team Up for Brazil Frontier Blocks
+- EU Must Boost LNG Imports to Ensure Stable Winter Supply
+- Russia Weighs Partial Lifting of Diesel Export Ban
+- China Resumes Products Exports, Diesel to Take Lion's Share
+- Trickle of Mideast Gulf Jet Does Little to Calm European Supply Fears
+- Venture Global's LNG Arbitration Losses Fail To Curb Its Momentum
 - Supply Shock or Lasting Demand Shift? Energy Leaders Divided on Crisis
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
@@ -81,6 +83,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The Energy Industry in an Autocratic World
 - Total CEO: Mideast Crisis Exposes Energy Underinvestment
 - Aramco's Nasser Says Saudi Capacity Intact, Stocks Hitting 'Stress Level'
+- Petronas CEO Warns of 2027 LNG Price ‘Bloodbath’ for Asia
 
 ### World Oil
 
@@ -91,13 +94,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Crescent Energy strikes $4.2-billion deal for Devon's Eagle Ford assets
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- EPA to propose further revisions to U.S. oil and gas emissions rules
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -105,21 +107,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- Spirit Energy completes $55 million UK North Sea decommissioning campaign
-- Drilling Tools International expands North Sea presence with Saltire Energy acquisition
-- Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- Atlantic Petroleum applies for new Faroe Islands exploration license
-- Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Drilling Tools International expands North Sea presence with Saltire Energy acquisition
+- Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Atlantic Petroleum applies for new Faroe Islands exploration license
+- Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
@@ -163,17 +166,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply
+- Canada’s New Oil Pipeline Challenged by Cold Lake First Nations
+- Crude Oil is Underpriced, Energy Aspects Says
+- Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million
+- Australia Close to Finalizing Gas Reservation Plan for LNG Exporters
+- Venture Global Loses LNG Arbitration to Portugal's Galp
+- China Restarts Fuel Exports
+- Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low
 - World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet
-- Iran War Energy Shock Puts Hydrogen Back on the Table
-- Hurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production
-- U.S. Gasoline Prices Set October Record Even as National Average Slips
-- Reliance Drives India’s Venezuelan Oil Imports to Seven-Year High
-- Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South
-- Russian Oil Flows to India Plunge to 310,000 Bpd
 
 ### Rigzone
 
@@ -184,21 +189,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- EIA Boosts Oil Price Forecast by $5 in 2026, $10 in 2027
-- Oil Prices Rebound Intraday Thursday
+- Pacific Coast Energy Secures Agreements with PdVSA to Revive Oilfields
+- IEA Members Support Oil Stock Release Acceleration
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - ExxonMobil’s Stabroek Block offshore Guyana surpasses 1 billion barrels of oil production
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
-- Oil rig in the Caspian Sea near Baku
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - An artist&apos;s rendering of an FSRU and FLNG
