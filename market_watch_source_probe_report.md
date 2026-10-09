@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-09 16:51 UTC
+Generated: 2026-10-09 23:51 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 26 | OK. |
+| Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 28 | OK. |
+| Oil & Gas Journal | active | 200 | 30 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 9 | OK. |
+| Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
 
@@ -55,23 +55,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 26
+- Relevant news count: 23
 - Scraping note: OK.
 
-- Oil Industry Touts 'Resiliency' Needs, But Who Pays?
-- LNG Bullishness Belies Emerging 'Flexibility' Risks
-- Opec-Plus Capacity Test Runs Into Wartime Reality
-- Carlyle Goes Cold on Lukoil Deal as US-Backed Group Grabs Initiative
-- China’s Oil Demand Edges Higher in August on Export Push
-- Gulf Oil Flows Recover, But Numbers Veil High Costs
+- Trump, Putin Strike Deal for Russian Diesel Exports
 - Mideast Crisis Energy Implications Taking Shape
+- Oil Industry Touts 'Resiliency' Needs, But Who Pays?
 - US Sanctions Remainder of Iran's 'Shadow Fleet'
+- Gulf Oil Flows Recover, But Numbers Veil High Costs
 - Europe's Energy Vulnerabilities Rise as Winter Looms
-- EU Must Boost LNG Imports to Ensure Stable Winter Supply
-- Russia Weighs Partial Lifting of Diesel Export Ban
-- China Resumes Products Exports, Diesel to Take Lion's Share
-- Trickle of Mideast Gulf Jet Does Little to Calm European Supply Fears
-- Venture Global's LNG Arbitration Losses Fail To Curb Its Momentum
+- Washington Weighs Impacts of Enforcing Russia Sanctions Law
+- EU Transition Operators Sound Alarm on LNG Import Need
+- LNG Bullishness Belies Emerging 'Flexibility' Risks
+- Debating the Ideal Role of Nuclear in the Energy Mix
+- US LNG Sector Up Against Labor, Cost, Infrastructure Challenges
 - Supply Shock or Lasting Demand Shift? Energy Leaders Divided on Crisis
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
@@ -107,33 +104,35 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Drilling Tools International expands North Sea presence with Saltire Energy acquisition
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 28
+- Relevant news count: 30
 - Scraping note: OK.
 
+- Dangote taps EIL for Kenya grassroots refinery project
 - Crescent Energy to acquire Eagle Ford assets from Devon for $4.2 billion
 - LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
+- Artistic rendition of Bay du Nord offshore oil project, including potential future subsea tie-backs.
 - Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
 - Rompetrol targets 2028 startup for two refinery solar projects
 - Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production
@@ -170,15 +169,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Why Record Crude Output Can’t Solve America’s Diesel Crisis
+- Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels
+- Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production
+- 5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric
+- U.S. Oil Drilling Continues to Inch Upward
 - Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply
 - Canada’s New Oil Pipeline Challenged by Cold Lake First Nations
 - Crude Oil is Underpriced, Energy Aspects Says
 - Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million
-- Australia Close to Finalizing Gas Reservation Plan for LNG Exporters
-- Venture Global Loses LNG Arbitration to Portugal's Galp
-- China Restarts Fuel Exports
-- Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low
-- World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet
 
 ### Rigzone
 
@@ -197,14 +196,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- ExxonMobil’s Stabroek Block offshore Guyana surpasses 1 billion barrels of oil production
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- ExxonMobil’s Stabroek Block offshore Guyana surpasses 1 billion barrels of oil production
+- Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
 - AI-generated image of LNG carrier being converted into FSRU at shipyard
