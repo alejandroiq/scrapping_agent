@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-09 23:51 UTC
+Generated: 2026-10-10 04:46 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -93,33 +93,33 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Crescent Energy strikes $4.2-billion deal for Devon's Eagle Ford assets
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Drilling Tools International expands North Sea presence with Saltire Energy acquisition
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Osaka Gas buys 5% stake in Browse LNG project from bp
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 
 ### Oil & Gas Journal
 
