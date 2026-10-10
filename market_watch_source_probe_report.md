@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-10 04:46 UTC
+Generated: 2026-10-10 15:46 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
@@ -94,32 +94,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Drilling Tools International expands North Sea presence with Saltire Energy acquisition
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
-- Africa eyes depleted oil and gas reservoirs for carbon storage
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 
 ### Oil & Gas Journal
 
@@ -165,10 +165,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- The Iran War Is Fueling a Boom in Clean Energy
 - Why Record Crude Output Can’t Solve America’s Diesel Crisis
 - Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels
 - Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production
