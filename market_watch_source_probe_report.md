@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-11 04:31 UTC
+Generated: 2026-10-11 16:10 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -93,8 +93,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Crescent Energy strikes $4.2-billion deal for Devon's Eagle Ford assets
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -103,22 +103,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Drilling Tools International expands North Sea presence with Saltire Energy acquisition
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 
 ### Oil & Gas Journal
@@ -169,6 +169,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- North Sea Oil Producers Push Burnham to Scrap Windfall Tax
 - Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis
 - Emergency Oil Releases Risk Draining the World’s Last Supply Cushion
 - The Iran War Is Fueling a Boom in Clean Energy
@@ -178,7 +179,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - 5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric
 - U.S. Oil Drilling Continues to Inch Upward
 - Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply
-- Canada’s New Oil Pipeline Challenged by Cold Lake First Nations
 
 ### Rigzone
 
