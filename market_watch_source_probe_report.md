@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-11 16:10 UTC
+Generated: 2026-10-11 23:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,8 +14,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | n/a | 0 | Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
@@ -93,9 +93,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Crescent Energy strikes $4.2-billion deal for Devon's Eagle Ford assets
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -103,23 +103,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Drilling Tools International expands North Sea presence with Saltire Energy acquisition
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
 
 ### Oil & Gas Journal
 
@@ -165,10 +165,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- 3 Stocks To Play The Nuclear Energy Boom
+- How Low Can the Strategic Petroleum Reserve Actually Go?
 - North Sea Oil Producers Push Burnham to Scrap Windfall Tax
 - Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis
 - Emergency Oil Releases Risk Draining the World’s Last Supply Cushion
@@ -178,19 +180,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production
 - 5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric
 - U.S. Oil Drilling Continues to Inch Upward
-- Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
-- HTTP status: 200
-- Relevant news count: 2
-- Scraping note: OK.
+- HTTP status: n/a
+- Relevant news count: 0
+- Scraping note: Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow.
 - Source note: Source for drilling, output, and industry news.
 
-- IEA Members Support Oil Stock Release Acceleration
-- Pacific Coast Energy Secures Agreements with PdVSA to Revive Oilfields
+- No relevant titles detected.
 
 ### Offshore Magazine
 
