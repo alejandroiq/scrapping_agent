@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-11 23:29 UTC
+Generated: 2026-10-12 04:46 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,8 +14,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
-| Rigzone | active | n/a | 0 | Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
@@ -79,8 +79,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Getting More From Energy Storage
 - The Energy Industry in an Autocratic World
 - Total CEO: Mideast Crisis Exposes Energy Underinvestment
-- Aramco's Nasser Says Saudi Capacity Intact, Stocks Hitting 'Stress Level'
 - Petronas CEO Warns of 2027 LNG Price ‘Bloodbath’ for Asia
+- Aramco's Nasser Says Saudi Capacity Intact, Stocks Hitting 'Stress Level'
 
 ### World Oil
 
@@ -105,7 +105,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Drilling Tools International expands North Sea presence with Saltire Energy acquisition
@@ -114,12 +114,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
 - Monumental Energy identifies New Zealand gas targets in Taranaki basin
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Sapphire Gas Solutions acquires EDGE LNG, adds 200,000 gal/day liquefaction capacity
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
@@ -165,10 +165,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries
 - 3 Stocks To Play The Nuclear Energy Boom
 - How Low Can the Strategic Petroleum Reserve Actually Go?
 - North Sea Oil Producers Push Burnham to Scrap Windfall Tax
@@ -185,12 +186,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Status: active
 - URL: https://www.rigzone.com/
-- HTTP status: n/a
-- Relevant news count: 0
-- Scraping note: Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow.
+- HTTP status: 200
+- Relevant news count: 2
+- Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- No relevant titles detected.
+- IEA Members Support Oil Stock Release Acceleration
+- Pacific Coast Energy Secures Agreements with PdVSA to Revive Oilfields
 
 ### Offshore Magazine
 
