@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-12 19:39 UTC
+Generated: 2026-10-13 01:52 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 10 | OK. |
+| Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
 
@@ -64,7 +64,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - US Sanctions Remainder of Iran's 'Shadow Fleet'
 - Gulf Oil Flows Recover, But Numbers Veil High Costs
-- Russia Lifts Diesel Export Ban, But No Sign of 'Energy Ceasefire'
+- Russia Lifts Diesel Export Ban Despite No 'Energy Ceasefire'
 - EU Leaders Fear US-Russia Diesel Deal Will Erode Sanctions
 - LNG Bullishness Belies Emerging 'Flexibility' Risks
 - Debating the Ideal Role of Nuclear in the Energy Mix
@@ -93,8 +93,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Crescent Energy strikes $4.2-billion deal for Devon's Eagle Ford assets
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -103,22 +103,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
-- Drilling Tools International expands North Sea presence with Saltire Energy acquisition
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Atlantic Petroleum applies for new Faroe Islands exploration license
-- Monumental Energy identifies New Zealand gas targets in Taranaki basin
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 
 ### Oil & Gas Journal
 
@@ -164,10 +164,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Trump Curbs Farmers’ Access to Funding for Energy Projects
+- Global Coal Demand Rises as LNG Shortage Deepens
+- China's Auto Exports Explode as Domestic Demand Craters
 - Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million
 - Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound
 - Small Indian Factories Face Blackouts as Coal Stocks Plunge
@@ -175,10 +178,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Saudi Arabia Insists Energy Supply Remains Resilient
 - Inside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine
 - House Republicans Move to Block Trump's Russian Diesel Deal
-- Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears
-- Pakistan Looks to Import Crude Oil from Libya to Diversify Supply
-- Oil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce
-- BMI Predicts Brent Crude Will Remain Above $100 for Months
 
 ### Rigzone
 
@@ -198,14 +197,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore grid expansion faces supply chain and permitting pressures, TenneT says
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- ExxonMobil’s Stabroek Block offshore Guyana surpasses 1 billion barrels of oil production
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
