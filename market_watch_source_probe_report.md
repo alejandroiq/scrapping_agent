@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-13 17:24 UTC
+Generated: 2026-10-13 23:38 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -59,16 +59,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Russia Lifts Diesel Export Ban, But No Sign of 'Energy Ceasefire'
+- Reports of Attack on Aramco's HQ Boost Oil Prices After Market Close
+- Opec Gulf Crude Output Rebounds in September as Risks Mount
 - Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - US Sanctions Remainder of Iran's 'Shadow Fleet'
-- Oil Industry Touts 'Resiliency' Needs, But Who Pays?
-- Gulf Oil Flows Recover, But Numbers Veil High Costs
+- Sanctions Experts Cast Doubt on Trump-Putin Diesel Deal
 - Syria Imports Saudi, US Oil After Spurning Russian Supplies
 - Shell Imports Singapore's First Bio-LNG Cargo on Path to Cleaner Energy
-- China Cuts EV Export Tax Rebate as EU Caps Hybrid Imports
 - Venture Global's LNG Arbitration Losses Fail to Curb Its Momentum
 - Supply Shock or Lasting Demand Shift? Energy Leaders Divided on Crisis
 - US LNG Sector Up Against Labor, Cost, Infrastructure Challenges
+- Oil Industry Touts 'Resiliency' Needs, But Who Pays?
 - LNG Bullishness Belies Emerging 'Flexibility' Risks
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
@@ -81,7 +82,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The Energy Industry in an Autocratic World
 - Mideast Crisis Energy Implications Taking Shape
 - Carlyle Goes Cold on Lukoil Deal as US-Backed Group Grabs Initiative
-- Trump, Putin Strike Deal for Russian Diesel Exports
 
 ### World Oil
 
@@ -98,19 +98,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Shell to acquire 30% stake in Equinor's Bay du Nord offshore oil project
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
@@ -121,6 +119,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- MidOcean Energy joins LNG Canada Phase 2 following FID
 
 ### Oil & Gas Journal
 
@@ -134,32 +134,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Dangote taps EIL for Kenya grassroots refinery project
 - Crescent Energy to acquire Eagle Ford assets from Devon for $4.2 billion
 - LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
+- US EPA plans further rollback of oil, gas methane rules
 - Three drilling rigs in black against a background of blue with the name OPEC and its insignia in white.
 - OPEC+ warns soaring shipping, insurance costs impede oil flows
+- DNV: Energy-importing countries scaling clean energy 3x faster than exporters
+- Dangote breaks ground on 700,000-b/d Kenya refinery
 - Oil &amp; Gas Journal ReEnterprised podcast, Dane Gregoris, Enverus
 - Insights: US shale maturity and the future of North American supply
 - Oil & Gas Journal ReEnterprised
-- Artistic rendition of Bay du Nord offshore oil project, including potential future subsea tie-backs.
-- Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
-- Rompetrol targets 2028 startup for two refinery solar projects
-- DNV: Energy-importing countries scaling clean energy 3x faster than exporters
-- Dangote breaks ground on 700,000-b/d Kenya refinery
 - Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 3.2 million bbl
-- Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
-- Cenovus to build oil sands business via Athabasca acquisition
+- Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
+- Rompetrol targets 2028 startup for two refinery solar projects
 - Energy Transfer, Vaquero Midstream Delaware basin asset map
 - Energy Transfer expands Delaware basin footprint with $2.625 billion deal
 - Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
 - MRPL refinery fire at coker-adjacent plant kills one, injures another
 - Monthly oil, diesel/gas oil exports in KSA, Kuwait, and the US
 - Morningstar DBRS: Global diesel squeeze boosts US refiners
-- Insights: Prioritizing process safety management across the refining industry (Pt. II)
+- Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
+- Cenovus to build oil sands business via Athabasca acquisition
 - Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
 - S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
-- North American weekly rig count falls as Canadian oil drilling declines
+- Artistic rendition of Bay du Nord offshore oil project, including potential future subsea tie-backs.
 - US BLM sets December California oil, gas lease sale
+- LNG Canada marine terminal in Kitimat, BC April, 2026
 
 ### OilPrice.com
 
@@ -170,17 +170,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Record Tanker Rates Leave Heavy Crude Stranded in the Americas
+- Stranded Middle East LNG Supply Upends Gas Markets
+- OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027
+- Five Shale Stocks to Watch Before Third-Quarter Earnings
+- Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time
+- Argentina Takes Falklands Oil Fight to International Tribunal
 - China’s $3 Billion Qatar LNG Deal Raises an Awkward Question
 - Why Diesel Prices Are So Much Higher Than Gasoline
 - Saudi Arabia Becomes the Oil Market’s Biggest Wild Card
 - Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers
 - Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel
-- Super El Niño Could Ease Asia’s LNG Supply Concerns
-- Pakistan Faces $1 Billion LNG Bill This Winter
-- Japan to Compensate Oil Importers for High Shipping Costs
-- Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz
-- Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market
-- Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing
 
 ### Rigzone
 
@@ -192,7 +192,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Source note: Source for drilling, output, and industry news.
 
 - October Is Beginning to Look a lot Like April for Oil
-- Dallas Fed Examines Theft in the Oil Field
+- Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low
 
 ### Offshore Magazine
 
