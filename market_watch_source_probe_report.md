@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-13 01:52 UTC
+Generated: 2026-10-13 17:24 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 22 | OK. |
+| Energy Intelligence | active | 200 | 24 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
@@ -55,20 +55,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 24
 - Scraping note: OK.
 
-- Trump, Putin Strike Deal for Russian Diesel Exports
-- Mideast Crisis Energy Implications Taking Shape
-- Oil Industry Touts 'Resiliency' Needs, But Who Pays?
+- Russia Lifts Diesel Export Ban, But No Sign of 'Energy Ceasefire'
 - Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - US Sanctions Remainder of Iran's 'Shadow Fleet'
+- Oil Industry Touts 'Resiliency' Needs, But Who Pays?
 - Gulf Oil Flows Recover, But Numbers Veil High Costs
-- Russia Lifts Diesel Export Ban Despite No 'Energy Ceasefire'
-- EU Leaders Fear US-Russia Diesel Deal Will Erode Sanctions
-- LNG Bullishness Belies Emerging 'Flexibility' Risks
-- Debating the Ideal Role of Nuclear in the Energy Mix
+- Syria Imports Saudi, US Oil After Spurning Russian Supplies
+- Shell Imports Singapore's First Bio-LNG Cargo on Path to Cleaner Energy
+- China Cuts EV Export Tax Rebate as EU Caps Hybrid Imports
+- Venture Global's LNG Arbitration Losses Fail to Curb Its Momentum
+- Supply Shock or Lasting Demand Shift? Energy Leaders Divided on Crisis
 - US LNG Sector Up Against Labor, Cost, Infrastructure Challenges
+- LNG Bullishness Belies Emerging 'Flexibility' Risks
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -78,8 +79,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Rethinking Biofuels in an Energy Crisis
 - Getting More From Energy Storage
 - The Energy Industry in an Autocratic World
-- Petronas CEO Warns of 2027 LNG Price ‘Bloodbath’ for Asia
+- Mideast Crisis Energy Implications Taking Shape
 - Carlyle Goes Cold on Lukoil Deal as US-Backed Group Grabs Initiative
+- Trump, Putin Strike Deal for Russian Diesel Exports
 
 ### World Oil
 
@@ -89,13 +91,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Anadarko basin leads Lower 48 plays in economics as drilling inventory grows
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
+- TotalEnergies pledges further diesel price cuts in France amid oil crisis
 - Shell to acquire 30% stake in Equinor's Bay du Nord offshore oil project
-- Crescent Energy strikes $4.2-billion deal for Devon's Eagle Ford assets
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -105,10 +110,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
@@ -118,7 +121,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 
 ### Oil & Gas Journal
 
@@ -132,12 +134,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Dangote taps EIL for Kenya grassroots refinery project
 - Crescent Energy to acquire Eagle Ford assets from Devon for $4.2 billion
 - LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
+- Three drilling rigs in black against a background of blue with the name OPEC and its insignia in white.
+- OPEC+ warns soaring shipping, insurance costs impede oil flows
+- Oil &amp; Gas Journal ReEnterprised podcast, Dane Gregoris, Enverus
+- Insights: US shale maturity and the future of North American supply
+- Oil & Gas Journal ReEnterprised
 - Artistic rendition of Bay du Nord offshore oil project, including potential future subsea tie-backs.
 - Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
 - Rompetrol targets 2028 startup for two refinery solar projects
-- Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
 - Dangote breaks ground on 700,000-b/d Kenya refinery
+- Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 3.2 million bbl
 - Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
@@ -149,48 +156,43 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Monthly oil, diesel/gas oil exports in KSA, Kuwait, and the US
 - Morningstar DBRS: Global diesel squeeze boosts US refiners
 - Insights: Prioritizing process safety management across the refining industry (Pt. II)
-- Oil & Gas Journal ReEnterprised
-- A panoramic nighttime view of processing plants and equipment at MOL Group&rsquo;s Danube refinery in Sz&aacute;zhalombatta, near Budapest, Hungary.
-- MOL wraps repairs on major unit at Hungarian refinery
 - Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
 - S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - North American weekly rig count falls as Canadian oil drilling declines
 - US BLM sets December California oil, gas lease sale
-- LNG Canada marine terminal in Kitimat, BC April, 2026
-- Shell takes FID to double LNG Canada capacity
 
 ### OilPrice.com
 
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Trump Curbs Farmers’ Access to Funding for Energy Projects
-- Global Coal Demand Rises as LNG Shortage Deepens
-- China's Auto Exports Explode as Domestic Demand Craters
-- Black Sea Oil Shipping Insurance Costs Surge to $2.5 Million
-- Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound
-- Small Indian Factories Face Blackouts as Coal Stocks Plunge
-- Energy Stocks Soared in Q3 as Fuel Markets Tightened
-- Saudi Arabia Insists Energy Supply Remains Resilient
-- Inside The Secret Russian-Iranian Military-Energy-Pipeline Laundering Machine
-- House Republicans Move to Block Trump's Russian Diesel Deal
+- China’s $3 Billion Qatar LNG Deal Raises an Awkward Question
+- Why Diesel Prices Are So Much Higher Than Gasoline
+- Saudi Arabia Becomes the Oil Market’s Biggest Wild Card
+- Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers
+- Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel
+- Super El Niño Could Ease Asia’s LNG Supply Concerns
+- Pakistan Faces $1 Billion LNG Bill This Winter
+- Japan to Compensate Oil Importers for High Shipping Costs
+- Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz
+- Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market
+- Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- USA Oil, Gas Workforce Hits Post Pandemic September Low
-- Energy Market Mistaking Adaptation for Normalization
-- Shell Comes In after BP Exits Equinor Oil Project offshore Canada
+- October Is Beginning to Look a lot Like April for Oil
+- Dallas Fed Examines Theft in the Oil Field
 
 ### Offshore Magazine
 
