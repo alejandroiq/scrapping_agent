@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-13 23:38 UTC
+Generated: 2026-10-14 03:54 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 10 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 24 | OK. |
+| Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
 | OilPrice.com | active | 200 | 11 | OK. |
@@ -55,7 +55,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 24
+- Relevant news count: 23
 - Scraping note: OK.
 
 - Russia Lifts Diesel Export Ban, But No Sign of 'Energy Ceasefire'
@@ -75,13 +75,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
 - Chevron’s ‘Circumspect’ Approach to LNG
-- Energy on the Front Line: Modern Conflict and New Energy Risks
 - When Is the Price of Oil Wrong?
 - Rethinking Biofuels in an Energy Crisis
 - Getting More From Energy Storage
 - The Energy Industry in an Autocratic World
 - Mideast Crisis Energy Implications Taking Shape
-- Carlyle Goes Cold on Lukoil Deal as US-Backed Group Grabs Initiative
+- Trump, Putin Strike Deal for Russian Diesel Exports
 
 ### World Oil
 
@@ -92,24 +91,27 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Anadarko basin leads Lower 48 plays in economics as drilling inventory grows
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
-- TotalEnergies pledges further diesel price cuts in France amid oil crisis
-- Shell to acquire 30% stake in Equinor's Bay du Nord offshore oil project
+- Primavera taps Oxy, Chevron veterans ahead of Venezuela oil field takeover
+- Block Energy completes 3D seismic survey over Martkopi prospect in Georgia
+- Seeq and Applied Computing partner on AI analytics for energy operations
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
+- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
@@ -118,9 +120,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
-- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- MidOcean Energy joins LNG Canada Phase 2 following FID
 
 ### Oil & Gas Journal
 
@@ -170,6 +169,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Wall Street Sees Inflation Easing Even With Oil Above $90
 - Record Tanker Rates Leave Heavy Crude Stranded in the Americas
 - Stranded Middle East LNG Supply Upends Gas Markets
 - OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027
@@ -180,7 +180,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Why Diesel Prices Are So Much Higher Than Gasoline
 - Saudi Arabia Becomes the Oil Market’s Biggest Wild Card
 - Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers
-- Trump Defends Russian Diesel Deal as Energy Ceasefire Claims Unravel
 
 ### Rigzone
 
