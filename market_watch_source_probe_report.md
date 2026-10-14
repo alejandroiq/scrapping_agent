@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-14 03:54 UTC
+Generated: 2026-10-14 14:55 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 10 | OK. |
+| EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 23 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 13 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
@@ -25,7 +25,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 
 - Mixed outlook for energy expenditures this winter
@@ -37,7 +37,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Corpus Christi LNG expansion makes facility the second-largest in the United States
 - United States on track for record crude oil production in 2026
 - Elevated crack spreads and crude oil prices contribute to higher prices at the pump
-- U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity
 
 ### IEA
 
@@ -58,16 +57,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 23
 - Scraping note: OK.
 
-- Russia Lifts Diesel Export Ban, But No Sign of 'Energy Ceasefire'
 - Reports of Attack on Aramco's HQ Boost Oil Prices After Market Close
+- Sanctions Experts Cast Doubt on Trump-Putin Diesel Deal
+- AI Enables Gas Industry Cost Reductions, Demand Boost
 - Opec Gulf Crude Output Rebounds in September as Risks Mount
 - Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - US Sanctions Remainder of Iran's 'Shadow Fleet'
-- Sanctions Experts Cast Doubt on Trump-Putin Diesel Deal
+- Big Oil Doubles Down on Angola Commitment
+- EU’s Energy Department Blindsided by Latest Gas Buying Push
 - Syria Imports Saudi, US Oil After Spurning Russian Supplies
 - Shell Imports Singapore's First Bio-LNG Cargo on Path to Cleaner Energy
-- Venture Global's LNG Arbitration Losses Fail to Curb Its Momentum
-- Supply Shock or Lasting Demand Shift? Energy Leaders Divided on Crisis
+- Are LNG Floodgates About to Open Between North America and Asia?
 - US LNG Sector Up Against Labor, Cost, Infrastructure Challenges
 - Oil Industry Touts 'Resiliency' Needs, But Who Pays?
 - LNG Bullishness Belies Emerging 'Flexibility' Risks
@@ -80,7 +80,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Getting More From Energy Storage
 - The Energy Industry in an Autocratic World
 - Mideast Crisis Energy Implications Taking Shape
-- Trump, Putin Strike Deal for Russian Diesel Exports
 
 ### World Oil
 
@@ -93,7 +92,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Anadarko basin leads Lower 48 plays in economics as drilling inventory grows
 - Primavera taps Oxy, Chevron veterans ahead of Venezuela oil field takeover
 - Block Energy completes 3D seismic survey over Martkopi prospect in Georgia
-- Seeq and Applied Computing partner on AI analytics for energy operations
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
@@ -106,20 +104,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
-- Cook Inlet offshore oil and gas lease sale proposed for March 2027
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- Atlantic Petroleum applies for new Faroe Islands exploration license
+- Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
@@ -165,33 +164,36 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- India’s Gas Demand Drops as Iran War Hikes LNG Spot Prices
+- Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal
+- Aramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo
+- Oman Overtakes U.S. as India's Top LNG Supplier in September
+- Trump Announces “Massive” Greenland Oil Exploration Plans
+- Taiwan Commits Up to $4.4 Billion to Alaska LNG Megaproject
+- Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.
+- Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks
 - Wall Street Sees Inflation Easing Even With Oil Above $90
 - Record Tanker Rates Leave Heavy Crude Stranded in the Americas
 - Stranded Middle East LNG Supply Upends Gas Markets
 - OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027
 - Five Shale Stocks to Watch Before Third-Quarter Earnings
-- Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time
-- Argentina Takes Falklands Oil Fight to International Tribunal
-- China’s $3 Billion Qatar LNG Deal Raises an Awkward Question
-- Why Diesel Prices Are So Much Higher Than Gasoline
-- Saudi Arabia Becomes the Oil Market’s Biggest Wild Card
-- Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- October Is Beginning to Look a lot Like April for Oil
-- Saudis Tell OPEC That Oil Output Recovered from 3 Decade Low
+- MMA Proposes 2nd Alaska Oil, Gas Lease Sale
+- QatarEnergy CEO Says 'We Need to Keep Energy Above Politics'
+- Power LNG Secures Agreement with Port of Galveston
 
 ### Offshore Magazine
 
