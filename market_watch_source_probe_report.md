@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-15 03:35 UTC
+Generated: 2026-10-15 14:43 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,8 +14,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
@@ -57,18 +57,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 21
 - Scraping note: OK.
 
-- Reports of Attack on Aramco's HQ Boost Oil Prices After Market Close
-- Sanctions Experts Cast Doubt on Trump-Putin Diesel Deal
-- AI Enables Gas Industry Cost Reductions, Demand Boost
+- EU’s Energy Department Blindsided by Latest Gas-Buying Push
+- Russia Sees US Diesel Deal as Possible Chink in Sanctions Blockade
 - Mideast Tensions Stifle China’s Crude Imports
+- Reports of Attack on Aramco's HQ Boost Oil Prices After Market Close
 - Opec Gulf Crude Output Rebounds in September as Risks Mount
 - Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - Echo of War Tempers IEA Outlook for Oil Demand Rebound
-- Taiwan Cites ‘Major Progress’ Toward Alaska LNG Investment
-- Are LNG Floodgates About to Open Between North America and Asia?
+- Lukoil Stays Active at Home 1 Year After Sanctions Hit Foreign Assets
+- Russian LNG Sales Jump as Exports Start From Blacklisted Projects
+- Energy Financiers Maintain Climate Ambitions, But Quietly
 - US LNG Sector Up Against Labor, Cost, Infrastructure Challenges
 - Oil Industry Touts 'Resiliency' Needs, But Who Pays?
-- LNG Bullishness Belies Emerging 'Flexibility' Risks
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -87,15 +87,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Anadarko basin leads Lower 48 plays in economics as drilling inventory grows
-- Primavera taps Oxy, Chevron veterans ahead of Venezuela oil field takeover
-- Block Energy completes 3D seismic survey over Martkopi prospect in Georgia
+- U.S. lobbies IEA nations for larger emergency oil stock release
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -104,19 +102,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
@@ -136,13 +136,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - US EPA plans further rollback of oil, gas methane rules
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
 - Dangote breaks ground on 700,000-b/d Kenya refinery
+- The handover opportunity: What decides whether energy investment performs
 - Three drilling rigs in black against a background of blue with the name OPEC and its insignia in white.
 - OPEC+ warns soaring shipping, insurance costs impede oil flows
 - Oil &amp; Gas Journal ReEnterprised podcast, Dane Gregoris, Enverus
 - Insights: US shale maturity and the future of North American supply
 - Oil & Gas Journal ReEnterprised
 - Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production
-- LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
 - Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
 - Rompetrol targets 2028 startup for two refinery solar projects
 - Energy Transfer, Vaquero Midstream Delaware basin asset map
@@ -162,30 +162,35 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited
+- Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows
+- U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding
+- Ship-to-Ship Oil Transfers Surge Off India’s West Coast
+- TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar
+- Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire
+- Lithium Prices Plunge as EU-China Trade Deal Sparks Demand Fears
+- Oil Prices Fall as Trump Considers Easing Sanctions on Shadow Fleet Tankers
 - Oil Market Tightens as Tanker Attacks and Inventory Draws Mount
 - White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6
 - US Crude Oil Inventories See Massive Drop Off
 - Trump Announces $80 Billion Taiwan LNG Deal
-- Britain's $47 Billion North Sea Oil Decision Hangs in the Balance
-- Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy
-- China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High
-- India’s Gas Demand Drops as Iran War Hikes LNG Spot Prices
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- MMA Proposes 2nd Alaska Oil, Gas Lease Sale
-- QatarEnergy CEO Says 'We Need to Keep Energy Above Politics'
+- Aramco CEO Warns Oil Squeeze is Serious
+- Trump Touts 'Massive' Oil, Gas Exploration in Greenland
+- USA to Use Cold War Era Law to Expand Texas Refinery
 
 ### Offshore Magazine
 
