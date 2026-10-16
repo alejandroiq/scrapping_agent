@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-15 22:55 UTC
+Generated: 2026-10-16 03:31 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -93,9 +93,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. lobbies IEA nations for larger emergency oil stock release
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -105,21 +105,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
+- Argentina pressures energy companies over Falkland Islands oil development
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Osaka Gas buys 5% stake in Browse LNG project from bp
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
@@ -169,6 +169,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying
+- Standard Chartered: Trump's Russian Diesel Won't Add New Supply
+- The Diesel Crunch Will Persist Well into 2027
 - Exxon’s Oil Boom Could Keep Guyana’s Gas at Home
 - Ukraine Strikes Major Russian Oil Refinery
 - U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push
@@ -178,9 +181,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EIA Says US Crude Inventories Down Nearly 9 Million Barrels
 - Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked
 - Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal
-- Europe’s Gas Prices Close to 2022 High as Hormuz LNG Flows Remain Limited
-- Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows
-- U.S. Wants World Bank to Drop Ban on Upstream Oil and Gas Funding
 
 ### Rigzone
 
