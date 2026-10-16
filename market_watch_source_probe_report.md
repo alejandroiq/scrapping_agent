@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-16 03:31 UTC
+Generated: 2026-10-16 14:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,12 +9,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 9 | OK. |
+| EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 24 | OK. |
+| Energy Intelligence | active | 200 | 25 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -25,7 +25,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 
 - Mixed outlook for energy expenditures this winter
@@ -36,7 +36,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - What goes into diesel prices?
 - Corpus Christi LNG expansion makes facility the second-largest in the United States
 - United States on track for record crude oil production in 2026
-- Elevated crack spreads and crude oil prices contribute to higher prices at the pump
 
 ### IEA
 
@@ -54,23 +53,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 24
+- Relevant news count: 25
 - Scraping note: OK.
 
-- EU’s Energy Department Blindsided by Latest Gas-Buying Push
-- Russia Sees US Diesel Deal as Possible Chink in Sanctions Blockade
+- Hormuz Attacks Hit Crude Flows, Testing Even Risk-Tolerant Shippers
+- As US Scrambles for Solutions, Global Diesel Dilemma Only Grows
+- Sanctions Bedevil US-Russia Energy Plans
+- Russia to Continue Gasoline Imports Amid Fresh Attacks
+- China’s Jet Fuel Exports Set for Quarterly Surge
+- India’s Refining Limitations Curb Venezuelan Opportunities
 - The Houthis Aim Beyond Saudi Oil
 - Iran Runs Short on Oil Income and Gulf Leverage
-- IEA Members to Accelerate Release of Diesel Inventories
 - US Energy Loan Office Quickens Funding Pace
 - US Weighs 'Shadow Fleet' Sanctions Relief to Ease Freight Rates
 - Texas Refining Expansion Plans Take Form
-- US Price Volatility Growing as AI, LNG Compete for Gas
-- Lukoil Stays Active at Home 1 Year After Sanctions Hit Foreign Assets
-- Russian LNG Sales Jump as Exports Start From Blacklisted Projects
-- Energy Financiers Maintain Climate Ambitions, But Quietly
-- Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- IEA Members to Accelerate Release of Diesel Inventories
 - Views on Hormuz Demand Impact Diverge Sharply
+- India and China Struggle Over New Delhi's Clean Energy Aspirations
+- Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -78,8 +78,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - When Is the Price of Oil Wrong?
 - Rethinking Biofuels in an Energy Crisis
 - Getting More From Energy Storage
-- The Energy Industry in an Autocratic World
 - Opec Gulf Crude Output Rebounds in September as Risks Mount
+- Russian LNG Sales Jump as Exports Start From Blacklisted Projects
 - Reports of Attack on Aramco's HQ Boost Oil Prices After Market Close
 
 ### World Oil
@@ -93,9 +93,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. lobbies IEA nations for larger emergency oil stock release
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -105,21 +105,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Argentina pressures energy companies over Falkland Islands oil development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
@@ -165,22 +165,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure
+- Trump's Oil Price Strategy Faces Two Major Tests This Weekend
+- China’s Sufficient Gas Stocks Could Ease Winter Supply Concerns
+- South Korea Turns Back to Coal as LNG Crisis Deepens
+- India Slashes Diesel Export Tax as Global Fuel Crunch Deepens
+- Trump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”
+- Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse
+- Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets
 - WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying
 - Standard Chartered: Trump's Russian Diesel Won't Add New Supply
 - The Diesel Crunch Will Persist Well into 2027
-- Exxon’s Oil Boom Could Keep Guyana’s Gas at Home
-- Ukraine Strikes Major Russian Oil Refinery
-- U.S. Targets Central Asia's Energy and Critical Minerals in Major Trade Push
-- IEA Speeds Emergency Oil Release
-- Britain’s Biggest Business Lobby Calls for Tax Cuts and Lower Energy Bills
-- Venezuela's Oil Recovery Gains Momentum as New Drilling Rigs Arrive
-- EIA Says US Crude Inventories Down Nearly 9 Million Barrels
-- Pakistan Faces Winter Gas Shortages if Hormuz LNG Remains Choked
-- Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal
 
 ### Rigzone
 
@@ -191,9 +190,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Aramco CEO Warns Oil Squeeze is Serious
-- Trump Touts 'Massive' Oil, Gas Exploration in Greenland
-- USA to Use Cold War Era Law to Expand Texas Refinery
+- When Will Global Gas Demand Peak?
+- OPEC+ Meets on Sidelines of Saudi Conference
+- Currie Calls Brent 'Vibe Contract' Out of Step with Energy
 
 ### Offshore Magazine
 
