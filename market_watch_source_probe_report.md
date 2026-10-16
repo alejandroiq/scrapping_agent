@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-16 14:36 UTC
+Generated: 2026-10-16 22:37 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 25 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| Oil & Gas Journal | active | 200 | 29 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
 
@@ -53,21 +53,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 25
+- Relevant news count: 22
 - Scraping note: OK.
 
 - Hormuz Attacks Hit Crude Flows, Testing Even Risk-Tolerant Shippers
 - As US Scrambles for Solutions, Global Diesel Dilemma Only Grows
 - Sanctions Bedevil US-Russia Energy Plans
 - Russia to Continue Gasoline Imports Amid Fresh Attacks
+- Siemens Energy Brings Ukraine Playbook to Gulf
+- Energy Security Aligns With Aviation’s Net-Zero Goal at IATA Symposium
 - China’s Jet Fuel Exports Set for Quarterly Surge
 - India’s Refining Limitations Curb Venezuelan Opportunities
-- The Houthis Aim Beyond Saudi Oil
-- Iran Runs Short on Oil Income and Gulf Leverage
-- US Energy Loan Office Quickens Funding Pace
-- US Weighs 'Shadow Fleet' Sanctions Relief to Ease Freight Rates
-- Texas Refining Expansion Plans Take Form
-- IEA Members to Accelerate Release of Diesel Inventories
+- New US Import Rules Could Hit Clean Energy Supply Chains
 - Views on Hormuz Demand Impact Diverge Sharply
 - India and China Struggle Over New Delhi's Clean Energy Aspirations
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -90,13 +87,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Upstream winners honored at 2026 Gulf Energy Information Excellence Awards in Houston
 - U.S. lobbies IEA nations for larger emergency oil stock release
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -106,55 +104,53 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 30
+- Relevant news count: 29
 - Scraping note: OK.
 
 - HPCL taps Technip Energies for EPC on new Mumbai refinery unit
 - Middle East supply risks overshadow Russian diesel deal
 - Dangote taps EIL for Kenya grassroots refinery project
 - Crescent Energy to acquire Eagle Ford assets from Devon for $4.2 billion
-- BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
-- Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
-- Oil &amp; Gas Journal Weekly Market Recap
-- EIA: US crude oil inventories down 8.6 million bbl
+- Year-on-year oil demand growth, selected regions
+- IEA: Middle East war weighs on emerging-market oil demand
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
 - Dangote breaks ground on 700,000-b/d Kenya refinery
+- Oil &amp; Gas Journal Weekly Market Recap
+- EIA: US crude oil inventories down 8.6 million bbl
 - The handover opportunity: What decides whether energy investment performs
 - Line graph with oil pumpjacks in background.
 - IEA: Oil supply rebound remains fragile; diesel tightness persists
-- US EPA plans further rollback of oil, gas methane rules
+- Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
 - Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
 - Rompetrol targets 2028 startup for two refinery solar projects
 - Energy Transfer, Vaquero Midstream Delaware basin asset map
 - Energy Transfer expands Delaware basin footprint with $2.625 billion deal
 - Expansive, panoramic aerial view showing pipeline, processing unit, and production unit equipment at MRPL&apos;s Mangalore refinery.
 - MRPL refinery fire at coker-adjacent plant kills one, injures another
-- Monthly oil, diesel/gas oil exports in KSA, Kuwait, and the US
-- Morningstar DBRS: Global diesel squeeze boosts US refiners
 - Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
 - Cenovus to build oil sands business via Athabasca acquisition
 - Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
 - S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
+- BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
 - Oil and gas drilling platform in North Sea.
 - Artistic rendition of Bay du Nord offshore oil project, including potential future subsea tie-backs.
 - LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
@@ -165,21 +161,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Global Energy Import Dependence Set to Peak by 2034, Rystad Says
+- Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest
+- U.S. Oil Drillers Back Off Even As Prices Soar
+- Equatorial Guinea Rewrites Oil Law After Production Collapses 85%
+- Oil Prices Are Stuck at $105 as Geopolitical Risks Mount
+- German Power Supply Startups Exit Market as Wholesale Prices Soar
 - Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure
 - Trump's Oil Price Strategy Faces Two Major Tests This Weekend
-- China’s Sufficient Gas Stocks Could Ease Winter Supply Concerns
-- South Korea Turns Back to Coal as LNG Crisis Deepens
-- India Slashes Diesel Export Tax as Global Fuel Crunch Deepens
-- Trump Condemns Ukraine’s Russian Refinery Strikes as a “Disgrace”
-- Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse
-- Oil Prices Head for Weekly Gain as Hormuz Attacks Rattle Markets
-- WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying
-- Standard Chartered: Trump's Russian Diesel Won't Add New Supply
-- The Diesel Crunch Will Persist Well into 2027
 
 ### Rigzone
 
@@ -199,16 +192,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Murphy starts up Lac Da Vang offshore Vietnam, reports nearby oil discovery
-- Africa roundup: New Gabon oil volumes, Cameroon drilling plans, Angola milestones
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- BW Energy secures $208M financing for Bourdon wellhead platform offshore Gabon
+- Murphy starts up Lac Da Vang offshore Vietnam, reports nearby oil discovery
+- Africa roundup: New Gabon oil volumes, Cameroon drilling plans, Angola milestones
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
