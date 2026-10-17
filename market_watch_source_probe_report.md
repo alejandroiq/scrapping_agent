@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-16 22:37 UTC
+Generated: 2026-10-17 03:22 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -91,10 +91,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. lobbies IEA nations for larger emergency oil stock release
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -103,20 +103,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Africa eyes depleted oil and gas reservoirs for carbon storage
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
