@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-17 03:22 UTC
+Generated: 2026-10-17 13:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 22 | OK. |
+| Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
 | OilPrice.com | active | 200 | 8 | OK. |
@@ -53,21 +53,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 19
 - Scraping note: OK.
 
-- Hormuz Attacks Hit Crude Flows, Testing Even Risk-Tolerant Shippers
-- As US Scrambles for Solutions, Global Diesel Dilemma Only Grows
-- Sanctions Bedevil US-Russia Energy Plans
-- Russia to Continue Gasoline Imports Amid Fresh Attacks
+- India’s Refining Limitations Curb Venezuelan Opportunities
 - Siemens Energy Brings Ukraine Playbook to Gulf
 - Energy Security Aligns With Aviation’s Net-Zero Goal at IATA Symposium
 - China’s Jet Fuel Exports Set for Quarterly Surge
-- India’s Refining Limitations Curb Venezuelan Opportunities
+- The Houthis Aim Beyond Saudi Oil
 - New US Import Rules Could Hit Clean Energy Supply Chains
-- Views on Hormuz Demand Impact Diverge Sharply
-- India and China Struggle Over New Delhi's Clean Energy Aspirations
+- Taiwan Eyes Major Investment in Alaska LNG. Would It Be Enough?
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- Views on Hormuz Demand Impact Diverge Sharply
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
 - Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
@@ -91,29 +88,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. lobbies IEA nations for larger emergency oil stock release
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
 - BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
-- TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Argentina pressures energy companies over Falkland Islands oil development
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
