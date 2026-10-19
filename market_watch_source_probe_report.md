@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-19 03:39 UTC
+Generated: 2026-10-19 16:50 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
@@ -53,14 +53,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 20
 - Scraping note: OK.
 
 - India’s Refining Limitations Curb Venezuelan Opportunities
+- Diesel Exports Drive Modest Recovery in China’s Refinery Runs
 - Siemens Energy Brings Ukraine Playbook to Gulf
 - Energy Security Aligns With Aviation’s Net-Zero Goal at IATA Symposium
 - China’s Jet Fuel Exports Set for Quarterly Surge
-- The Houthis Aim Beyond Saudi Oil
 - New US Import Rules Could Hit Clean Energy Supply Chains
 - Taiwan Eyes Major Investment in Alaska LNG. Would It Be Enough?
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -75,6 +75,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Opec Gulf Crude Output Rebounds in September as Risks Mount
 - Russian LNG Sales Jump as Exports Start From Blacklisted Projects
 - Reports of Attack on Aramco's HQ Boost Oil Prices After Market Close
+- EU’s Energy Department Blindsided by Latest Gas-Buying Push
 
 ### World Oil
 
@@ -84,14 +85,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Upstream winners honored at 2026 Gulf Energy Information Excellence Awards in Houston
-- U.S. lobbies IEA nations for larger emergency oil stock release
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Venezuela expects $76 billion in oil and gas investment over five years
+- Oil hits $110 as Houthi strikes, Russia-Ukraine attacks lift supply fears
+- NG Energy brings Aruchara-6 online in Colombia, spuds Encantado-1X
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -99,21 +102,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Tulcan Energy awarded deepwater exploration license offshore Nigeria
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
@@ -123,19 +124,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 29
 - Scraping note: OK.
 
+- FERC proposes faster LNG approvals, changes pipeline air reviews
 - HPCL taps Technip Energies for EPC on new Mumbai refinery unit
 - Middle East supply risks overshadow Russian diesel deal
 - Dangote taps EIL for Kenya grassroots refinery project
-- Crescent Energy to acquire Eagle Ford assets from Devon for $4.2 billion
-- Year-on-year oil demand growth, selected regions
-- IEA: Middle East war weighs on emerging-market oil demand
+- Michael Lou, president and CEO, Chord Energy.
+- Chord Energy names Lou as president, CEO
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
 - Dangote breaks ground on 700,000-b/d Kenya refinery
+- Year-on-year oil demand growth, selected regions
+- IEA: Middle East war weighs on emerging-market oil demand
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 8.6 million bbl
 - The handover opportunity: What decides whether energy investment performs
-- Line graph with oil pumpjacks in background.
-- IEA: Oil supply rebound remains fragile; diesel tightness persists
 - Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
 - Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
 - Rompetrol targets 2028 startup for two refinery solar projects
@@ -158,29 +159,35 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Record Shipping Costs Force Oil Producers to Slash Prices
-- Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis
-- Oil Prices Stay High as War Keeps Supply Tight Into 2027
-- Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low
-- Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry
-- Global Energy Import Dependence Set to Peak by 2034, Rystad Says
-- Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest
+- Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%
+- What’s Trump’s Thinking Behind The ‘Diesel Deal’ With Russia?
+- Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels
+- Wright Says Gas Prices Peaked As Brent Holds Above $108
+- Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens
+- Qatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run
+- China’s Solar Exports Keep Falling as Beijing Mulls Export Controls
+- Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt
+- Japan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar
+- China's Coal Production Slumps 6.8% as Winter Supply Fears Grow
+- India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices
+- Oil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- When Will Global Gas Demand Peak?
-- OPEC+ Meets on Sidelines of Saudi Conference
+- What Will Happen to the Oil Price Over the Next Few Quarters?
+- EIA Sees Smaller Oil Crunch in 2026
+- Trump Says Diesel Deal Aims to Keep Russia Talks Going
 
 ### Offshore Magazine
 
