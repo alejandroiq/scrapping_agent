@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-19 16:50 UTC
+Generated: 2026-10-19 23:23 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
+| Oil & Gas Journal | active | 200 | 30 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -53,22 +53,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 19
 - Scraping note: OK.
 
 - India’s Refining Limitations Curb Venezuelan Opportunities
+- Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
 - Diesel Exports Drive Modest Recovery in China’s Refinery Runs
 - Siemens Energy Brings Ukraine Playbook to Gulf
 - Energy Security Aligns With Aviation’s Net-Zero Goal at IATA Symposium
+- Heating Oil Reserve Won't Offer Much Relief to US Northeast
+- Split Narrative on Russian Refining, Diesel Shipments
 - China’s Jet Fuel Exports Set for Quarterly Surge
-- New US Import Rules Could Hit Clean Energy Supply Chains
 - Taiwan Eyes Major Investment in Alaska LNG. Would It Be Enough?
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Views on Hormuz Demand Impact Diverge Sharply
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
-- Moeve CEO Maarten Wetselaar on the Energy Security Drive for Green Hydrogen
-- Qatar's Al-Kaabi: 'We're Not Stopping' Despite Turmoil
-- Chevron’s ‘Circumspect’ Approach to LNG
 - When Is the Price of Oil Wrong?
 - Rethinking Biofuels in an Energy Crisis
 - Getting More From Energy Storage
@@ -91,9 +90,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - NG Energy brings Aruchara-6 online in Colombia, spuds Encantado-1X
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -102,32 +101,35 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 29
+- Relevant news count: 30
 - Scraping note: OK.
 
 - FERC proposes faster LNG approvals, changes pipeline air reviews
 - HPCL taps Technip Energies for EPC on new Mumbai refinery unit
 - Middle East supply risks overshadow Russian diesel deal
 - Dangote taps EIL for Kenya grassroots refinery project
+- National Fuel plans ’27 spinoff of Appalachian natural gas group
+- A dream-like landscape of a tanker on water with oil barrels on a dock and a refinery in the background beneath a cloudy, yellowish sky.
+- US waives Russia sanctions as Gulf oil shipments face renewed disruption
 - Michael Lou, president and CEO, Chord Energy.
 - Chord Energy names Lou as president, CEO
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
@@ -146,8 +148,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - MRPL refinery fire at coker-adjacent plant kills one, injures another
 - Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
 - Cenovus to build oil sands business via Athabasca acquisition
-- Two individuals in hardhats and blue coveralls on a bridge overlooking equipment at a Canadian oil sands production site with a lake and forest in the background.
-- S&P Global: Canadian oil sands output set for record 3.5 million b/d in 2026
 - BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
 - Oil and gas drilling platform in North Sea.
 - Artistic rendition of Bay du Nord offshore oil project, including potential future subsea tie-backs.
@@ -159,22 +159,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- New Oil Fields Should Have to Build the Carbon Storage Market
+- The Sulfur Crisis Threatening the World's Food Supply
+- Qatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria
+- Why Canadian Oil Is Lagging Even As Global Crude Soars
 - Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%
 - What’s Trump’s Thinking Behind The ‘Diesel Deal’ With Russia?
 - Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels
 - Wright Says Gas Prices Peaked As Brent Holds Above $108
 - Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens
 - Qatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run
-- China’s Solar Exports Keep Falling as Beijing Mulls Export Controls
-- Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt
-- Japan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar
-- China's Coal Production Slumps 6.8% as Winter Supply Fears Grow
-- India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices
-- Oil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes
 
 ### Rigzone
 
