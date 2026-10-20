@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-19 23:23 UTC
+Generated: 2026-10-20 03:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -56,17 +56,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 19
 - Scraping note: OK.
 
-- India’s Refining Limitations Curb Venezuelan Opportunities
 - Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
+- Split Narrative on Russian Refining, Diesel Shipments
 - Diesel Exports Drive Modest Recovery in China’s Refinery Runs
 - Siemens Energy Brings Ukraine Playbook to Gulf
 - Energy Security Aligns With Aviation’s Net-Zero Goal at IATA Symposium
+- The Houthis Aim Beyond Saudi Oil
 - Heating Oil Reserve Won't Offer Much Relief to US Northeast
-- Split Narrative on Russian Refining, Diesel Shipments
-- China’s Jet Fuel Exports Set for Quarterly Surge
-- Taiwan Eyes Major Investment in Alaska LNG. Would It Be Enough?
-- Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- Russian Fund to Play Role in Diesel Supplies to US
 - Views on Hormuz Demand Impact Diverge Sharply
+- Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - When Is the Price of Oil Wrong?
 - Rethinking Biofuels in an Energy Crisis
@@ -90,10 +90,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - NG Energy brings Aruchara-6 online in Colombia, spuds Encantado-1X
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -101,6 +101,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
@@ -108,12 +111,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- ExxonMobil to take operatorship of Papua LNG as $14 billion project nears FID
 - MidOcean Energy joins LNG Canada Phase 2 following FID
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
@@ -159,7 +159,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -172,7 +172,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels
 - Wright Says Gas Prices Peaked As Brent Holds Above $108
 - Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens
-- Qatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run
 
 ### Rigzone
 
