@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-20 22:58 UTC
+Generated: 2026-10-21 03:40 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
@@ -53,19 +53,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 19
 - Scraping note: OK.
 
-- Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
-- Split Narrative on Russian Refining, Diesel Shipments
-- China's Crude Imports Shift to Iraq, Brazil as Iran Shrinks
+- Overview: Diesel and Shipping Become Flash Points in Fragile Market
+- Aphrodite Progress Helps Boost Egypt's Gas Supply Security
+- Rising Shipping Costs Put Pressure on Refinery Margins
 - Qatar LNG Cargo Appears Bound for Europe via Red Sea
+- China's Crude Imports Shift to Iraq, Brazil as Iran Shrinks
 - LNG Prices Surge to Over 3-Year Highs Amid EU Gas Bull Run
 - Halliburton Sees Global Supply Gap Boosting Services Demand
-- Rising Shipping Costs Put Pressure on Refinery Margins
-- The Houthis Aim Beyond Saudi Oil
-- Views on Hormuz Demand Impact Diverge Sharply
+- Turkey Eyes Russian Diesel Supplies as Moscow Releases Volumes
+- Demand: China's Retreat Pushes Consumption Deeper in Reverse
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- Iran Runs Short on Oil Income and Gulf Leverage
+- Views on Hormuz Demand Impact Diverge Sharply
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - When Is the Price of Oil Wrong?
 - Rethinking Biofuels in an Energy Crisis
@@ -85,9 +87,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EU softens Arctic oil stance in draft strategy as Norway expands Barents licensing
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -97,21 +99,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- ADNOC, XRG deepen European LNG ties through Germany agreements
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
@@ -157,10 +159,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects
 - Europe’s Power Demand Returns to Growth
 - Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up
 - The Middle East's Next Energy Boom Has Nothing to Do With Oil
@@ -168,8 +171,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field
 - Russia’s Oil Export Revenue Slides as Production Declines
 - The Next Major Oil Supply Shock Could Come From Saudi Arabia
-- Saudi Arabia and Asia Locked In Dispute Over 2027 Term Oil Deals
-- Shipping Crisis Forces Asian Crude Buyers to Use Smaller Tankers
 
 ### Rigzone
 
@@ -191,11 +192,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Offshore Jamaica study assesses rig availability, supply chain needs for future drilling
 - Offshore oil production platform at oil field Terengganu, Malaysia
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Murphy starts up Lac Da Vang offshore Vietnam, reports nearby oil discovery
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
