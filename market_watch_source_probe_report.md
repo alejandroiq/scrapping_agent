@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-21 03:40 UTC
+Generated: 2026-10-21 14:54 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
@@ -53,7 +53,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 17
 - Scraping note: OK.
 
 - Overview: Diesel and Shipping Become Flash Points in Fragile Market
@@ -63,7 +63,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - China's Crude Imports Shift to Iraq, Brazil as Iran Shrinks
 - LNG Prices Surge to Over 3-Year Highs Amid EU Gas Bull Run
 - Halliburton Sees Global Supply Gap Boosting Services Demand
-- Turkey Eyes Russian Diesel Supplies as Moscow Releases Volumes
 - Demand: China's Retreat Pushes Consumption Deeper in Reverse
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Iran Runs Short on Oil Income and Gulf Leverage
@@ -71,10 +70,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - When Is the Price of Oil Wrong?
 - Rethinking Biofuels in an Energy Crisis
-- Getting More From Energy Storage
 - Russian LNG Sales Jump as Exports Start From Blacklisted Projects
-- EU’s Energy Department Blindsided by Latest Gas-Buying Push
 - India and China Struggle Over New Delhi's Clean Energy Aspirations
+- Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
 
 ### World Oil
 
@@ -87,8 +85,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EU softens Arctic oil stance in draft strategy as Norway expands Barents licensing
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -99,21 +97,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - TotalEnergies restarts Libya’s Mabruk oil field after decade-long halt
 - Elevating support technology to enhance energy production
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC, XRG deepen European LNG ties through Germany agreements
-- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 
 ### Oil & Gas Journal
 
@@ -126,6 +124,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - FERC proposes faster LNG approvals, changes pipeline air reviews
 - HPCL taps Technip Energies for EPC on new Mumbai refinery unit
 - Middle East supply risks overshadow Russian diesel deal
+- Saturn Oil & Gas adds light, oil-weighted assets of Corex Resources
 - An LNG tanker passes through waters in front of a snowy terminal with snow-capped mountains in the background.
 - Global LNG market faces demand cuts as Hormuz disruptions strain supply
 - National Fuel plans ’27 spinoff of Appalachian natural gas group
@@ -151,7 +150,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
 - The handover opportunity: What decides whether energy investment performs
 - Oil and gas drilling platform in North Sea.
-- Artistic rendition of Bay du Nord offshore oil project, including potential future subsea tie-backs.
 - LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
 
 ### OilPrice.com
@@ -159,29 +157,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- EIA Says US Crude Inventories Sink Further
+- Higher Oil Availability Pressures Middle East Crude Benchmarks
+- Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs
+- Russia to Send First Diesel Tanker to U.S. on Thursday
+- UK Approves Jackdaw Gas Field as Energy Crisis Deepens
+- Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar
+- India’s Coal Crisis Deepens as Power Demand Surges
+- Trump Administration Pushes Refiners to Boost Diesel Output as Prices Soar
+- Oil Prices Climb Above $110 as Middle East Supply Fears Persist
 - Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects
 - Europe’s Power Demand Returns to Growth
-- Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up
-- The Middle East's Next Energy Boom Has Nothing to Do With Oil
-- EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis
-- Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field
-- Russia’s Oil Export Revenue Slides as Production Declines
-- The Next Major Oil Supply Shock Could Come From Saudi Arabia
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
-- Scraping note: OK.
+- Relevant news count: 0
+- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
 - Source note: Source for drilling, output, and industry news.
 
-- How Much Additional Diesel Could Reach the Market?
+- No relevant titles detected.
 
 ### Offshore Magazine
 
