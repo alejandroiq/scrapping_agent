@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-22 03:40 UTC
+Generated: 2026-10-22 14:54 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,12 +9,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 8 | OK. |
+| EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 13 | OK. |
 
@@ -25,7 +25,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 7
 - Scraping note: OK.
 
 - Mixed outlook for energy expenditures this winter
@@ -35,7 +35,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Public companies produce most U.S. crude oil and natural gas
 - What goes into diesel prices?
 - Corpus Christi LNG expansion makes facility the second-largest in the United States
-- United States on track for record crude oil production in 2026
 
 ### IEA
 
@@ -53,23 +52,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 15
 - Scraping note: OK.
 
 - India and China Struggle Over New Delhi's Clean Energy Aspirations
 - Oil Balances: Availability, Rising Prices Pressure Demand Growth
 - US Taps Heating Oil Reserve as Prices Hit Records
-- China's Crude Imports Shift to Iraq, Brazil as Iran Shrinks
 - Qatar LNG Cargo Appears Bound for Europe via Red Sea
-- LNG Prices Surge to Over 3-Year Highs Amid EU Gas Bull Run
-- US Seeks More Indian Refining of Venezuelan Crude
+- Opec-Plus: Crude Output Grows on Saudi Shift Back to Mideast Gulf
+- Rising Shipping Costs Put Pressure on Refinery Margins
 - Russian Energy Industry Sees Defense as New Top Priority
 - Refining: Volumes Dip on Repairs, Diesel Margins Remain Aloft
+- Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
-- Views on Hormuz Demand Impact Diverge Sharply
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
-- When Is the Price of Oil Wrong?
 - Rethinking Biofuels in an Energy Crisis
+- The Energy Industry in an Autocratic World
 - Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
 - Sanctions Bedevil US-Russia Energy Plans
 
@@ -85,10 +83,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Laredo Oil meets Santa Cruz governor on mature-field oil recovery
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -96,21 +94,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- Tulcan Energy awarded deepwater exploration license offshore Nigeria
+- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- Africa eyes depleted oil and gas reservoirs for carbon storage
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 
 ### Oil & Gas Journal
 
@@ -156,21 +154,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- India's Middle East Oil Imports Jumped 32% in September
+- Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge
+- Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens
+- Oil Prices Surge Above $111 as Houthis Strike Saudi Targets
 - Big Oil Eyes Record Profits but Keeps Spending in Check
 - U.S. Energy Red Tape Gives China an Edge
 - S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis
 - Russia’s Northern Sea Route Workaround Supplying Asian Buyers
-- Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low
-- Why Are Rare Earth Stocks Falling When Prices Keep Rising?
-- GM to Add Hybrids as U.S. Gasoline Holds Above $4
-- India’s Top State Refiner to Reduce Middle East Term Oil Purchases
-- EIA Says US Crude Inventories Sink Further
-- Higher Oil Availability Pressures Middle East Crude Benchmarks
-- Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs
 
 ### Rigzone
 
@@ -181,7 +176,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Macron Says France to Get LNG Supplies from Qatar in Winter
+- Oil Rises Intraday Amid Escalating Tensions
 
 ### Offshore Magazine
 
