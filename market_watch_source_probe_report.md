@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-23 03:44 UTC
+Generated: 2026-10-23 14:42 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 27 | OK. |
 | OilPrice.com | active | 200 | 10 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
@@ -52,27 +52,26 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 17
 - Scraping note: OK.
 
-- India and China Struggle Over New Delhi's Clean Energy Aspirations
-- Oil Balances: Availability, Rising Prices Pressure Demand Growth
-- US Taps Heating Oil Reserve as Prices Hit Records
 - Exorbitant Freight Costs Roil Global Oil Markets
+- Iraq Rewrites Its Bargain With Big Oil
+- QatarEnergy Agrees to Buy Long-Term LNG From US' Cheniere
 - Japan Confronts Energy Vulnerability Exposed by Mideast Crisis
-- Valero Flags Looming Tightness in US Gasoline Market
-- Europe's Diesel Angst Continues Despite Rising Mideast Flows
-- US Seeks More Indian Refining of Venezuelan Crude
-- Russian Energy Industry Sees Defense as New Top Priority
-- Refining: Volumes Dip on Repairs, Diesel Margins Remain Aloft
+- China's Crude Imports Shift to Iraq, Brazil as Iran Shrinks
+- LNG Prices Surge to Over 3-Year Highs Amid EU Gas Bull Run
+- Novatek Sees EU Gas Crisis as Opening to Reverse LNG Ban
+- Namibia Moves Closer to Passing Crucial Oil Law
+- Santos Talks Up Papua LNG, Beetaloo Shale Potential
+- Mozambique's LNG Outlook Brightens as Projects Advance
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
-- Views on Hormuz Demand Impact Diverge Sharply
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
-- Rethinking Biofuels in an Energy Crisis
-- The Energy Industry in an Autocratic World
-- Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
+- The Hidden Pressures Prolonging the Diesel Crisis
+- When Is the Price of Oil Wrong?
+- Getting More From Energy Storage
 - Qatar LNG Cargo Appears Bound for Europe via Red Sea
-- India’s Refining Limitations Curb Venezuelan Opportunities
+- Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
 
 ### World Oil
 
@@ -82,16 +81,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- SPE ATCE 2026: Hormuz crisis puts "energy realism" at center of transition debate
 - Strathcona pitches 250,000-bpd Prince Rupert crude terminal despite BC tanker ban
 - ADIPEC report: 85% of energy leaders see stronger investment appeal
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
+- Oil and gas leaders back bipartisan American Affordability and Jobs Act
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -99,19 +99,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - TotalEnergies fast-tracks Angola oil discovery to first production in three months
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- ADNOC, XRG deepen European LNG ties through Germany agreements
 
 ### Oil & Gas Journal
 
@@ -158,28 +157,27 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf
-- Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks
-- EU’s Arctic Strategy Excludes Oil and Gas
-- Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain
-- Asia Needs $1 Trillion a Year to Secure Energy Supplies
-- Strathcona Pitches 250,000-Bpd Oil Export Route to Asia
-- EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil
-- Citi’s $60 Oil Call Meets $112 Brent
-- Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter
-- Britain Finally Creates an Oil Wealth Fund—50 Years Too Late
+- Oil India Strikes Natural Gas in Shallow Offshore Basin
+- The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher
+- U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York
+- U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production
+- Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes
+- Why Smart Investors Are Selling Oil Stocks and Buying MLPs
+- Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts
+- UK Rules Out Winter Energy Shortages as Gas Prices Soar
+- Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar
+- Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Oil Rises Intraday Amid Escalating Tensions
-- USA Crude Oil Stocks Drop 3MM Barrels WoW
+- Global Crude Freight Rate Surges
 
 ### Offshore Magazine
 
