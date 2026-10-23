@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-23 14:42 UTC
+Generated: 2026-10-23 22:56 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 27 | OK. |
+| Oil & Gas Journal | active | 200 | 26 | OK. |
 | OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
 
@@ -52,24 +52,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 15
 - Scraping note: OK.
 
+- Czech Republic: Energy Security a Priority, But No Return to Russian Gas
+- Demand Outlook This Year Darkens as Brent Posts 6-Month High
 - Exorbitant Freight Costs Roil Global Oil Markets
 - Iraq Rewrites Its Bargain With Big Oil
-- QatarEnergy Agrees to Buy Long-Term LNG From US' Cheniere
-- Japan Confronts Energy Vulnerability Exposed by Mideast Crisis
-- China's Crude Imports Shift to Iraq, Brazil as Iran Shrinks
-- LNG Prices Surge to Over 3-Year Highs Amid EU Gas Bull Run
-- Novatek Sees EU Gas Crisis as Opening to Reverse LNG Ban
-- Namibia Moves Closer to Passing Crucial Oil Law
-- Santos Talks Up Papua LNG, Beetaloo Shale Potential
+- White House Invokes DPA to Boost Refining Output
+- Vitol, Petraco Dominate Iraqi Kirkuk Exports as Sales Ramp Up
 - Mozambique's LNG Outlook Brightens as Projects Advance
+- Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
 - The Hidden Pressures Prolonging the Diesel Crisis
 - When Is the Price of Oil Wrong?
-- Getting More From Energy Storage
+- Namibia Moves Closer to Passing Crucial Oil Law
 - Qatar LNG Cargo Appears Bound for Europe via Red Sea
 - Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
 
@@ -85,11 +83,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Strathcona pitches 250,000-bpd Prince Rupert crude terminal despite BC tanker ban
 - ADIPEC report: 85% of energy leaders see stronger investment appeal
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Oil and gas leaders back bipartisan American Affordability and Jobs Act
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -99,9 +96,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
@@ -111,40 +107,41 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 27
+- Relevant news count: 26
 - Scraping note: OK.
 
+- Oil prices climb as Saudi attacks heighten supply concerns
 - FERC proposes faster LNG approvals, changes pipeline air reviews
-- HPCL taps Technip Energies for EPC on new Mumbai refinery unit
+- North American rig count up slightly as Canada adds oil rigs
 - Kinder Morgan takes FID on Southeast Connector, Permian Link natural gas pipelines
-- A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
-- Dangote breaks ground on 700,000-b/d Kenya refinery
+- A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
 - Average US refinery utilization from May-September, by year
 - Tight product supplies lift US summer refinery utilization to highest level since 1998
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 3.1 million bbl
-- Saturn Oil & Gas adds light, oil-weighted assets of Corex Resources
-- An LNG tanker passes through waters in front of a snowy terminal with snow-capped mountains in the background.
-- Global LNG market faces demand cuts as Hormuz disruptions strain supply
 - Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
+- Panoramic view of illuminated processing and production installations at HPCL&apos;s Mumbai refinery at night against a purple-bluish sky.
+- HPCL taps Technip Energies for EPC on new Mumbai refinery unit
 - Large sign with red and blue ribbons draped along sides announcing future site of the Lamu refinery.
 - Dangote taps EIL for Kenya grassroots refinery project
 - Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
 - Rompetrol targets 2028 startup for two refinery solar projects
-- Energy Transfer, Vaquero Midstream Delaware basin asset map
-- Energy Transfer expands Delaware basin footprint with $2.625 billion deal
 - Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
 - Cenovus to build oil sands business via Athabasca acquisition
 - BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
 - The handover opportunity: What decides whether energy investment performs
 - Oil and gas drilling platform in North Sea.
+- An LNG tanker passes through waters in front of a snowy terminal with snow-capped mountains in the background.
+- Global LNG market faces demand cuts as Hormuz disruptions strain supply
 - LNG market tightens into winter as Europe pulls US cargoes, China reopens contract talks
 - footer logo Oil & Gas Journal
 
@@ -157,16 +154,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Why Trump and Carney Haven’t Touched Energy in Their Tariff War
+- U.S. Rig Count Holds Steady as Oil Prices Surge
+- $120 Oil Is Almost Here, and Trump Has Few Good Options
+- Middle East Physical Crude Slides While Brent Hits Five-Month High
 - Oil India Strikes Natural Gas in Shallow Offshore Basin
 - The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher
 - U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York
 - U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production
 - Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes
 - Why Smart Investors Are Selling Oil Stocks and Buying MLPs
-- Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts
-- UK Rules Out Winter Energy Shortages as Gas Prices Soar
-- Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar
-- Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure
 
 ### Rigzone
 
@@ -184,15 +181,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- UK Energy Secretary reportedly inclined to reject Rosebank project
+- ECOnnect orders Allum LNG transfer system for Colombia FSRU
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore oil and gas operations and the digital workflow
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- UK Energy Secretary reportedly inclined to reject Rosebank project
 - Masirah Oil begins offshore infill drilling campaign at Yumna Field
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
