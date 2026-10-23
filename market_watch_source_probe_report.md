@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-22 23:00 UTC
+Generated: 2026-10-23 03:44 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 27 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
 
@@ -100,18 +100,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
 - Saipem, Jan De Nul advance 18-well Rovuma LNG offshore development
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- ADNOC, XRG deepen European LNG ties through Germany agreements
 
 ### Oil & Gas Journal
 
@@ -154,10 +154,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf
 - Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks
 - EU’s Arctic Strategy Excludes Oil and Gas
 - Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain
@@ -185,17 +186,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - UK Energy Secretary reportedly inclined to reject Rosebank project
-- Masirah Oil begins offshore infill drilling campaign at Yumna Field
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore oil and gas operations and the digital workflow
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Offshore oil production platform at oil field Terengganu, Malaysia
+- Masirah Oil begins offshore infill drilling campaign at Yumna Field
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
