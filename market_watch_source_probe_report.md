@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-24 03:38 UTC
+Generated: 2026-10-24 13:52 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -86,10 +86,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -97,9 +97,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- TotalEnergies fast-tracks Angola oil discovery to first production in three months
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
@@ -109,7 +106,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
