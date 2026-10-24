@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-24 13:52 UTC
+Generated: 2026-10-24 22:16 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -98,6 +98,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
@@ -106,10 +107,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 
 ### Oil & Gas Journal
 
@@ -151,10 +151,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Fuel Oil Becomes Asia’s Next Cost Shock
+- Syria's Energy Comeback Could Reshape Middle East Oil and Gas
 - U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions
 - Why Trump and Carney Haven’t Touched Energy in Their Tariff War
 - U.S. Rig Count Holds Steady as Oil Prices Surge
@@ -162,10 +164,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Middle East Physical Crude Slides While Brent Hits Five-Month High
 - Oil India Strikes Natural Gas in Shallow Offshore Basin
 - The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher
-- U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York
-- U.S. Partner in Venezuela Oil Deal Looks to Hike Crude Production
-- Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes
-- Why Smart Investors Are Selling Oil Stocks and Buying MLPs
 
 ### Rigzone
 
