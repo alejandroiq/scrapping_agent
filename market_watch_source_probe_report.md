@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-23 22:56 UTC
+Generated: 2026-10-24 03:38 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -52,7 +52,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 16
 - Scraping note: OK.
 
 - Czech Republic: Energy Security a Priority, But No Return to Russian Gas
@@ -70,6 +70,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Namibia Moves Closer to Passing Crucial Oil Law
 - Qatar LNG Cargo Appears Bound for Europe via Red Sea
 - Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
+- QatarEnergy Agrees to Buy Long-Term LNG From US' Cheniere
 
 ### World Oil
 
@@ -85,10 +86,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -96,19 +97,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- TotalEnergies fast-tracks Angola oil discovery to first production in three months
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- Argent LNG, Albania sign MoU for 5-MMtpa LNG terminal
+- MidOcean Energy joins LNG Canada Phase 2 following FID
 
 ### Oil & Gas Journal
 
@@ -150,10 +151,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions
 - Why Trump and Carney Haven’t Touched Energy in Their Tariff War
 - U.S. Rig Count Holds Steady as Oil Prices Surge
 - $120 Oil Is Almost Here, and Trump Has Few Good Options
