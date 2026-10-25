@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-25 14:08 UTC
+Generated: 2026-10-25 22:21 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -16,7 +16,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Oil & Gas Journal | active | 200 | 26 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 11 | OK. |
 
 ## Titles By Source
 
@@ -86,10 +86,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -97,19 +97,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
@@ -155,6 +155,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck
+- World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom
 - Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia
 - Fuel Oil Becomes Asia’s Next Cost Shock
 - Syria's Energy Comeback Could Reshape Middle East Oil and Gas
@@ -162,8 +164,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Why Trump and Carney Haven’t Touched Energy in Their Tariff War
 - U.S. Rig Count Holds Steady as Oil Prices Surge
 - $120 Oil Is Almost Here, and Trump Has Few Good Options
-- Middle East Physical Crude Slides While Brent Hits Five-Month High
-- Oil India Strikes Natural Gas in Shallow Offshore Basin
 
 ### Rigzone
 
@@ -182,7 +182,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
@@ -192,7 +192,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - UK Energy Secretary reportedly inclined to reject Rosebank project
-- Masirah Oil begins offshore infill drilling campaign at Yumna Field
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
