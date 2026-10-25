@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-25 03:36 UTC
+Generated: 2026-10-25 14:08 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -15,7 +15,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
@@ -86,10 +86,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -97,19 +97,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
-- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - Cook Inlet offshore oil and gas lease sale proposed for March 2027
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC, XRG deepen European LNG ties through Germany agreements
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 
 ### Oil & Gas Journal
 
@@ -170,11 +170,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
 - Global Crude Freight Rate Surges
+- UK Seen More Reliant on Gas Imports This Winter
 
 ### Offshore Magazine
 
