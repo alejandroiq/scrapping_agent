@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-24 22:16 UTC
+Generated: 2026-10-25 03:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -86,9 +86,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -97,8 +97,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
+- Saipem wins $350 million subsea contract for Azule Energy offshore Angola
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
@@ -107,9 +109,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- ADNOC, XRG deepen European LNG ties through Germany agreements
 
 ### Oil & Gas Journal
 
@@ -155,6 +155,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia
 - Fuel Oil Becomes Asia’s Next Cost Shock
 - Syria's Energy Comeback Could Reshape Middle East Oil and Gas
 - U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions
@@ -163,7 +164,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - $120 Oil Is Almost Here, and Trump Has Few Good Options
 - Middle East Physical Crude Slides While Brent Hits Five-Month High
 - Oil India Strikes Natural Gas in Shallow Offshore Basin
-- The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher
 
 ### Rigzone
 
