@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-26 16:35 UTC
+Generated: 2026-10-26 23:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 26 | OK. |
+| Oil & Gas Journal | active | 200 | 23 | OK. |
 | OilPrice.com | active | 200 | 14 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 11 | OK. |
+| Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
 
@@ -52,7 +52,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 16
 - Scraping note: OK.
 
 - Czech Republic: Energy Security a Priority, But No Return to Russian Gas
@@ -60,7 +60,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Exorbitant Freight Costs Roil Global Oil Markets
 - Singapore to Store Saudi Crude in Underground Cavern
 - Iraq Rewrites Its Bargain With Big Oil
-- White House Invokes DPA to Boost Refining Output
+- Petrobras Stock Takes a Dive as Lula Mounts Comeback Win
+- Anthropic Warns of Energy Supply Risks in IPO Prospectus
+- US Lawmakers Warn Against Russian Diesel as Tankers Head to US
 - Mozambique's LNG Outlook Brightens as Projects Advance
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -93,49 +95,46 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
+- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 26
+- Relevant news count: 23
 - Scraping note: OK.
 
 - Oil prices climb as Saudi attacks heighten supply concerns
 - FERC proposes faster LNG approvals, changes pipeline air reviews
+- Map showing Ovintiv and Logan Energy acreage blocks in British Columbia and Alberta, Canada.
+- Ovintiv adds to Montney position with $890-million deal for Logan Energy
 - Iranian flag fluttering against a background of white behind two oil barrels.
 - Oil eases on diplomacy hopes; European gas rises on winter supply concerns
-- Ghana’s PHDC advancing Phase 2 of multibillion downstream petroleum hub
-- North American rig count up slightly as Canada adds oil rigs
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
+- Dangote breaks ground on 700,000-b/d Kenya refinery
 - A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
-- Average US refinery utilization from May-September, by year
-- Tight product supplies lift US summer refinery utilization to highest level since 1998
+- Ghana’s PHDC advancing Phase 2 of multibillion-dollar downstream petroleum hub
 - Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
 - Panoramic view of illuminated processing and production installations at HPCL&apos;s Mumbai refinery at night against a purple-bluish sky.
 - HPCL taps Technip Energies for EPC on new Mumbai refinery unit
 - Large sign with red and blue ribbons draped along sides announcing future site of the Lamu refinery.
 - Dangote taps EIL for Kenya grassroots refinery project
-- Panoramic view of Rompetrol Rafinare&apos;s Petromidia refinery in the distance behind greenery and a body of water under an overcast sky..
-- Rompetrol targets 2028 startup for two refinery solar projects
-- Aerial view of piping equipment at Cenovous&apos; Candian oil sands operations.
-- Cenovus to build oil sands business via Athabasca acquisition
+- North American rig count up slightly as Canada adds oil rigs
 - BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
 - The handover opportunity: What decides whether energy investment performs
 - Oil and gas drilling platform in North Sea.
@@ -153,6 +152,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up
+- Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm
+- Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock
+- Iran War Pushes Trump's Average Gasoline Prices Above Biden's
+- Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens
+- The Iran War Just Added $39 Billion to the World's LNG Bill
+- Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape
 - EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover
 - Why Saudi Just Abandoned Its Core Oil Rule
 - Russian Refiners Ramp Up Diesel Output to Supply Trump Deal
@@ -160,13 +166,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - India’s BPCL to Cut Russian Oil Imports Due to Higher Prices
 - Super El Niño May Soften Winter Energy Squeeze
 - IEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027
-- Russia's Arctic Oil Shortcut Runs Into a Wall of Ice
-- Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September
-- Houthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline
-- U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz
-- India's Stock Market Feels the Heat From High Oil Prices
-- Saudi Arabia Turns to Singapore for Oil Storage
-- Oil Prices Dip but Hold Above $100 as Middle East Supply Threats Mount
 
 ### Rigzone
 
@@ -185,16 +184,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- ECOnnect orders Allum LNG transfer system for Colombia FSRU
+- 1947 Oil &amp; Gas issues Gulf of Mexico operations update
+- 1947 Oil & Gas issues Gulf of Mexico operations update
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore oil and gas operations and the digital workflow
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- UK Energy Secretary reportedly inclined to reject Rosebank project
+- ECOnnect orders Allum LNG transfer system for Colombia FSRU
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
