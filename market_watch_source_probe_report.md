@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-25 22:21 UTC
+Generated: 2026-10-26 03:39 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -69,8 +69,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - When Is the Price of Oil Wrong?
 - Namibia Moves Closer to Passing Crucial Oil Law
 - Qatar LNG Cargo Appears Bound for Europe via Red Sea
-- Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
 - QatarEnergy Agrees to Buy Long-Term LNG From US' Cheniere
+- Bab al-Mandeb Oil Flows Dip as Battles Rage in Yemen
 
 ### World Oil
 
@@ -81,15 +81,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - SPE ATCE 2026: Hormuz crisis puts "energy realism" at center of transition debate
-- Strathcona pitches 250,000-bpd Prince Rupert crude terminal despite BC tanker ban
-- ADIPEC report: 85% of energy leaders see stronger investment appeal
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -97,16 +94,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Energy Holdings, Ventura Offshore sign LOI for $1 billion combination
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Valeura Energy produces 22,100 bpd as Thailand offshore projects advance
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
@@ -155,6 +155,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Asia Is Building the World’s Next $15 Trillion Energy Market
+- Oil Prices Rise Despite Middle East Export Recovery
 - Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck
 - World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom
 - Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia
@@ -162,8 +164,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Syria's Energy Comeback Could Reshape Middle East Oil and Gas
 - U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions
 - Why Trump and Carney Haven’t Touched Energy in Their Tariff War
-- U.S. Rig Count Holds Steady as Oil Prices Surge
-- $120 Oil Is Almost Here, and Trump Has Few Good Options
 
 ### Rigzone
 
