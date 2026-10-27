@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-27 04:03 UTC
+Generated: 2026-10-27 15:46 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,9 +13,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 14 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| Oil & Gas Journal | active | 200 | 22 | OK. |
+| OilPrice.com | active | 200 | 13 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
@@ -58,11 +58,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Singapore to Store Saudi Crude in Underground Cavern
 - Petrobras Stock Takes a Dive as Lula Mounts Comeback Win
 - US Lawmakers Warn Against Russian Diesel as Tankers Head to US
-- Exorbitant Freight Costs Roil Global Oil Markets
+- Sky-High Freight Costs Roil Global Oil Markets
 - Iraq Rewrites Its Bargain With Big Oil
+- Singapore GasCo Seeks First Long-Term LNG Contract
 - Anthropic Warns of Energy Supply Risks in IPO Prospectus
-- Rising Tanker Rates Weigh on Americas Crude Pricing
 - Harbour Energy Idles M&A Growth Engine
+- Rising Tanker Rates Weigh on Americas Crude Pricing
 - Mozambique's LNG Outlook Brightens as Projects Advance
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -70,7 +71,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The Hidden Pressures Prolonging the Diesel Crisis
 - Namibia Moves Closer to Passing Crucial Oil Law
 - QatarEnergy Agrees to Buy Long-Term LNG From US' Cheniere
-- Qatar LNG Cargo Appears Bound for Europe via Red Sea
 
 ### World Oil
 
@@ -80,14 +80,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Ovintiv to acquire Montney oil producer Logan Energy for $890 million
 - EQT, Range combine to create largest U.S. natural gas producer
+- Ovintiv to acquire Montney oil producer Logan Energy for $890 million
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -95,49 +95,48 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
+- PETRONAS signs five-year LNG supply deal with Greece’s METLEN
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 22
 - Scraping note: OK.
 
 - Oil prices climb as Saudi attacks heighten supply concerns
 - FERC proposes faster LNG approvals, changes pipeline air reviews
+- Insights: What agentic AI means for the future of oil and gas operations
+- Oil & Gas Journal ReEnterprised
 - Map showing Ovintiv and Logan Energy acreage blocks in British Columbia and Alberta, Canada.
 - Ovintiv adds to Montney position with $890-million deal for Logan Energy
-- Iranian flag fluttering against a background of white behind two oil barrels.
-- Oil eases on diplomacy hopes; European gas rises on winter supply concerns
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
 - Dangote breaks ground on 700,000-b/d Kenya refinery
-- A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
+- Iranian flag fluttering against a background of white behind two oil barrels.
+- Oil eases on diplomacy hopes; European gas rises on winter supply concerns
 - Ghana’s PHDC advancing Phase 2 of multibillion-dollar downstream petroleum hub
+- A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
 - Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
 - Panoramic view of illuminated processing and production installations at HPCL&apos;s Mumbai refinery at night against a purple-bluish sky.
 - HPCL taps Technip Energies for EPC on new Mumbai refinery unit
-- Large sign with red and blue ribbons draped along sides announcing future site of the Lamu refinery.
-- Dangote taps EIL for Kenya grassroots refinery project
 - North American rig count up slightly as Canada adds oil rigs
 - BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
 - The handover opportunity: What decides whether energy investment performs
-- Oil and gas drilling platform in North Sea.
 - Kinder Morgan takes FID on Southeast Connector, Permian Link natural gas pipelines
 - An LNG tanker passes through waters in front of a snowy terminal with snow-capped mountains in the background.
 - Global LNG market faces demand cuts as Hormuz disruptions strain supply
@@ -148,36 +147,34 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- 18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs
+- OPEC+ Set to Keep Oil Quotas Unchanged
+- Investors From 119 Countries Pile Into Dangote’s Record Refinery IPO
+- Diesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion
+- India Rejects Claims of U.S. Pressure Over Russian Oil Purchases
+- Trump Moves to Ease Methane Regulations for U.S. Oil Producers
+- IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains
+- India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee
+- Oil Prices Drop Despite Threat of New U.S. Strikes on Iran
 - UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100
 - Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up
 - Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm
 - Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock
-- Iran War Pushes Trump's Average Gasoline Prices Above Biden's
-- Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens
-- The Iran War Just Added $39 Billion to the World's LNG Bill
-- Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape
-- EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover
-- Why Saudi Just Abandoned Its Core Oil Rule
-- Russian Refiners Ramp Up Diesel Output to Supply Trump Deal
-- Is Wall Street Getting It All Wrong About AI, Oil, and Bonds?
-- India’s BPCL to Cut Russian Oil Imports Due to Higher Prices
-- Super El Niño May Soften Winter Energy Squeeze
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- EIA Edges 2026 USA Oil Output Forecast Closer to 14MM Bpd
-- Saudi, Singapore Announce Oil Storage Deal
+- Is Something Else Influencing the Value of Oil?
 
 ### Offshore Magazine
 
