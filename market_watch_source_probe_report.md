@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-26 23:36 UTC
+Generated: 2026-10-27 04:03 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -16,7 +16,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Oil & Gas Journal | active | 200 | 23 | OK. |
 | OilPrice.com | active | 200 | 14 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
 
@@ -55,14 +55,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 16
 - Scraping note: OK.
 
-- Czech Republic: Energy Security a Priority, But No Return to Russian Gas
-- Demand Outlook This Year Darkens as Brent Posts 6-Month High
-- Exorbitant Freight Costs Roil Global Oil Markets
 - Singapore to Store Saudi Crude in Underground Cavern
-- Iraq Rewrites Its Bargain With Big Oil
 - Petrobras Stock Takes a Dive as Lula Mounts Comeback Win
-- Anthropic Warns of Energy Supply Risks in IPO Prospectus
 - US Lawmakers Warn Against Russian Diesel as Tankers Head to US
+- Exorbitant Freight Costs Roil Global Oil Markets
+- Iraq Rewrites Its Bargain With Big Oil
+- Anthropic Warns of Energy Supply Risks in IPO Prospectus
+- Rising Tanker Rates Weigh on Americas Crude Pricing
+- Harbour Energy Idles M&A Growth Engine
 - Mozambique's LNG Outlook Brightens as Projects Advance
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -84,10 +84,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EQT, Range combine to create largest U.S. natural gas producer
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -95,21 +95,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -152,6 +152,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100
 - Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up
 - Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm
 - Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock
@@ -165,7 +166,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Is Wall Street Getting It All Wrong About AI, Oil, and Bonds?
 - India’s BPCL to Cut Russian Oil Imports Due to Higher Prices
 - Super El Niño May Soften Winter Energy Squeeze
-- IEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027
 
 ### Rigzone
 
@@ -184,7 +184,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
@@ -198,5 +198,3 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
-- AI-generated image of LNG carrier being converted into FSRU at shipyard
-- Offshore wind roundup: Billion-dollar projects and supply chain investments gather pace
