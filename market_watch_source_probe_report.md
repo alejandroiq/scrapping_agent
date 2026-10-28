@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-27 23:34 UTC
+Generated: 2026-10-28 04:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 21 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 10 | OK. |
+| Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
 
@@ -52,19 +52,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 13
 - Scraping note: OK.
 
+- Crude Price Forward Curve Signals Structural Shift Higher
+- Interbasin Competition Concerns Continue to Lift LNG Prices
 - Singapore to Store Saudi Crude in Underground Cavern
-- Petrobras Stock Takes a Dive as Lula Mounts Comeback Win
-- US Lawmakers Warn Against Russian Diesel as Tankers Head to US
 - Sky-High Freight Costs Roil Global Oil Markets
 - Iraq Rewrites Its Bargain With Big Oil
-- Crude Price Forward Curve Signals Structural Shift Higher
 - Singapore GasCo Seeks First Long-Term LNG Contract
-- Harbour Energy Idles M&A Growth Engine
-- Rising Tanker Rates Weigh on Americas Crude Pricing
-- Mozambique's LNG Outlook Brightens as Projects Advance
+- Russia's Novatek Expands Yamal LNG Fleet Ahead of EU Import Ban
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
@@ -95,21 +92,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
+- Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -150,6 +147,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears
 - Americans Hit Hardest by War-Driven Oil Price Surge
 - Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?
 - Turkey’s Libya Deal Puts Oil Majors in a Bind
@@ -158,7 +156,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Russia’s Crude Exports Set to Fall as Diesel Production Rises
 - Saudi Aramco Offers Discounted Oil to Europe as Exports Recover
 - 18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs
-- OPEC+ Set to Keep Oil Quotas Unchanged
 
 ### Rigzone
 
@@ -177,16 +174,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- 1947 Oil &amp; Gas issues Gulf of Mexico operations update
-- 1947 Oil & Gas issues Gulf of Mexico operations update
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore oil and gas operations and the digital workflow
-- Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- 1947 Oil &amp; Gas issues Gulf of Mexico operations update
+- 1947 Oil & Gas issues Gulf of Mexico operations update
 - ECOnnect orders Allum LNG transfer system for Colombia FSRU
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
