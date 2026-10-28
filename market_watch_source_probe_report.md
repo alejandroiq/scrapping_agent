@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-28 04:29 UTC
+Generated: 2026-10-28 16:28 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 21 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| Oil & Gas Journal | active | 200 | 23 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
@@ -52,22 +52,25 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 16
 - Scraping note: OK.
 
 - Crude Price Forward Curve Signals Structural Shift Higher
 - Interbasin Competition Concerns Continue to Lift LNG Prices
+- Diminishing Inventories Begin to Impact Oil Prices
 - Singapore to Store Saudi Crude in Underground Cavern
 - Sky-High Freight Costs Roil Global Oil Markets
-- Iraq Rewrites Its Bargain With Big Oil
-- Singapore GasCo Seeks First Long-Term LNG Contract
+- Japanese Utility Signs for Canadian LNG as Mexico Supply Emerges
 - Russia's Novatek Expands Yamal LNG Fleet Ahead of EU Import Ban
+- Singapore GasCo Seeks First Long-Term LNG Contract
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Chevron's Mike Wirth on Leaning Into Risk, Humility and Oil
+- The Biggest Constraint in Energy Is Uncertainty
 - The Hidden Pressures Prolonging the Diesel Crisis
 - Namibia Moves Closer to Passing Crucial Oil Law
 - QatarEnergy Agrees to Buy Long-Term LNG From US' Cheniere
+- Iraq Rewrites Its Bargain With Big Oil
 
 ### World Oil
 
@@ -77,14 +80,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- TotalEnergies completes $800 million sale of Renaissance JV oil interest in Nigeria to Vaaris
 - EQT, Range combine to create largest U.S. natural gas producer
-- Ovintiv to acquire Montney oil producer Logan Energy for $890 million
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -92,37 +95,39 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
-- Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 21
+- Relevant news count: 23
 - Scraping note: OK.
 
 - Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
 - Oil prices climb as Saudi attacks heighten supply concerns
+- The Mongstad refinery in Norway.
 - Howard Energy Partners expands Anadarko position with Iron Horse Midstream acquisition
-- Insights: What agentic AI means for the future of oil and gas operations
-- Oil & Gas Journal ReEnterprised
+- Oil rallies on dual-front war
 - DNV: Energy-importing countries scaling clean energy 3x faster than exporters
 - Dangote breaks ground on 700,000-b/d Kenya refinery
+- Insights: What agentic AI means for the future of oil and gas operations
+- Oil & Gas Journal ReEnterprised
 - Map showing Ovintiv and Logan Energy acreage blocks in British Columbia and Alberta, Canada.
 - Ovintiv adds to Montney position with $890-million deal for Logan Energy
 - Iranian flag fluttering against a background of white behind two oil barrels.
@@ -143,31 +148,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- US Oil Inventories Fall Again As Prices Rise
+- China’s Refiners Turn to Africa and Brazil Crude as Freight Rates Ease
+- Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf
+- QatarEnergy Extends LNG Force Majeure to End of 2026
+- U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal
+- Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers
+- India's Gasoline Demand Could Peak by 2035 as EVs Gain Ground
+- Equinor Profits Triple as Oil and Gas Prices Surge
+- Oil Traders Brace for Iran Escalation After U.S. Elections
+- Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf
 - Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears
-- Americans Hit Hardest by War-Driven Oil Price Surge
-- Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?
-- Turkey’s Libya Deal Puts Oil Majors in a Bind
-- US Crude Oil Inventories Buck Analyst Expectations
-- The Diesel Crisis Is Here To Stay
-- Russia’s Crude Exports Set to Fall as Diesel Production Rises
-- Saudi Aramco Offers Discounted Oil to Europe as Exports Recover
-- 18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
-- Scraping note: OK.
+- Relevant news count: 0
+- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
 - Source note: Source for drilling, output, and industry news.
 
-- Is Something Else Influencing the Value of Oil?
-- India Diesel Export Boom Set to Ease Global Crunch
+- No relevant titles detected.
 
 ### Offshore Magazine
 
