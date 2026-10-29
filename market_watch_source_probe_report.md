@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-29 16:40 UTC
+Generated: 2026-10-29 23:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
-| Offshore Magazine | active | 200 | 9 | OK. |
+| Offshore Magazine | active | 200 | 14 | OK. |
 
 ## Titles By Source
 
@@ -52,27 +52,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 15
 - Scraping note: OK.
 
-- Diminishing Inventories Begin to Impact Oil Prices
-- Soaring Freight Rates Push Heavy Crude Discounts Wider
+- 'Thin' Oil Stocks Ratchet Up Market Stress as War Grinds On
+- Security-of-Supply Focus Reshapes Southeast Asia's Energy Agenda
+- Turkey's Energy Hub Ambitions Outrun Supply
+- TotalEnergies, Shell Benefit From Tanker Fleets, Refining
 - Gulf Energy Logistics Adapt as Hormuz Risks Persist
-- PetroChina's Refining and Upstream Production Rebound
-- QatarEnergy Expands US LNG Portfolio With Woodside Deal
-- Russia Eyes Year-Round NSR Navigation, Spurred by EU LNG Ban
-- Aramco Steps Up Crude Sales to Europe
+- LNG Expansions Gain Momentum for Cheniere, NextDecade
+- Trafigura, Germany's SEFE Sign New Gas Supply Deal
 - Argentina Grapples With a Flood of Chinese EV Imports
+- Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Oman’s OQ Eyes ‘Modular’ Indian Ocean Crude Storage Build-Out
 - Energy Security Requires Systems, Not Just Resources
 - The Biggest Constraint in Energy Is Uncertainty
 - The Hidden Pressures Prolonging the Diesel Crisis
-- QatarEnergy Agrees to Buy Long-Term LNG From US' Cheniere
-- Iraq Rewrites Its Bargain With Big Oil
-- Sky-High Freight Costs Roil Global Oil Markets
-- Mozambique's LNG Outlook Brightens as Projects Advance
 
 ### World Oil
 
@@ -96,17 +93,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
@@ -123,17 +120,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
 - Oil prices climb as Saudi attacks heighten supply concerns
+- Offshore oil and gas platform at night
+- Two workers on stairs at Shell&apos;s Whale oil and gas platform in the US Gulf of Mexico
+- Shell's third-quarter earnings rise on record refining margins, stronger gas results
 - Woodside and QatarEnergy have signed a deal that will see the Australian operator supply LNG from its under-construction Louisiana LNG plant to QatarEnergy for 20 years.
 - QatarEnergy continues LNG supply diversification effort with new Woodside deal
+- Oil rallies on dual-front war
+- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 1.9 million bbl
 - The Mongstad refinery in Norway.
-- Oil rallies on dual-front war
-- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
-- DNV: Energy-importing countries scaling clean energy 3x faster than exporters
 - Howard Energy Partners expands Anadarko position with Iron Horse Midstream acquisition
-- Insights: What agentic AI means for the future of oil and gas operations
-- Oil & Gas Journal ReEnterprised
 - Ghana’s PHDC advancing Phase 2 of multibillion-dollar downstream petroleum hub
 - A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
 - Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
@@ -150,20 +147,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- What’s Next for Global Natural Gas Demand?
+- Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse
+- U.S. Pushes Nuclear Energy Expansion in Central Asia and Caucasus
+- Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks
+- Europe to Release 42 Million Barrels of Oil
 - Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb
 - UK Budget Signals Wave of New North Sea Oil and Gas Drilling
 - Trafigura Signs New Gas Supply Deal with German SEFE
-- Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month
-- Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record
-- TotalEnergies Profit Doubles as War Boosts Refining and Trading
-- EU Scrambles to Contain Energy Price Crisis Ahead of Winter
-- Oil Prices Fall as Vance Moves to Restart Iran Peace Talks
-- Peace Talks Won’t Save Oil Buyers From $100-Plus Oil
-- Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens
 
 ### Rigzone
 
@@ -181,16 +176,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 14
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Prima Energy acquires 28.3% stake in Jadestone Energy
+- FLNG facility at sea
+- Hanwha Ocean secures ABS approval for standardized FLNG design
+- Energy Drilling&apos;s T‑16 tender-assist drilling rig
+- Energy Drilling secures $87 million contract for next Malaysia‑Thailand development drilling phase
+- DeepOcean to re-terminate gas-lift riser at Ghana’s Jubilee Field for Tullow Oil
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
+- An offshore oil platform with workers standing on it
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- Prima Energy acquires 28.3% stake in Jadestone Energy
 - 1947 Oil &amp; Gas issues Gulf of Mexico operations update
 - 1947 Oil & Gas issues Gulf of Mexico operations update
-- ECOnnect orders Allum LNG transfer system for Colombia FSRU
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
