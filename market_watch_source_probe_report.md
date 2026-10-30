@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-29 23:49 UTC
+Generated: 2026-10-30 04:45 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 15 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
 | OilPrice.com | active | 200 | 8 | OK. |
@@ -52,7 +52,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 16
 - Scraping note: OK.
 
 - 'Thin' Oil Stocks Ratchet Up Market Stress as War Grinds On
@@ -60,9 +60,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Turkey's Energy Hub Ambitions Outrun Supply
 - TotalEnergies, Shell Benefit From Tanker Fleets, Refining
 - Gulf Energy Logistics Adapt as Hormuz Risks Persist
+- PetroChina's Refining, Upstream Production Rebound
 - LNG Expansions Gain Momentum for Cheniere, NextDecade
 - Trafigura, Germany's SEFE Sign New Gas Supply Deal
-- Argentina Grapples With a Flood of Chinese EV Imports
+- Oil, Gas Set to Keep Central Role in Lula's Brazil
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -79,7 +80,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- BW Energy suspends 2026 capex guidance as Prospector 5 loss delays MaBoMo Phase 2 drilling offshore Gabon
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
@@ -93,22 +94,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- North Sea oil and gas decline threatens 115,000-job workforce, report says
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Osaka Gas buys 5% stake in Browse LNG project from bp
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
