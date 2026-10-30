@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-30 16:33 UTC
+Generated: 2026-10-30 23:29 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
-| Offshore Magazine | active | 200 | 14 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
+| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
+| Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
 
@@ -54,17 +54,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 18
 - Scraping note: OK.
 
+- Can Oil Markets Cope With Another Round of Mideast Escalation?
+- Exxon Boosts Rovuma LNG Stake in Swap Deal With Eni
+- Sinopec Warns of Mounting Freight Cost Pressures
 - 'Thin' Oil Stocks Ratchet Up Market Stress as War Grinds On
-- Security-of-Supply Focus Reshapes Southeast Asia's Energy Agenda
-- Turkey's Energy Hub Ambitions Outrun Supply
-- TotalEnergies, Shell Benefit From Tanker Fleets, Refining
-- Gulf Energy Logistics Adapt as Hormuz Risks Persist
-- PetroChina's Refining, Upstream Production Rebound
-- Talks Underway to Boost Europe's Diesel Production This Winter
-- Moscow Confirms Sanctions Relief Talks With Washington
-- Democrats Prepare to Target Trump’s Energy Agenda, Industry Ties
-- LNG Expansions Gain Momentum for Cheniere, NextDecade
-- Oil, Gas Set to Keep Central Role in Lula's Brazil
+- Ukraine Ends Two-Week Pause on Russian Refinery Strikes
+- Valero Buys Shuttered LyondellBasell Refinery in Houston
+- GE Vernova Ramps Up Turbine Capacity to Meet Booming Demand
+- Diminishing Inventories Begin to Impact Oil Prices
+- Argentina Grapples With a Flood of Chinese EV Imports
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -72,6 +70,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Security Requires Systems, Not Just Resources
 - The Biggest Constraint in Energy Is Uncertainty
 - The Hidden Pressures Prolonging the Diesel Crisis
+- Harbour Energy Idles M&A Growth Engine
+- Singapore to Store Saudi Crude in Underground Cavern
 
 ### World Oil
 
@@ -85,9 +85,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -95,22 +95,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
@@ -149,39 +149,37 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down
+- U.S. Oil, Gas Drillers Still on Hold
+- Oil Traders Brace for a Wild Week as Brent Approaches $120
 - America’s LNG Boom Faces Its Biggest Test Yet
 - Japan to Overtake China As World’s Top LNG Importer This Year
 - Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’
 - Japan to Tap $7 Billion from Government Fund to Subsidize Gasoline Prices
 - Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz
 - Oil Markets Caught Between Iran War Risks and Emergency SPR Releases
-- BP Quadruples Profit to Record as War Boosts Refining and Trading
-- Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen
-- High Oil Prices Set to Trigger New Wave of North Sea Mergers
-- Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities
-- Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
-- Scraping note: OK.
+- Relevant news count: 0
+- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
 - Source note: Source for drilling, output, and industry news.
 
-- Eni Reactivates 'Supergiant' Venezuelan Oilfield
+- No relevant titles detected.
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
@@ -194,8 +192,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - An offshore oil platform with workers standing on it
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Prima Energy acquires 28.3% stake in Jadestone Energy
-- 1947 Oil &amp; Gas issues Gulf of Mexico operations update
-- 1947 Oil & Gas issues Gulf of Mexico operations update
 - Seatrium to convert LNG carrier to FSRU for Excelerate
 - An artist&apos;s rendering of an FSRU and FLNG
 - Gastech 2026: LR, ABS back next-generation FSRU and FLNG concepts with approvals
