@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-31 15:37 UTC
+Generated: 2026-10-31 23:08 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -85,8 +85,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -95,7 +95,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
@@ -103,14 +103,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Qatar, Iran gas field disruptions threaten LNG supply, Wood Mackenzie says
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
 
@@ -149,20 +149,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future
+- DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow
 - Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security
 - Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down
 - U.S. Oil, Gas Drillers Still on Hold
 - Oil Traders Brace for a Wild Week as Brent Approaches $120
 - America’s LNG Boom Faces Its Biggest Test Yet
 - Japan to Overtake China As World’s Top LNG Importer This Year
-- Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’
-- Japan to Tap $7 Billion from Government Fund to Subsidize Gasoline Prices
-- Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz
-- Oil Markets Caught Between Iran War Risks and Emergency SPR Releases
 
 ### Rigzone
 
