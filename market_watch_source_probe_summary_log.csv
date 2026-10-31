@@ -2430,3 +2430,11 @@ run_timestamp_utc,source,status,http_status,relevant_news_count,issue_or_suggest
 2026-10-30 23:29 UTC,OilPrice.com,active,200,9,OK.
 2026-10-30 23:29 UTC,Rigzone,active,200,0,"Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser."
 2026-10-30 23:29 UTC,Offshore Magazine,active,200,12,OK.
+2026-10-31 04:29 UTC,EIA Today in Energy,active,200,6,OK.
+2026-10-31 04:29 UTC,IEA,excluded from daily report,403,0,"Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal."
+2026-10-31 04:29 UTC,Energy Intelligence,active,200,18,OK.
+2026-10-31 04:29 UTC,World Oil,active,200,30,OK.
+2026-10-31 04:29 UTC,Oil & Gas Journal,active,200,23,OK.
+2026-10-31 04:29 UTC,OilPrice.com,active,200,9,OK.
+2026-10-31 04:29 UTC,Rigzone,active,200,0,"Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser."
+2026-10-31 04:29 UTC,Offshore Magazine,active,200,12,OK.
