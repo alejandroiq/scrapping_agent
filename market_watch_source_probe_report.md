@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-01 16:36 UTC
+Generated: 2026-11-01 23:24 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,8 +14,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
+| Rigzone | active | n/a | 0 | Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
@@ -83,9 +83,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -94,7 +94,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
@@ -102,13 +101,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- TotalEnergies teams with Petronas, Sonangol, OIL on methane
 - New UK training program supports workforce mobility between oil, gas and offshore wind
 
 ### Oil & Gas Journal
@@ -148,7 +148,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -159,19 +159,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down
 - U.S. Oil, Gas Drillers Still on Hold
 - Oil Traders Brace for a Wild Week as Brent Approaches $120
-- America’s LNG Boom Faces Its Biggest Test Yet
-- Japan to Overtake China As World’s Top LNG Importer This Year
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
-- HTTP status: 200
-- Relevant news count: 1
-- Scraping note: OK.
+- HTTP status: n/a
+- Relevant news count: 0
+- Scraping note: Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow.
 - Source note: Source for drilling, output, and industry news.
 
-- Big Oil Scores $56B Windfall on Spiking Fuel Prices
+- No relevant titles detected.
 
 ### Offshore Magazine
 
