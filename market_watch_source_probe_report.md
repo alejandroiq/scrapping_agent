@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-10-31 23:08 UTC
+Generated: 2026-11-01 04:50 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -84,9 +84,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - From automation to autonomy: Building the next oil and gas operating model
 - The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -95,7 +95,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
@@ -103,14 +102,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
-- Osaka Gas buys 5% stake in Browse LNG project from bp
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- New UK training program supports workforce mobility between oil, gas and offshore wind
+- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
