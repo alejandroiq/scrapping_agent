@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-01 04:50 UTC
+Generated: 2026-11-01 16:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 6 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -51,7 +51,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 17
 - Scraping note: OK.
 
 - Can Oil Markets Cope With Another Round of Mideast Escalation?
@@ -71,7 +71,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The Biggest Constraint in Energy Is Uncertainty
 - The Hidden Pressures Prolonging the Diesel Crisis
 - Harbour Energy Idles M&A Growth Engine
-- Singapore to Store Saudi Crude in Underground Cavern
 
 ### World Oil
 
@@ -95,6 +94,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
@@ -102,15 +102,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 - New UK training program supports workforce mobility between oil, gas and offshore wind
-- ADNOC to shift U.S. hydrogen, LNG assets in push to create $80 billion global venture
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
@@ -149,10 +148,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector
 - Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future
 - DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow
 - Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security
