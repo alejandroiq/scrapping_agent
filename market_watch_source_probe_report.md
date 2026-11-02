@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-01 23:24 UTC
+Generated: 2026-11-02 04:51 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 6 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
-| Rigzone | active | n/a | 0 | Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow. |
+| OilPrice.com | active | 200 | 6 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
@@ -51,7 +51,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 16
 - Scraping note: OK.
 
 - Can Oil Markets Cope With Another Round of Mideast Escalation?
@@ -70,7 +70,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Security Requires Systems, Not Just Resources
 - The Biggest Constraint in Energy Is Uncertainty
 - The Hidden Pressures Prolonging the Diesel Crisis
-- Harbour Energy Idles M&A Growth Engine
 
 ### World Oil
 
@@ -80,13 +79,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- From automation to autonomy: Building the next oil and gas operating model
-- The missing measure of energy security
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Africa Energy Bank launches in Abuja with $5 billion to back upstream oil and gas
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- FET lifts 2026 outlook as drilling, subsea and coiled tubing lines drive 6% segment growth
+- First Oil: Our awards event for technical excellence reaches new highs
+- Beyond diesel: How Canadian completions are evolving
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -94,22 +95,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- North Sea oil and gas decline threatens 115,000-job workforce, report says
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 - Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 - Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- TotalEnergies teams with Petronas, Sonangol, OIL on methane
-- New UK training program supports workforce mobility between oil, gas and offshore wind
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 
 ### Oil & Gas Journal
 
@@ -148,28 +147,27 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 6
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Prices No Longer Follow Headlines
 - Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector
 - Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future
 - DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow
 - Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security
 - Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down
-- U.S. Oil, Gas Drillers Still on Hold
-- Oil Traders Brace for a Wild Week as Brent Approaches $120
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
-- HTTP status: n/a
-- Relevant news count: 0
-- Scraping note: Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow.
+- HTTP status: 200
+- Relevant news count: 1
+- Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- No relevant titles detected.
+- Big Oil Scores $56B Windfall on Spiking Fuel Prices
 
 ### Offshore Magazine
 
