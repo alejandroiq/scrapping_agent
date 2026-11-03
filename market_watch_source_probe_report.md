@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-03 02:12 UTC
+Generated: 2026-11-03 17:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,9 +13,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| Oil & Gas Journal | active | 200 | 25 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
@@ -28,12 +28,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 6
 - Scraping note: OK.
 
+- Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery
 - LNG imports make up increasing share of Colombia’s natural gas supply
 - Mixed outlook for energy expenditures this winter
 - Crude oil prices and refinery margins generally increased throughout the third quarter
 - U.S. natural gas production reached a record high in July 2026
 - U.S. exports of propane reached records in the first half of 2026
-- Public companies produce most U.S. crude oil and natural gas
 
 ### IEA
 
@@ -58,15 +58,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil Prices Slide on Faint Hopes for US-Iran Diplomacy
 - Sinopec Warns of Mounting Freight Cost Pressures
 - 'Thin' Oil Stocks Ratchet Up Market Stress as War Grinds On
-- Democrats Eye Clean Energy Tax Credit Extensions
-- Shell LNG Supply Deal Anchors Metlen’s Push to Replace Russian Piped Gas
-- Russia Carves Out Diesel Quotas Amid Overarching Export Ban
-- Red Sea Blockade Drives Japan's Saudi Crude Imports to Multi-Decade Low
+- Mitsubishi Offloads Stake in LNG Canada to Blackstone-Led Consortium
+- XRG Strikes $1.45 Billion Deal for Shell's NWS LNG Stake
 - Turkey's Energy Hub Ambitions Outrun Supply
 - Sky-High Freight Costs Roil Global Oil Markets
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- COP31: Global Electrification Pledge Tops Oil and Gas Sector Watchlist
+- Every Energy Decision Is a Water Decision
 - Energy Security Requires Systems, Not Just Resources
 - The Biggest Constraint in Energy Is Uncertainty
 - The Hidden Pressures Prolonging the Diesel Crisis
@@ -81,12 +81,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
-- Africa Energy Bank launches in Abuja with $5 billion to back upstream oil and gas
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Baker Hughes launches global hub network for mature oil and gas fields
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- ADNOC’s Al Jaber: Energy security now measured by delivery, not just production
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- Capstone Energy+ to supply flare gas recovery system for Maurel & Prom's Gabon field
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
@@ -96,35 +96,37 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Osaka Gas buys 5% stake in Browse LNG project from bp
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
-- Baker Hughes signs Venezuela deals targeting oil, gas and LNG development
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 25
 - Scraping note: OK.
 
 - Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
 - Oil prices climb as Saudi attacks heighten supply concerns
+- ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell
+- Crude oil refining infrastructure along the Mississippi River in Minnesota.
+- CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
 - Rendering of offshore LNG liquefaction and export plant
 - MARAD approves ST LNG’s deepwater port license application
-- Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 - Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - Large floating oil and gas production, storage and offloading vessel shown near the coastline escorted by smaller vessels
 - Map showing Valero US Gulf Coast refining and logistics network coupled with asset to be acquired from LyondellBassel
@@ -136,8 +138,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Arial panoramic view of processing and production plants at Hengyi Industries Sdn. Bhd.&apos;s Pulau Muara Besar (PMB) refinery and petrochemical complex at Pulau Muara Besar Industrial Park on iPulau Muara Besar island in Brunei.
 - Offshore oil and gas platform at night
 - North American rig count up slightly as Canada adds oil rigs
+- Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 - BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
-- The handover opportunity: What decides whether energy investment performs
 - Woodside and QatarEnergy have signed a deal that will see the Australian operator supply LNG from its under-construction Louisiana LNG plant to QatarEnergy for 20 years.
 - QatarEnergy continues LNG supply diversification effort with new Woodside deal
 - Howard Energy Partners expands Anadarko position with Iron Horse Midstream acquisition
@@ -149,31 +151,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says
+- Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling
+- Brent Flash Crashes $6 Before Rebounding Towards $104
+- Indian Refiner BPCL Buys U.S. WTI Crude Oil Cargo
+- ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal
+- Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion
+- Saudi Aramco Profit Beats Expectations as Oil Prices Soar
+- CVR Energy Nears $4 Billion Refinery Deal With Marathon
+- U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply
+- Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran
 - Questions Mount Over Venezuela’s Biggest Oil Deal
-- Africa Launches Its Own Oil Bank as Western Lenders Retreat
-- 4 Energy Stocks for Midterm Elections That Could Go Either Way
-- Trump’s Trillion-Dollar Oil Play: A Trap For Big Oil?
-- Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China
-- TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040
-- Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy
-- U.S.-Backed Consortium Proposes $4.4 Billion LNG Terminal in Pakistan
-- How Iran Just Broke the U.S. Oil Shield In Saudi Arabia Yet Again
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Oil Plunges as Iran Opens Door to Talks
-- OPEC Keeps December Output Targets Unchanged
+- NJ Governor Bars Entry of Russian Diesel Allowed by Trump
 
 ### Offshore Magazine
 
@@ -184,6 +187,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- ADIPEC 2026: Offshore energy needs multi-orbit connectivity
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - An offshore oil platform with workers standing on it
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
@@ -192,4 +196,3 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - DeepOcean to re-terminate gas-lift riser at Ghana’s Jubilee Field for Tullow Oil
 - FLNG facility at sea
 - Hanwha Ocean secures ABS approval for standardized FLNG design
-- Seatrium to convert LNG carrier to FSRU for Excelerate
