@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-03 17:36 UTC
+Generated: 2026-11-04 00:25 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -13,10 +13,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 25 | OK. |
+| Oil & Gas Journal | active | 200 | 24 | OK. |
 | OilPrice.com | active | 200 | 11 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
-| Offshore Magazine | active | 200 | 9 | OK. |
+| Offshore Magazine | active | 200 | 8 | OK. |
 
 ## Titles By Source
 
@@ -56,10 +56,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Can Oil Markets Cope With Another Round of Mideast Escalation?
 - Oil Prices Slide on Faint Hopes for US-Iran Diplomacy
-- Sinopec Warns of Mounting Freight Cost Pressures
-- 'Thin' Oil Stocks Ratchet Up Market Stress as War Grinds On
-- Mitsubishi Offloads Stake in LNG Canada to Blackstone-Led Consortium
-- XRG Strikes $1.45 Billion Deal for Shell's NWS LNG Stake
+- Qatar Boosts LNG Exports to China, India Amid Geopolitical Uncertainty
+- Can LNG Markets Cope With Another Round of Mideast Escalation?
+- Marathon Bets on US Gulf Coast With Midcontinent Refinery Sale
+- Aramco Points to Higher Exports But Continued Hormuz Constraints
 - Turkey's Energy Hub Ambitions Outrun Supply
 - Sky-High Freight Costs Roil Global Oil Markets
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
@@ -96,8 +96,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
@@ -105,23 +104,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- Osaka Gas buys 5% stake in Browse LNG project from bp
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 25
+- Relevant news count: 24
 - Scraping note: OK.
 
 - Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
-- Oil prices climb as Saudi attacks heighten supply concerns
 - ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
@@ -155,17 +154,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling
+- Global Diesel Crunch Set to Last Well Into 2027
+- Big Oil Puts Debt Reduction Ahead of New Investments
+- US Crude Oil Inventories Still in Freefall
+- Africa Launches $5 Billion Energy Bank as Western Lenders Retreat
+- Why Supplying Europe With LNG Has a Best-Before Date
+- Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems
+- Iran War Triples Logistics Costs for Oil Services Firms
 - Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says
 - Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling
 - Brent Flash Crashes $6 Before Rebounding Towards $104
-- Indian Refiner BPCL Buys U.S. WTI Crude Oil Cargo
-- ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal
-- Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion
-- Saudi Aramco Profit Beats Expectations as Oil Prices Soar
-- CVR Energy Nears $4 Billion Refinery Deal With Marathon
-- U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply
-- Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran
-- Questions Mount Over Venezuela’s Biggest Oil Deal
 
 ### Rigzone
 
@@ -183,16 +182,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- ADIPEC 2026: Offshore energy needs multi-orbit connectivity
+- Offshore jackets in oil field in Arabian Gulf
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
-- An offshore oil platform with workers standing on it
+- ADIPEC 2026: Offshore energy needs multi-orbit connectivity
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Energy Drilling&apos;s T‑16 tender-assist drilling rig
 - Energy Drilling secures $87 million contract for next Malaysia‑Thailand development drilling phase
-- DeepOcean to re-terminate gas-lift riser at Ghana’s Jubilee Field for Tullow Oil
 - FLNG facility at sea
 - Hanwha Ocean secures ABS approval for standardized FLNG design
