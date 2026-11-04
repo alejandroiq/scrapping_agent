@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-04 00:25 UTC
+Generated: 2026-11-04 17:48 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 6 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
+| Energy Intelligence | active | 200 | 19 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 24 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -51,25 +51,26 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 19
 - Scraping note: OK.
 
-- Can Oil Markets Cope With Another Round of Mideast Escalation?
-- Oil Prices Slide on Faint Hopes for US-Iran Diplomacy
-- Qatar Boosts LNG Exports to China, India Amid Geopolitical Uncertainty
 - Can LNG Markets Cope With Another Round of Mideast Escalation?
-- Marathon Bets on US Gulf Coast With Midcontinent Refinery Sale
+- Will the Mideast War Kill Emerging LNG Demand, or Will AI Keep It Alive?
+- Qatar Boosts LNG Exports to China, India Amid Geopolitical Uncertainty
 - Aramco Points to Higher Exports But Continued Hormuz Constraints
-- Turkey's Energy Hub Ambitions Outrun Supply
-- Sky-High Freight Costs Roil Global Oil Markets
+- Oil Prices Slide on Faint Hopes for US-Iran Diplomacy
+- Can Oil Markets Cope With Another Round of Mideast Escalation?
+- Marathon Bets on US Gulf Coast With Midcontinent Refinery Sale
+- Russia's Novatek Expands Yamal LNG Fleet Ahead of EU Import Ban
+- 'Thin' Oil Stocks Ratchet Up Market Stress as War Grinds On
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- Energy on the Front Line - Part 2: Modern Militaries, Modern Energy Needs
 - COP31: Global Electrification Pledge Tops Oil and Gas Sector Watchlist
 - Every Energy Decision Is a Water Decision
 - Energy Security Requires Systems, Not Just Resources
 - The Biggest Constraint in Energy Is Uncertainty
-- The Hidden Pressures Prolonging the Diesel Crisis
 - Exxon Boosts Rovuma LNG Stake in Swap Deal With Eni
 - Security-of-Supply Focus Reshapes Southeast Asia's Energy Agenda
 
@@ -81,9 +82,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
 - Baker Hughes launches global hub network for mature oil and gas fields
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- ADNOC’s Al Jaber: Energy security now measured by delivery, not just production
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
@@ -96,7 +98,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
@@ -104,13 +106,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 - Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 
 ### Oil & Gas Journal
 
@@ -150,21 +151,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Iran War Doubles Egypt’s LNG Bill as Gas Output Keeps Falling
-- Global Diesel Crunch Set to Last Well Into 2027
-- Big Oil Puts Debt Reduction Ahead of New Investments
-- US Crude Oil Inventories Still in Freefall
-- Africa Launches $5 Billion Energy Bank as Western Lenders Retreat
-- Why Supplying Europe With LNG Has a Best-Before Date
-- Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems
-- Iran War Triples Logistics Costs for Oil Services Firms
-- Hormuz Oil Flows Unlikely to Return to Pre-War Levels, Rystad Says
-- Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling
-- Brent Flash Crashes $6 Before Rebounding Towards $104
+- New Jersey Moves to Block Trump's Russian Diesel Imports
+- US Oil Inventories Fall Further As Demand Holds
+- Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal
+- Democrats Win Texas Oil Regulator Seat for First Time Since 1990
+- Nigeria's Oil and Gas Output Rises to 3.04 Million Boepd
+- Renewables Stocks Soar as Democrats Sweep U.S. Congress
+- Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz
+- India Races to Triple Coal Stockpiles to Prevent Summer Blackouts
+- Oil Prices Rebound as Middle East Supply Fears Return
 
 ### Rigzone
 
@@ -175,7 +174,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- NJ Governor Bars Entry of Russian Diesel Allowed by Trump
+- Democrat Wins Texas Oil Regulator Seat
 
 ### Offshore Magazine
 
