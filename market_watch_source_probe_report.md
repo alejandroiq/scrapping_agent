@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-05 00:45 UTC
+Generated: 2026-11-05 17:53 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,13 +9,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 6 | OK. |
+| EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 22 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 22 | OK. |
-| OilPrice.com | active | 200 | 6 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| Oil & Gas Journal | active | 200 | 23 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 5 | OK. |
 
 ## Titles By Source
@@ -25,9 +25,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 7
 - Scraping note: OK.
 
+- Refineries have shifted production away from gasoline to middle distillates
 - Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery
 - LNG imports make up increasing share of Colombia’s natural gas supply
 - Mixed outlook for energy expenditures this winter
@@ -51,14 +52,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 22
 - Scraping note: OK.
 
+- US Democratic Surge: What Could This Mean for Foreign and Energy Policy?
 - Obscure Offtakers, Including New Names, Dominate Russian Exports
+- Mideast Gulf Energy Projects Face Lasting Hormuz Cost Squeeze
+- India’s Petronet Pushes Qatar to Deliver Missing LNG Cargoes
 - Crude Prices Shed War Premium as Mideast Peace Hopes Build
 - Qatar Boosts LNG Exports to China, India Amid Geopolitical Uncertainty
-- Can LNG Markets Cope With Another Round of Mideast Escalation?
-- Canadian Crude Discounts Widen as Freight Rates, Supply Rise
+- Russia Ramps Up Diesel Exports to US, Denies Any Glitches
+- Shell Trading Signs Up for Moroccan SAF Amid Push for Supply Diversity
 - The Race to Protect Subsea Energy Infrastructure
 - Will the Mideast War Kill Emerging LNG Demand, or Will AI Keep It Alive?
 - Moscow Courts Africa, Seeks Opec-Style Coordination for Gas Suppliers
@@ -82,14 +86,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Talos sees Monument first oil in Q1 2027 as Daenerys appraisal meets objectives
+- Newfoundland’s OilCo wins two Orphan basin exploration licenses
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
-- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
-- Baker Hughes launches global hub network for mature oil and gas fields
-- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- INEOS Energy says UK North Sea ban “chooses campaign promises over the country’s future”
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -101,32 +106,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- MidOcean Energy joins LNG Canada Phase 2 following FID
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 23
 - Scraping note: OK.
 
 - Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
+- Oil and gas drilling operations at dusk
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 900,000 bbl
+- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - AI-generated image showing pumpjacks, oil barrels, and an LNG vessel
 - JPMorgan sees global oil market return to surplus
-- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
@@ -149,28 +154,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Qatar Becomes Largest Buyer of U.S. LNG Amid Hormuz Crisis
-- Iran War and AI Boom Drive Global Gas Supply Crunch
-- Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout
-- New Jersey Moves to Block Trump's Russian Diesel Imports
-- US Oil Inventories Fall Further As Demand Holds
-- Brent Falls to $100 as Traders Bet on a U.S.-Iran Deal
+- Guyana’s Oil Boom Could Ease the Global Supply Crunch
+- Turkey Unveils $500 Billion Energy Plan Built on Gas, Solar, Nuclear
+- IEEFA: $67.8 Billion in Asian LNG Power Projects Scrapped or Stalled
+- India to Require State Utilities to Add Energy Storage Capacity
+- Iran Reports More Tanker Fires in Strait of Hormuz
+- China’s Diesel Exports Set to Plunge as Domestic Inventories Run Low
+- Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets
+- Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Democrat Wins Texas Oil Regulator Seat
-- UAE Mulls 3rd Crude Oil Pipeline to Avoid Hormuz
+- Aramco Looks to Strengthen Supply Network, CEO Reveals
 
 ### Offshore Magazine
 
