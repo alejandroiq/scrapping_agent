@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-05 17:53 UTC
+Generated: 2026-11-06 00:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 22 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
 | OilPrice.com | active | 200 | 8 | OK. |
@@ -52,17 +52,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 22
+- Relevant news count: 16
 - Scraping note: OK.
 
 - US Democratic Surge: What Could This Mean for Foreign and Energy Policy?
 - Obscure Offtakers, Including New Names, Dominate Russian Exports
-- Mideast Gulf Energy Projects Face Lasting Hormuz Cost Squeeze
-- India’s Petronet Pushes Qatar to Deliver Missing LNG Cargoes
-- Crude Prices Shed War Premium as Mideast Peace Hopes Build
-- Qatar Boosts LNG Exports to China, India Amid Geopolitical Uncertainty
-- Russia Ramps Up Diesel Exports to US, Denies Any Glitches
-- Shell Trading Signs Up for Moroccan SAF Amid Push for Supply Diversity
+- Oil Prices Bounce Higher as Mideast War Realities Reemerge
 - The Race to Protect Subsea Energy Infrastructure
 - Will the Mideast War Kill Emerging LNG Demand, or Will AI Keep It Alive?
 - Moscow Courts Africa, Seeks Opec-Style Coordination for Gas Suppliers
@@ -76,7 +71,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - The Biggest Constraint in Energy Is Uncertainty
 - Aramco Points to Higher Exports But Continued Hormuz Constraints
 - Exxon Boosts Rovuma LNG Stake in Swap Deal With Eni
-- Security-of-Supply Focus Reshapes Southeast Asia's Energy Agenda
 
 ### World Oil
 
@@ -93,9 +87,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -104,18 +98,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
+- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - Harbour Energy raises 2026 production guidance to 500,000 boed after record year
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 
 ### Oil & Gas Journal
 
@@ -126,27 +120,27 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
+- red_sanctions_oil_barrel_stamp
+- US sanctions network supporting Iranian oil shipments
 - Oil and gas drilling operations at dusk
+- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 900,000 bbl
-- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - AI-generated image showing pumpjacks, oil barrels, and an LNG vessel
 - JPMorgan sees global oil market return to surplus
 - ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
-- Rendering of offshore LNG liquefaction and export plant
-- MARAD approves ST LNG’s deepwater port license application
 - Ghana’s PHDC advancing Phase 2 of multibillion-dollar downstream petroleum hub
 - A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
 - Offshore oil and gas platform at night
 - North American rig count up slightly as Canada adds oil rigs
 - Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
-- BW Energy finds oil in Dussafu appraisal wells, supports 2-well development
+- Rendering of offshore LNG liquefaction and export plant
+- MARAD approves ST LNG’s deepwater port license application
 - Woodside and QatarEnergy have signed a deal that will see the Australian operator supply LNG from its under-construction Louisiana LNG plant to QatarEnergy for 20 years.
 - QatarEnergy continues LNG supply diversification effort with new Woodside deal
 - Howard Energy Partners expands Anadarko position with Iron Horse Midstream acquisition
-- Kinder Morgan takes FID on Southeast Connector, Permian Link natural gas pipelines
 - footer logo Oil & Gas Journal
 
 ### OilPrice.com
@@ -158,14 +152,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices
+- Asia Hopes U.S. Midterm Results Will Ease Energy Crisis
+- India's Renewables Have Saved $100 Billion in Fuel Imports, IEA Says
+- Oil Prices Rebound Sharply After Brutal Midweek Rout
+- U.S. Refineries Make Dramatic Shift Away From Gasoline
 - Guyana’s Oil Boom Could Ease the Global Supply Crunch
 - Turkey Unveils $500 Billion Energy Plan Built on Gas, Solar, Nuclear
 - IEEFA: $67.8 Billion in Asian LNG Power Projects Scrapped or Stalled
-- India to Require State Utilities to Add Energy Storage Capacity
-- Iran Reports More Tanker Fires in Strait of Hormuz
-- China’s Diesel Exports Set to Plunge as Domestic Inventories Run Low
-- Oil Prices Continue to Fall as Democratic Sweep Shakes Energy Markets
-- Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz
 
 ### Rigzone
 
