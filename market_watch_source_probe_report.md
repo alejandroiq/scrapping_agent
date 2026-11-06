@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-06 17:14 UTC
+Generated: 2026-11-06 23:58 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -15,8 +15,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 6 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
+| Offshore Magazine | active | 200 | 8 | OK. |
 
 ## Titles By Source
 
@@ -60,8 +60,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
 - India Navigates Volatility to Keep Crude Supplies Robust
 - Oil Prices Bounce Higher as Mideast War Realities Reemerge
-- Booming Indian Imports Fail to Calm European Diesel Supply Fears
-- COP31: What the Energy Sector Should Watch
+- Hungary’s Mol Seeks Interim US Waiver as It Plots 2027 Russian Oil Exit
+- Orlen Expands US LNG Supplies Amid Qatar Uncertainty
 - Strong Americas Oil Growth in 2026 Falls Short of Mideast Loss
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
@@ -72,7 +72,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Security Requires Systems, Not Just Resources
 - The Biggest Constraint in Energy Is Uncertainty
 - Aramco Points to Higher Exports But Continued Hormuz Constraints
-- Exxon Boosts Rovuma LNG Stake in Swap Deal With Eni
+- US Democratic Surge: What Could This Mean for Foreign and Energy Policy?
 
 ### World Oil
 
@@ -90,8 +90,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -99,19 +99,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
 
 ### Oil & Gas Journal
 
@@ -121,22 +121,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 25
 - Scraping note: OK.
 
-- Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
+- An oil rig drilling in a field with a cloudy sky
+- Ground-level view of the the inner workings of an oil and gas drilling rig
 - red_sanctions_oil_barrel_stamp
 - US sanctions network supporting Iranian oil shipments
-- Oil and gas drilling operations at dusk
 - Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
+- Oil and gas drilling operations at dusk
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories down 900,000 bbl
 - AI-generated image showing pumpjacks, oil barrels, and an LNG vessel
 - JPMorgan sees global oil market return to surplus
-- ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
 - Map showing Valero US Gulf Coast refining and logistics network coupled with asset to be acquired from LyondellBassel
 - Valero to acquire former LyondellBasell Houston oil refinery, restart 165,000 b/d by end-2027
-- Ghana’s PHDC advancing Phase 2 of multibillion-dollar downstream petroleum hub
-- A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
+- Panoramic view of processing and production installations under a cloudy sky at TOR&apos;s existing Tema oil refinery.
+- Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
 - Offshore oil and gas platform at night
 - North American rig count up slightly as Canada adds oil rigs
 - Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
@@ -156,37 +156,38 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- America’s Nuclear Revival Is Running Into a Fuel Supply Wall
+- Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar
+- Energy Reliability Is Becoming More Important Than Energy Politics
+- U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash
+- ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million
 - Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries
 - Energy Aspects Slashes Forecast of China’s November Diesel Exports
 - The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace
 - Oil Prices Plunge as U.S. Elections Shake Up the Iran War
-- Asia’s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation
-- India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist
-- ADNOC Expands LNG Empire With Major New India Supply Deal
-- China’s Carbon Emissions Plunge 3.1% as Oil Demand Slumps
-- The Global Oil Glut Returns as High Prices Crush Demand
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
 - Oil Market Arrives at 'Remarkable Destination'
-- UK Launches Energy Independence Bill
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Prima Energi reaches FID on AAL heavy-oil project in Indonesia's Natuna Sea
+- QatarEnergy taps Aker Solutions for Maydan Mahzam field life-extension project
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore jackets in oil field in Arabian Gulf
