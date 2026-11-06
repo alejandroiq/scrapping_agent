@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-06 00:49 UTC
+Generated: 2026-11-06 17:14 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,14 +9,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 7 | OK. |
+| EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 1 | OK. |
-| Offshore Magazine | active | 200 | 5 | OK. |
+| Oil & Gas Journal | active | 200 | 25 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
+| Offshore Magazine | active | 200 | 6 | OK. |
 
 ## Titles By Source
 
@@ -25,9 +25,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 8
 - Scraping note: OK.
 
+- U.S. crude oil imports from Venezuela in July were highest since 2017
 - Refineries have shifted production away from gasoline to middle distillates
 - Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery
 - LNG imports make up increasing share of Colombia’s natural gas supply
@@ -52,15 +53,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 17
 - Scraping note: OK.
 
-- US Democratic Surge: What Could This Mean for Foreign and Energy Policy?
-- Obscure Offtakers, Including New Names, Dominate Russian Exports
+- Majors Lean In on Refining Despite Continued Portfolio Pruning
+- Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
+- India Navigates Volatility to Keep Crude Supplies Robust
 - Oil Prices Bounce Higher as Mideast War Realities Reemerge
-- The Race to Protect Subsea Energy Infrastructure
-- Will the Mideast War Kill Emerging LNG Demand, or Will AI Keep It Alive?
-- Moscow Courts Africa, Seeks Opec-Style Coordination for Gas Suppliers
+- Booming Indian Imports Fail to Calm European Diesel Supply Fears
+- COP31: What the Energy Sector Should Watch
+- Strong Americas Oil Growth in 2026 Falls Short of Mideast Loss
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
@@ -80,15 +82,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- ExxonMobil to supply North Slope gas for 3-GW Alaska power campus under 15-year deal
 - Talos sees Monument first oil in Q1 2027 as Daenerys appraisal meets objectives
-- Newfoundland’s OilCo wins two Orphan basin exploration licenses
-- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
-- INEOS Energy says UK North Sea ban “chooses campaign promises over the country’s future”
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -97,26 +99,26 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 25
 - Scraping note: OK.
 
 - Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
@@ -131,6 +133,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - ADNOC’s XRG expands into Australian LNG in $1.45-billion deal with Shell
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
+- Map showing Valero US Gulf Coast refining and logistics network coupled with asset to be acquired from LyondellBassel
+- Valero to acquire former LyondellBasell Houston oil refinery, restart 165,000 b/d by end-2027
 - Ghana’s PHDC advancing Phase 2 of multibillion-dollar downstream petroleum hub
 - A nightime aerial view of Valero Refining New Orleans LLC&rsquo;s 340,000-b/d St. Charles refinery in Norco, La., showing illuminated refining installations beneath a cloudy bluish-pink twilight sky.
 - Offshore oil and gas platform at night
@@ -148,39 +152,42 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices
-- Asia Hopes U.S. Midterm Results Will Ease Energy Crisis
-- India's Renewables Have Saved $100 Billion in Fuel Imports, IEA Says
-- Oil Prices Rebound Sharply After Brutal Midweek Rout
-- U.S. Refineries Make Dramatic Shift Away From Gasoline
-- Guyana’s Oil Boom Could Ease the Global Supply Crunch
-- Turkey Unveils $500 Billion Energy Plan Built on Gas, Solar, Nuclear
-- IEEFA: $67.8 Billion in Asian LNG Power Projects Scrapped or Stalled
+- Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries
+- Energy Aspects Slashes Forecast of China’s November Diesel Exports
+- The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace
+- Oil Prices Plunge as U.S. Elections Shake Up the Iran War
+- Asia’s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation
+- India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist
+- ADNOC Expands LNG Empire With Major New India Supply Deal
+- China’s Carbon Emissions Plunge 3.1% as Oil Demand Slumps
+- The Global Oil Glut Returns as High Prices Crush Demand
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 1
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Aramco Looks to Strengthen Supply Network, CEO Reveals
+- Oil Market Arrives at 'Remarkable Destination'
+- UK Launches Energy Independence Bill
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 5
+- Relevant news count: 6
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
+- Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Offshore jackets in oil field in Arabian Gulf
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
