@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-07 05:45 UTC
+Generated: 2026-11-07 16:08 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -100,19 +100,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
-- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- MidOcean Energy joins LNG Canada Phase 2 following FID
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
@@ -153,10 +153,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand
 - America’s Nuclear Revival Is Running Into a Fuel Supply Wall
 - Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar
 - Energy Reliability Is Becoming More Important Than Energy Politics
