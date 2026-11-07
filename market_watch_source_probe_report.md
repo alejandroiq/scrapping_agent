@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-07 16:08 UTC
+Generated: 2026-11-07 23:28 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -91,8 +91,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -100,19 +100,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
-- MidOcean Energy joins LNG Canada Phase 2 following FID
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 
 ### Oil & Gas Journal
 
@@ -157,6 +157,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Egypt Eyes Billions in New Investment to Revive Oil and Gas Production
 - America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand
 - America’s Nuclear Revival Is Running Into a Fuel Supply Wall
 - Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar
@@ -166,7 +167,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries
 - Energy Aspects Slashes Forecast of China’s November Diesel Exports
 - The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace
-- Oil Prices Plunge as U.S. Elections Shake Up the Iran War
 
 ### Rigzone
 
