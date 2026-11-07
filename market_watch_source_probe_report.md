@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-06 23:58 UTC
+Generated: 2026-11-07 05:45 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,7 +11,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 17 | OK. |
+| Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 25 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
@@ -53,13 +53,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 17
+- Relevant news count: 18
 - Scraping note: OK.
 
-- Majors Lean In on Refining Despite Continued Portfolio Pruning
-- Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
+- COP31: What the Energy Sector Should Watch
+- Shock US Election Creates New Risks for AI-Driven Gas Demand
 - India Navigates Volatility to Keep Crude Supplies Robust
-- Oil Prices Bounce Higher as Mideast War Realities Reemerge
+- Mideast Gulf Energy Projects Face Lasting Hormuz Cost Squeeze
 - Hungary’s Mol Seeks Interim US Waiver as It Plots 2027 Russian Oil Exit
 - Orlen Expands US LNG Supplies Amid Qatar Uncertainty
 - Strong Americas Oil Growth in 2026 Falls Short of Mideast Loss
@@ -72,6 +72,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Security Requires Systems, Not Just Resources
 - The Biggest Constraint in Energy Is Uncertainty
 - Aramco Points to Higher Exports But Continued Hormuz Constraints
+- Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
 - US Democratic Surge: What Could This Mean for Foreign and Energy Policy?
 
 ### World Oil
@@ -89,8 +90,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -99,19 +100,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
 - SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
+- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 
 ### Oil & Gas Journal
 
