@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-08 16:31 UTC
+Generated: 2026-11-08 23:27 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -100,17 +100,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
-- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
+- MidOcean Energy joins LNG Canada Phase 2 following FID
 - Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- Canada, Alberta oil sands agreement links production growth to Pathways CCS
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
 - ADNOC signs 10-year LNG deal with India’s Gujarat Energy
 
@@ -157,6 +157,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Democratic Win Set to Reshuffle U.S. Energy Policy
+- How Big Oil Became the AI Industry's Favorite Customer
 - How New York Plans to Turn Waste Heat Into Clean Energy
 - Egypt Eyes Billions in New Investment to Revive Oil and Gas Production
 - America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand
@@ -165,8 +167,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Reliability Is Becoming More Important Than Energy Politics
 - U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash
 - ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million
-- Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries
-- Energy Aspects Slashes Forecast of China’s November Diesel Exports
 
 ### Rigzone
 
