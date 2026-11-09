@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-08 23:27 UTC
+Generated: 2026-11-09 05:01 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -90,9 +90,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -100,19 +100,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 - Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
 
 ### Oil & Gas Journal
 
@@ -157,6 +157,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push
 - Democratic Win Set to Reshuffle U.S. Energy Policy
 - How Big Oil Became the AI Industry's Favorite Customer
 - How New York Plans to Turn Waste Heat Into Clean Energy
@@ -166,7 +167,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar
 - Energy Reliability Is Becoming More Important Than Energy Politics
 - U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash
-- ONGC Moves to Take Over Venezuelan Oilfields, Recover $500 Million
 
 ### Rigzone
 
