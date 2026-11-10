@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-10 06:18 UTC
+Generated: 2026-11-10 17:31 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 20 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| OilPrice.com | active | 200 | 12 | OK. |
+| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
 ## Titles By Source
@@ -53,15 +53,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 20
 - Scraping note: OK.
 
 - Mideast Crisis: Crude Highs, Pinched Products, Withering Demand
 - Drone Strikes Threaten Russia’s Rising Diesel Exports
+- China’s Crude Imports Bounce Back as Natural Gas Demand Lags
 - Crude Prices Plunge as Mideast Supply, Ceasefire Hopes Build
-- India Navigates Volatility to Keep Crude Supplies Robust
+- Croatia-Serbia Crude Flow Disrupted by Pipeline Accident
 - Strathcona, Greenfire to Form Canadian Oil Middleweight
-- US Murphy Oil Replaces Eni Offshore Israel
 - COP31: What the Energy Sector Should Watch
 - China Three Gorges Tops Energy Intelligence Green Utilities Rankings
 - Expansions Driving the Ship for North American LNG Development
@@ -70,11 +70,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Energy on the Front Line - Part 2: Modern Militaries, Modern Energy Needs
 - COP31: Global Electrification Pledge Tops Oil and Gas Sector Watchlist
+- Energy Storage Race Outpaces Policy
 - More Energy, Harder Choices
 - Every Energy Decision Is a Water Decision
-- Energy Security Requires Systems, Not Just Resources
 - Aramco Points to Higher Exports But Continued Hormuz Constraints
 - Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
+- US Democratic Surge: What Could This Mean for Foreign and Energy Policy?
 
 ### World Oil
 
@@ -84,12 +85,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Murphy Oil enters Eastern Mediterranean with six Zone G licenses offshore Israel
+- Techouse to power Golar’s fourth FLNG unit
 - Strathcona to acquire Greenfire in $2.1-billion oil sands deal
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
@@ -98,22 +102,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
-- MidOcean Energy joins LNG Canada Phase 2 following FID
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
+- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
@@ -127,12 +128,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Aerial view of processing and production installations at BSR&apos;s Dung Quat refinery beneath a blue sky.
 - An oil rig drilling in a field with a cloudy sky
 - Ground-level view of the the inner workings of an oil and gas drilling rig
+- CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
 - Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - red_sanctions_oil_barrel_stamp
 - US sanctions network supporting Iranian oil shipments
 - Oil and gas drilling operations at dusk
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
-- CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
 - Map showing Valero US Gulf Coast refining and logistics network coupled with asset to be acquired from LyondellBassel
 - Valero to acquire former LyondellBasell Houston oil refinery, restart 165,000 b/d by end-2027
 - Panoramic view of processing and production installations under a cloudy sky at TOR&apos;s existing Tema oil refinery.
@@ -152,31 +153,33 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Falls to Lowest Level Since August
+- Average U.S. Gasoline Price Dips below $4 for First Time since July
+- China’s Coal Buyers Resist Waiver Demands in New Indonesian Deals
+- Tribunal Hearings Begin in UK-Argentina Row Over Falklands Oil Project
+- China Is Buying Oil Again After Months of Living Off Its Stockpiles
+- U.S. Military Coordinates With Saudi Oil Tankers on Risky Hormuz Crossings
+- Brent Crude Falls Below $90 for First Time Since August
+- ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound
+- LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began
 - Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran
 - The 75-Year Army Deal That Could Reshape America's Rare Earth Supply
 - U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel
-- Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%
-- Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack
-- Murphy Oil Bets on Israeli Gas Near Leviathan
-- Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels
-- Global LNG Markets Face a Winter of Extreme Uncertainty
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
-- Scraping note: OK.
+- Relevant news count: 0
+- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
 - Source note: Source for drilling, output, and industry news.
 
-- Oil Experiences Sharpest Weekly Decline in Months
-- Which USA Oil Major Produced the Most in Q3 2026?
-- QatarEnergy, Chevron Expand Exploration Partnership offshore Namibia
+- No relevant titles detected.
 
 ### Offshore Magazine
 
