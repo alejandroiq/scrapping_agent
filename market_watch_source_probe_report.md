@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-10 17:31 UTC
+Generated: 2026-11-11 00:27 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 21 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 12 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -53,27 +53,28 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 21
 - Scraping note: OK.
 
-- Mideast Crisis: Crude Highs, Pinched Products, Withering Demand
-- Drone Strikes Threaten Russia’s Rising Diesel Exports
-- China’s Crude Imports Bounce Back as Natural Gas Demand Lags
-- Crude Prices Plunge as Mideast Supply, Ceasefire Hopes Build
+- Singapore Seeks More Flexible LNG Amid Declining Piped Imports
+- Sources: Floating LNG in the Mix for UAE
+- EIA Sees Global Oil Inventories Returning to Growth in Q4
+- Iraq’s Gas Flaring Push Faces a Feedstock Test
+- LNG Prices Fall Again as Mideast Peace Talks Continue
+- China’s Crude Imports Bounce Back as Gas Demand Lags
+- Naturgy Locks In Discounted 2027 LNG Strip Ahead of EU Ban
 - Croatia-Serbia Crude Flow Disrupted by Pipeline Accident
-- Strathcona, Greenfire to Form Canadian Oil Middleweight
-- COP31: What the Energy Sector Should Watch
+- Mideast Crisis: Crude Highs, Pinched Products, Withering Demand
 - China Three Gorges Tops Energy Intelligence Green Utilities Rankings
-- Expansions Driving the Ship for North American LNG Development
+- Neptun Deep Partners Chase Gas Supply Deals Amid Security Challenges
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
 - Energy on the Front Line - Part 2: Modern Militaries, Modern Energy Needs
-- COP31: Global Electrification Pledge Tops Oil and Gas Sector Watchlist
 - Energy Storage Race Outpaces Policy
 - More Energy, Harder Choices
 - Every Energy Decision Is a Water Decision
-- Aramco Points to Higher Exports But Continued Hormuz Constraints
+- COP31: What the Energy Sector Should Watch
 - Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
 - US Democratic Surge: What Could This Mean for Foreign and Energy Policy?
 
@@ -92,9 +93,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - SM Energy to sell South Texas assets to Caturus Energy for $950 million
 - Interoil exits Argentina conventional assets as operators continue retreat from mature basins
 - ADNOC Drilling secures five-year, $800 million contract for oilfield services
@@ -102,19 +103,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- SLB OneSubsea wins ExxonMobil subsea systems contract for Rovuma LNG
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
 - Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Siemens Energy selects 1-MWh battery system for hybrid offshore vessel
-- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
-- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
@@ -124,22 +125,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 23
 - Scraping note: OK.
 
-- Map showing Vaalco Energy oil and gas assets offshore C&ocirc;te d&apos;Ivoire
-- Aerial view of processing and production installations at BSR&apos;s Dung Quat refinery beneath a blue sky.
-- An oil rig drilling in a field with a cloudy sky
-- Ground-level view of the the inner workings of an oil and gas drilling rig
+- Chevron signs Namibia license farm-out deal with QatarEnergy
+- Venture Global moves up first LNG date for CP2
+- Animated landscape featuring oil barrels and pipeline equipment in the forefront with a silhouette of refining installations and crude tanker in the background
+- Oil falls below $90 amid easing US-Iran tensions
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
 - Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
+- Oil & Gas Journal ReEnterprised
+- Ground-level view of the the inner workings of an oil and gas drilling rig
 - red_sanctions_oil_barrel_stamp
 - US sanctions network supporting Iranian oil shipments
-- Oil and gas drilling operations at dusk
+- Aerial view of processing and production installations at BSR&apos;s Dung Quat refinery beneath a blue sky.
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
-- Map showing Valero US Gulf Coast refining and logistics network coupled with asset to be acquired from LyondellBassel
-- Valero to acquire former LyondellBasell Houston oil refinery, restart 165,000 b/d by end-2027
-- Panoramic view of processing and production installations under a cloudy sky at TOR&apos;s existing Tema oil refinery.
-- Ghana’s TOR proposes expanding Tema refinery to 200,000 b/sd by 2029
+- An oil rig drilling in a field with a cloudy sky
+- Oil and gas drilling operations at dusk
 - Offshore oil and gas platform at night
-- North American rig count up slightly as Canada adds oil rigs
+- Map showing Vaalco Energy oil and gas assets offshore C&ocirc;te d&apos;Ivoire
 - Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 - Rendering of offshore LNG liquefaction and export plant
 - MARAD approves ST LNG’s deepwater port license application
@@ -153,22 +154,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share
+- Midterm Results Could Trip Trump’s Energy Independence Plans
+- A ‘Geologic Freak’ in Arkansas Is Big Oil’s New Lithium Bet
+- U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets
+- The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan
+- Ukrainian Strikes Disrupt 30% of Russia's Oil Refining Capacity
 - Oil Falls to Lowest Level Since August
 - Average U.S. Gasoline Price Dips below $4 for First Time since July
 - China’s Coal Buyers Resist Waiver Demands in New Indonesian Deals
-- Tribunal Hearings Begin in UK-Argentina Row Over Falklands Oil Project
-- China Is Buying Oil Again After Months of Living Off Its Stockpiles
-- U.S. Military Coordinates With Saudi Oil Tankers on Risky Hormuz Crossings
-- Brent Crude Falls Below $90 for First Time Since August
-- ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound
-- LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began
-- Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran
-- The 75-Year Army Deal That Could Reshape America's Rare Earth Supply
-- U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel
 
 ### Rigzone
 
@@ -190,7 +188,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Mazarine Energy to acquire Black Sea Oil & Gas, operator of Romania's Midia gas project
+- US DOE loans Arena Energy $480 million for Project Elkhorn in US Gulf
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
