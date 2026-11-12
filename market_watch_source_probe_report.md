@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-12 01:49 UTC
+Generated: 2026-11-12 17:57 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
-| World Oil | active | 200 | 8 | OK. |
+| Energy Intelligence | active | 200 | 18 | OK. |
+| World Oil | active | 200 | 6 | OK. |
 | Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
+| Rigzone | active | 200 | 3 | OK. |
 | Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
@@ -28,6 +28,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 8
 - Scraping note: OK.
 
+- EIA forecasts Alaskan crude oil production to grow 13% in 2027
 - U.S. crude oil imports from Venezuela in July were highest since 2017
 - Refineries have shifted production away from gasoline to middle distillates
 - Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery
@@ -35,7 +36,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Mixed outlook for energy expenditures this winter
 - Crude oil prices and refinery margins generally increased throughout the third quarter
 - U.S. natural gas production reached a record high in July 2026
-- U.S. exports of propane reached records in the first half of 2026
 
 ### IEA
 
@@ -53,7 +53,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 18
 - Scraping note: OK.
 
 - Orlen First Qatari LNG Offtaker to Cancel Contract
@@ -61,7 +61,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - EIA Sees Global Oil Inventories Returning to Growth in Q4
 - Iraq’s Gas Flaring Push Faces a Feedstock Test
 - LNG Prices Fall Again as Mideast Peace Talks Continue
-- Sources: Floating LNG in the Mix for UAE
+- US-Russia Diesel Deal Falls Apart Amid Legal Risks, Pushback
+- Turkey's Star Refinery Adds More Diesel Capacity Amid Russian Supply Crunch
 - Japan and South Korea Guard Chinese Cleantech as War Fuels Demand
 - Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
@@ -70,24 +71,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy From Waste: Balancing Asset Life, CCS and Energy Security
 - Energy Storage Race Outpaces Policy
 - More Energy, Harder Choices
-- COP31: What the Energy Sector Should Watch
 - Naturgy Locks In Discounted 2027 LNG Strip Ahead of EU Ban
+- COP31: What the Energy Sector Should Watch
+- Shock US Election Creates New Risks for AI-Driven Gas Demand
 
 ### World Oil
 
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 6
 - Scraping note: OK.
 
 - DOE closes $480-million loan for Arena Energy’s U.S. Gulf shelf redevelopment
+- Aquaterra Energy moves to management ownership with HSBC backing
 - Attacks hit Kurdistan gas facility, ADNOC L&S vessel as regional energy risks mount
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Murphy Oil enters Eastern Mediterranean with six Zone G licenses offshore Israel
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Aquaterra Energy moves to management ownership with HSBC backing
 - Murphy Oil signs four production sharing contracts offshore Cameroon
 
 ### Oil & Gas Journal
@@ -101,16 +101,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Brent crude oil spot price and global inventory changes
 - EIA sees Brent near $100/bbl through yearend 2026 as Middle East supply constraints persist
 - Chevron signs Namibia license farm-out deal with QatarEnergy
-- Venture Global moves up first LNG date for CP2
 - Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
+- Venture Global moves up first LNG date for CP2
 - Animated landscape featuring oil barrels and pipeline equipment in the forefront with a silhouette of refining installations and crude tanker in the background
 - Oil falls below $90 amid easing US-Iran tensions
 - Oil & Gas Journal ReEnterprised
-- Ground-level view of the the inner workings of an oil and gas drilling rig
 - Aerial view of processing and production installations at BSR&apos;s Dung Quat refinery beneath a blue sky.
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
 - An oil rig drilling in a field with a cloudy sky
+- Ground-level view of the the inner workings of an oil and gas drilling rig
 - Oil and gas drilling operations at dusk
 - Offshore oil and gas platform at night
 - Map showing Vaalco Energy oil and gas assets offshore C&ocirc;te d&apos;Ivoire
@@ -127,30 +127,32 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Who Will Buy Sable’s Oil if California Keeps Closing Refineries?
-- Murphy Oil Draws Boycott Call Over Israeli Gas Licenses
-- China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade
-- Vitol’s Venezuela Oil Windfall Traced to Trader’s Ties to JD Vance
-- Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%
-- Germany Bets Big on Natural Gas to Keep the Lights On
-- Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington
-- Saudi Crude Output Jumps 26% as Riyadh Reports Near Pre-War Production
+- Brent Briefly Hits $94 After Trump Says U.S. Has No Need for Iran Deal
+- EU Imports of Russian LNG Top 2025 Value Ahead of January Ban
+- Angola Looks to Diversify from Crude with Windfall Oil Revenues
+- Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month
+- India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage
+- China Targets Global Gas Turbine Market as AI Power Demand Explodes
+- Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge
+- ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis
+- Oil Prices Sink as Iran and Ukraine Peace Optimism Builds
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 3
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- USA Gasoline Falls Below $4 for 1st Time Since August
-- Public Support for UK Oil, Gas Higher than Ever, OEUK Says
+- Analyst Flags Oil's Biggest Threat
+- EIA Raises 2026, 2027 Oil Price Forecasts Yet Again
+- Norway Regulator Widens Audit of AI Deployment in Oil Industry
 
 ### Offshore Magazine
 
