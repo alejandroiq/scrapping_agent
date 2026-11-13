@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-12 17:57 UTC
+Generated: 2026-11-13 00:55 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
-| World Oil | active | 200 | 6 | OK. |
-| Oil & Gas Journal | active | 200 | 23 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
+| World Oil | active | 200 | 30 | OK. |
+| Oil & Gas Journal | active | 200 | 26 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 9 | OK. |
+| Offshore Magazine | active | 200 | 10 | OK. |
 
 ## Titles By Source
 
@@ -53,59 +53,83 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 15
 - Scraping note: OK.
 
-- Orlen First Qatari LNG Offtaker to Cancel Contract
-- UAE Offers Saudi Crude From Stricken Tanker in One-Off Tender
-- EIA Sees Global Oil Inventories Returning to Growth in Q4
-- Iraq’s Gas Flaring Push Faces a Feedstock Test
-- LNG Prices Fall Again as Mideast Peace Talks Continue
+- Mideast Crisis Bends Shape of Oil Demand
+- Freight, Mideast Supply Drive Atlantic Basin Crude Glut
+- Iran's Crude Sales to China Fall off a Cliff
+- Houthi Attacks Escalate, But Oil Flows Stay Resilient
 - US-Russia Diesel Deal Falls Apart Amid Legal Risks, Pushback
-- Turkey's Star Refinery Adds More Diesel Capacity Amid Russian Supply Crunch
-- Japan and South Korea Guard Chinese Cleantech as War Fuels Demand
-- Venezuela Oil Deals Face Fresh Scrutiny as US Congress Flips
+- Legal Spats Cast Shadow Over Kazakhstan Oil Projects
+- Reelected Lula Aims to Advance Brazil Oil, Climate Goals
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Pouyanne Makes Case for Integration, Oil and TotalEnergies' Power Play
+- US: Energy Sector Policy Impacts of Democratic Party’s Midterm Wave
 - Energy From Waste: Balancing Asset Life, CCS and Energy Security
 - Energy Storage Race Outpaces Policy
 - More Energy, Harder Choices
 - Naturgy Locks In Discounted 2027 LNG Strip Ahead of EU Ban
-- COP31: What the Energy Sector Should Watch
-- Shock US Election Creates New Risks for AI-Driven Gas Demand
 
 ### World Oil
 
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 30
 - Scraping note: OK.
 
 - DOE closes $480-million loan for Arena Energy’s U.S. Gulf shelf redevelopment
 - Aquaterra Energy moves to management ownership with HSBC backing
-- Attacks hit Kurdistan gas facility, ADNOC L&S vessel as regional energy risks mount
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- SM Energy to sell South Texas assets to Caturus Energy for $950 million
+- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
+- ADNOC Drilling secures five-year, $800 million contract for oilfield services
+- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
+- U.S. shale producers move to boost output as oil surges past $100
+- Continental Resources to boost U.S. oil output as crude tops $100
+- Elevating support technology to enhance energy production
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Murphy Oil signs four production sharing contracts offshore Cameroon
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
+- Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
+- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
+- Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 23
+- Relevant news count: 26
 - Scraping note: OK.
 
+- Oil &amp; Gas Journal Weekly Market Recap
+- EIA: US crude oil inventories up 4.7 million bbl
+- Global oil markets expected to make progress toward normalization in 2027 - global oil/supply demand balance
+- Morningstar holds 2027 Brent forecast at $71/bbl as Persian Gulf supply recovers
+- Aerial view of refining processing and production installations under a blue sky at the Lake Charles refinery.
+- Citgo refineries set quarterly throughput, distillate records
+- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - Brent crude oil spot price and global inventory changes
 - EIA sees Brent near $100/bbl through yearend 2026 as Middle East supply constraints persist
 - Chevron signs Namibia license farm-out deal with QatarEnergy
-- Tecpetrol targets up to 130,000 b/d of oil production in Vaca Muerta by 2030–32
 - Venture Global moves up first LNG date for CP2
-- Animated landscape featuring oil barrels and pipeline equipment in the forefront with a silhouette of refining installations and crude tanker in the background
-- Oil falls below $90 amid easing US-Iran tensions
-- Oil & Gas Journal ReEnterprised
 - Aerial view of processing and production installations at BSR&apos;s Dung Quat refinery beneath a blue sky.
 - Crude oil refining infrastructure along the Mississippi River in Minnesota.
 - CVR Energy to acquire Midcontinent refineries from Marathon Petroleum in $4.2-billion deal
@@ -114,9 +138,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil and gas drilling operations at dusk
 - Offshore oil and gas platform at night
 - Map showing Vaalco Energy oil and gas assets offshore C&ocirc;te d&apos;Ivoire
-- Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 - Rendering of offshore LNG liquefaction and export plant
 - MARAD approves ST LNG’s deepwater port license application
+- Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 - Woodside and QatarEnergy have signed a deal that will see the Australian operator supply LNG from its under-construction Louisiana LNG plant to QatarEnergy for 20 years.
 - QatarEnergy continues LNG supply diversification effort with new Woodside deal
 - Howard Energy Partners expands Anadarko position with Iron Horse Midstream acquisition
@@ -127,19 +151,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Brent Briefly Hits $94 After Trump Says U.S. Has No Need for Iran Deal
+- Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk
+- Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line
+- More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks
+- Europe Enters Winter With Its Lowest Gas Inventory of the 2020s
+- $7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending
+- Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal
 - EU Imports of Russian LNG Top 2025 Value Ahead of January Ban
-- Angola Looks to Diversify from Crude with Windfall Oil Revenues
-- Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month
-- India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage
-- China Targets Global Gas Turbine Market as AI Power Demand Explodes
-- Asian Oil Buyers Turn to Africa and Brazil as Tanker Rates Plunge
-- ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis
-- Oil Prices Sink as Iran and Ukraine Peace Optimism Builds
 
 ### Rigzone
 
@@ -152,23 +174,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Analyst Flags Oil's Biggest Threat
 - EIA Raises 2026, 2027 Oil Price Forecasts Yet Again
-- Norway Regulator Widens Audit of AI Deployment in Oil Industry
+- VEN Sends First Oil Gear in Years to USA for Repairs
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- QatarEnergy, bp expand offshore Namibia exploration activities
-- oil and gas riser pipe used in Saltenna testing
-- Murphy Oil enters Eastern Mediterranean with offshore Israel exploration licenses
+- Golar FLNG rendering
+- Techouse providing heat recovery modules for latest Golar FLNG vessel
+- Harbour Energy contracts Elemental for Viking CCS expansion studies
 - Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
+- oil and gas riser pipe used in Saltenna testing
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- US DOE loans Arena Energy $480 million for Project Elkhorn in US Gulf
+- QatarEnergy, bp expand offshore Namibia exploration activities
 - HEA Energy to acquire Seaway7 heavy transport vessel fleet
 - QatarEnergy taps Aker Solutions for Maydan Mahzam field life-extension project
