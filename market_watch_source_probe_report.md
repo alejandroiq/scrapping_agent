@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-13 00:55 UTC
+Generated: 2026-11-13 17:32 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -9,14 +9,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 | Source | Status | HTTP | Relevant News | Issue / Suggested Fix |
 |---|---:|---:|---:|---|
-| EIA Today in Energy | active | 200 | 8 | OK. |
+| EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 15 | OK. |
 | World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 10 | OK. |
+| Oil & Gas Journal | active | 200 | 28 | OK. |
+| OilPrice.com | active | 200 | 11 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
+| Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
 
@@ -25,7 +25,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.eia.gov/todayinenergy/
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 7
 - Scraping note: OK.
 
 - EIA forecasts Alaskan crude oil production to grow 13% in 2027
@@ -35,7 +35,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - LNG imports make up increasing share of Colombia’s natural gas supply
 - Mixed outlook for energy expenditures this winter
 - Crude oil prices and refinery margins generally increased throughout the third quarter
-- U.S. natural gas production reached a record high in July 2026
 
 ### IEA
 
@@ -57,6 +56,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 
 - Mideast Crisis Bends Shape of Oil Demand
+- Inpex Launches EPC Tendering for Indonesia’s Abadi LNG
 - Freight, Mideast Supply Drive Atlantic Basin Crude Glut
 - Iran's Crude Sales to China Fall off a Cliff
 - Houthi Attacks Escalate, But Oil Flows Stay Resilient
@@ -70,7 +70,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy From Waste: Balancing Asset Life, CCS and Energy Security
 - Energy Storage Race Outpaces Policy
 - More Energy, Harder Choices
-- Naturgy Locks In Discounted 2027 LNG Strip Ahead of EU Ban
 
 ### World Oil
 
@@ -84,6 +83,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Aquaterra Energy moves to management ownership with HSBC backing
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
+- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
@@ -95,30 +95,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- Murphy Oil signs four production sharing contracts offshore Cameroon
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
-- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - BW Energy pulls capex guidance as rig loss stalls Gabon drilling
+- Murphy Oil signs four production sharing contracts offshore Cameroon
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Shell takes FID to double LNG Canada capacity to 28 MMtpa
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 26
+- Relevant news count: 28
 - Scraping note: OK.
 
+- Panoramic daytime view of processing towers and storage tanks at Repsol&apos;s Tarragona refining complex.
+- Repsol to add renewable hydrogen at Tarragona refining complex
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories up 4.7 million bbl
 - Global oil markets expected to make progress toward normalization in 2027 - global oil/supply demand balance
@@ -151,44 +152,45 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 11
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk
-- Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line
-- More Drilling Won’t Shield U.S. Consumers From Oil Price Shocks
-- Europe Enters Winter With Its Lowest Gas Inventory of the 2020s
-- $7 Billion in Oil Debt Has Nigerian Banks Holding Back Lending
-- Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal
-- EU Imports of Russian LNG Top 2025 Value Ahead of January Ban
+- Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge
+- Brent Crude Climbs Back Above $96 as Iran Tensions Escalate
+- India's Road Fuel Demand Won't Peak Until 2034
+- How Global Energy Markets Survived Eight Months of Iran War Disruptions
+- Pakistan Scrambles for LNG as Winter Gas Crisis Deepens
+- Iran Says Gas Tanker Hit Mine in Strait of Hormuz
+- Why Falling Oil Prices Won't Save America From Inflation
+- WTI Stages Sharp Comeback as Middle East Supply Risks Intensify
+- Asian Refiners Turn Back to Gulf Oil Despite War Risks
+- India Seeks Private Investors for $910 Million Oil Reserve
+- Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Analyst Flags Oil's Biggest Threat
-- EIA Raises 2026, 2027 Oil Price Forecasts Yet Again
-- VEN Sends First Oil Gear in Years to USA for Repairs
+- USA Oil, Gas Workforce Hits Lowest Figure So Far in 2026
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - Golar FLNG rendering
 - Techouse providing heat recovery modules for latest Golar FLNG vessel
 - Harbour Energy contracts Elemental for Viking CCS expansion studies
-- Can Brazil's offshore supply chain support Equatorial Margin growth?
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - oil and gas riser pipe used in Saltenna testing
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
