@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-14 16:24 UTC
+Generated: 2026-11-14 23:42 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 6 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
@@ -81,8 +81,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Aquaterra Energy moves to management ownership with HSBC backing
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
@@ -93,20 +93,20 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- 1947 Oil & Gas restores Eugene Island 331 output, wins two U.S. Gulf lease blocks
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
+- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
 - Murphy Oil signs four production sharing contracts offshore Cameroon
 - QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
 - Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
 
 ### Oil & Gas Journal
 
@@ -148,18 +148,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 6
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Iran War Accelerates Southeast Asia’s Renewable Energy Push
 - Iran Braces for a Budget Without Oil Revenue
 - U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record
 - Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge
 - Brent Crude Climbs Back Above $96 as Iran Tensions Escalate
 - India's Road Fuel Demand Won't Peak Until 2034
-- How Global Energy Markets Survived Eight Months of Iran War Disruptions
-- Pakistan Scrambles for LNG as Winter Gas Crisis Deepens
-- Iran Says Gas Tanker Hit Mine in Strait of Hormuz
 
 ### Rigzone
 
