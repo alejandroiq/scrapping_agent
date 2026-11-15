@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-15 16:51 UTC
+Generated: 2026-11-15 23:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 13 | OK. |
 | World Oil | active | 200 | 4 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
-| OilPrice.com | active | 200 | 6 | OK. |
+| OilPrice.com | active | 200 | 5 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 10 | OK. |
 
@@ -122,16 +122,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 6
+- Relevant news count: 5
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- The $130 Billion Oil Boom Fueled by the Iran War
 - Iran War Accelerates Southeast Asia’s Renewable Energy Push
 - Iran Braces for a Budget Without Oil Revenue
 - U.S. Oil Rig Count Holds at 463 as Crude Output Hits Another Record
 - Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge
-- Brent Crude Climbs Back Above $96 as Iran Tensions Escalate
-- India's Road Fuel Demand Won't Peak Until 2034
 
 ### Rigzone
 
