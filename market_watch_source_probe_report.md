@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-15 23:49 UTC
+Generated: 2026-11-16 05:14 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -12,7 +12,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 13 | OK. |
-| World Oil | active | 200 | 4 | OK. |
+| World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 26 | OK. |
 | OilPrice.com | active | 200 | 5 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
@@ -74,13 +74,39 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 4
+- Relevant news count: 30
 - Scraping note: OK.
 
-- DOE closes $480-million loan for Arena Energy’s U.S. Gulf shelf redevelopment
-- Aquaterra Energy moves to management ownership with HSBC backing
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
+- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- SM Energy to sell South Texas assets to Caturus Energy for $950 million
+- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
+- ADNOC Drilling secures five-year, $800 million contract for oilfield services
+- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
+- U.S. shale producers move to boost output as oil surges past $100
+- Continental Resources to boost U.S. oil output as crude tops $100
+- Elevating support technology to enhance energy production
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- Petrobras makes second oil discovery in ultra-deepwater well offshore Brazil
+- Aquaterra Energy moves to management ownership with HSBC backing
+- Murphy Oil signs four production sharing contracts offshore Cameroon
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
+- Energy Drilling wins $87-million T-16 rig contract offshore Malaysia
+- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
+- Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
+- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
+- ConocoPhillips expands LNG portfolio with 20-year Venture Global agreement
 
 ### Oil & Gas Journal
 
