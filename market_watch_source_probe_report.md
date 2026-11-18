@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-17 18:58 UTC
+Generated: 2026-11-18 02:10 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 6 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 20 | OK. |
+| Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 3 | OK. |
 | Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 3 | OK. |
-| Offshore Magazine | active | 200 | 12 | OK. |
+| Offshore Magazine | active | 200 | 16 | OK. |
 
 ## Titles By Source
 
@@ -51,19 +51,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 20
+- Relevant news count: 18
 - Scraping note: OK.
 
-- Turkey’s Russian Piped Gas, Diesel Imports Rebound After 9-Month Slump
-- Shell Joins Southeast Asian Oil Stockpiling Pilot
-- Balances: Supply Swells, But Future Remains Highly Uncertain
+- Iraq Resumes Direct Oil Exports via Turkey After 12-Year Hiatus
+- US Places All Pledged SPR Crude, Might Delay Refill
+- Asian Buyers Not Expected to Follow Orlen's Qatar LNG Contract Exit
 - Opec-Plus: Output Jumps to 8-Month High, But Is It Sustainable?
 - Demand: War Lowers Consumption But Doesn't Alter Trend
-- Refining: Margins Remain Stratospheric Even as Products Prices Ease
+- Shipping, Price Constraints Will Hinder EU Resales of Yamal LNG Cargoes
 - Inventories: Stocks Rise Overall, But Still Falling Among Key Consumers
-- US Utilities Lose Ground on Emissions Goals as AI Demand Rises
-- Legal Spats Cast Shadow Over Kazakhstan Oil Projects
-- Mideast Crisis Bends Shape of Oil Demand
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Energy Intelligence Top 100: Global NOC & IOC Rankings, 2027 Edition
@@ -74,6 +71,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - More Energy, Harder Choices
 - Houthi Attacks Escalate, But Oil Flows Stay Resilient
 - Iran's Crude Sales to China Fall off a Cliff
+- Legal Spats Cast Shadow Over Kazakhstan Oil Projects
 
 ### World Oil
 
@@ -83,9 +81,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 3
 - Scraping note: OK.
 
+- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
 
 ### Oil & Gas Journal
 
@@ -130,20 +128,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- 5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates
+- Europe’s LNG Scramble Sends Shockwaves Through Asian Gas Markets
+- Cuba’s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters
 - Gulf Trade With Central Asia Surges as Energy Ties Deepen
 - Russian Crude Exports Hit Four-Month High
 - Democrats Target Trump’s $100 Billion Venezuela Oil Deal
 - Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge
 - Kazakhstan Unveils $85 Million Oil and Gas Manufacturing Push
 - U.S. Opens New Front in Campaign to Cut Off Iran’s Supply Routes
-- India Gives Green Light to Commercial Sustainable Jet Fuel Production
-- Iran and Oman Hold Talks on Strait of Hormuz Security as Tanker Attacks Surge
-- Japan Proposes an 'Asian IEA' to Protect Oil Supplies
-- Oil Prices Slide as Global Glut Fears Eclipse Hormuz Attacks
 
 ### Rigzone
 
@@ -163,17 +160,21 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 16
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Offshore names its Top 5 five oil and gas discoveries of the year
-- ExxonMobil sanctions Longtail gas, condensate development offshore Guyana
-- Karoon considers FPSO redeployment for Neon oil project offshore Brazil
+- Offshore names its Top 5 oil and gas discoveries of the year
+- Chevron to acquire majority stake in Beacon Offshore Energy
+- Reports: Chevron to acquire majority stake in Beacon Offshore Energy
+- Brazil pre-salt boom makes it the world&rsquo;s largest offshore oil producer
+- Brazil’s pre-salt boom makes it the world’s largest offshore oil producer
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Mocean Energy&apos;s Blue Star wave-energy device
 - Wave energy finds a route to market through subsea electrification and offshore AI
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- ExxonMobil sanctions Longtail gas, condensate development offshore Guyana
+- Karoon considers FPSO redeployment for Neon oil project offshore Brazil
 - Bintulu Port / PETRONAS LNG Complex aerial image
 - Golar FLNG rendering
 - Techouse providing heat recovery modules for latest Golar FLNG vessel
