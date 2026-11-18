@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-18 02:10 UTC
+Generated: 2026-11-18 18:41 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 6 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
-| World Oil | active | 200 | 3 | OK. |
-| Oil & Gas Journal | active | 200 | 29 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 3 | OK. |
+| Energy Intelligence | active | 200 | 19 | OK. |
+| World Oil | active | 200 | 30 | OK. |
+| Oil & Gas Journal | active | 200 | 28 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
+| Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 16 | OK. |
 
 ## Titles By Source
@@ -28,12 +28,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 6
 - Scraping note: OK.
 
+- U.S. natural gas inventories end injection season above normal levels
 - EIA forecasts Alaskan crude oil production to grow 13% in 2027
 - U.S. crude oil imports from Venezuela in July were highest since 2017
 - Refineries have shifted production away from gasoline to middle distillates
 - Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery
 - LNG imports make up increasing share of Colombia’s natural gas supply
-- Mixed outlook for energy expenditures this winter
 
 ### IEA
 
@@ -51,11 +51,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 19
 - Scraping note: OK.
 
+- China Gas Adds More US LNG Volumes Amid Fragile Tariff Truce
+- Europe's Record-High Indian Diesel Imports at Risk
+- Sinopec Revives Stalled Inner Mongolia Green Hydrogen Scheme
 - Iraq Resumes Direct Oil Exports via Turkey After 12-Year Hiatus
-- US Places All Pledged SPR Crude, Might Delay Refill
 - Asian Buyers Not Expected to Follow Orlen's Qatar LNG Contract Exit
 - Opec-Plus: Output Jumps to 8-Month High, But Is It Sustainable?
 - Demand: War Lowers Consumption But Doesn't Alter Trend
@@ -68,7 +70,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - From Oil to Compute
 - Energy From Waste: Balancing Asset Life, CCS and Energy Security
 - Energy Storage Race Outpaces Policy
-- More Energy, Harder Choices
 - Houthi Attacks Escalate, But Oil Flows Stay Resilient
 - Iran's Crude Sales to China Fall off a Cliff
 - Legal Spats Cast Shadow Over Kazakhstan Oil Projects
@@ -78,38 +79,64 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 30
 - Scraping note: OK.
 
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
+- Texas RRC honored with IOGCC award for energy education outreach
+- FlytBase launches Octane platform to scale oil and gas drone programs
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- SM Energy to sell South Texas assets to Caturus Energy for $950 million
+- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
+- ADNOC Drilling secures five-year, $800 million contract for oilfield services
+- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
+- U.S. shale producers move to boost output as oil surges past $100
+- Continental Resources to boost U.S. oil output as crude tops $100
+- Elevating support technology to enhance energy production
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- Murphy Oil signs four production sharing contracts offshore Cameroon
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
+- Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
+- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 29
+- Relevant news count: 28
 - Scraping note: OK.
 
+- Map showing location of oil and gas Block 5/06 offshore Angola
+- Oil &amp; Gas Journal Weekly Market Recap
+- EIA: US crude oil inventories up 3.4 million bbl
+- Aerial view of oil and gas platform offshore UK.
 - Gas pump handle above a background of refinery towers and storage tanks beneath a dimly lit cloudy sky.
 - IEA: High diesel prices ease demand, supply constraints persist
-- 00472excoilimageforoilgasarticle_1540x800
-- How an outdated oil benchmark erodes U.S. pricing power
 - North American oil and gas firms report higher third-quarter earnings
 - Double Eagle Midland basin oil and gas operations.
 - Diamondback to acquire remaining Double Eagle Midland basin interest in multibillion cash, stock deal
 - Flag of China flying in morning sky above oil refining installations, a barrel of oil, and EV charging station set before a mountainous background with rising sun.
 - China’s oil demand falls 7.1% as economic weakness deepens
 - MARAD approves Energy Transfer's $1-billion Blue Marlin crude oil export port
-- Oil demand/supply balance chart 1Q25 to 3Q27
-- IEA sees oil market surplus returning as Gulf exports recover
 - Panoramic daytime view of processing towers and storage tanks at Repsol&apos;s Tarragona refining complex.
 - Repsol to add renewable hydrogen at Tarragona refining complex
 - Aerial view of refining processing and production installations under a blue sky at the Lake Charles refinery.
 - Citgo refineries set quarterly throughput, distillate records
-- Aerial view of processing and production installations at BSR&apos;s Dung Quat refinery beneath a blue sky.
 - An oil rig drilling in a field with a cloudy sky
 - Ground-level view of the the inner workings of an oil and gas drilling rig
 - Oil and gas drilling operations at dusk
@@ -128,32 +155,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- 5 Oil and Gas Stocks That Crushed Third-Quarter Earnings Estimates
-- Europe’s LNG Scramble Sends Shockwaves Through Asian Gas Markets
-- Cuba’s Energy Crisis Turns Into a Goldmine for U.S. Fuel Exporters
-- Gulf Trade With Central Asia Surges as Energy Ties Deepen
-- Russian Crude Exports Hit Four-Month High
-- Democrats Target Trump’s $100 Billion Venezuela Oil Deal
-- Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge
-- Kazakhstan Unveils $85 Million Oil and Gas Manufacturing Push
-- U.S. Opens New Front in Campaign to Cut Off Iran’s Supply Routes
+- Mozambique Approves Exxon’s Redesigned $30 Billion Rovuma LNG Plan
+- Iran War Set to Hike 2027 UK Energy Bills to Four-Year High
+- US Oil Inventories On the Rise
+- China Gas Upsizes Long-Term LNG Supply with U.S. Venture Global
+- Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers
+- EU Moves to Fast-Track Renewables as Oil Import Costs Soar
+- Oil Prices Drop Despite Escalating U.S.-Iran Conflict
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 3
+- Relevant news count: 2
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- EIA Sees USA Oil Output Averaging 13.99MM Bpd in Q4
-- Dems Plan Probes of Trump's $100B Venezuela Oil Deal
-- OPEC, IEA, IEF Meet for 'Crucial' Dialogue on Maritime Flows
+- Agency Reports Suggest Oil Market Approaching Turning Point
+- Iran Conflict Reshapes Global LNG Trade
 
 ### Offshore Magazine
 
