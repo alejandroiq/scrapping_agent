@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-18 18:41 UTC
+Generated: 2026-11-19 01:45 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 6 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 19 | OK. |
+| Energy Intelligence | active | 200 | 18 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 28 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
+| OilPrice.com | active | 200 | 6 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 16 | OK. |
+| Offshore Magazine | active | 200 | 15 | OK. |
 
 ## Titles By Source
 
@@ -51,18 +51,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 19
+- Relevant news count: 18
 - Scraping note: OK.
 
 - China Gas Adds More US LNG Volumes Amid Fragile Tariff Truce
+- October Supply Surge Brings Forward Anticipated Oil Surplus
 - Europe's Record-High Indian Diesel Imports at Risk
-- Sinopec Revives Stalled Inner Mongolia Green Hydrogen Scheme
 - Iraq Resumes Direct Oil Exports via Turkey After 12-Year Hiatus
 - Asian Buyers Not Expected to Follow Orlen's Qatar LNG Contract Exit
 - Opec-Plus: Output Jumps to 8-Month High, But Is It Sustainable?
-- Demand: War Lowers Consumption But Doesn't Alter Trend
-- Shipping, Price Constraints Will Hinder EU Resales of Yamal LNG Cargoes
-- Inventories: Stocks Rise Overall, But Still Falling Among Key Consumers
+- Energy Security Talk Steals Show at COP31
+- Russian Exports: Wartime Hammers Product Shipments, Frees Up Crude
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Energy Intelligence Top 100: Global NOC & IOC Rankings, 2027 Edition
@@ -72,7 +71,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Storage Race Outpaces Policy
 - Houthi Attacks Escalate, But Oil Flows Stay Resilient
 - Iran's Crude Sales to China Fall off a Cliff
-- Legal Spats Cast Shadow Over Kazakhstan Oil Projects
+- Mideast Crisis Bends Shape of Oil Demand
 
 ### World Oil
 
@@ -99,19 +98,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - Murphy Oil signs four production sharing contracts offshore Cameroon
 - QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Harbour Energy raises 2026 production guidance to 500,000 boed after record year
-- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
-- NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
 
 ### Oil & Gas Journal
 
@@ -155,17 +154,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 6
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Equinor Hack Adds to Wave of Cyberattacks on Energy Companies
+- China Burns Less Oil and Coal as the Iran War Reshapes Its Energy Mix
 - Mozambique Approves Exxon’s Redesigned $30 Billion Rovuma LNG Plan
 - Iran War Set to Hike 2027 UK Energy Bills to Four-Year High
 - US Oil Inventories On the Rise
 - China Gas Upsizes Long-Term LNG Supply with U.S. Venture Global
-- Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers
-- EU Moves to Fast-Track Renewables as Oil Import Costs Soar
-- Oil Prices Drop Despite Escalating U.S.-Iran Conflict
 
 ### Rigzone
 
@@ -184,23 +182,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 15
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - Offshore names its Top 5 oil and gas discoveries of the year
-- Chevron to acquire majority stake in Beacon Offshore Energy
-- Reports: Chevron to acquire majority stake in Beacon Offshore Energy
+- Impala-2 well targets January first oil offshore Angola
+- Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Brazil pre-salt boom makes it the world&rsquo;s largest offshore oil producer
 - Brazil’s pre-salt boom makes it the world’s largest offshore oil producer
-- Offshore spending outlook: capex projections for oil, gas, wind, and CCS
-- Mocean Energy&apos;s Blue Star wave-energy device
-- Wave energy finds a route to market through subsea electrification and offshore AI
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
+- Chevron to acquire majority stake in Beacon Offshore Energy
+- Reports: Chevron to acquire majority stake in Beacon Offshore Energy
 - ExxonMobil sanctions Longtail gas, condensate development offshore Guyana
-- Karoon considers FPSO redeployment for Neon oil project offshore Brazil
-- Bintulu Port / PETRONAS LNG Complex aerial image
 - Golar FLNG rendering
 - Techouse providing heat recovery modules for latest Golar FLNG vessel
 - HEA Energy to acquire Seaway7 heavy transport vessel fleet
+- Mocean Energy&apos;s Blue Star wave-energy device
+- Wave energy finds a route to market through subsea electrification and offshore AI
 - QatarEnergy taps Aker Solutions for Maydan Mahzam field life-extension project
