@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-19 18:53 UTC
+Generated: 2026-11-20 01:41 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
-| World Oil | active | 200 | 7 | OK. |
-| Oil & Gas Journal | active | 200 | 28 | OK. |
+| Energy Intelligence | active | 200 | 15 | OK. |
+| World Oil | active | 200 | 30 | OK. |
+| Oil & Gas Journal | active | 200 | 27 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 15 | OK. |
+| Offshore Magazine | active | 200 | 14 | OK. |
 
 ## Titles By Source
 
@@ -52,62 +52,83 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 15
 - Scraping note: OK.
 
-- Iraq Prioritizes Refining Investments in Response to Hormuz Shock
+- China, Russia, US Eye Products Supply Growth
+- Exxon Lines Up LNG Growth With Oman Entry, Rovuma Approval
 - Cote d'Ivoire Aims for Huge Oil and Gas Production Increase
-- October Supply Surge Brings Forward Anticipated Oil Surplus
-- Europe's Record-High Indian Diesel Imports at Risk
+- Iraq Prioritizes Refining Investments in Response to Hormuz Shock
 - Energy Security Talk Steals Show at COP31
 - Russian Exports: Wartime Hammers Product Shipments, Frees Up Crude
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Energy Intelligence Top 100: Global NOC & IOC Rankings, 2027 Edition
-- US: Energy Sector Policy Impacts of Democratic Party’s Midterm Wave
 - Nvidia’s Upset and the Risks for Oil
 - From Oil to Compute
 - Energy From Waste: Balancing Asset Life, CCS and Energy Security
-- Iran's Crude Sales to China Fall off a Cliff
-- Mideast Crisis Bends Shape of Oil Demand
-- Legal Spats Cast Shadow Over Kazakhstan Oil Projects
+- IEA Narrows Forecast 2026 Oil Market Deficit on Supply Surge
+- Norway’s Top Court Voids Three Oil-Field Permits in Scope 3 Ruling
+- Once-Rival Qatar Now Top Single Buyer of US LNG Supplies
 
 ### World Oil
 
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 30
 - Scraping note: OK.
 
-- Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
-- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- FlytBase launches Octane platform to scale oil and gas drone programs
+- IEA: No “credible pathway” back to pre-Hormuz energy world, latest outlook finds
+- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
+- DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
+- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- SM Energy to sell South Texas assets to Caturus Energy for $950 million
+- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
+- ADNOC Drilling secures five-year, $800 million contract for oilfield services
+- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
+- U.S. shale producers move to boost output as oil surges past $100
+- Continental Resources to boost U.S. oil output as crude tops $100
+- Elevating support technology to enhance energy production
 - NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
+- Murphy Oil signs four production sharing contracts offshore Cameroon
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
+- Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
+- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 28
+- Relevant news count: 27
 - Scraping note: OK.
 
 - IEA sees potential for looser oil, LNG markets after Hormuz crisis
+- Oil and gas drilling equipment in Appalachia
+- LNG carrier docked alongside shore in Western Australia
+- INPEX sanctions Ichthys LNG expansion project, awards contract
 - Map showing location of oil and gas Block 5/06 offshore Angola
+- North American oil and gas firms report higher third-quarter earnings
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories up 3.4 million bbl
 - Aerial view of oil and gas platform offshore UK.
-- North American oil and gas firms report higher third-quarter earnings
 - Gas pump handle above a background of refinery towers and storage tanks beneath a dimly lit cloudy sky.
 - IEA: High diesel prices ease demand, supply constraints persist
-- Double Eagle Midland basin oil and gas operations.
-- Diamondback to acquire remaining Double Eagle Midland basin interest in multibillion cash, stock deal
-- Flag of China flying in morning sky above oil refining installations, a barrel of oil, and EV charging station set before a mountainous background with rising sun.
-- China’s oil demand falls 7.1% as economic weakness deepens
 - Panoramic daytime view of processing towers and storage tanks at Repsol&apos;s Tarragona refining complex.
 - Repsol to add renewable hydrogen at Tarragona refining complex
 - Aerial view of refining processing and production installations under a blue sky at the Lake Charles refinery.
@@ -134,15 +155,15 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Canada Builds an Energy Exit From the U.S.
+- US Oil and Gas Deal Boom Lures BMO Back Into the Market
+- Guyana Oil Boom Rekindles Frontier Drilling Appetite
+- Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage
+- 5 Energy Stocks to Benefit from Anthropic’s $1.5 Trillion Debut
+- Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe
+- EU Moves to Overhaul Emergency Oil Stockpiles
 - Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe
 - AI Jitters Haven't Slowed the Bet on U.S. Power Demand
-- Traders Seek Long-Term Crude Supply Deals with Qatar
-- China Coking Coal Hits Three-Month Low as Supply Recovers
-- Global Cooling Demand Overtakes Heating for the First Time
-- India’s Oil Imports Hit Record High as Saudi Shipments Surge
-- The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply
-- EU Delays Methane Rules by Two Years Amid Energy Supply Fears
-- Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears
 
 ### Rigzone
 
@@ -161,19 +182,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 14
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Offshore names its Top 5 oil and gas discoveries of the year
 - Impala-2 well targets January first oil offshore Angola
+- Offshore names its Top 5 oil and gas discoveries of the year
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Brazil pre-salt boom makes it the world&rsquo;s largest offshore oil producer
 - Brazil’s pre-salt boom makes it the world’s largest offshore oil producer
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Chevron to acquire majority stake in Beacon Offshore Energy
 - Reports: Chevron to acquire majority stake in Beacon Offshore Energy
-- ExxonMobil sanctions Longtail gas, condensate development offshore Guyana
 - Golar FLNG rendering
 - Techouse providing heat recovery modules for latest Golar FLNG vessel
 - HEA Energy to acquire Seaway7 heavy transport vessel fleet
