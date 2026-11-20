@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-20 01:41 UTC
+Generated: 2026-11-20 18:22 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 15 | OK. |
-| World Oil | active | 200 | 30 | OK. |
-| Oil & Gas Journal | active | 200 | 27 | OK. |
+| Energy Intelligence | active | 200 | 10 | OK. |
+| World Oil | active | 200 | 9 | OK. |
+| Oil & Gas Journal | active | 200 | 30 | OK. |
 | OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 14 | OK. |
+| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
+| Offshore Magazine | active | 200 | 13 | OK. |
 
 ## Titles By Source
 
@@ -52,23 +52,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 15
+- Relevant news count: 10
 - Scraping note: OK.
 
-- China, Russia, US Eye Products Supply Growth
-- Exxon Lines Up LNG Growth With Oman Entry, Rovuma Approval
-- Cote d'Ivoire Aims for Huge Oil and Gas Production Increase
+- China’s Middle East Crude Imports Rebound But at a Price
+- Turkey Locks In Russian, Iranian Pipeline Gas, Adds 10-Year Russian LNG Deal
 - Iraq Prioritizes Refining Investments in Response to Hormuz Shock
-- Energy Security Talk Steals Show at COP31
-- Russian Exports: Wartime Hammers Product Shipments, Frees Up Crude
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Energy Intelligence Top 100: Global NOC & IOC Rankings, 2027 Edition
 - Nvidia’s Upset and the Risks for Oil
 - From Oil to Compute
-- Energy From Waste: Balancing Asset Life, CCS and Energy Security
 - IEA Narrows Forecast 2026 Oil Market Deficit on Supply Surge
-- Norway’s Top Court Voids Three Oil-Field Permits in Scope 3 Ruling
 - Once-Rival Qatar Now Top Single Buyer of US LNG Supplies
 
 ### World Oil
@@ -76,7 +71,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 30
+- Relevant news count: 9
 - Scraping note: OK.
 
 - IEA: No “credible pathway” back to pre-Hormuz energy world, latest outlook finds
@@ -84,45 +79,28 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
-- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- SM Energy to sell South Texas assets to Caturus Energy for $950 million
-- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
-- ADNOC Drilling secures five-year, $800 million contract for oilfield services
-- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
-- U.S. shale producers move to boost output as oil surges past $100
-- Continental Resources to boost U.S. oil output as crude tops $100
-- Elevating support technology to enhance energy production
-- NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- Murphy Oil signs four production sharing contracts offshore Cameroon
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
-- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
-- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
-- Water management: Water and oil do mix
-- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
-- Woodside pauses Scarborough LNG pre-commissioning amid Greenpeace protest
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- FlytBase launches Octane platform to scale oil and gas drone programs
+- Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
 
 ### Oil & Gas Journal
 
 - Status: active
 - URL: https://www.ogj.com/
 - HTTP status: 200
-- Relevant news count: 27
+- Relevant news count: 30
 - Scraping note: OK.
 
+- FERC approves Sabine Pass LNG expansion, four other major gas projects
 - IEA sees potential for looser oil, LNG markets after Hormuz crisis
+- Nighttime aerial view of illuminated processing installations at DPRP&apos;s Lekki integrated refining complex.
+- Dangote awards contracts advancing Lekki refining complex expansion
+- nv5geospatialoilgasdigitaltwin1540x800
+- How NV5 Digital Twins Help Oil & Gas Facilities Reduce Downtime and Improve Safety
 - Oil and gas drilling equipment in Appalachia
 - LNG carrier docked alongside shore in Western Australia
 - INPEX sanctions Ichthys LNG expansion project, awards contract
-- Map showing location of oil and gas Block 5/06 offshore Angola
 - North American oil and gas firms report higher third-quarter earnings
 - Oil &amp; Gas Journal Weekly Market Recap
 - EIA: US crude oil inventories up 3.4 million bbl
@@ -137,14 +115,13 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Ground-level view of the the inner workings of an oil and gas drilling rig
 - Oil and gas drilling operations at dusk
 - Illustration of oil pump jacks on sunset sky background.
+- Map showing location of oil and gas Block 5/06 offshore Angola
 - Map showing Vaalco Energy oil and gas assets offshore C&ocirc;te d&apos;Ivoire
 - Venture Global moves up first LNG date for CP2
 - Rendering of offshore LNG liquefaction and export plant
 - MARAD approves ST LNG’s deepwater port license application
 - Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 - Woodside and QatarEnergy have signed a deal that will see the Australian operator supply LNG from its under-construction Louisiana LNG plant to QatarEnergy for 20 years.
-- QatarEnergy continues LNG supply diversification effort with new Woodside deal
-- footer logo Oil & Gas Journal
 
 ### OilPrice.com
 
@@ -155,45 +132,43 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Canada Builds an Energy Exit From the U.S.
-- US Oil and Gas Deal Boom Lures BMO Back Into the Market
-- Guyana Oil Boom Rekindles Frontier Drilling Appetite
-- Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage
-- 5 Energy Stocks to Benefit from Anthropic’s $1.5 Trillion Debut
-- Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe
-- EU Moves to Overhaul Emergency Oil Stockpiles
-- Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe
-- AI Jitters Haven't Slowed the Bet on U.S. Power Demand
+- U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall
+- Tankers Are Being Hit Daily. So Why Is Oil Falling?
+- China’s Oil Imports from Persian Gulf Jump to Wartime High
+- India’s LPG Consumption Hits 8-Month High as Supply Rebounds
+- Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv
+- Iraq's Oil Crackdown Sparks New Showdown With Kurdistan
+- WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow
+- Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide
+- China’s Solar Exports Surge 21% as U.S. Tariff Deadline Looms
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
-- Scraping note: OK.
+- Relevant news count: 0
+- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
 - Source note: Source for drilling, output, and industry news.
 
-- USA, China, Russia Agree to Increase Supply of Global Fuels
-- 2026 Delivers 'Double Major Surprise' to Oil Markets
+- No relevant titles detected.
 
 ### Offshore Magazine
 
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 13
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
-- Impala-2 well targets January first oil offshore Angola
 - Offshore names its Top 5 oil and gas discoveries of the year
+- Reports: Chevron to acquire majority stake in Beacon Offshore Energy
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Brazil pre-salt boom makes it the world&rsquo;s largest offshore oil producer
 - Brazil’s pre-salt boom makes it the world’s largest offshore oil producer
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
-- Chevron to acquire majority stake in Beacon Offshore Energy
-- Reports: Chevron to acquire majority stake in Beacon Offshore Energy
+- Impala-2 well targets January first oil offshore Angola
 - Golar FLNG rendering
 - Techouse providing heat recovery modules for latest Golar FLNG vessel
 - HEA Energy to acquire Seaway7 heavy transport vessel fleet
