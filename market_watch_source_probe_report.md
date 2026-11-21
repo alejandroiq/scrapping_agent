@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-21 01:08 UTC
+Generated: 2026-11-21 17:09 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 13 | OK. |
+| Energy Intelligence | active | 200 | 12 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
-| Rigzone | active | n/a | 0 | Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow. |
+| OilPrice.com | active | 200 | 8 | OK. |
+| Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 13 | OK. |
 
 ## Titles By Source
@@ -52,7 +52,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 12
 - Scraping note: OK.
 
 - China’s Middle East Crude Imports Rebound, But at a Price
@@ -67,7 +67,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Iraq Resumes Direct Oil Exports via Turkey After 12-Year Hiatus
 - Exxon Lines Up LNG Growth With Oman Entry, Rovuma Approval
 - Diamondback Tops Up Barnett Inventory With $5 Billion Deal
-- China Gas Adds More US LNG Volumes Amid Fragile Tariff Truce
 
 ### World Oil
 
@@ -94,19 +93,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - Murphy Oil signs four production sharing contracts offshore Cameroon
 - Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
-- NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
+- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
 
 ### Oil & Gas Journal
 
@@ -152,7 +151,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -164,15 +163,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - China’s Oil Imports from Persian Gulf Jump to Wartime High
 - India’s LPG Consumption Hits 8-Month High as Supply Rebounds
 - Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv
-- Iraq's Oil Crackdown Sparks New Showdown With Kurdistan
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
-- HTTP status: n/a
+- HTTP status: 200
 - Relevant news count: 0
-- Scraping note: Request timed out. Possible solutions: keep a short timeout, retry once, or use cached headlines when this source is slow.
+- Scraping note: Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser.
 - Source note: Source for drilling, output, and industry news.
 
 - No relevant titles detected.
