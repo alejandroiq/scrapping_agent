@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-22 00:07 UTC
+Generated: 2026-11-22 17:39 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,8 +11,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 12 | OK. |
-| World Oil | active | 200 | 30 | OK. |
+| Energy Intelligence | active | 200 | 13 | OK. |
+| World Oil | active | 200 | 10 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
 | OilPrice.com | active | 200 | 5 | OK. |
 | Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
@@ -52,7 +52,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 13
 - Scraping note: OK.
 
 - China’s Middle East Crude Imports Rebound, But at a Price
@@ -60,6 +60,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Iraq Prioritizes Refining Investments in Response to Hormuz Shock
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
+- Oil Market Pathways: $80s Likely to Be Supported But Conflict/Inventory-Driven
 - Energy Intelligence Top 100: Global NOC & IOC Rankings, 2027 Edition
 - Nvidia’s Upset and the Risks for Oil
 - From Oil to Compute
@@ -73,7 +74,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 30
+- Relevant news count: 10
 - Scraping note: OK.
 
 - World Oil Forecast Breakfast
@@ -82,30 +83,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
-- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- SM Energy to sell South Texas assets to Caturus Energy for $950 million
-- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
-- ADNOC Drilling secures five-year, $800 million contract for oilfield services
-- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
-- U.S. shale producers move to boost output as oil surges past $100
-- Continental Resources to boost U.S. oil output as crude tops $100
-- Elevating support technology to enhance energy production
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- Murphy Oil signs four production sharing contracts offshore Cameroon
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - NMC Energy taps eserv digital twin technology for North Sea decommissioning
-- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
-- Water management: Water and oil do mix
-- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
-- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
+- FlytBase launches Octane platform to scale oil and gas drone programs
+- Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
 
 ### Oil & Gas Journal
 
@@ -183,9 +164,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - Offshore names its Top 5 oil and gas discoveries of the year
 - Reports: Chevron to acquire majority stake in Beacon Offshore Energy
+- Brazil’s pre-salt boom makes it the world’s largest offshore oil producer
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Brazil pre-salt boom makes it the world&rsquo;s largest offshore oil producer
-- Brazil’s pre-salt boom makes it the world’s largest offshore oil producer
 - Video: Promethean Energy CEO discusses offshore decommissioning and P&A challenges
 - Impala-2 well targets January first oil offshore Angola
 - Golar FLNG rendering
