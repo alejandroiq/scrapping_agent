@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-21 17:09 UTC
+Generated: 2026-11-22 00:07 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,9 +14,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 12 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 5 | OK. |
 | Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
-| Offshore Magazine | active | 200 | 13 | OK. |
+| Offshore Magazine | active | 200 | 12 | OK. |
 
 ## Titles By Source
 
@@ -76,13 +76,14 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Relevant news count: 30
 - Scraping note: OK.
 
+- World Oil Forecast Breakfast
 - IEA: No “credible pathway” back to pre-Hormuz energy world, latest outlook finds
 - Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
 - DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
@@ -93,19 +94,18 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- NMC Energy taps eserv digital twin technology for North Sea decommissioning
-- Murphy Oil signs four production sharing contracts offshore Cameroon
 - Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
 - Harbour Energy raises 2026 production guidance to 500,000 boed after record year
+- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
+- Murphy Oil signs four production sharing contracts offshore Cameroon
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- Woodside’s Scarborough hits 99% complete, first LNG on track for Q4
 
 ### Oil & Gas Journal
 
@@ -151,7 +151,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 5
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -160,9 +160,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks
 - U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall
 - Tankers Are Being Hit Daily. So Why Is Oil Falling?
-- China’s Oil Imports from Persian Gulf Jump to Wartime High
-- India’s LPG Consumption Hits 8-Month High as Supply Rebounds
-- Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv
 
 ### Rigzone
 
@@ -180,7 +177,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 13
+- Relevant news count: 12
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
@@ -193,7 +190,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Impala-2 well targets January first oil offshore Angola
 - Golar FLNG rendering
 - Techouse providing heat recovery modules for latest Golar FLNG vessel
-- HEA Energy to acquire Seaway7 heavy transport vessel fleet
 - Mocean Energy&apos;s Blue Star wave-energy device
 - Wave energy finds a route to market through subsea electrification and offshore AI
 - QatarEnergy taps Aker Solutions for Maydan Mahzam field life-extension project
