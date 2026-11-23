@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-22 17:39 UTC
+Generated: 2026-11-23 00:36 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -12,9 +12,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 13 | OK. |
-| World Oil | active | 200 | 10 | OK. |
+| World Oil | active | 200 | 11 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 5 | OK. |
+| OilPrice.com | active | 200 | 6 | OK. |
 | Rigzone | active | 200 | 0 | Reachable, but no relevant recent titles were detected. Possible solutions: expand the lookback window, tune keywords, or add a source-specific parser. |
 | Offshore Magazine | active | 200 | 12 | OK. |
 
@@ -65,8 +65,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Nvidia’s Upset and the Risks for Oil
 - From Oil to Compute
 - Qatar Sends Second LNG Cargo to Orlen Despite Contract Exit
-- Iraq Resumes Direct Oil Exports via Turkey After 12-Year Hiatus
 - Exxon Lines Up LNG Growth With Oman Entry, Rovuma Approval
+- Iraq Resumes Direct Oil Exports via Turkey After 12-Year Hiatus
 - Diamondback Tops Up Barnett Inventory With $5 Billion Deal
 
 ### World Oil
@@ -74,7 +74,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 11
 - Scraping note: OK.
 
 - World Oil Forecast Breakfast
@@ -83,6 +83,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
+- INPEX sanctions next offshore phase of Ichthys LNG
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
 - NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - FlytBase launches Octane platform to scale oil and gas drone programs
@@ -132,15 +133,16 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 5
+- Relevant news count: 6
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet
+- U.S. Energy Exports Hit Records as Global Competition Intensifies
+- California’s Wildfire Crisis Is Threatening Its Energy Future
 - Oil Prices Caught Between a Looming Glut and Middle East Turmoil
 - Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election
 - Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks
-- U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall
-- Tankers Are Being Hit Daily. So Why Is Oil Falling?
 
 ### Rigzone
 
