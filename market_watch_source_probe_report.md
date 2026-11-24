@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-23 21:55 UTC
+Generated: 2026-11-24 08:49 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,12 +11,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 7 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 14 | OK. |
-| World Oil | active | 200 | 30 | OK. |
+| Energy Intelligence | active | 200 | 12 | OK. |
+| World Oil | active | 200 | 10 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
 | OilPrice.com | active | 200 | 6 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
-| Offshore Magazine | active | 200 | 10 | OK. |
+| Offshore Magazine | active | 200 | 9 | OK. |
 
 ## Titles By Source
 
@@ -52,12 +52,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 14
+- Relevant news count: 12
 - Scraping note: OK.
 
 - Abu Dhabi's XRG Poised for Canada LNG Deal: Sources
-- Steep Discounts Lift Iraqi Crude Exports to Prewar Levels
 - New Strikes Knock Out Over 60% of Russia’s Refining Capacity
+- Steep Discounts Lift Iraqi Crude Exports to Prewar Levels
 - Saudi-Houthi Conflict Escalates With Claimed Refinery Strike
 - Oman Weighs New LNG Plant as Qalhat Expansion Slips
 - China’s Middle East Crude Imports Rebound, But at a Price
@@ -67,47 +67,25 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Energy Intelligence Top 100: Global NOC & IOC Rankings, 2027 Edition
 - Nvidia’s Upset and the Risks for Oil
 - From Oil to Compute
-- Exxon Lines Up LNG Growth With Oman Entry, Rovuma Approval
-- Iraq Resumes Direct Oil Exports via Turkey After 12-Year Hiatus
 
 ### World Oil
 
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 30
+- Relevant news count: 10
 - Scraping note: OK.
 
 - World Oil Forecast Breakfast
 - INPEX sanctions next offshore phase of Ichthys LNG
 - First Oil: Our awards event for technical excellence reaches new highs
 - Beyond diesel: How Canadian completions are evolving
-- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
-- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- SM Energy to sell South Texas assets to Caturus Energy for $950 million
-- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
-- ADNOC Drilling secures five-year, $800 million contract for oilfield services
-- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
-- U.S. shale producers move to boost output as oil surges past $100
-- Continental Resources to boost U.S. oil output as crude tops $100
-- Elevating support technology to enhance energy production
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
-- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
-- Murphy Oil signs four production sharing contracts offshore Cameroon
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
 - NMC Energy taps eserv digital twin technology for North Sea decommissioning
-- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
-- Water management: Water and oil do mix
-- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- ExxonMobil to raise Rovuma LNG stake to 50%, Papua LNG to 34% as Guyana passes 1 Bbbl
+- DNV, Wison Engineering sign cooperation agreement on energy project assurance
+- FlytBase launches Octane platform to scale oil and gas drone programs
+- Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
 
 ### Oil & Gas Journal
 
@@ -124,6 +102,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Outline of Angola blocks, including Block 15, where ExxonMobil will advance certain oil and gas projects.
 - Nighttime aerial view of illuminated processing installations at DPRP&apos;s Lekki integrated refining complex.
 - Dangote awards contracts advancing Lekki refining complex expansion
+- Oil Prices Fall Despite Hostilities as Flows Increase
 - North American oil and gas firms report higher third-quarter earnings
 - LNG carrier docked alongside shore in Western Australia
 - INPEX sanctions Ichthys LNG expansion project, awards contract
@@ -146,7 +125,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - MARAD approves ST LNG’s deepwater port license application
 - Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 - Woodside and QatarEnergy have signed a deal that will see the Australian operator supply LNG from its under-construction Louisiana LNG plant to QatarEnergy for 20 years.
-- QatarEnergy continues LNG supply diversification effort with new Woodside deal
 
 ### OilPrice.com
 
@@ -157,12 +135,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims
+- America's Refiners Drowned Their Own Gasoline Windfall
+- 5 Energy Stocks That Can Shrug Off a December Fed Rate Hike
 - Pakistan and Iran Move to Boost Energy Cooperation
 - America’s Biggest Oil Export Port Faces Thousands of Cyberattack Attempts
 - Storms and Drones Disrupt Russia’s Oil Exports
-- Oil Slides Nearly 4% as Returning Supply Outweighs Gulf Attacks
-- Brent Drops Below $90 as Wall Street Splits on 2027 Oil Outlook
-- South Korea Asks Qatar for Priority LNG Once Hormuz Reopens
 
 ### Rigzone
 
@@ -181,12 +159,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.offshore-mag.com/
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: Source for offshore projects and upstream developments.
 
 - Offshore names its Top 5 oil and gas discoveries of the year
-- Reports: Chevron to acquire majority stake in Beacon Offshore Energy
 - Brazil’s pre-salt boom makes it the world’s largest offshore oil producer
 - Offshore spending outlook: capex projections for oil, gas, wind, and CCS
 - Brazil pre-salt boom makes it the world&rsquo;s largest offshore oil producer
