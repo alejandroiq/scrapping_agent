@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-24 20:30 UTC
+Generated: 2026-11-25 07:24 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 8 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 10 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 11 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 9 | OK. |
 
@@ -53,22 +53,23 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 17
 - Scraping note: OK.
 
 - Eni's Geliga Go-Ahead Boosts Indonesia's Bontang LNG Revival
 - EU Caps Hybrid EV Imports to Curb Chinese Surge
+- Venezuela Unveils Bullish Oil Production Forecast
 - Saudi-Houthi Conflict Escalates With Claimed Refinery Strike
 - Steep Discounts Lift Iraqi Crude Exports to Prewar Levels
 - Abu Dhabi's XRG Poised for Canada LNG Deal: Sources
 - Oman Weighs New LNG Plant as Qalhat Expansion Slips
-- New State Government, Same Old Challenges for Alaska LNG
+- East Timor Faces Greater Sunrise LNG Dilemma After Woodside Exit
+- Floating LNG Projects Thrive But Face Shipyard Bottlenecks
 - Oil Security Fears Grow in Southeast Asia
-- FERC Puts Pedal to the Medal on US Gas, LNG Project Approvals
+- New State Government, Same Old Challenges for Alaska LNG
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Oil Market Pathways: $80s Likely to Be Supported But Conflict/Inventory-Driven
-- Energy Intelligence Top 100: Global NOC & IOC Rankings, 2027 Edition
 - Nvidia’s Upset and the Risks for Oil
 - From Oil to Compute
 - New Strikes Knock Out Over 60% of Russia’s Refining Capacity
@@ -84,10 +85,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - World Oil Forecast Breakfast
 - SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
 - First Oil: Mid-term election results pose new challenge to U.S upstream sector
-- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
-- NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - INPEX sanctions next offshore phase of Ichthys LNG
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
+- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - FlytBase launches Octane platform to scale oil and gas drone programs
 - Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
@@ -136,21 +137,19 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 11
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz
+- China Goes on Oil Buying Spree as Crude Prices Slide
+- The Diesel Crunch Isn’t Over Yet
+- Senate Investigates Vance’s Alleged Role in Venezuela Oil Deal
+- US Crude Oil Inventories Inches Up as Gasoline Holds Steady
 - Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?
 - Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity
 - Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027
 - Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market
-- Libya and Iraq Could Be the Next Big Headache for Oil Markets
-- Iran Faces a Deepening Natural Gas Crisis Ahead of Winter
-- Iraq Seeks Federal Control Over Disputed Kurdistan Oilfields
-- South Korea Says Its Crude Supply Is Stable Through the Winter
-- Japan Poised to Ramp Up LNG Buying as Power Prices Surge
-- Equinor Locks In Longest Gas Supply Deal in 40 Years
-- Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims
 
 ### Rigzone
 
