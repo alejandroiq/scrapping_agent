@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-26 02:40 UTC
+Generated: 2026-11-26 19:26 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,10 +11,10 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 18 | OK. |
+| Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -54,27 +54,25 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 18
+- Relevant news count: 16
 - Scraping note: OK.
 
-- Hormuz Crude Flows Down 31% as Tanker Attacks Escalate
-- US-Led Group Agrees to Acquire Lukoil's International Assets
-- Gazprom Readies Key Projects to Boost China Gas Exports
-- Shell, PDVSA Move to Boost Venezuelan Oil and Gas Output
+- Aramco Looks to Reboot Domestic LNG Terminal Plans
+- Russia May Extend Products Imports in 2027 Amid Strikes
+- US Lacks Cards to Deter Ukraine Attacks on Russian Energy
 - Iraq Cobbles Together Oil Recovery as Crisis Drags On
 - Energy Sector Faces Exponential Rise in Cyber Threats
 - Mideast War Fogs Opec’s Future
 - Major Energy Scenarios Include Limited Long-Term Hormuz Crisis Impacts
-- Exxon Primed to Ride LNG Growth Wave
-- Venezuela's Gas May Offer Quicker Path to Energy Success
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Oil Market Pathways: $80s Likely to Be Supported But Conflict/Inventory-Driven
 - The Future of Oil in a Net-Zero World
 - Nvidia’s Upset and the Risks for Oil
-- Abu Dhabi's XRG Poised for Canada LNG Deal: Sources
 - Refinery Additions Muted But Align With Energy Security Aims
+- Abu Dhabi's XRG Poised for Canada LNG Deal: Sources
 - New Strikes Knock Out Over 60% of Russia’s Refining Capacity
+- US-Led Group Agrees to Acquire Lukoil's International Assets
 
 ### World Oil
 
@@ -98,22 +96,22 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Murphy Oil reports Vietnam oil discovery, first production at Lac Da Vang
+- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- CB&I wins five-year North Sea well delivery, operatorship contract with Serica Energy
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
 - Murphy Oil signs four production sharing contracts offshore Cameroon
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
 - Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
-- NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
 - Veolia launches ToroJet™ to advance produced water treatment for oil and gas
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
+- INPEX sanctions next offshore phase of Ichthys LNG
 - Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
-- DNV, Wison Engineering sign cooperation agreement on energy project assurance
-- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
 
 ### Oil & Gas Journal
 
@@ -130,6 +128,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Masirah Oil reaches TD in Block 50 well
 - Equinor signs 18-year natural gas supply contract with German VNG
 - Oil Prices Fall Despite Hostilities as Flows Increase
+- How NV5 Digital Twins Help Oil & Gas Facilities Reduce Downtime and Improve Safety
 - North American oil and gas firms report higher third-quarter earnings
 - Daytime view of piping installations and distant processing towers bordered by purple flowers at Petrobras&apos; RPBC refinery.
 - Petrobras targets refining, renewable fuels growth in new 2027-31 business plan
@@ -152,26 +151,24 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Oil & Gas Journal ReEnterprised
 - Rendering of offshore LNG liquefaction and export plant
 - MARAD approves ST LNG’s deepwater port license application
-- Entrance of the Abu Dhabi National Oil Company headquarters in Abu Dhabi.
 
 ### OilPrice.com
 
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum
-- South Africa Eyeing SMRs to Supply 5.2 GW of Nuclear Capacity
-- Oil Traders Ignore Growing Threat to Persian Gulf Supply
-- U.S. Rig Count Holds Steady as Oil Production Hits Fifth Straight Record
-- U.S.-Backed Consortium Signs Deal for Lukoil's International Oil Empire
-- Cheaper Gasoline Won't Fix the Diesel Squeeze Hitting Freight Costs
-- Kazakhstan Joins Iraq in Pushing OPEC+ for a Higher Capacity Rating
-- Oil Inventories Continue to Rise in the US
-- Oil Jumps Over 2% as Saudi Arabia Downs Drones Over Ras Tanura
+- Why Gasoline Prices Are Falling While Diesel Remains Expensive
+- Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks
+- Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade
+- One Crew Member Dies as Diesel Tanker Sinks off Ibiza
+- Oil Prices Rebound as Middle East Supply Fears Return
+- Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz
+- Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks
+- Oil Rallies as Hormuz Mine Strikes Rattle Global Markets
 
 ### Rigzone
 
@@ -182,8 +179,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- JP Morgan Outlines Oil Outlook for 2027, 2028
-- OPEC+ Will See One of Most Complicated Meetings in Years
+- Eldridge Consortium Pens Deal to Acquire Lukoil International
+- OPEC Mulls Sticking with Current Quotas
 
 ### Offshore Magazine
 
