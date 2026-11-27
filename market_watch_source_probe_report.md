@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-27 02:41 UTC
+Generated: 2026-11-27 19:22 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -11,11 +11,11 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 |---|---:|---:|---:|---|
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
-| Energy Intelligence | active | 200 | 16 | OK. |
-| World Oil | active | 200 | 30 | OK. |
+| Energy Intelligence | active | 200 | 17 | OK. |
+| World Oil | active | 200 | 12 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 7 | OK. |
-| Rigzone | active | 200 | 2 | OK. |
+| OilPrice.com | active | 200 | 10 | OK. |
+| Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
 ## Titles By Source
@@ -54,16 +54,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://www.energyintel.com/
 - HTTP status: 200
-- Relevant news count: 16
+- Relevant news count: 17
 - Scraping note: OK.
 
-- Aramco Looks to Reboot Domestic LNG Terminal Plans
-- Russia May Extend Products Imports in 2027 Amid Strikes
-- US Lacks Cards to Deter Ukraine Attacks on Russian Energy
+- Deadly Houthi Strike Hits Saudi Aramco’s Jizan Refinery
+- Petronas Green-Lights Suriname’s First FLNG Project
+- Lukoil International Sell-Off: Details Remain Elusive
 - Iraq Cobbles Together Oil Recovery as Crisis Drags On
 - Energy Sector Faces Exponential Rise in Cyber Threats
 - Mideast War Fogs Opec’s Future
-- Major Energy Scenarios Include Limited Long-Term Hormuz Crisis Impacts
+- Aramco Looks to Reboot Domestic LNG Terminal Plans
+- Russia May Extend Products Imports in 2027 Amid Strikes
 - Petronas CEO: 'Just in time' Cannot be Asia's Energy Policy
 - Equinor CEO: Mideast War Reinforces Europe's Energy Reliance on Norway
 - Oil Market Pathways: $80s Likely to Be Supported But Conflict/Inventory-Driven
@@ -71,47 +72,29 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Nvidia’s Upset and the Risks for Oil
 - Refinery Additions Muted But Align With Energy Security Aims
 - Abu Dhabi's XRG Poised for Canada LNG Deal: Sources
-- New Strikes Knock Out Over 60% of Russia’s Refining Capacity
 - US-Led Group Agrees to Acquire Lukoil's International Assets
+- New Strikes Knock Out Over 60% of Russia’s Refining Capacity
 
 ### World Oil
 
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 30
+- Relevant news count: 12
 - Scraping note: OK.
 
-- SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
-- First Oil: Mid-term election results pose new challenge to U.S upstream sector
-- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
-- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
-- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
-- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
-- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
-- SM Energy to sell South Texas assets to Caturus Energy for $950 million
-- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
-- ADNOC Drilling secures five-year, $800 million contract for oilfield services
-- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
-- U.S. shale producers move to boost output as oil surges past $100
-- Continental Resources to boost U.S. oil output as crude tops $100
-- Elevating support technology to enhance energy production
-- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
-- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- U.S.-led consortium agrees to acquire Lukoil's international portfolio in share-swap deal
+- Ibom LNG hires Afreximbank to help raise $1.5 billion for Nigeria LNG project
 - CB&I wins five-year North Sea well delivery, operatorship contract with Serica Energy
-- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- Murphy Oil signs four production sharing contracts offshore Cameroon
-- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
-- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- First Oil: Mid-term election results pose new challenge to U.S upstream sector
 - Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
-- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
-- Water management: Water and oil do mix
-- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
-- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
-- Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
-- Pentagon clears wind projects as Trump courts votes for energy permitting bill
+- NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
+- Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
+- DNV, Wison Engineering sign cooperation agreement on energy project assurance
+- INPEX sanctions next offshore phase of Ichthys LNG
+- FlytBase launches Octane platform to scale oil and gas drone programs
+- Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
 
 ### Oil & Gas Journal
 
@@ -157,29 +140,31 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 7
+- Relevant news count: 10
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
-- Standard Chartered: Oil Needs a New Shock to Fall Further
-- The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil
-- Why Gasoline Prices Are Falling While Diesel Remains Expensive
-- Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks
-- Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade
-- One Crew Member Dies as Diesel Tanker Sinks off Ibiza
-- Oil Prices Rebound as Middle East Supply Fears Return
+- OPEC+ Faces Growing Pressure As Iraq Pushes for Higher Quota
+- The Oil Glut Everyone Expected Is Looking Increasingly Elusive
+- Oil Surge Pushes Indonesia to Mull First Subsidized Fuel Price Hike in Years
+- U.S. Encouraged Iraq and Venezuela to Leave OPEC, Sources Say
+- South Sudan Readies Licensing Round to Boost Oil Production
+- Baghdad Moves to Seize Control of Kurdish Oil and Borders
+- Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says
+- Iraq Boosts Oil Exports to 3.6 Million Barrels per Day
+- China Has More Than Enough Energy to Weather the Winter
+- Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments
 
 ### Rigzone
 
 - Status: active
 - URL: https://www.rigzone.com/
 - HTTP status: 200
-- Relevant news count: 2
+- Relevant news count: 1
 - Scraping note: OK.
 - Source note: Source for drilling, output, and industry news.
 
-- Eldridge Consortium Pens Deal to Acquire Lukoil International
-- OPEC Mulls Sticking with Current Quotas
+- Iran, Turkey Extend Natural Gas Deal
 
 ### Offshore Magazine
 
