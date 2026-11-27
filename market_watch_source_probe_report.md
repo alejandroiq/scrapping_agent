@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-26 19:26 UTC
+Generated: 2026-11-27 02:41 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 16 | OK. |
 | World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 8 | OK. |
+| OilPrice.com | active | 200 | 7 | OK. |
 | Rigzone | active | 200 | 2 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -84,8 +84,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 
 - SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
 - First Oil: Mid-term election results pose new challenge to U.S upstream sector
-- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
 - Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
 - Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
 - Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
 - INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
@@ -96,9 +96,8 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - U.S. shale producers move to boost output as oil surges past $100
 - Continental Resources to boost U.S. oil output as crude tops $100
 - Elevating support technology to enhance energy production
-- TotalEnergies awards Vallourec major tubular supply contract for Absheron gas field
+- BW Energy pulls capex guidance as rig loss stalls Gabon drilling
 - Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
-- Eni begins drilling for Coral North FLNG offshore Mozambique, targets 2028 startup
 - NMC Energy taps eserv digital twin technology for North Sea decommissioning
 - CB&I wins five-year North Sea well delivery, operatorship contract with Serica Energy
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
@@ -110,8 +109,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Water management: Water and oil do mix
 - MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
 - Endurance Energy drills subsea geothermal well, demonstrates net-positive power
-- INPEX sanctions next offshore phase of Ichthys LNG
+- ADNOC signs 10-year LNG deal with India’s Gujarat Energy
 - Shell to sell North West Shelf LNG stake to ADNOC’s XRG for $1.45 billion
+- Pentagon clears wind projects as Trump courts votes for energy permitting bill
 
 ### Oil & Gas Journal
 
@@ -157,18 +157,17 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 8
+- Relevant news count: 7
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
+- Standard Chartered: Oil Needs a New Shock to Fall Further
+- The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil
 - Why Gasoline Prices Are Falling While Diesel Remains Expensive
 - Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks
 - Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade
 - One Crew Member Dies as Diesel Tanker Sinks off Ibiza
 - Oil Prices Rebound as Middle East Supply Fears Return
-- Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz
-- Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks
-- Oil Rallies as Hormuz Mine Strikes Rattle Global Markets
 
 ### Rigzone
 
