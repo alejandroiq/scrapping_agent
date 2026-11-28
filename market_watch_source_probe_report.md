@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-28 02:30 UTC
+Generated: 2026-11-28 17:59 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -12,9 +12,9 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | EIA Today in Energy | active | 200 | 9 | OK. |
 | IEA | excluded from daily report | 403 | 0 | Excluded from live daily report. Reason: Reachable source, but excluded from the live daily report because it often adds broader policy/transition coverage rather than short-cycle crude/products market signal. |
 | Energy Intelligence | active | 200 | 17 | OK. |
-| World Oil | active | 200 | 12 | OK. |
+| World Oil | active | 200 | 30 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 9 | OK. |
+| OilPrice.com | active | 200 | 8 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -80,21 +80,39 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://worldoil.com/
 - HTTP status: 200
-- Relevant news count: 12
+- Relevant news count: 30
 - Scraping note: OK.
 
 - U.S.-led consortium agrees to acquire Lukoil's international portfolio in share-swap deal
 - Ibom LNG hires Afreximbank to help raise $1.5 billion for Nigeria LNG project
 - CB&I wins five-year North Sea well delivery, operatorship contract with Serica Energy
 - First Oil: Mid-term election results pose new challenge to U.S upstream sector
-- SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
-- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
+- Global land rig market to tighten as Middle East, Latin America drive demand, Westwood says
+- Sinopec Geophysical orders 80,000 Sercel land nodes for China exploration
+- Barnett-Woodford emerges as major Midland basin oil target with 6,400 locations
+- Comstock, SOCAR advance $1.65-billion Haynesville partnership with framework agreement
+- INEOS’ U.S. shale ethane supply chain reaches 10-year milestone
+- SM Energy to sell South Texas assets to Caturus Energy for $950 million
+- Interoil exits Argentina conventional assets as operators continue retreat from mature basins
+- ADNOC Drilling secures five-year, $800 million contract for oilfield services
+- BP Prudhoe Bay Royalty Trust offers overriding royalty in prolific Alaska oil field
+- U.S. shale producers move to boost output as oil surges past $100
+- Continental Resources to boost U.S. oil output as crude tops $100
+- Elevating support technology to enhance energy production
+- Energy NL: 2026 bid round is offshore Newfoundland’s most successful in years
+- Harbour Energy raises 2026 production guidance to 500,000 boed after record year
 - NMC Energy taps eserv digital twin technology for North Sea decommissioning
+- SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- INPEX sanctions next offshore phase of Ichthys LNG
-- DNV, Wison Engineering sign cooperation agreement on energy project assurance
-- FlytBase launches Octane platform to scale oil and gas drone programs
-- Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
+- Murphy Oil signs four production sharing contracts offshore Cameroon
+- QatarEnergy to take 25% of Chevron-operated PEL 82 offshore Namibia
+- Murphy Oil expands West Africa exploration with C-10, Tiof blocks offshore Mauritania
+- Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
+- Veolia launches ToroJet™ to advance produced water treatment for oil and gas
+- Water management: Water and oil do mix
+- MYCELX wins contract with Middle East producer to treat water during enhanced oil recovery
+- Aberdeen port chief: North Sea oil and gas activity falling faster, port diversifying
+- Endurance Energy drills subsea geothermal well, demonstrates net-positive power
 
 ### Oil & Gas Journal
 
@@ -140,7 +158,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 9
+- Relevant news count: 8
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -152,7 +170,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Baghdad Moves to Seize Control of Kurdish Oil and Borders
 - Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says
 - Iraq Boosts Oil Exports to 3.6 Million Barrels per Day
-- China Has More Than Enough Energy to Weather the Winter
 
 ### Rigzone
 
