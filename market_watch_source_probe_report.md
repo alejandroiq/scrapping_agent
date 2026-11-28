@@ -1,6 +1,6 @@
 # Market Watch Source Probe
 
-Generated: 2026-11-27 19:22 UTC
+Generated: 2026-11-28 02:30 UTC
 Lookback window: last 7 days
 
 This dummy agent is for GitHub readiness testing only. It does not modify the daily report, publish files, or send email.
@@ -14,7 +14,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 | Energy Intelligence | active | 200 | 17 | OK. |
 | World Oil | active | 200 | 12 | OK. |
 | Oil & Gas Journal | active | 200 | 30 | OK. |
-| OilPrice.com | active | 200 | 10 | OK. |
+| OilPrice.com | active | 200 | 9 | OK. |
 | Rigzone | active | 200 | 1 | OK. |
 | Offshore Magazine | active | 200 | 8 | OK. |
 
@@ -87,12 +87,12 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Ibom LNG hires Afreximbank to help raise $1.5 billion for Nigeria LNG project
 - CB&I wins five-year North Sea well delivery, operatorship contract with Serica Energy
 - First Oil: Mid-term election results pose new challenge to U.S upstream sector
+- SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
 - Amplitude Energy spuds Nestor-1 gas exploration well offshore Australia
 - NMC Energy taps eserv digital twin technology for North Sea decommissioning
-- SCA wins first Brazil contract to supply two 5,000-t carousels for SURF facility
 - Azule Energy’s Greater PAJ project advances as Fugro finishes geophysical survey
-- DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - INPEX sanctions next offshore phase of Ichthys LNG
+- DNV, Wison Engineering sign cooperation agreement on energy project assurance
 - FlytBase launches Octane platform to scale oil and gas drone programs
 - Texas RRC warns of AI-fueled cyber threats to oil and gas infrastructure
 
@@ -140,7 +140,7 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Status: active
 - URL: https://oilprice.com/rss/main
 - HTTP status: 200
-- Relevant news count: 10
+- Relevant news count: 9
 - Scraping note: OK.
 - Source note: RSS source for daily crude and geopolitics coverage.
 
@@ -153,7 +153,6 @@ This dummy agent is for GitHub readiness testing only. It does not modify the da
 - Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says
 - Iraq Boosts Oil Exports to 3.6 Million Barrels per Day
 - China Has More Than Enough Energy to Weather the Winter
-- Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments
 
 ### Rigzone
 
